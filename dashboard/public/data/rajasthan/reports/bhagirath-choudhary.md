@@ -3,24 +3,22 @@
 **Constituency:** Ajmer, Rajasthan
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 69
-**Education:** 12th Pass
 **Report Date:** 2026-09-02
-**Data Confidence:** Low (43%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (37%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 52.8 / 100
+## Composite Transparency Score: 53.0 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 22.7 | 25% |
-| Asset Growth | 60.0 | 15% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 50.0 | 10% |
 | Questions & Debates | 50.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
-| Public Accessibility | 15.0 | 5% |
+| Public Accessibility | 65.0 | 5% |
 | Legislative Effectiveness | 40.0 | 10% |
 
 ---
@@ -38,14 +36,13 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 13.38 Crore
-- **Liabilities:** Rs 54.32 Lakh
-- **Net Worth:** Rs 12.84 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 63% of Lok Sabha MPs
 
 ---
 
@@ -69,37 +66,61 @@
 
 ---
 
+## Public Accessibility
+
+- **Platforms:** 2
+
+
+| Platform | Handle | Verified | Active |
+|----------|--------|----------|--------|
+| Twitter | [@http://www.twitter.com/@mpbhagirathbjp](https://x.com/http://www.twitter.com/@mpbhagirathbjp) | No | Yes |
+| Facebook | [@http://www.facebook.com/bhagirathchoudharybjp](https://facebook.com/http://www.facebook.com/bhagirathchoudharybjp) | No | Yes |
+
+---
+
 ## In The News
 
 *Mixed/neutral coverage (10 articles)*
 
 - **Total Articles:** 10
-- **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
+- **Positive:** 1 | **Negative:** 0 | **Neutral:** 9
 
-- Bhagirath Choudhary, BJP Ajmer MP, sworn in as Union Minister after massive win - India Today (India Today) [neutral]
+- Row over ₹99 lakh subsidy to union minister Bhagirath Choudhary from agriculture ministry, he says ‘nothing hidden' | India News - Hindustan Times (Hindustan Times) [neutral]
+- Union Minister Returned Subsidy He Took For His Farm: Centre Tells Parliament - NDTV (NDTV) [neutral]
+- Union minister returned ₹99-lakh subsidy he took for his cucumber farm: Govt to Parliament | India News - Hindustan Times (Hindustan Times) [neutral]
+- Ajmer MP Bhagirath Choudhary sworn in as minister in Modi govt 3.0 - ThePrint (ThePrint) [neutral]
 - Ajmer election results 2024: BJP's Bhagirath Choudhary defeats Ramchandra Choudhary to win Ajmer Lok Sabh - The Times of India (The Times of India) [neutral]
-- Veteran Congress leader and incumbent BJP MP lock horns in Ajmer - The Hindu (The Hindu) [neutral]
-- 2 BJP Members Of Parliament Mark 100% Attendance In Lok Sabha - NDTV (NDTV) [neutral]
-- PM Modi to address rally in Pushkar today in support of Nagaur, Ajmer LS candidates - The News Minute (The News Minute) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Row over ₹99 lakh subsidy to union minister Bhagirath Choudhary from agriculture ministry, he says ‘nothing hidden' | India News - Hindustan Times** (Hindustan Times)
+- ! **Union Minister Returned Subsidy He Took For His Farm: Centre Tells Parliament - NDTV** (NDTV)
+- ! **Union minister returned ₹99-lakh subsidy he took for his cucumber farm: Govt to Parliament | India News - Hindustan Times** (Hindustan Times)
+- ! **Ajmer MP Bhagirath Choudhary sworn in as minister in Modi govt 3.0 - ThePrint** (ThePrint)
+- ! **Ajmer election results 2024: BJP's Bhagirath Choudhary defeats Ramchandra Choudhary to win Ajmer Lok Sabh - The Times of India** (The Times of India)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
 - [!] **parliament_activity**: Low confidence in parliament activity data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Rajasthan: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Bhagirath Choudhary shows moderate transparency with a score of 52.8/100. No criminal cases declared. Low MPLADS fund utilization needs attention.
+Bhagirath Choudhary shows moderate transparency with a score of 53.0/100. No criminal cases declared. Low MPLADS fund utilization needs attention.
 
 ---
 
-No criminal cases declared. Declared assets: Rs 133,811,555. MPLADS utilization: 28.4%. Low confidence data: Parliament activity. 1 warning(s) noted.
+No criminal cases declared. MPLADS utilization: 28.4%. Low confidence data: Assets, Parliament activity. 2 warning(s) noted.
 
 ---
 
@@ -139,7 +160,7 @@ No criminal cases declared. Declared assets: Rs 133,811,555. MPLADS utilization:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -237,12 +258,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

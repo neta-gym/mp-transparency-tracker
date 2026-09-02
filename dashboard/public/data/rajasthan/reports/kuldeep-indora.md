@@ -3,24 +3,22 @@
 **Constituency:** Ganganagar, Rajasthan
 **Party:** Indian National Congress
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 54
-**Education:** Post Graduate
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (44%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 56.8 / 100
+## Composite Transparency Score: 58.8 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 3.8 | 25% |
-| Asset Growth | 55.0 | 15% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 100.0 | 10% |
 | Questions & Debates | 60.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
-| Public Accessibility | 15.0 | 5% |
+| Public Accessibility | 85.0 | 5% |
 | Legislative Effectiveness | 40.0 | 10% |
 
 ---
@@ -38,14 +36,13 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 13.72 Crore
-- **Liabilities:** Rs 1.75 Crore
-- **Net Worth:** Rs 11.97 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 64% of Lok Sabha MPs
 
 ---
 
@@ -69,37 +66,62 @@
 
 ---
 
+## Public Accessibility
+
+- **Platforms:** 3
+
+
+| Platform | Handle | Verified | Active |
+|----------|--------|----------|--------|
+| Twitter | [@https://x.com/kuldipindorainc?lang=en](https://x.com/https://x.com/kuldipindorainc?lang=en) | No | Yes |
+| Facebook | [@https://www.facebook.com/kuldeep.indora.58](https://facebook.com/https://www.facebook.com/kuldeep.indora.58) | No | Yes |
+| Instagram | [@https://www.instagram.com/kuldeepindoracongress/p/C548S6JvfT7/](https://instagram.com/https://www.instagram.com/kuldeepindoracongress/p/C548S6JvfT7/) | No | Yes |
+
+---
+
 ## In The News
 
-*Mixed/neutral coverage (9 articles)*
+*Mixed/neutral coverage (10 articles)*
 
-- **Total Articles:** 9
-- **Positive:** 0 | **Negative:** 1 | **Neutral:** 8
+- **Total Articles:** 10
+- **Positive:** 0 | **Negative:** 1 | **Neutral:** 9
 
-- Ganganagar MP meets Union minister over proposed ethanol factory in Hanumangarh - The Times of India (The Times of India) [neutral]
 - CID-CB initiates probe against Sangaria MLA, Sri Ganganagar MP over violence at Hanumangarh ethanol plant protest - The New Indian Express (The New Indian Express) [negative]
-- Ganganagar (SC) election results 2024: Congress's Kuldeep Indora secures win from Lok Sabha constituency - The Times of India (The Times of India) [neutral]
-- Ganganagar(SC) lok sabha election results 2024: Ganganagar(SC) Winning Candidates List and Vote Share - India Today (India Today) [neutral]
-- Parliament of India : Lok Sabha Member of Parliament – J - Sarkaritel.com (Sarkaritel.com) [neutral]
+- Parliament Of India : Lok Sabha Member Of Parliament - J - Sarkaritel.com (Sarkaritel.com) [neutral]
+- Report card of 25 Rajasthan MPs: Receives ₹5 cr annually; most spend only a fraction; one spends nothing - bhaskarenglish.in (bhaskarenglish.in) [neutral]
+- Rajasthan: Construction of plant billed ‘Asia’s largest ethanol project’ halted in Hanumangarh after violent protests - Down To Earth (Down To Earth) [neutral]
+- Water pollution in Rajasthan canals comes from Punjab, minister tells Lok Sabha - The Times of India (The Times of India) [neutral]
+
+---
+
+## News & Allegations
+
+- !! **CID-CB initiates probe against Sangaria MLA, Sri Ganganagar MP over violence at Hanumangarh ethanol plant protest - The New Indian Express** (The New Indian Express)
+- ! **Parliament Of India : Lok Sabha Member Of Parliament - J - Sarkaritel.com** (Sarkaritel.com)
+- ! **Report card of 25 Rajasthan MPs: Receives ₹5 cr annually; most spend only a fraction; one spends nothing - bhaskarenglish.in** (bhaskarenglish.in)
+- ! **Rajasthan: Construction of plant billed ‘Asia’s largest ethanol project’ halted in Hanumangarh after violent protests - Down To Earth** (Down To Earth)
+- ! **Water pollution in Rajasthan canals comes from Punjab, minister tells Lok Sabha - The Times of India** (The Times of India)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
 - [!] **mplads**: Extremely low utilization rate — verify data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Rajasthan: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Kuldeep Indora shows moderate transparency with a score of 56.8/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Kuldeep Indora shows moderate transparency with a score of 58.8/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-No criminal cases declared. Declared assets: Rs 137,189,112. MPLADS utilization: 4.8%. Parliament attendance: 100.0%. Questions asked: 27. Debates participated: 6. 1 warning(s) noted.
+No criminal cases declared. MPLADS utilization: 4.8%. Parliament attendance: 100.0%. Questions asked: 27. Debates participated: 6. Low confidence data: Assets. 2 warning(s) noted.
 
 ---
 
@@ -139,7 +161,7 @@ No criminal cases declared. Declared assets: Rs 137,189,112. MPLADS utilization:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -237,12 +259,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

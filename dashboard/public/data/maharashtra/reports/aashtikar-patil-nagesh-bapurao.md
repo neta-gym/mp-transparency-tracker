@@ -1,27 +1,27 @@
 # Aashtikar Patil Nagesh Bapurao — Transparency Report
 
 **Constituency:** Hingoli, Maharashtra
-**Party:** Shiv Sena (Uddhav Balasaheb Thackrey)
+**Party:** Shiv Sena
 **House:** Lok Sabha (18th Parliament, 2024-present)
 **Age:** 52
 **Education:** Graduate
 **Profession:** Agriculture And Business
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Medium (56%) | **Evidence Grade:** Third-party (C)
 
 ---
 
-## Composite Transparency Score: 52.3 / 100
+## Composite Transparency Score: 60.3 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 21.3 | 25% |
-| Asset Growth | 55.0 | 15% |
+| Asset Growth | 85.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 60.0 | 10% |
 | Questions & Debates | 40.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
-| Public Accessibility | 15.0 | 5% |
+| Public Accessibility | 85.0 | 5% |
 | Legislative Effectiveness | 40.0 | 10% |
 
 ---
@@ -39,14 +39,14 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
+- **Movable Assets:** Rs 1.66 Crore
+- **Immovable Assets:** Rs 6.40 Crore
 - **Total Assets:** Rs 8.06 Crore
 - **Liabilities:** Rs 88.67 Lakh
 - **Net Worth:** Rs 7.17 Crore
-- **Previous Total Assets:** N/A
-- **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 52% of Lok Sabha MPs
+- **Previous Total Assets:** Rs 545896785.00 Crore
+- **Asset Growth:** -100.0%
+- **Wealth Percentile:** Wealthier than 51% of Lok Sabha MPs
 
 ---
 
@@ -70,6 +70,20 @@
 
 ---
 
+## Public Accessibility
+
+- **Platforms:** 4
+
+
+| Platform | Handle | Verified | Active |
+|----------|--------|----------|--------|
+| Twitter | [@share](https://twitter.com/share) | No | Yes |
+| Facebook | [@sharer](https://www.facebook.com/sharer) | No | Yes |
+| Instagram | [@adrspeaks](https://www.instagram.com/adrspeaks) | No | Yes |
+| Youtube | [@adrspeaks](https://www.youtube.com/user/adrspeaks) | No | Yes |
+
+---
+
 ## In The News
 
 *Mixed/neutral coverage (10 articles)*
@@ -77,11 +91,21 @@
 - **Total Articles:** 10
 - **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
 
+- Data reveals funds allotted to defected Shiv Sena MPs remained unutilised - The New Indian Express (The New Indian Express) [neutral]
+- Will Marathwada's 3 Uddhav Sena MPs switch sides? - Rediff (Rediff) [neutral]
 - Hingoli election results 2024 live updates: Aashtikar Patil Nagesh Bapurao of Shiv Sena (UBT) wins - The Times of India (The Times of India) [neutral]
-- ShivSena (Uddhav Balasaheb Thackeray) - The Hindu (The Hindu) [neutral]
-- Hingoli Election Result 2024 LIVE Updates Highlights: Aashtikar Patil Nagesh Bapurao of SSUBT Wins - News18 (News18) [neutral]
-- Maharashtra Lok Sabha 2024 Winner Candidates List: Check who's leading your constituency here - CNBC TV18 (CNBC TV18) [neutral]
-- Maharashtra Lok Sabha Election Winners List 2024 - financialexpress.com (financialexpress.com) [neutral]
+- Aashtikar Patil Nagesh Bapurao - The Hindu (The Hindu) [neutral]
+- ‘No point in staying in Uddhav Sena’: Shinde faction gets crucial sixth MP - The Indian Express (The Indian Express) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Data reveals funds allotted to defected Shiv Sena MPs remained unutilised - The New Indian Express** (The New Indian Express)
+- ! **Will Marathwada's 3 Uddhav Sena MPs switch sides? - Rediff** (Rediff)
+- ! **Hingoli election results 2024 live updates: Aashtikar Patil Nagesh Bapurao of Shiv Sena (UBT) wins - The Times of India** (The Times of India)
+- ! **Aashtikar Patil Nagesh Bapurao - The Hindu** (The Hindu)
+- ! **‘No point in staying in Uddhav Sena’: Shinde faction gets crucial sixth MP - The Indian Express** (The Indian Express)
 
 ---
 
@@ -95,7 +119,7 @@
 
 ## Qualitative Assessment
 
-Aashtikar Patil Nagesh Bapurao shows moderate transparency with a score of 52.3/100. No criminal cases declared. Low MPLADS fund utilization needs attention.
+Aashtikar Patil Nagesh Bapurao shows moderate transparency with a score of 60.3/100. No criminal cases declared. Low MPLADS fund utilization needs attention.
 
 ---
 
@@ -139,7 +163,7 @@ No criminal cases declared. Declared assets: Rs 80,585,824. MPLADS utilization: 
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -238,11 +262,12 @@ Time limit: PIO must respond within 30 days of receipt.
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
 | Assets | myneta | Official (B) |
+| Committees | sansad | LLM/Estimated (E) |
 | Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: myneta, prs, social_media, news, mplads*
+*Sources consulted: myneta, prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

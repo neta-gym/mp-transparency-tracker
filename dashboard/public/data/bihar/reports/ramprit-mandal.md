@@ -3,24 +3,22 @@
 **Constituency:** Jhanjharpur, Bihar
 **Party:** Janata Dal (United)
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 68
-**Education:** 10th Pass
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (44%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 65.7 / 100
+## Composite Transparency Score: 65.9 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 59.6 | 25% |
-| Asset Growth | 60.0 | 15% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 80.0 | 10% |
 | Questions & Debates | 60.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
-| Public Accessibility | 15.0 | 5% |
+| Public Accessibility | 65.0 | 5% |
 | Legislative Effectiveness | 40.0 | 10% |
 
 ---
@@ -38,14 +36,13 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 10.60 Crore
-- **Liabilities:** Rs 4.27 Lakh
-- **Net Worth:** Rs 10.56 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 59% of Lok Sabha MPs
 
 ---
 
@@ -69,6 +66,18 @@
 
 ---
 
+## Public Accessibility
+
+- **Platforms:** 2
+
+
+| Platform | Handle | Verified | Active |
+|----------|--------|----------|--------|
+| Twitter | [@https://x.com/i/flow/login?redirect_after_login=%2Frpmandalmp1](https://x.com/https://x.com/i/flow/login?redirect_after_login=%2Frpmandalmp1) | No | Yes |
+| Facebook | [@https://www.facebook.com/p/MP-Ramprit-Mandal-100067359046941/](https://facebook.com/https://www.facebook.com/p/MP-Ramprit-Mandal-100067359046941/) | No | Yes |
+
+---
+
 ## In The News
 
 *Mixed/neutral coverage (10 articles)*
@@ -78,27 +87,39 @@
 
 - Jhanjharpur lok sabha election results 2024: Jhanjharpur Winning Candidates List and Vote Share - India Today (India Today) [neutral]
 - Triangular contest on cards in Jhanjharpur Lok Sabha seat in Bihar - The Times of India (The Times of India) [neutral]
-- Ramprit Mandal: Age, Biography, Education, Wife, Caste, Net Worth & More - Oneindia (Oneindia) [neutral]
-- BSP factor, RJD rebel puzzle big players in Bihar - The New Indian Express (The New Indian Express) [neutral]
-- Ramprit Mandal , JD(U) candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details. - The Hindu (The Hindu) [neutral]
+- JD(U) Has No Bargaining Power In NDA? Modi Government Rejects Bihar's Demand For Special Status - Swarajya (Swarajya) [neutral]
+- Debutants VS war horses in Bihar battle - The New Indian Express (The New Indian Express) [neutral]
+- 'Case not made out ... ': Centre cites 2012 report on Bihar's demand for 'special category status'; RJD t - The Times of India (The Times of India) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Jhanjharpur lok sabha election results 2024: Jhanjharpur Winning Candidates List and Vote Share - India Today** (India Today)
+- ! **Triangular contest on cards in Jhanjharpur Lok Sabha seat in Bihar - The Times of India** (The Times of India)
+- ! **JD(U) Has No Bargaining Power In NDA? Modi Government Rejects Bihar's Demand For Special Status - Swarajya** (Swarajya)
+- ! **Debutants VS war horses in Bihar battle - The New Indian Express** (The New Indian Express)
+- ! **'Case not made out ... ': Centre cites 2012 report on Bihar's demand for 'special category status'; RJD t - The Times of India** (The Times of India)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Bihar: 8 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Ramprit Mandal shows moderate transparency with a score of 65.7/100. No criminal cases declared. High parliament attendance. Active in questions and debates.
+Ramprit Mandal shows moderate transparency with a score of 65.9/100. No criminal cases declared. High parliament attendance. Active in questions and debates.
 
 ---
 
-No criminal cases declared. Declared assets: Rs 105,978,772. MPLADS utilization: 63.1%. Parliament attendance: 80.0%. Questions asked: 19. Debates participated: 5.
+No criminal cases declared. MPLADS utilization: 63.1%. Parliament attendance: 80.0%. Questions asked: 19. Debates participated: 5. Low confidence data: Assets. 1 warning(s) noted.
 
 ---
 
@@ -138,7 +159,7 @@ No criminal cases declared. Declared assets: Rs 105,978,772. MPLADS utilization:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -236,12 +257,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

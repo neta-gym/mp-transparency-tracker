@@ -3,19 +3,17 @@
 **Constituency:** Udaipur, Rajasthan
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 52
-**Education:** Doctorate
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (37%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 61.3 / 100
+## Composite Transparency Score: 59.1 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 17.9 | 25% |
-| Asset Growth | 60.0 | 15% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 100.0 | 10% |
 | Questions & Debates | 70.0 | 10% |
@@ -38,14 +36,13 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 2.71 Crore
-- **Liabilities:** Rs 2.42 Lakh
-- **Net Worth:** Rs 2.69 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 24% of Lok Sabha MPs
 
 ---
 
@@ -74,31 +71,43 @@
 *Mixed/neutral coverage (10 articles)*
 
 - **Total Articles:** 10
-- **Positive:** 0 | **Negative:** 1 | **Neutral:** 9
+- **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
 
+- BJP MP Manna Lal Rawat Gets Election Notice Despite Leaving Government Service Over 2 Years Ago - ETV Bharat (ETV Bharat) [neutral]
+- Who Is Manna Lal Rawat? The First-Time MP Now Leading BJP's Tribal Wing - Outlook India (Outlook India) [neutral]
 - A video showing a clash between two MPs in Rajasthan is falsely shared as a fight between an MP and a District Magistrate - FACTLY (FACTLY) [neutral]
 - BJP MP alleges slap attempt and death threat: BAP MP counters claims Mannalal Rawat is provoking tensions a... - Bhaskar English (Bhaskar English) [neutral]
-- Rajasthan Removes Four Class 9-12 Books After MP Rawat Objection - UdaipurTimes.com (UdaipurTimes.com) [neutral]
-- Udaipur passport centre to get PSP V 2.0 upgrade: MP Manna Lal Rawat raises issue in Parliament; Minister K... - Bhaskar English (Bhaskar English) [neutral]
-- Call for Extension of Udaipur–Ratlam Train to Bhopal - UdaipurTimes.com (UdaipurTimes.com) [neutral]
+- Heated exchange between BJP MP and BAP MLA in Dungarpur - The Times of India (The Times of India) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **BJP MP Manna Lal Rawat Gets Election Notice Despite Leaving Government Service Over 2 Years Ago - ETV Bharat** (ETV Bharat)
+- ! **Who Is Manna Lal Rawat? The First-Time MP Now Leading BJP's Tribal Wing - Outlook India** (Outlook India)
+- ! **A video showing a clash between two MPs in Rajasthan is falsely shared as a fight between an MP and a District Magistrate - FACTLY** (FACTLY)
+- ! **BJP MP alleges slap attempt and death threat: BAP MP counters claims Mannalal Rawat is provoking tensions a... - Bhaskar English** (Bhaskar English)
+- ! **Heated exchange between BJP MP and BAP MLA in Dungarpur - The Times of India** (The Times of India)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Rajasthan: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Manna Lal Rawat shows moderate transparency with a score of 61.3/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Manna Lal Rawat shows moderate transparency with a score of 59.1/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-No criminal cases declared. Declared assets: Rs 27,125,206. MPLADS utilization: 22.4%. Parliament attendance: 100.0%. Questions asked: 34. Debates participated: 7.
+No criminal cases declared. MPLADS utilization: 22.4%. Parliament attendance: 100.0%. Questions asked: 34. Debates participated: 7. Low confidence data: Assets. 1 warning(s) noted.
 
 ---
 
@@ -138,7 +147,7 @@ No criminal cases declared. Declared assets: Rs 27,125,206. MPLADS utilization: 
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -236,12 +245,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

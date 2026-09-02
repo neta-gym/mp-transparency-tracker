@@ -3,24 +3,22 @@
 **Constituency:** Bhavnagar, Gujarat
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 57
-**Education:** Graduate Professional
 **Report Date:** 2026-09-02
-**Data Confidence:** Low (43%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (37%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 49.9 / 100
+## Composite Transparency Score: 51.9 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 12.1 | 25% |
-| Asset Growth | 55.0 | 15% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 50.0 | 10% |
 | Questions & Debates | 50.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
-| Public Accessibility | 15.0 | 5% |
+| Public Accessibility | 85.0 | 5% |
 | Legislative Effectiveness | 40.0 | 10% |
 
 ---
@@ -38,14 +36,13 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 2.61 Crore
-- **Liabilities:** Rs 58.29 Lakh
-- **Net Worth:** Rs 2.03 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 23% of Lok Sabha MPs
 
 ---
 
@@ -69,37 +66,56 @@
 
 ---
 
+## Public Accessibility
+
+- **Platforms:** 3
+
+
+| Platform | Handle | Verified | Active |
+|----------|--------|----------|--------|
+| Twitter | [@@Nimu_Bambhania](https://x.com/@Nimu_Bambhania) | No | Yes |
+| Facebook | [@@nimubn.bambhania](https://facebook.com/@nimubn.bambhania) | No | Yes |
+| Instagram | [@nimuben_bambhania](https://instagram.com/nimuben_bambhania) | No | Yes |
+
+---
+
 ## In The News
 
-*Mixed/neutral coverage (10 articles)*
+*Mixed/neutral coverage (2 articles)*
 
-- **Total Articles:** 10
-- **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
+- **Total Articles:** 2
+- **Positive:** 0 | **Negative:** 0 | **Neutral:** 2
 
 - CSIR-CSMCRI's role in advancing research and supporting national priorities is commendable: Nimuben Bambhania - PIB (PIB) [neutral]
-- Political Profile of Nimuben Jayantibhai Bambhaniya (nimuben Bambhaniya), Bjp Party, Bhavnagar, and Net Worth - India TV News (India TV News) [neutral]
-- Nimuben Jayantibhai Bambhaniya: Age, Biography, Education, Husband, Caste, Net Worth & More - Oneindia (Oneindia) [neutral]
-- Bhavnagar Election Result 2024 LIVE Updates Highlights: Nimuben Jayantibhai Bambhaniya (Nimuben Bambhaniya) - News18 (News18) [neutral]
 - Modi 3.0: From Amit Shah to Nimuben Bambhaniya, here are the four ministers from Gujarat - Firstpost (Firstpost) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **CSIR-CSMCRI's role in advancing research and supporting national priorities is commendable: Nimuben Bambhania - PIB** (PIB)
+- ! **Modi 3.0: From Amit Shah to Nimuben Bambhaniya, here are the four ministers from Gujarat - Firstpost** (Firstpost)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
 - [!] **parliament_activity**: Low confidence in parliament activity data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Gujarat: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Nimuben Jayantibhai Bambhaniya has a below-average transparency score of 49.9/100, indicating significant room for improvement. No criminal cases declared. Low MPLADS fund utilization needs attention.
+Nimuben Jayantibhai Bambhaniya shows moderate transparency with a score of 51.9/100. No criminal cases declared. Low MPLADS fund utilization needs attention.
 
 ---
 
-No criminal cases declared. Declared assets: Rs 26,115,193. MPLADS utilization: 15.2%. Low confidence data: Parliament activity. 1 warning(s) noted.
+No criminal cases declared. MPLADS utilization: 15.2%. Low confidence data: Assets, Parliament activity. 2 warning(s) noted.
 
 ---
 
@@ -139,7 +155,7 @@ No criminal cases declared. Declared assets: Rs 26,115,193. MPLADS utilization: 
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -237,12 +253,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

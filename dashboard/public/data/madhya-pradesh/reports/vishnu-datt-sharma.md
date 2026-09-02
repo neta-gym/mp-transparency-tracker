@@ -3,24 +3,22 @@
 **Constituency:** Khajuraho, Madhya Pradesh
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 54
-**Education:** Post Graduate
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (46%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 47.3 / 100
+## Composite Transparency Score: 49.0 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 3.8 | 25% |
-| Asset Growth | 50.0 | 15% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 90.0 | 15% |
 | Parliament Attendance | 55.0 | 10% |
 | Questions & Debates | 60.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
-| Public Accessibility | 15.0 | 5% |
+| Public Accessibility | 65.0 | 5% |
 | Legislative Effectiveness | 40.0 | 10% |
 
 ---
@@ -34,18 +32,21 @@
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
+### Cases Detail
+
+1. No description (Sections: 499, 500, 34) [pending] 
+
 ---
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 4.93 Crore
-- **Liabilities:** Rs 1.84 Crore
-- **Net Worth:** Rs 3.08 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 39% of Lok Sabha MPs
 
 ---
 
@@ -69,37 +70,61 @@
 
 ---
 
+## Public Accessibility
+
+- **Platforms:** 2
+
+
+| Platform | Handle | Verified | Active |
+|----------|--------|----------|--------|
+| Twitter | [@http://www.twitter.com/VDSharmaBJP](https://x.com/http://www.twitter.com/VDSharmaBJP) | No | Yes |
+| Facebook | [@http://www.facebook.com/VDSharmaBJPMP](https://facebook.com/http://www.facebook.com/VDSharmaBJPMP) | No | Yes |
+
+---
+
 ## In The News
 
-*Mixed/neutral coverage (7 articles)*
+*Mixed/neutral coverage (10 articles)*
 
-- **Total Articles:** 7
-- **Positive:** 0 | **Negative:** 0 | **Neutral:** 7
+- **Total Articles:** 10
+- **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
 
-- Who Is Vishnu Dutt Sharma? Man Who Re-Engineered BJPs Grassroot Connect For Historic Mandate In Madhya Pradesh - Zee News (Zee News) [neutral]
-- Vishnu Datt Sharma: Age, Biography, Education, Wife, Caste, Net Worth & More - Oneindia (Oneindia) [neutral]
-- Khajuraho Election Result 2024 LIVE Updates Highlights: Vishnu Datt Sharma (V D Sharma) of BJP Wins - News18 (News18) [neutral]
-- Khajuraho lok sabha election results 2024: Khajuraho Winning Candidates List and Vote Share - India Today (India Today) [neutral]
-- Lok Sabha elections 2019: In Khajuraho, it's 'daughter-in-law' vs 'son-in-law' - The New Indian Express (The New Indian Express) [neutral]
+- 8 MP leaders get key posts in BJP national executive: Lal Singh Arya named vice-president, Gajendra Patel g... - Bhaskar English (Bhaskar English) [neutral]
+- Vishnu Dutt Sharma Appointed New Chief Of BJP's Madhya Pradesh Unit - NDTV (NDTV) [neutral]
+- Can V.D. Sharma, BJP's organisational specialist, ace his second test in MP? - India Today (India Today) [neutral]
+- First direct flight between Delhi-Khajuraho under RCS-UDAN flagged off - PIB (PIB) [neutral]
+- RSS man to head BJP unit in MP - The Asian Age (The Asian Age) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **8 MP leaders get key posts in BJP national executive: Lal Singh Arya named vice-president, Gajendra Patel g... - Bhaskar English** (Bhaskar English)
+- ! **Vishnu Dutt Sharma Appointed New Chief Of BJP's Madhya Pradesh Unit - NDTV** (NDTV)
+- ! **Can V.D. Sharma, BJP's organisational specialist, ace his second test in MP? - India Today** (India Today)
+- ! **First direct flight between Delhi-Khajuraho under RCS-UDAN flagged off - PIB** (PIB)
+- ! **RSS man to head BJP unit in MP - The Asian Age** (The Asian Age)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
 - [!] **mplads**: Extremely low utilization rate — verify data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Madhya Pradesh: 8 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Vishnu Datt Sharma has a below-average transparency score of 47.3/100, indicating significant room for improvement. Minor criminal cases on record. Low MPLADS fund utilization needs attention. Active in questions and debates.
+Vishnu Datt Sharma has a below-average transparency score of 49.0/100, indicating significant room for improvement. Minor criminal cases on record. Low MPLADS fund utilization needs attention. Active in questions and debates.
 
 ---
 
-Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Declared assets: Rs 49,262,858. MPLADS utilization: 4.7%. Parliament attendance: 55.0%. Questions asked: 42. Debates participated: 2. 1 warning(s) noted.
+Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). MPLADS utilization: 4.7%. Parliament attendance: 55.0%. Questions asked: 42. Debates participated: 2. Low confidence data: Assets. 2 warning(s) noted.
 
 ---
 
@@ -139,7 +164,7 @@ Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Declared assets:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -237,12 +262,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

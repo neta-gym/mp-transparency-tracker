@@ -3,19 +3,17 @@
 **Constituency:** Hardoi, Uttar Pradesh
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 66
-**Education:** Graduate
 **Report Date:** 2026-09-02
-**Data Confidence:** Low (49%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (37%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 61.1 / 100
+## Composite Transparency Score: 59.6 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 49.1 | 25% |
-| Asset Growth | 55.0 | 15% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 75.0 | 10% |
 | Questions & Debates | 50.0 | 10% |
@@ -40,12 +38,11 @@
 
 - **Movable Assets:** N/A
 - **Immovable Assets:** N/A
-- **Total Assets:** Rs 30.40 Crore
-- **Liabilities:** Rs 5.25 Crore
-- **Net Worth:** Rs 25.15 Crore
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 78% of Lok Sabha MPs
 
 ---
 
@@ -76,29 +73,41 @@
 - **Total Articles:** 10
 - **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
 
-- BJP MLA Faces Backlash After ‘Worship Modi-Yogi, Not Stones’ Comment TMC Calls It ‘Dangerous’ - ABP News (ABP News) [neutral]
-- Political Profile of Jai Prakash, Bjp Party, Hardoi, and Net Worth - India TV News (India TV News) [neutral]
-- In Hisar win, JP beats 3 Chautalas - The Times of India (The Times of India) [neutral]
-- Hardoi Election Result 2024 LIVE Updates Highlights: Jai Prakash of BJP Wins - News18 (News18) [neutral]
+- Hardoi MP Anshul Verma quits BJP to join Samajwadi Party, submits resignation to watchman - The New Indian Express (The New Indian Express) [neutral]
 - Hardoi lok sabha election results 2024: Hardoi Winning Candidates List and Vote Share - India Today (India Today) [neutral]
+- How UP caste dynamics explain BJP’s ministerial picks from the state - The Indian Express (The Indian Express) [neutral]
+- Hardoi Election Result 2024 LIVE Updates Highlights: Jai Prakash of BJP Wins - News18 (News18) [neutral]
+- Parliament Of India : Lok Sabha Member Of Parliament – P - Sarkaritel.com (Sarkaritel.com) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Hardoi MP Anshul Verma quits BJP to join Samajwadi Party, submits resignation to watchman - The New Indian Express** (The New Indian Express)
+- ! **Hardoi lok sabha election results 2024: Hardoi Winning Candidates List and Vote Share - India Today** (India Today)
+- ! **How UP caste dynamics explain BJP’s ministerial picks from the state - The Indian Express** (The Indian Express)
+- ! **Hardoi Election Result 2024 LIVE Updates Highlights: Jai Prakash of BJP Wins - News18** (News18)
+- ! **Parliament Of India : Lok Sabha Member Of Parliament – P - Sarkaritel.com** (Sarkaritel.com)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Uttar Pradesh: 8 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Jai Prakash shows moderate transparency with a score of 61.1/100. No criminal cases declared.
+Jai Prakash shows moderate transparency with a score of 59.6/100. No criminal cases declared.
 
 ---
 
-No criminal cases declared. Declared assets: Rs 303,974,608. MPLADS utilization: 56.1%. Parliament attendance: 75.0%. Questions asked: 19. Debates participated: 3.
+No criminal cases declared. MPLADS utilization: 56.1%. Parliament attendance: 75.0%. Questions asked: 19. Debates participated: 3. Low confidence data: Assets. 1 warning(s) noted.
 
 ---
 
@@ -138,7 +147,7 @@ No criminal cases declared. Declared assets: Rs 303,974,608. MPLADS utilization:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -236,12 +245,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

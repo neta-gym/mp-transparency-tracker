@@ -3,20 +3,18 @@
 **Constituency:** Nagarkurnool, Telangana
 **Party:** Indian National Congress
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 73
-**Education:** Graduate Professional
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (39%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 47.1 / 100
+## Composite Transparency Score: 38.8 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 24.1 | 25% |
-| Asset Growth | 60.0 | 15% |
-| Criminal Record | 40.0 | 15% |
+| Asset Growth | 45.0 | 15% |
+| Criminal Record | 10.0 | 15% |
 | Parliament Attendance | 90.0 | 10% |
 | Questions & Debates | 50.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
@@ -28,24 +26,32 @@
 ## Criminal Record
 
 - **Total Cases:** 6
-- **Serious Cases:** 0
-- **Convictions:** 0
-- **Pending Cases:** 6
+- **Serious Cases:** 1
+- **Convictions:** 1
+- **Pending Cases:** 5
 - **Disposed Cases:** 0
 - **Data Source:** myneta
+
+### Cases Detail
+
+1. 290/2022, Dt-16.06.2022, PS Punjagutta Telangana | Section 3 of PDPP Act. (Sections: 143, 145, 147, 149, 120B, 341, 336, 427, 435, 152, 153, 353, 506) [pending] **SERIOUS**
+2. 38/2021, Dt 19.01.2021, P S Saifabad, Telangana (Sections: 143, 147, 341, 290, 149) [pending] 
+3. 1243/2021, Dt-02.10.2021, PS L.B Nagar Telangana | Section 7 CLA-1952 (Sections: 147, 148, 332, 188, 149) [pending] 
+4. 285/2017, Dt-28.08.2017, PS Jadcherla, TS (Sections: 332, 34) [pending] 
+5. Cr. No. 268/2011, dt-13.05.2013, Ps Jadcherla, TS | Section 3 of PDPP Act (Sections: 143, 353, 379, 332, 323, 324, 224, 506, 427, 153A, 149) [pending] 
+6. No description (Sections: 285, 186) [convicted] 
 
 ---
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 52.32 Crore
-- **Liabilities:** Rs 4.79 Crore
-- **Net Worth:** Rs 47.53 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 85% of Lok Sabha MPs
 
 ---
 
@@ -76,29 +82,41 @@
 - **Total Articles:** 10
 - **Positive:** 0 | **Negative:** 1 | **Neutral:** 9
 
-- Congress MP Mallu Ravi defends Bandi Sanjay in POCSO case involving son - Telangana Today (Telangana Today) [neutral]
-- Ensure we safeguard the ‘Gadwal’ brand: Mallu Ravi - The Hans India (The Hans India) [neutral]
-- BJP, Congress leaders play down POCSO case against Bandi Bageerath - The Siasat Daily (The Siasat Daily) [neutral]
-- Enact central legislation recognizing domestic workers as workers: Nagarkurnool MP urges Centre - The Hindu (The Hindu) [neutral]
-- "No caste issue in this," says Congress' Mallu Ravi on Nagarkurnool toddler death - ANI News (ANI News) [neutral]
+- Mallu Ravi urges early sanction of Dornakal-Gadwal rail line - The Hindu (The Hindu) [neutral]
+- K Chandrasekhar Rao is the real betrayer of Telangana, says Nagarkurnool MP Mallu Ravi - The New Indian Express (The New Indian Express) [neutral]
+- Congress MP backs Mahesh Kumar Goud - Telangana Today (Telangana Today) [neutral]
+- Congress MP Mallu Ravi urges Centre to approve Dornakal–Gadwal rail line - The Siasat Daily (The Siasat Daily) [neutral]
+- ‘Delete remarks, apologise’: Congress MPs protest at Parliament over Tejasvi Surya’s remarks on Telangana formation - NewsMeter (NewsMeter) [negative]
+
+---
+
+## News & Allegations
+
+- ! **Mallu Ravi urges early sanction of Dornakal-Gadwal rail line - The Hindu** (The Hindu)
+- ! **K Chandrasekhar Rao is the real betrayer of Telangana, says Nagarkurnool MP Mallu Ravi - The New Indian Express** (The New Indian Express)
+- ! **Congress MP backs Mahesh Kumar Goud - Telangana Today** (Telangana Today)
+- ! **Congress MP Mallu Ravi urges Centre to approve Dornakal–Gadwal rail line - The Siasat Daily** (The Siasat Daily)
+- !! **‘Delete remarks, apologise’: Congress MPs protest at Parliament over Tejasvi Surya’s remarks on Telangana formation - NewsMeter** (NewsMeter)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Telangana: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Mallu Ravi has a below-average transparency score of 47.1/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance.
+Mallu Ravi has a below-average transparency score of 38.8/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance.
 
 ---
 
-Has 6 criminal case(s) (0 serious), 6 pending, 0 conviction(s). Declared assets: Rs 523,215,816. MPLADS utilization: 30.1%. Parliament attendance: 90.0%. Questions asked: 8. Debates participated: 5.
+Has 6 criminal case(s) (1 serious), 5 pending, 1 conviction(s). MPLADS utilization: 30.1%. Parliament attendance: 90.0%. Questions asked: 8. Debates participated: 5. Low confidence data: Assets. 1 warning(s) noted.
 
 ---
 
@@ -138,7 +156,7 @@ Has 6 criminal case(s) (0 serious), 6 pending, 0 conviction(s). Declared assets:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -236,12 +254,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

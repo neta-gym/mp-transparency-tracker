@@ -3,24 +3,22 @@
 **Constituency:** Darjeeling, West Bengal
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 38
-**Education:** Graduate
 **Report Date:** 2026-09-02
-**Data Confidence:** Low (49%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (46%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 53.5 / 100
+## Composite Transparency Score: 54.8 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 21.5 | 25% |
-| Asset Growth | 60.0 | 15% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 80.0 | 15% |
 | Parliament Attendance | 70.0 | 10% |
 | Questions & Debates | 70.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
-| Public Accessibility | 15.0 | 5% |
+| Public Accessibility | 85.0 | 5% |
 | Legislative Effectiveness | 40.0 | 10% |
 
 ---
@@ -34,18 +32,22 @@
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
+### Cases Detail
+
+1. 95/2020, Date 05-04-2020 Police Station Entally Kolkata (Sections: 505(1)B, 153, 166) [pending] 
+2. 200/2022, Police Station Civil Lines | Sections 3 PDPP Act. (Sections: 143, 147, 149, 186, 188, 332, 353) [pending] 
+
 ---
 
 ## Asset Declaration
 
 - **Movable Assets:** N/A
 - **Immovable Assets:** N/A
-- **Total Assets:** Rs 47.54 Crore
-- **Liabilities:** Rs 27.95 Lakh
-- **Net Worth:** Rs 47.26 Crore
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 84% of Lok Sabha MPs
 
 ---
 
@@ -69,6 +71,19 @@
 
 ---
 
+## Public Accessibility
+
+- **Platforms:** 3
+
+
+| Platform | Handle | Verified | Active |
+|----------|--------|----------|--------|
+| Twitter | [@https://x.com/RajuBistaBJP?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor](https://x.com/https://x.com/RajuBistaBJP?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) | No | Yes |
+| Facebook | [@https://www.facebook.com/RajuBistaBJP/](https://facebook.com/https://www.facebook.com/RajuBistaBJP/) | No | Yes |
+| Instagram | [@https://www.instagram.com/rajubistabjp/?hl=en](https://instagram.com/https://www.instagram.com/rajubistabjp/?hl=en) | No | Yes |
+
+---
+
 ## In The News
 
 *Mixed/neutral coverage (10 articles)*
@@ -76,29 +91,41 @@
 - **Total Articles:** 10
 - **Positive:** 1 | **Negative:** 0 | **Neutral:** 9
 
-- BJP MP Raju Bista promises land rights for cinchona workers in Darjeeling hills - Telegraph India (Telegraph India) [neutral]
-- West Bengal: Stone hurled at Darjeeling MP Raju Bista’s convoy; BJP alleges political motive - MSN (MSN) [neutral]
-- North Bengal poised for rapid growth, assures MP Raju Bista at Realty Conference in Siliguri - MillenniumPost (MillenniumPost) [neutral]
-- “No illegal activities will be tolerated”: MP Raju Bista after administrative meeting in Siliguri - siliguritimes.com (siliguritimes.com) [neutral]
-- ‘UP Model’ in North Bengal: MP signals tough action - The CSR Journal (The CSR Journal) [neutral]
+- Bista seeks committee to study Himalayas: Darjeeling MP calls for Padma Shri awardee as team head - Telegraph India (Telegraph India) [neutral]
+- Centre Forms Panel For 'Permanent Political Solution' To Gorkha Issue - ETV Bharat (ETV Bharat) [neutral]
+- Reflects vision of prosperous, self-reliant Bengal: Darjeeling MP Raju Bista on BJP’s first state budget - The Statesman (The Statesman) [neutral]
+- "Game is up for Mamata Didi": says BJP MP Raju Bista as party set to form government - aninews.in (aninews.in) [neutral]
+- No resorts on closed tea garden land, says MP Raju Bista - MillenniumPost (MillenniumPost) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Bista seeks committee to study Himalayas: Darjeeling MP calls for Padma Shri awardee as team head - Telegraph India** (Telegraph India)
+- ! **Centre Forms Panel For 'Permanent Political Solution' To Gorkha Issue - ETV Bharat** (ETV Bharat)
+- ! **Reflects vision of prosperous, self-reliant Bengal: Darjeeling MP Raju Bista on BJP’s first state budget - The Statesman** (The Statesman)
+- ! **"Game is up for Mamata Didi": says BJP MP Raju Bista as party set to form government - aninews.in** (aninews.in)
+- ! **No resorts on closed tea garden land, says MP Raju Bista - MillenniumPost** (MillenniumPost)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for West Bengal: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Raju Bista shows moderate transparency with a score of 53.5/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. Active in questions and debates.
+Raju Bista shows moderate transparency with a score of 54.8/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. Active in questions and debates.
 
 ---
 
-Has 2 criminal case(s) (0 serious), 2 pending, 0 conviction(s). Declared assets: Rs 475,357,268. MPLADS utilization: 26.9%. Parliament attendance: 70.0%. Questions asked: 46. Debates participated: 11.
+Has 2 criminal case(s) (0 serious), 2 pending, 0 conviction(s). MPLADS utilization: 26.9%. Parliament attendance: 70.0%. Questions asked: 46. Debates participated: 11. Low confidence data: Assets. 1 warning(s) noted.
 
 ---
 
@@ -138,7 +165,7 @@ Has 2 criminal case(s) (0 serious), 2 pending, 0 conviction(s). Declared assets:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -236,12 +263,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

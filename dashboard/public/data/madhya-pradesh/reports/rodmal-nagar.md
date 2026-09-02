@@ -3,19 +3,17 @@
 **Constituency:** Rajgarh, Madhya Pradesh
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 63
-**Education:** Graduate
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (37%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 63.4 / 100
+## Composite Transparency Score: 61.9 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 49.3 | 25% |
-| Asset Growth | 55.0 | 15% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 90.0 | 10% |
 | Questions & Debates | 50.0 | 10% |
@@ -38,14 +36,13 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 6.55 Crore
-- **Liabilities:** Rs 1.29 Crore
-- **Net Worth:** Rs 5.25 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 46% of Lok Sabha MPs
 
 ---
 
@@ -77,28 +74,40 @@
 - **Positive:** 1 | **Negative:** 1 | **Neutral:** 8
 
 - Rajgarh MP touches officials’ feet in protest over delay: 'Made to wait like a fool for 90 minutes', says R... - Bhaskar English (Bhaskar English) [negative]
-- Rajgarh election results 2024 live updates: BJP's Rodmal Nagar wins - The Times of India (The Times of India) [neutral]
-- Rajgarh Lok Sabha Seat Result 2024: Rodmal Nagar Defeats Digvijaya Singh - ETV Bharat (ETV Bharat) [neutral]
-- Rajgarh MP says India achieved independence in 2014: Congress counters, saying their ancestors faced sacrif... - Bhaskar English (Bhaskar English) [positive]
+- Rodmal Nagar , BJP candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details. - The Hindu (The Hindu) [neutral]
 - BJP Nominee Rodmal Nagar Defeats Congress Heavyweight Digvijaya Singh In Rajgarh - NDTV (NDTV) [neutral]
+- Madhya Pradesh Lok Sabha Elections: Digvijaya Singh Vs Rodmal Nagar In Rajgarh; Check Education And Net Worth - India.com (India.com) [neutral]
+- Parliament Of India : Lok Sabha Member Of Parliament – N - Sarkaritel.com (Sarkaritel.com) [neutral]
+
+---
+
+## News & Allegations
+
+- !! **Rajgarh MP touches officials’ feet in protest over delay: 'Made to wait like a fool for 90 minutes', says R... - Bhaskar English** (Bhaskar English)
+- ! **Rodmal Nagar , BJP candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details. - The Hindu** (The Hindu)
+- ! **BJP Nominee Rodmal Nagar Defeats Congress Heavyweight Digvijaya Singh In Rajgarh - NDTV** (NDTV)
+- ! **Madhya Pradesh Lok Sabha Elections: Digvijaya Singh Vs Rodmal Nagar In Rajgarh; Check Education And Net Worth - India.com** (India.com)
+- ! **Parliament Of India : Lok Sabha Member Of Parliament – N - Sarkaritel.com** (Sarkaritel.com)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Madhya Pradesh: 8 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Rodmal Nagar shows moderate transparency with a score of 63.4/100. No criminal cases declared. High parliament attendance.
+Rodmal Nagar shows moderate transparency with a score of 61.9/100. No criminal cases declared. High parliament attendance.
 
 ---
 
-No criminal cases declared. Declared assets: Rs 65,483,248. MPLADS utilization: 56.2%. Parliament attendance: 90.0%. Questions asked: 9. Debates participated: 8.
+No criminal cases declared. MPLADS utilization: 56.2%. Parliament attendance: 90.0%. Questions asked: 9. Debates participated: 8. Low confidence data: Assets. 1 warning(s) noted.
 
 ---
 
@@ -138,7 +147,7 @@ No criminal cases declared. Declared assets: Rs 65,483,248. MPLADS utilization: 
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -236,12 +245,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

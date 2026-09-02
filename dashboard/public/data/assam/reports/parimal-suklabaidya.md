@@ -3,24 +3,22 @@
 **Constituency:** Silchar, Assam
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 66
-**Education:** Graduate
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (44%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 52.7 / 100
+## Composite Transparency Score: 54.5 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 2.4 | 25% |
-| Asset Growth | 50.0 | 15% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 100.0 | 10% |
 | Questions & Debates | 30.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
-| Public Accessibility | 15.0 | 5% |
+| Public Accessibility | 65.0 | 5% |
 | Legislative Effectiveness | 40.0 | 10% |
 
 ---
@@ -38,14 +36,13 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 1.73 Crore
-- **Liabilities:** Rs 0
-- **Net Worth:** Rs 1.73 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 15% of Lok Sabha MPs
 
 ---
 
@@ -69,6 +66,18 @@
 
 ---
 
+## Public Accessibility
+
+- **Platforms:** 2
+
+
+| Platform | Handle | Verified | Active |
+|----------|--------|----------|--------|
+| Twitter | [@https://x.com/ParimalSuklaba1?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor](https://x.com/https://x.com/ParimalSuklaba1?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) | No | Yes |
+| Facebook | [@https://www.facebook.com/ParimalSuklabaidyaBJP/](https://facebook.com/https://www.facebook.com/ParimalSuklabaidyaBJP/) | No | Yes |
+
+---
+
 ## In The News
 
 *Mixed/neutral coverage (10 articles)*
@@ -76,30 +85,42 @@
 - **Total Articles:** 10
 - **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
 
-- Nihar Ranjan Das Levels Serious Allegations Against Parimal Suklabaidya After Quitting BJP, Says ‘Greed For Rasgollas Cost Me Dholai - Barak Bulletin (Barak Bulletin) [neutral]
-- Silchar MP bats for Barak Rajdhani link, new rly division headquarters - The Times of India (The Times of India) [neutral]
-- Parimal Suklabaidya: Age, Biography, Education, Wife, Caste, Net Worth & More - Oneindia (Oneindia) [neutral]
-- Silchar MP Parimal Suklabaidya flags off month-long road safety bike rally from Masimpur Military Station - India Today NE (India Today NE) [neutral]
-- Road accidents claim 10 lives monthly in Cachar: MP Suklabaidya - The Assam Tribune (The Assam Tribune) [neutral]
+- Assam: Silchar MP Parimal Suklabaidya seeks Centre’s nod for seven major road projects in Barak Valley - India Today NE (India Today NE) [neutral]
+- MP Parimal Suklabaidya Seeks Seven Major Road Projects for Silchar and Barak Valley - Barak Bulletin (Barak Bulletin) [neutral]
+- Crumbling Silchar-Assam University road turns commuter nightmare, MP steps in - The Assam Tribune (The Assam Tribune) [neutral]
+- Parimal Suklabaidya Seeks Centre’s Intervention to Prevent Closure of KV Assam University, Silchar - Barak Bulletin (Barak Bulletin) [neutral]
+- Silchar MP bats for Barak Rajdhani link, new rly division headquarters - timesofindia.indiatimes.com (timesofindia.indiatimes.com) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Assam: Silchar MP Parimal Suklabaidya seeks Centre’s nod for seven major road projects in Barak Valley - India Today NE** (India Today NE)
+- ! **MP Parimal Suklabaidya Seeks Seven Major Road Projects for Silchar and Barak Valley - Barak Bulletin** (Barak Bulletin)
+- ! **Crumbling Silchar-Assam University road turns commuter nightmare, MP steps in - The Assam Tribune** (The Assam Tribune)
+- ! **Parimal Suklabaidya Seeks Centre’s Intervention to Prevent Closure of KV Assam University, Silchar - Barak Bulletin** (Barak Bulletin)
+- ! **Silchar MP bats for Barak Rajdhani link, new rly division headquarters - timesofindia.indiatimes.com** (timesofindia.indiatimes.com)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
 - [!] **mplads**: Extremely low utilization rate — verify data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Assam: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Parimal Suklabaidya shows moderate transparency with a score of 52.7/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
+Parimal Suklabaidya shows moderate transparency with a score of 54.5/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
 
 ---
 
-No criminal cases declared. Declared assets: Rs 17,257,627. MPLADS utilization: 3.0%. Parliament attendance: 100.0%. Questions asked: 3. Debates participated: 2. 1 warning(s) noted.
+No criminal cases declared. MPLADS utilization: 3.0%. Parliament attendance: 100.0%. Questions asked: 3. Debates participated: 2. Low confidence data: Assets. 2 warning(s) noted.
 
 ---
 
@@ -139,7 +160,7 @@ No criminal cases declared. Declared assets: Rs 17,257,627. MPLADS utilization: 
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -237,12 +258,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

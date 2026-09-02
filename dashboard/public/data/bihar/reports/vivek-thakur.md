@@ -3,19 +3,17 @@
 **Constituency:** Nawada, Bihar
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 54
-**Education:** Post Graduate
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (37%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 54.2 / 100
+## Composite Transparency Score: 52.7 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 1.0 | 25% |
-| Asset Growth | 55.0 | 15% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 100.0 | 10% |
 | Questions & Debates | 40.0 | 10% |
@@ -38,14 +36,13 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 5.06 Crore
-- **Liabilities:** Rs 1.04 Crore
-- **Net Worth:** Rs 4.01 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 40% of Lok Sabha MPs
 
 ---
 
@@ -76,30 +73,42 @@
 - **Total Articles:** 10
 - **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
 
-- CM Samrat Chaudhary Meets Vivek Thakur As MP Seeks Swami Sahajanand Saraswati Name For Bihta Airport - Patna Press (Patna Press) [neutral]
-- Rare earth survey in Nawada to be completed in 6 months: Union minister - The Times of India (The Times of India) [neutral]
-- BJP begins search for new Bihar president after Jaiswal joins cabinet - The New Indian Express (The New Indian Express) [neutral]
-- Nawada lok sabha election results 2024: Nawada Winning Candidates List and Vote Share - India Today (India Today) [neutral]
 - Nawada election results 2024 live updates: BJP's Vivek Thakur wins - The Times of India (The Times of India) [neutral]
+- Local vs outsider fight on Nawada Lok Sabha seat in Bihar - India Today (India Today) [neutral]
+- Litmus test for RJD's social outreach - The New Indian Express (The New Indian Express) [neutral]
+- Aurangabad, Gaya, Jamui and Nawada prepare to vote on April 19 in the first of the seven-phase election in Bihar - The Hindu (The Hindu) [neutral]
+- Narendra Modi: The Force of One - Open Magazine (Open Magazine) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Nawada election results 2024 live updates: BJP's Vivek Thakur wins - The Times of India** (The Times of India)
+- ! **Local vs outsider fight on Nawada Lok Sabha seat in Bihar - India Today** (India Today)
+- ! **Litmus test for RJD's social outreach - The New Indian Express** (The New Indian Express)
+- ! **Aurangabad, Gaya, Jamui and Nawada prepare to vote on April 19 in the first of the seven-phase election in Bihar - The Hindu** (The Hindu)
+- ! **Narendra Modi: The Force of One - Open Magazine** (Open Magazine)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
 - [!] **mplads**: Extremely low utilization rate — verify data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Bihar: 8 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Vivek Thakur shows moderate transparency with a score of 54.2/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
+Vivek Thakur shows moderate transparency with a score of 52.7/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
 
 ---
 
-No criminal cases declared. Declared assets: Rs 50,566,297. MPLADS utilization: 1.3%. Parliament attendance: 100.0%. Questions asked: 11. Debates participated: 2. 1 warning(s) noted.
+No criminal cases declared. MPLADS utilization: 1.3%. Parliament attendance: 100.0%. Questions asked: 11. Debates participated: 2. Low confidence data: Assets. 2 warning(s) noted.
 
 ---
 
@@ -139,7 +148,7 @@ No criminal cases declared. Declared assets: Rs 50,566,297. MPLADS utilization: 
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -237,12 +246,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

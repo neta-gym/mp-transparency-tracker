@@ -3,19 +3,17 @@
 **Constituency:** Ghatal, West Bengal
 **Party:** All India Trinamool Congress
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 41
-**Education:** Others
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (37%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 46.7 / 100
+## Composite Transparency Score: 44.5 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 35.0 | 25% |
-| Asset Growth | 60.0 | 15% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 0.0 | 10% |
 | Questions & Debates | 40.0 | 10% |
@@ -38,14 +36,13 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 37.13 Crore
-- **Liabilities:** Rs 2.86 Crore
-- **Net Worth:** Rs 34.27 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 81% of Lok Sabha MPs
 
 ---
 
@@ -74,31 +71,43 @@
 *Mixed/neutral coverage (10 articles)*
 
 - **Total Articles:** 10
-- **Positive:** 0 | **Negative:** 1 | **Neutral:** 9
+- **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
 
-- Debra assembly election results 2026: BJP’s Subhashis Om defeats TMC’s Rajib Banerjee - The Times of India (The Times of India) [neutral]
-- Bengal: TMC workers come to blows in front of local MP Deepak Adhikari over organising 'Shishu Mela' - Dailyhunt (Dailyhunt) [neutral]
-- Bengali actor Dev resigns from three government committees - The Indian Express (The Indian Express) [neutral]
-- Dev's return gift to Ghatal: Mission green - Telegraph India (Telegraph India) [neutral]
-- Court dismisses recruitment scam case against Trinamool MP Deepak Adhikari - India Today (India Today) [negative]
+- Dev Seeks Assurance On Ghatal Master Plan From West Bengal CM - Rediff (Rediff) [neutral]
+- TMC's 'dissident' MPs Deepak Adhikari, June Maliah attend Bengal CM's administrative meeting - Deccan Herald (Deccan Herald) [neutral]
+- TMC rebel MPs Dev, Maliah attend Bengal CM's administrative meeting amid party crisis - newindianexpress.com (newindianexpress.com) [neutral]
+- Trinamool MP Dev reaffirms loyalty to Mamata Banerjee - MillenniumPost (MillenniumPost) [neutral]
+- Dev breaks silence on meeting Bengal CM Suvendu Adhikari: ‘I have always vouched for politics of keeping people united’ | Hindustan Times - Hindustan Times (Hindustan Times) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Dev Seeks Assurance On Ghatal Master Plan From West Bengal CM - Rediff** (Rediff)
+- ! **TMC's 'dissident' MPs Deepak Adhikari, June Maliah attend Bengal CM's administrative meeting - Deccan Herald** (Deccan Herald)
+- ! **TMC rebel MPs Dev, Maliah attend Bengal CM's administrative meeting amid party crisis - newindianexpress.com** (newindianexpress.com)
+- ! **Trinamool MP Dev reaffirms loyalty to Mamata Banerjee - MillenniumPost** (MillenniumPost)
+- ! **Dev breaks silence on meeting Bengal CM Suvendu Adhikari: ‘I have always vouched for politics of keeping people united’ | Hindustan Times - Hindustan Times** (Hindustan Times)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for West Bengal: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Adhikari Deepak Dev has a below-average transparency score of 46.7/100, indicating significant room for improvement. No criminal cases declared. Low MPLADS fund utilization needs attention. Low parliament attendance is notable.
+Adhikari Deepak Dev has a below-average transparency score of 44.5/100, indicating significant room for improvement. No criminal cases declared. Low MPLADS fund utilization needs attention. Low parliament attendance is notable.
 
 ---
 
-No criminal cases declared. Declared assets: Rs 371,347,069. MPLADS utilization: 43.7%. Parliament attendance: 0.0%. Questions asked: 31.
+No criminal cases declared. MPLADS utilization: 43.7%. Parliament attendance: 0.0%. Questions asked: 31. Low confidence data: Assets. 1 warning(s) noted.
 
 ---
 
@@ -138,7 +147,7 @@ No criminal cases declared. Declared assets: Rs 371,347,069. MPLADS utilization:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -236,12 +245,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

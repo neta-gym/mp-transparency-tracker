@@ -3,19 +3,17 @@
 **Constituency:** Ambala, Haryana
 **Party:** Indian National Congress
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 44
-**Education:** Graduate Professional
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (37%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 57.8 / 100
+## Composite Transparency Score: 55.6 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 10.3 | 25% |
-| Asset Growth | 60.0 | 15% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 100.0 | 10% |
 | Questions & Debates | 50.0 | 10% |
@@ -38,14 +36,13 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 25.95 Crore
-- **Liabilities:** Rs 61.74 Lakh
-- **Net Worth:** Rs 25.33 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 75% of Lok Sabha MPs
 
 ---
 
@@ -71,34 +68,46 @@
 
 ## In The News
 
-*Mixed/neutral coverage (10 articles)*
+*Mixed/neutral coverage (9 articles)*
 
-- **Total Articles:** 10
-- **Positive:** 2 | **Negative:** 0 | **Neutral:** 8
+- **Total Articles:** 9
+- **Positive:** 0 | **Negative:** 1 | **Neutral:** 8
 
-- Ambala: MPs Varun Chaudhry, Kartikeya Sharma ask officials to speed up welfare projects - The Tribune (The Tribune) [positive]
+- Railways say Yamunanagar-Chandigarh line ‘financially unviable’, MP Varun Chaudhry opposes assessment - timesofindia.indiatimes.com (timesofindia.indiatimes.com) [neutral]
+- Ambala MP Varun Chaudhry to launch signature campaign over river dredging - DredgeWire (DredgeWire) [neutral]
+- Ambala MP launches signature campaign against waterlogging issue in Lok Sabha constituency - The Tribune (The Tribune) [neutral]
+- Ambala MP threatens large-scale protest over waterlogging crisis - The Tribune (The Tribune) [negative]
 - Congress’s Ambala MP Varun Chaudhry questions party priorities citing Haryana municipal poll lists - ThePrint (ThePrint) [neutral]
-- Ambala (SC) election results 2024 live updates: Congress's Varun Chaudhary wins from Ambala - The Times of India (The Times of India) [neutral]
-- Ambala lok sabha election results 2024: Ambala Winning Candidates List and Vote Share - India Today (India Today) [neutral]
-- BJP’s ‘jumlas’ will not work anymore in Har: Ambala MP - The Hans India (The Hans India) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Railways say Yamunanagar-Chandigarh line ‘financially unviable’, MP Varun Chaudhry opposes assessment - timesofindia.indiatimes.com** (timesofindia.indiatimes.com)
+- ! **Ambala MP Varun Chaudhry to launch signature campaign over river dredging - DredgeWire** (DredgeWire)
+- ! **Ambala MP launches signature campaign against waterlogging issue in Lok Sabha constituency - The Tribune** (The Tribune)
+- !! **Ambala MP threatens large-scale protest over waterlogging crisis - The Tribune** (The Tribune)
+- ! **Congress’s Ambala MP Varun Chaudhry questions party priorities citing Haryana municipal poll lists - ThePrint** (ThePrint)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Haryana: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Varun Chaudhry shows moderate transparency with a score of 57.8/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
+Varun Chaudhry shows moderate transparency with a score of 55.6/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
 
 ---
 
-No criminal cases declared. Declared assets: Rs 259,468,388. MPLADS utilization: 12.9%. Parliament attendance: 100.0%. Questions asked: 18. Debates participated: 3.
+No criminal cases declared. MPLADS utilization: 12.9%. Parliament attendance: 100.0%. Questions asked: 18. Debates participated: 3. Low confidence data: Assets. 1 warning(s) noted.
 
 ---
 
@@ -138,7 +147,7 @@ No criminal cases declared. Declared assets: Rs 259,468,388. MPLADS utilization:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -236,12 +245,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

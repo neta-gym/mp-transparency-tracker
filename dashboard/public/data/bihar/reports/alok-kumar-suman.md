@@ -3,19 +3,17 @@
 **Constituency:** Gopalganj, Bihar
 **Party:** Janata Dal (United)
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 67
-**Education:** Post Graduate
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (37%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 67.5 / 100
+## Composite Transparency Score: 65.3 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 23.8 | 25% |
-| Asset Growth | 60.0 | 15% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 100.0 | 10% |
 | Questions & Debates | 90.0 | 10% |
@@ -38,14 +36,13 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 2.67 Crore
-- **Liabilities:** Rs 8.75 Lakh
-- **Net Worth:** Rs 2.58 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 23% of Lok Sabha MPs
 
 ---
 
@@ -82,31 +79,43 @@
 *Mixed/neutral coverage (10 articles)*
 
 - **Total Articles:** 10
-- **Positive:** 1 | **Negative:** 0 | **Neutral:** 9
+- **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
 
-- Once A War Airbase, Now Open For Public? Bihar's Sabeya Airport Revival Gains Momentum - News18 (News18) [neutral]
 - Sabeya airport is part of UDAN scheme: Gopalganj MP Alok Kumar Suman - The Times of India (The Times of India) [neutral]
 - Gopalganj (SC) lok sabha election results 2024: Gopalganj (SC) Winning Candidates List and Vote Share - India Today (India Today) [neutral]
-- Home to three CMs, voters in Gopalganj constituency yearn for progress amidst continuing neglect | Hindustan Times - Hindustan Times (Hindustan Times) [positive]
-- Gopalganj Election Result 2024 LIVE Updates Highlights: Dr Alok Kumar Suman of JDU Wins - News18 (News18) [neutral]
+- Rs 30 lakh looted from doc's home - Telegraph India (Telegraph India) [neutral]
+- Nepal General Election - News18 (News18) [neutral]
+- JD(U) names 24-member national executive; Nishant Kumar absent, Statewide yatra likely from May 3 - The Hindu (The Hindu) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Sabeya airport is part of UDAN scheme: Gopalganj MP Alok Kumar Suman - The Times of India** (The Times of India)
+- ! **Gopalganj (SC) lok sabha election results 2024: Gopalganj (SC) Winning Candidates List and Vote Share - India Today** (India Today)
+- ! **Rs 30 lakh looted from doc's home - Telegraph India** (Telegraph India)
+- ! **Nepal General Election - News18** (News18)
+- ! **JD(U) names 24-member national executive; Nishant Kumar absent, Statewide yatra likely from May 3 - The Hindu** (The Hindu)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Bihar: 8 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Alok Kumar Suman shows moderate transparency with a score of 67.5/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Alok Kumar Suman shows moderate transparency with a score of 65.3/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-No criminal cases declared. Declared assets: Rs 26,713,230. MPLADS utilization: 29.7%. Parliament attendance: 100.0%. Questions asked: 51. Debates participated: 18.
+No criminal cases declared. MPLADS utilization: 29.7%. Parliament attendance: 100.0%. Questions asked: 51. Debates participated: 18. Low confidence data: Assets. 1 warning(s) noted.
 
 ---
 
@@ -146,7 +155,7 @@ No criminal cases declared. Declared assets: Rs 26,713,230. MPLADS utilization: 
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -244,12 +253,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

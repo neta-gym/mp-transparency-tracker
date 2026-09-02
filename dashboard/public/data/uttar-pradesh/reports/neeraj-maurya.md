@@ -3,19 +3,17 @@
 **Constituency:** Aonla, Uttar Pradesh
 **Party:** Samajwadi Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 55
-**Education:** Graduate Professional
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (37%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 66.3 / 100
+## Composite Transparency Score: 64.0 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 62.6 | 25% |
-| Asset Growth | 60.0 | 15% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 100.0 | 10% |
 | Questions & Debates | 30.0 | 10% |
@@ -38,14 +36,13 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 11.78 Crore
-- **Liabilities:** Rs 44.20 Lakh
-- **Net Worth:** Rs 11.34 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 62% of Lok Sabha MPs
 
 ---
 
@@ -76,29 +73,41 @@
 - **Total Articles:** 10
 - **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
 
-- आंवला सांसद नीरज मौर्य की मौजूदगी में हुई बैठक, कई कार्यकर्ता उपस्थित रहे - Dainik Bhaskar (Dainik Bhaskar) [neutral]
-- Bareilly critical care facility shifted to Lucknow due to land unavailability - The Times of India (The Times of India) [neutral]
 - Aonla Election Result 2024 LIVE Updates Highlights: Neeraj Maurya of SP Wins - News18 (News18) [neutral]
 - Aonla lok sabha election results 2024: Aonla Winning Candidates List and Vote Share - India Today (India Today) [neutral]
-- Aonla election results 2024 live updates: SP's Neeraj Maurya wins with over 1.5 lakh vote margin - The Times of India (The Times of India) [neutral]
+- SP declares second list of 11 candidates for 2024 Lok Sabha polls | Hindustan Times - Hindustan Times (Hindustan Times) [neutral]
+- Samajwadi Party announces 11 more LS candidates for UP: Mukhtar’s brother given ticket from Ghazipur - The Statesman (The Statesman) [neutral]
+- Know Your Turncoats, Part 11: UP muscleman, son of ‘Bihar’s Gandhi’, Solapur heavyweight - Newslaundry (Newslaundry) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Aonla Election Result 2024 LIVE Updates Highlights: Neeraj Maurya of SP Wins - News18** (News18)
+- ! **Aonla lok sabha election results 2024: Aonla Winning Candidates List and Vote Share - India Today** (India Today)
+- ! **SP declares second list of 11 candidates for 2024 Lok Sabha polls | Hindustan Times - Hindustan Times** (Hindustan Times)
+- ! **Samajwadi Party announces 11 more LS candidates for UP: Mukhtar’s brother given ticket from Ghazipur - The Statesman** (The Statesman)
+- ! **Know Your Turncoats, Part 11: UP muscleman, son of ‘Bihar’s Gandhi’, Solapur heavyweight - Newslaundry** (Newslaundry)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Uttar Pradesh: 8 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Neeraj Maurya shows moderate transparency with a score of 66.3/100. No criminal cases declared. High parliament attendance.
+Neeraj Maurya shows moderate transparency with a score of 64.0/100. No criminal cases declared. High parliament attendance.
 
 ---
 
-No criminal cases declared. Declared assets: Rs 117,839,772. MPLADS utilization: 65.0%. Parliament attendance: 100.0%. Debates participated: 6.
+No criminal cases declared. MPLADS utilization: 65.0%. Parliament attendance: 100.0%. Debates participated: 6. Low confidence data: Assets. 1 warning(s) noted.
 
 ---
 
@@ -138,7 +147,7 @@ No criminal cases declared. Declared assets: Rs 117,839,772. MPLADS utilization:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -236,12 +245,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

@@ -3,24 +3,22 @@
 **Constituency:** Kalyan, Maharashtra
 **Party:** Shiv Sena
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 37
-**Education:** Post Graduate
 **Report Date:** 2026-09-02
-**Data Confidence:** Low (49%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (44%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 57.5 / 100
+## Composite Transparency Score: 60.2 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 35.0 | 25% |
-| Asset Growth | 50.0 | 15% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 35.0 | 10% |
 | Questions & Debates | 80.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
-| Public Accessibility | 15.0 | 5% |
+| Public Accessibility | 85.0 | 5% |
 | Legislative Effectiveness | 70.0 | 10% |
 
 ---
@@ -40,12 +38,11 @@
 
 - **Movable Assets:** N/A
 - **Immovable Assets:** N/A
-- **Total Assets:** Rs 14.92 Crore
-- **Liabilities:** Rs 6.63 Crore
-- **Net Worth:** Rs 8.29 Crore
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 66% of Lok Sabha MPs
 
 ---
 
@@ -77,6 +74,19 @@
 
 ---
 
+## Public Accessibility
+
+- **Platforms:** 3
+
+
+| Platform | Handle | Verified | Active |
+|----------|--------|----------|--------|
+| Twitter | [@http://www.twitter.com/Dr SE Shinde](https://x.com/http://www.twitter.com/Dr SE Shinde) | No | Yes |
+| Facebook | [@http://www.facebook.com/Dr Shrikant Eknath Shinde](https://facebook.com/http://www.facebook.com/Dr Shrikant Eknath Shinde) | No | Yes |
+| Instagram | [@@drshrikanthshinde](https://instagram.com/@drshrikanthshinde) | No | Yes |
+
+---
+
 ## In The News
 
 *Mixed/neutral coverage (10 articles)*
@@ -84,29 +94,41 @@
 - **Total Articles:** 10
 - **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
 
-- MP Shrikant Shinde pushes KDMC to build 500-bed multi-speciality hospitals, medical college in Kalyan-Dom - The Times of India (The Times of India) [neutral]
-- Old rivalry flares up, Sena MP Shrikant Shinde dares BJP minister Ganesh Naik to contest against him - ThePrint (ThePrint) [neutral]
-- Maharashtra polls: MNS-Shiv Sena (Shinde) join hands in Kalyan Dombivili - The Federal (The Federal) [neutral]
-- MNS Offers Support To Eknath Shinde's Shiv Sena In Kalyan-Dombivli Civic Body - Outlook India (Outlook India) [neutral]
-- ‘Power is not everything’, says Shiv Sena’s Shrikant Shinde, asks BJP to explain alliances with Congress and AIMIM - The Indian Express (The Indian Express) [neutral]
+- Sena corporator 'assaults' doctors in Thane, Oppn targets CM; MP Shrikant Shinde condemns attack - The New Indian Express (The New Indian Express) [neutral]
+- Sena might get union cabinet berth after Operation Tiger - The Times of India (The Times of India) [neutral]
+- ‘Disputes cannot justify assault’: Maharashtra minister on Thane hospital attack - The Indian Express (The Indian Express) [neutral]
+- Welcome Bellevision.com - Bellevision.com (Bellevision.com) [neutral]
+- Shiv Sena MP Shrikant Shinde to tour 22 Maharashtra districts ahead of local body polls - ANI News (ANI News) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Sena corporator 'assaults' doctors in Thane, Oppn targets CM; MP Shrikant Shinde condemns attack - The New Indian Express** (The New Indian Express)
+- ! **Sena might get union cabinet berth after Operation Tiger - The Times of India** (The Times of India)
+- ! **‘Disputes cannot justify assault’: Maharashtra minister on Thane hospital attack - The Indian Express** (The Indian Express)
+- ! **Welcome Bellevision.com - Bellevision.com** (Bellevision.com)
+- ! **Shiv Sena MP Shrikant Shinde to tour 22 Maharashtra districts ahead of local body polls - ANI News** (ANI News)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Maharashtra: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Shrikant Eknath Shinde shows moderate transparency with a score of 57.5/100. No criminal cases declared. Low MPLADS fund utilization needs attention. Low parliament attendance is notable. Active in questions and debates.
+Shrikant Eknath Shinde shows moderate transparency with a score of 60.2/100. No criminal cases declared. Low MPLADS fund utilization needs attention. Low parliament attendance is notable. Active in questions and debates.
 
 ---
 
-No criminal cases declared. Declared assets: Rs 149,208,812. Parliament attendance: 35.0%. Questions asked: 75. Debates participated: 8.
+No criminal cases declared. Parliament attendance: 35.0%. Questions asked: 75. Debates participated: 8. Low confidence data: Assets. 1 warning(s) noted.
 
 ---
 
@@ -146,7 +168,7 @@ No criminal cases declared. Declared assets: Rs 149,208,812. Parliament attendan
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -244,12 +266,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

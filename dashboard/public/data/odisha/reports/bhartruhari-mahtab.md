@@ -3,19 +3,17 @@
 **Constituency:** Cuttack, Odisha
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 66
-**Education:** Post Graduate
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (39%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 58.1 / 100
+## Composite Transparency Score: 57.4 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 13.0 | 25% |
-| Asset Growth | 50.0 | 15% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 90.0 | 15% |
 | Parliament Attendance | 95.0 | 10% |
 | Questions & Debates | 90.0 | 10% |
@@ -34,18 +32,21 @@
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
+### Cases Detail
+
+1. Dargha Bazar P.S. Case no.04 of 2011 (Sections: 341, 323, 294, 332, 353, 506) [pending] 
+
 ---
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 19.91 Crore
-- **Liabilities:** Rs 0
-- **Net Worth:** Rs 19.91 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 71% of Lok Sabha MPs
 
 ---
 
@@ -76,29 +77,41 @@
 - **Total Articles:** 10
 - **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
 
-- Cuttack clash: Anti-socials were provoked by certain people, says MP Bhartruhari Mahtab - Odisha TV (Odisha TV) [neutral]
+- Abolish one-city, one-nursing-college norm, urges Bhartruhari Mahtab - The New Indian Express (The New Indian Express) [neutral]
+- Coordination Failure Between Railways & PWD! Is Cuttack Facing A Disaster? - Kanak News Odisha (Kanak News Odisha) [neutral]
+- Naveen’s remarks over NEET row politically motivated: Mahtab - The New Indian Express (The New Indian Express) [neutral]
 - Who is pro-tem Speaker Bhartruhari Mahtab: 7-time Cuttack MP a new BJP entrant - The Indian Express (The Indian Express) [neutral]
-- Bhartruhari Mahtab, BJD's six-time MP from Cuttack in Odisha, resigns from party - India TV News (India TV News) [neutral]
-- Can BJD Turncoat and Six-Time MP Bhartruhari Mahtab Swing Cuttack Lok Sabha Seat for BJP? - TheWire.in (TheWire.in) [neutral]
-- Who Is Bhartruhari Mahtab, The Pro-Tem Speaker For 18th Lok Sabha - NDTV (NDTV) [neutral]
+- Six-time BJD MP Bhartruhari Mahtab joins BJP, likely to be fielded from Cuttack | India News - Hindustan Times (Hindustan Times) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Abolish one-city, one-nursing-college norm, urges Bhartruhari Mahtab - The New Indian Express** (The New Indian Express)
+- ! **Coordination Failure Between Railways & PWD! Is Cuttack Facing A Disaster? - Kanak News Odisha** (Kanak News Odisha)
+- ! **Naveen’s remarks over NEET row politically motivated: Mahtab - The New Indian Express** (The New Indian Express)
+- ! **Who is pro-tem Speaker Bhartruhari Mahtab: 7-time Cuttack MP a new BJP entrant - The Indian Express** (The Indian Express)
+- ! **Six-time BJD MP Bhartruhari Mahtab joins BJP, likely to be fielded from Cuttack | India News - Hindustan Times** (Hindustan Times)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Odisha: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Bhartruhari Mahtab shows moderate transparency with a score of 58.1/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Bhartruhari Mahtab shows moderate transparency with a score of 57.4/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Declared assets: Rs 199,052,798. MPLADS utilization: 16.3%. Parliament attendance: 95.0%. Questions asked: 72. Debates participated: 16.
+Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). MPLADS utilization: 16.3%. Parliament attendance: 95.0%. Questions asked: 72. Debates participated: 16. Low confidence data: Assets. 1 warning(s) noted.
 
 ---
 
@@ -138,7 +151,7 @@ Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Declared assets:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -236,12 +249,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

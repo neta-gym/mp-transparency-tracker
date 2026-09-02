@@ -3,24 +3,22 @@
 **Constituency:** Chittorgarh, Rajasthan
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 48
-**Education:** Graduate Professional
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (44%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 55.2 / 100
+## Composite Transparency Score: 59.4 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 2.2 | 25% |
-| Asset Growth | 55.0 | 15% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 100.0 | 15% |
-| Parliament Attendance | 85.0 | 10% |
+| Parliament Attendance | 100.0 | 10% |
 | Questions & Debates | 70.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
-| Public Accessibility | 15.0 | 5% |
+| Public Accessibility | 85.0 | 5% |
 | Legislative Effectiveness | 40.0 | 10% |
 
 ---
@@ -38,14 +36,13 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 4.10 Crore
-- **Liabilities:** Rs 86.27 Lakh
-- **Net Worth:** Rs 3.23 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 33% of Lok Sabha MPs
 
 ---
 
@@ -61,45 +58,70 @@
 
 ## Parliament Activity
 
-- **Attendance:** 85.0%
-- **Questions Asked:** 37
-- **Debates Participated:** 5
+- **Attendance:** 100.0%
+- **Questions Asked:** 39
+- **Debates Participated:** 9
 - **Private Bills:** 0
 - **Is Minister:** No
 
 ---
 
+## Public Accessibility
+
+- **Platforms:** 3
+
+
+| Platform | Handle | Verified | Active |
+|----------|--------|----------|--------|
+| Twitter | [@http://www.twitter.com/cpjoshiBJP](https://x.com/http://www.twitter.com/cpjoshiBJP) | No | Yes |
+| Facebook | [@http://www.facebook.com/mpcpjoshibjp](https://facebook.com/http://www.facebook.com/mpcpjoshibjp) | No | Yes |
+| Instagram | [@http://www.instagram.com/cpjoshibjp](https://instagram.com/http://www.instagram.com/cpjoshibjp) | No | Yes |
+
+---
+
 ## In The News
 
-*Mixed/neutral coverage (10 articles)*
+*Mixed/neutral coverage (9 articles)*
 
-- **Total Articles:** 10
-- **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
+- **Total Articles:** 9
+- **Positive:** 0 | **Negative:** 0 | **Neutral:** 9
 
-- Chittorgarh election results 2024 live updates: BJP's Chandra Prakash Joshi wins - The Times of India (The Times of India) [neutral]
-- Lok Sabha Polls 2024 | Face-off: Chandra Prakash Joshi vs Udai Lal Anjana - Deccan Herald (Deccan Herald) [neutral]
-- Chittorgarh’s BJP MP to Head Joint Committee on MSCS (Amend), 2022 - Indian Cooperative (Indian Cooperative) [neutral]
-- Chandra Prakash Joshi , BJP candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details. - The Hindu (The Hindu) [neutral]
 - BJP shuffle: In Rajasthan surprise, Brahmin leader brought in as state chief - The Indian Express (The Indian Express) [neutral]
+- Chittorgarh election results 2024 live updates: BJP's Chandra Prakash Joshi wins - The Times of India (The Times of India) [neutral]
+- ELECTION 2024 | BJP batting anti-incumbency in Rajasthan - Frontline Magazine (Frontline Magazine) [neutral]
+- Chittorgarh lok sabha election results 2024: Chittorgarh Winning Candidates List and Vote Share - India Today (India Today) [neutral]
+- Massive Stone Pelting Reported In Rajasthan’s Chittorgarh Over Killing Of Former BJP Councillor Jagdish Soni' - India.com (India.com) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **BJP shuffle: In Rajasthan surprise, Brahmin leader brought in as state chief - The Indian Express** (The Indian Express)
+- ! **Chittorgarh election results 2024 live updates: BJP's Chandra Prakash Joshi wins - The Times of India** (The Times of India)
+- ! **ELECTION 2024 | BJP batting anti-incumbency in Rajasthan - Frontline Magazine** (Frontline Magazine)
+- ! **Chittorgarh lok sabha election results 2024: Chittorgarh Winning Candidates List and Vote Share - India Today** (India Today)
+- ! **Massive Stone Pelting Reported In Rajasthan’s Chittorgarh Over Killing Of Former BJP Councillor Jagdish Soni' - India.com** (India.com)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
 - [!] **mplads**: Extremely low utilization rate — verify data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Rajasthan: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Chandra Prakash Joshi shows moderate transparency with a score of 55.2/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Chandra Prakash Joshi shows moderate transparency with a score of 59.4/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-No criminal cases declared. Declared assets: Rs 40,973,304. MPLADS utilization: 2.7%. Parliament attendance: 85.0%. Questions asked: 37. Debates participated: 5. 1 warning(s) noted.
+No criminal cases declared. MPLADS utilization: 2.7%. Parliament attendance: 100.0%. Questions asked: 39. Debates participated: 9. Low confidence data: Assets. 2 warning(s) noted.
 
 ---
 
@@ -139,7 +161,7 @@ No criminal cases declared. Declared assets: Rs 40,973,304. MPLADS utilization: 
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -237,12 +259,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

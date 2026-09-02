@@ -3,21 +3,18 @@
 **Constituency:** Satara, Maharashtra
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 58
-**Education:** 12th Pass
-**Profession:** Luxury
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (39%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 32.4 / 100
+## Composite Transparency Score: 28.8 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 5.1 | 25% |
-| Asset Growth | 60.0 | 15% |
-| Criminal Record | 37.0 | 15% |
+| Asset Growth | 45.0 | 15% |
+| Criminal Record | 30.0 | 15% |
 | Parliament Attendance | 55.0 | 10% |
 | Questions & Debates | 0.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
@@ -28,33 +25,31 @@
 
 ## Criminal Record
 
-- **Total Cases:** 5
-- **Serious Cases:** 2
+- **Total Cases:** 4
+- **Serious Cases:** 3
 - **Convictions:** 0
 - **Pending Cases:** 4
-- **Disposed Cases:** 1
+- **Disposed Cases:** 0
 - **Data Source:** myneta
 
 ### Cases Detail
 
-1. Details and present status of appeal (Sections: N/A) 
-2. No description (Sections: N/A) 
-3. No description (Sections: 397/2017, Satara) **SERIOUS**
-4. No description (Sections: 396/2017, Satara) **SERIOUS**
-5. No description (Sections: 363/1999) [acquitted] 
+1. 495/2023 Satara City Police Station | Section-37(1)(3) r/w 135 Mumbai Police Act, Section- 3(1)25 Arms Act (Sections: 141, 143, 149, 506, 427) [pending] 
+2. 397/2017, Shahupuri Police Station, Satara | Section-37(1)(3) r/w 135 Mumbai Police Act, Section- 3(1)25 Arms Act (Sections: 307, 114, 143, 147, 148, 149) [pending] **SERIOUS**
+3. 396/2017, Shahupuri Police Station, Satara | Section-37(1)(3) r/w 135 Mumbai Police Act, Section- 3(1)25 Arms Act (Sections: 307, 332, 353, 120B, 109, 143, 147, 148, 149, 160, 153, 114, 115) [pending] **SERIOUS**
+4. 363/1999, Satara Police Station | Section-37(1)(3) r/w 135 Mumbai Police Act (Sections: 302, 143, 147, 148, 149, 427) [pending] **SERIOUS**
 
 ---
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 20.56 Crore
-- **Immovable Assets:** Rs 202.57 Crore
-- **Total Assets:** Rs 223.12 Crore
-- **Liabilities:** Rs 2.45 Crore
-- **Net Worth:** Rs 220.68 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 96% of Lok Sabha MPs
 
 ---
 
@@ -86,29 +81,41 @@
 - **Positive:** 0 | **Negative:** 0 | **Neutral:** 9
 
 - Udayanraje Bhosale claims Pratapsinh Bhosale preceded Phule in women’s education, sparks row - The Hindu (The Hindu) [neutral]
-- Let govt build Maharashtra Governor’s house somewhere else, Raj Bhavan ideal spot for Chhatrapati Shivaji - The Times of India (The Times of India) [neutral]
+- Satara election results 2024 live updates: BJP's Shrimant Chh Udayanraje Pratapsinhamaharaj Bhosale emerg - The Times of India (The Times of India) [neutral]
 - Satara ruler Pratapsinh Bhosale started 1st school for women, Mahatma Phule emulated him: Udayanraje - ThePrint (ThePrint) [neutral]
 - BJP MP Udayanraje Bhosale sparks debate over who started women’s education in India | Hindustan Times - Hindustan Times (Hindustan Times) [neutral]
-- Satara election results 2024 live updates: BJP's Shrimant Chh Udayanraje Pratapsinhamaharaj Bhosale emerg - The Times of India (The Times of India) [neutral]
+- A Controversial Royal Renews His Claim to Satara - The Caravan (The Caravan) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Udayanraje Bhosale claims Pratapsinh Bhosale preceded Phule in women’s education, sparks row - The Hindu** (The Hindu)
+- ! **Satara election results 2024 live updates: BJP's Shrimant Chh Udayanraje Pratapsinhamaharaj Bhosale emerg - The Times of India** (The Times of India)
+- ! **Satara ruler Pratapsinh Bhosale started 1st school for women, Mahatma Phule emulated him: Udayanraje - ThePrint** (ThePrint)
+- ! **BJP MP Udayanraje Bhosale sparks debate over who started women’s education in India | Hindustan Times - Hindustan Times** (Hindustan Times)
+- ! **A Controversial Royal Renews His Claim to Satara - The Caravan** (The Caravan)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
 - [!] **mplads**: Extremely low utilization rate — verify data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Maharashtra: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Udayanraje Pratapsinha Maharaj Bhonsle has a below-average transparency score of 32.4/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. Limited participation in parliamentary proceedings.
+Udayanraje Pratapsinha Maharaj Bhonsle has a below-average transparency score of 28.8/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. Limited participation in parliamentary proceedings.
 
 ---
 
-Has 5 criminal case(s) (2 serious), 4 pending, 0 conviction(s). Declared assets: Rs 2,231,233,939. MPLADS utilization: 6.3%. Parliament attendance: 55.0%. 1 warning(s) noted.
+Has 4 criminal case(s) (3 serious), 4 pending, 0 conviction(s). MPLADS utilization: 6.3%. Parliament attendance: 55.0%. Low confidence data: Assets. 2 warning(s) noted.
 
 ---
 
@@ -148,7 +155,7 @@ Has 5 criminal case(s) (2 serious), 4 pending, 0 conviction(s). Declared assets:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -246,12 +253,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, mplads, myneta*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

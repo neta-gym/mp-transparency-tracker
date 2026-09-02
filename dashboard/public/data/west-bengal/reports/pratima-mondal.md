@@ -3,19 +3,17 @@
 **Constituency:** Jaynagar, West Bengal
 **Party:** All India Trinamool Congress
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 58
-**Education:** Post Graduate
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (37%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 56.5 / 100
+## Composite Transparency Score: 55.8 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 40.0 | 25% |
-| Asset Growth | 50.0 | 15% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 55.0 | 10% |
 | Questions & Debates | 60.0 | 10% |
@@ -38,14 +36,13 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 6.90 Crore
-- **Liabilities:** Rs 0
-- **Net Worth:** Rs 6.90 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 48% of Lok Sabha MPs
 
 ---
 
@@ -76,29 +73,41 @@
 - **Total Articles:** 10
 - **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
 
-- Pratima Mondal’s Zero Hour mention on the demand for connecting the climate-vulnerable area of Kultali to the railway system and building a new railway line from Jaynagar to Maipith via Jamtala - AITC (AITC) [neutral]
-- Mamata Brings Back Kalyan Banerjee as TMC Chief Whip, Sends Unity Message to MPs - Dailyhunt (Dailyhunt) [neutral]
+- Lok Sabha MP Pratima Mondal’s Zero Hour mention on the demand for a railway line from the town of Jaynagar to Maipith via Jamtala in her constituency of Jaynagar - AITC in Parliament (AITC in Parliament) [neutral]
 - Joynagar (SC) election results 2024 live updates: TMC's Pratima Mondal wins - The Times of India (The Times of India) [neutral]
-- Lok Sabha MP Pratima Mondal’s speech during the discussion and voting on the demands for grants, through the Union Budget, under the control of the Ministry of Jal Shakti for 2025-26 - AITC (AITC) [neutral]
-- Jaynagar (SC) West Bengal All India Trinamool Congress - The Times of India (The Times of India) [neutral]
+- Mamata stood by me; now my duty to stand by her: Shatrughan - The Hindu (The Hindu) [neutral]
+- TMC MPs rally behind Mamata - MillenniumPost (MillenniumPost) [neutral]
+- Mahua, Pratima, Sagarika Meet Atishi - Rediff (Rediff) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Lok Sabha MP Pratima Mondal’s Zero Hour mention on the demand for a railway line from the town of Jaynagar to Maipith via Jamtala in her constituency of Jaynagar - AITC in Parliament** (AITC in Parliament)
+- ! **Joynagar (SC) election results 2024 live updates: TMC's Pratima Mondal wins - The Times of India** (The Times of India)
+- ! **Mamata stood by me; now my duty to stand by her: Shatrughan - The Hindu** (The Hindu)
+- ! **TMC MPs rally behind Mamata - MillenniumPost** (MillenniumPost)
+- ! **Mahua, Pratima, Sagarika Meet Atishi - Rediff** (Rediff)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for West Bengal: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Pratima Mondal shows moderate transparency with a score of 56.5/100. No criminal cases declared. Active in questions and debates.
+Pratima Mondal shows moderate transparency with a score of 55.8/100. No criminal cases declared. Active in questions and debates.
 
 ---
 
-No criminal cases declared. Declared assets: Rs 68,970,051. MPLADS utilization: 50.0%. Parliament attendance: 55.0%. Questions asked: 23. Debates participated: 8.
+No criminal cases declared. MPLADS utilization: 50.0%. Parliament attendance: 55.0%. Questions asked: 23. Debates participated: 8. Low confidence data: Assets. 1 warning(s) noted.
 
 ---
 
@@ -138,7 +147,7 @@ No criminal cases declared. Declared assets: Rs 68,970,051. MPLADS utilization: 
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -236,12 +245,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

@@ -3,19 +3,17 @@
 **Constituency:** Porbandar, Gujarat
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 51
-**Education:** Doctorate
 **Report Date:** 2026-09-02
-**Data Confidence:** Low (43%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (30%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 49.1 / 100
+## Composite Transparency Score: 48.4 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 11.9 | 25% |
-| Asset Growth | 50.0 | 15% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 50.0 | 10% |
 | Questions & Debates | 50.0 | 10% |
@@ -38,14 +36,13 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 7.95 Crore
-- **Liabilities:** Rs 0
-- **Net Worth:** Rs 7.95 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 52% of Lok Sabha MPs
 
 ---
 
@@ -76,30 +73,42 @@
 - **Total Articles:** 10
 - **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
 
-- Gujarat: Mansukh Mandaviya Mourns Deaths Of Four Youths In Porbandar Accident - Ommcom News (Ommcom News) [neutral]
-- Lok Sabha Election Results 2024: Union Minister Mansukh Mandaviya Wins Porbandar By Margin Of 3.83 Lakh Votes - NDTV (NDTV) [neutral]
+- Union Minister Mansukh Mandaviya chairs Viksit Porbandar Furniture Park Summit in Porbandar - aninews.in (aninews.in) [neutral]
+- Mansukh Mandaviya wins Porbandar against Lalit Vasoya - GujaratSamachar English (GujaratSamachar English) [neutral]
 - Porbandar election results 2024 live updates: BJP's Mansukh Mandaviya wins - The Times of India (The Times of India) [neutral]
-- State-Level Celebration of 79th Independence Day Held in Mahatma Gandhi’s Birthplace, Porbandar - CMO Gujarat (CMO Gujarat) [neutral]
-- Porbandar Election Results 2024: BJP's Mansukh Mandaviya takes lead in early trends - India TV News (India TV News) [neutral]
+- After 2 Rajya Sabha Stints, Mansukh Mandaviya To Make Lok Sabha Polls Debut - NDTV (NDTV) [neutral]
+- Lok Sabha election: Union minister Mansukh Mandaviya kickstarts his campaign in Mahatma Gandhi’s Porbandar - The Indian Express (The Indian Express) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Union Minister Mansukh Mandaviya chairs Viksit Porbandar Furniture Park Summit in Porbandar - aninews.in** (aninews.in)
+- ! **Mansukh Mandaviya wins Porbandar against Lalit Vasoya - GujaratSamachar English** (GujaratSamachar English)
+- ! **Porbandar election results 2024 live updates: BJP's Mansukh Mandaviya wins - The Times of India** (The Times of India)
+- ! **After 2 Rajya Sabha Stints, Mansukh Mandaviya To Make Lok Sabha Polls Debut - NDTV** (NDTV)
+- ! **Lok Sabha election: Union minister Mansukh Mandaviya kickstarts his campaign in Mahatma Gandhi’s Porbandar - The Indian Express** (The Indian Express)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
 - [!] **parliament_activity**: Low confidence in parliament activity data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Gujarat: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Mansukh Mandaviya has a below-average transparency score of 49.1/100, indicating significant room for improvement. No criminal cases declared. Low MPLADS fund utilization needs attention.
+Mansukh Mandaviya has a below-average transparency score of 48.4/100, indicating significant room for improvement. No criminal cases declared. Low MPLADS fund utilization needs attention.
 
 ---
 
-No criminal cases declared. Declared assets: Rs 79,504,705. MPLADS utilization: 14.9%. Low confidence data: Parliament activity. 1 warning(s) noted.
+No criminal cases declared. MPLADS utilization: 14.9%. Low confidence data: Assets, Parliament activity. 2 warning(s) noted.
 
 ---
 
@@ -139,7 +148,7 @@ No criminal cases declared. Declared assets: Rs 79,504,705. MPLADS utilization: 
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -237,12 +246,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

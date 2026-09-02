@@ -3,19 +3,17 @@
 **Constituency:** Moradabad, Uttar Pradesh
 **Party:** Samajwadi Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 62
-**Education:** Graduate
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (37%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 59.0 / 100
+## Composite Transparency Score: 58.3 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 23.9 | 25% |
-| Asset Growth | 50.0 | 15% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 100.0 | 10% |
 | Questions & Debates | 50.0 | 10% |
@@ -38,14 +36,13 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 28.06 Crore
-- **Liabilities:** Rs 0
-- **Net Worth:** Rs 28.06 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 76% of Lok Sabha MPs
 
 ---
 
@@ -71,34 +68,46 @@
 
 ## In The News
 
-*Mixed/neutral coverage (10 articles)*
+*Mixed/neutral coverage (9 articles)*
 
-- **Total Articles:** 10
-- **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
+- **Total Articles:** 9
+- **Positive:** 0 | **Negative:** 0 | **Neutral:** 9
 
-- Lok Sabha Elections 2024: Who is Ruchi Vira? Know about SP's Moradabad candidate and close aide of Azam Khan - India TV News (India TV News) [neutral]
-- Moradabad election results 2024: SP's Ruchi Vira wins - The Times of India (The Times of India) [neutral]
+- 'Akhilesh Yadav asked me to step down': SP's UP assembly chief whip Kamal Akhtar resigns amid reports of - The Times of India (The Times of India) [neutral]
+- Samajwadi Party MP and MLA clash before Akhilesh: Kamal Akhtar resigned as Chief Whip amid growing dispute ... - Bhaskar English (Bhaskar English) [neutral]
 - "Will raise issues of infrastructure, medical facilities in Moradabad": Samajwadi Party MP Ruchi Vira - ANI News (ANI News) [neutral]
-- Samajwadi Party Drops Sitting MP ST Hasan From Moradabad, Mohibullah Nadvi Gets Ticket From Rampur - ABP News (ABP News) [neutral]
-- High drama in Moradabad as Akhilesh Yadav bows to Azam Khan’s choice - The Hindu (The Hindu) [neutral]
+- "Despite being declared Smart City, Moradabad faces many issues": Samajwadi Party MP Ruchi Vira - ANI News (ANI News) [neutral]
+- Moradabad election results 2024: SP's Ruchi Vira wins - The Times of India (The Times of India) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **'Akhilesh Yadav asked me to step down': SP's UP assembly chief whip Kamal Akhtar resigns amid reports of - The Times of India** (The Times of India)
+- ! **Samajwadi Party MP and MLA clash before Akhilesh: Kamal Akhtar resigned as Chief Whip amid growing dispute ... - Bhaskar English** (Bhaskar English)
+- ! **"Will raise issues of infrastructure, medical facilities in Moradabad": Samajwadi Party MP Ruchi Vira - ANI News** (ANI News)
+- ! **"Despite being declared Smart City, Moradabad faces many issues": Samajwadi Party MP Ruchi Vira - ANI News** (ANI News)
+- ! **Moradabad election results 2024: SP's Ruchi Vira wins - The Times of India** (The Times of India)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Uttar Pradesh: 8 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Ruchi Vira shows moderate transparency with a score of 59.0/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
+Ruchi Vira shows moderate transparency with a score of 58.3/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
 
 ---
 
-No criminal cases declared. Declared assets: Rs 280,588,320. MPLADS utilization: 29.9%. Parliament attendance: 100.0%. Questions asked: 17. Debates participated: 2.
+No criminal cases declared. MPLADS utilization: 29.9%. Parliament attendance: 100.0%. Questions asked: 17. Debates participated: 2. Low confidence data: Assets. 1 warning(s) noted.
 
 ---
 
@@ -138,7 +147,7 @@ No criminal cases declared. Declared assets: Rs 280,588,320. MPLADS utilization:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -236,12 +245,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

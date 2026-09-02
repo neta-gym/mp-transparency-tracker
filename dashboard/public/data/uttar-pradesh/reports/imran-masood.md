@@ -3,20 +3,18 @@
 **Constituency:** Saharanpur, Uttar Pradesh
 **Party:** Indian National Congress
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 53
-**Education:** 12th Pass
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (39%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 44.2 / 100
+## Composite Transparency Score: 39.5 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 23.6 | 25% |
-| Asset Growth | 50.0 | 15% |
-| Criminal Record | 20.0 | 15% |
+| Asset Growth | 45.0 | 15% |
+| Criminal Record | 0.0 | 15% |
 | Parliament Attendance | 95.0 | 10% |
 | Questions & Debates | 70.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
@@ -28,24 +26,34 @@
 ## Criminal Record
 
 - **Total Cases:** 8
-- **Serious Cases:** 0
-- **Convictions:** 0
-- **Pending Cases:** 8
+- **Serious Cases:** 2
+- **Convictions:** 1
+- **Pending Cases:** 7
 - **Disposed Cases:** 0
 - **Data Source:** myneta
+
+### Cases Detail
+
+1. 203/2014 Thana Devband Dist. Saharanpur UP | Sec.125 RP Act, Sec.3(1)(1) SC/ST Act (Sections: 153A, 395A, 504, 506) [pending] **SERIOUS**
+2. Crime No.353/2014, Thana Qutubsher Dist. Saharanpur UP | Sec.6 UP SC Act (Sections: 188) [pending] 
+3. C.C.No.155/2010, Thana Sarsava, Dist.Saharanpur UP (Sections: 143, 283, 341) [pending] 
+4. Crime No.532/2007 Kotwali Nagar Thana ACJM/Special MP, MLA Court Saharanpur (Sections: 420, 467, 468, 471) [pending] **SERIOUS**
+5. Complaint No. Special Case no.04/2023 Thana ED Lucknow | Sec.3/4/45 P.M.L.A. Act,  Cognizance YEAR 2015 (Sections: N/A) [pending] 
+6. C.C.No.98/2019, Thana Titro, Dist.Saharanpur UP | Charges framed year 2015 (Sections: 171F, 171H) [pending] 
+7. C.C. no.12/2022, Thana Qutubsher Dist. Saharanpur U.P. | Sec.3/4 Epidemic diseases Act, Charges framed year 2021 (Sections: 188, 171H, 269, 270) [pending] 
+8. No description (Sections: 171G) [convicted] 
 
 ---
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 5.55 Crore
-- **Liabilities:** Rs 0
-- **Net Worth:** Rs 5.55 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 43% of Lok Sabha MPs
 
 ---
 
@@ -76,29 +84,41 @@
 - **Total Articles:** 10
 - **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
 
-- Aligarh Children's "Cutest Application" Reaches Saharanpur MP Imran Masood - MSN (MSN) [neutral]
-- MP turns traffic cop: Imran Masood clears block in UP's Saharanpur, video is viral - India Today (India Today) [neutral]
-- Rename Saharanpur Railway Station after Maa Shakambhari Devi: Congress MP Imran Masood - The Economic Times (The Economic Times) [neutral]
-- National and strategic interests are supreme, says Saharanpur MP Imran Masood - The Hindu (The Hindu) [neutral]
-- Children's "Cutest Application" Reaches Saharanpur MP Imran Masood - NDTV (NDTV) [neutral]
+- MP Imran Masood’s daughter assaulted, thrown out of home: Nephew says, 'Shayan mistreated his sister, broke... - Bhaskar English (Bhaskar English) [neutral]
+- Cong MP Imran Masood’s son-in-law joins SP, cites ‘ideological differences’ - The Times of India (The Times of India) [neutral]
+- SAHARANPUR: CONGRESS MP IMRAN MASOOD ON VANDE MATARAM ROW - Press Trust of India (Press Trust of India) [neutral]
+- Imran Masood and Ashu Malik deny altercation at Saharanpur DISHA meeting - The News Mill (The News Mill) [neutral]
+- Uttar Pradesh Alliance Tensions? Congress MP Imran Masood, SP MLA Ashu Malik Clash | Saharanpur - News18 (News18) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **MP Imran Masood’s daughter assaulted, thrown out of home: Nephew says, 'Shayan mistreated his sister, broke... - Bhaskar English** (Bhaskar English)
+- ! **Cong MP Imran Masood’s son-in-law joins SP, cites ‘ideological differences’ - The Times of India** (The Times of India)
+- ! **SAHARANPUR: CONGRESS MP IMRAN MASOOD ON VANDE MATARAM ROW - Press Trust of India** (Press Trust of India)
+- ! **Imran Masood and Ashu Malik deny altercation at Saharanpur DISHA meeting - The News Mill** (The News Mill)
+- ! **Uttar Pradesh Alliance Tensions? Congress MP Imran Masood, SP MLA Ashu Malik Clash | Saharanpur - News18** (News18)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Uttar Pradesh: 8 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Imran Masood has a below-average transparency score of 44.2/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Imran Masood has a below-average transparency score of 39.5/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-Has 8 criminal case(s) (0 serious), 8 pending, 0 conviction(s). Declared assets: Rs 55,502,166. MPLADS utilization: 29.5%. Parliament attendance: 95.0%. Questions asked: 34. Debates participated: 7.
+Has 8 criminal case(s) (2 serious), 7 pending, 1 conviction(s). MPLADS utilization: 29.5%. Parliament attendance: 95.0%. Questions asked: 34. Debates participated: 7. Low confidence data: Assets. 1 warning(s) noted.
 
 ---
 
@@ -138,7 +158,7 @@ Has 8 criminal case(s) (0 serious), 8 pending, 0 conviction(s). Declared assets:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -236,12 +256,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

@@ -68,16 +68,26 @@
 
 ## In The News
 
-*Mixed/neutral coverage (10 articles)*
+*Mixed/neutral coverage (9 articles)*
 
-- **Total Articles:** 10
-- **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
+- **Total Articles:** 9
+- **Positive:** 0 | **Negative:** 0 | **Neutral:** 9
 
 - Anantapur Member of Parliament appointed member of panel on labour - The Hindu (The Hindu) [neutral]
 - Anantapur election results 2024: TDP's Ambica G Lakshminarayana Valmiki triumphs with overwhelming Majori - The Times of India (The Times of India) [neutral]
-- Payyavula pushes for an airport in Anantapur - The Hindu (The Hindu) [neutral]
-- Centre allocates ₹736 crore for drinking water, sewage projects in Anantapur - The Hindu (The Hindu) [neutral]
+- TDP MP’s sister among six killed in Uttarakhand helicopter crash - The New Indian Express (The New Indian Express) [neutral]
+- TDP MPs meet PM Modi, Amit Shah to discuss Andhra Pradesh issues - Telangana Today (Telangana Today) [neutral]
 - Train from Anantapur to Bengaluru to start from June 4 - The Hindu (The Hindu) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Anantapur Member of Parliament appointed member of panel on labour - The Hindu** (The Hindu)
+- ! **Anantapur election results 2024: TDP's Ambica G Lakshminarayana Valmiki triumphs with overwhelming Majori - The Times of India** (The Times of India)
+- ! **TDP MP’s sister among six killed in Uttarakhand helicopter crash - The New Indian Express** (The New Indian Express)
+- ! **TDP MPs meet PM Modi, Amit Shah to discuss Andhra Pradesh issues - Telangana Today** (Telangana Today)
+- ! **Train from Anantapur to Bengaluru to start from June 4 - The Hindu** (The Hindu)
 
 ---
 
@@ -139,7 +149,7 @@ No criminal cases declared. Parliament attendance: 85.0%. Questions asked: 47. D
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -241,5 +251,5 @@ Time limit: PIO must respond within 30 days of receipt.
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

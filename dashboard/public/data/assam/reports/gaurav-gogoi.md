@@ -3,19 +3,17 @@
 **Constituency:** Jorhat, Assam
 **Party:** Indian National Congress
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 41
-**Education:** Post Graduate
 **Report Date:** 2026-09-02
-**Data Confidence:** Low (49%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (39%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 58.7 / 100
+## Composite Transparency Score: 57.9 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 17.1 | 25% |
-| Asset Growth | 50.0 | 15% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 90.0 | 15% |
 | Parliament Attendance | 100.0 | 10% |
 | Questions & Debates | 80.0 | 10% |
@@ -34,18 +32,21 @@
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
+### Cases Detail
+
+1. 55/24 PS Basistha Kamrup(M), Date- 23/01/2024 | Section 3 of Prevention of Damage to Public Property Act- 1984 (Sections: 120(B), 143, 147, 283, 353, 332, 333, 188, 427) [pending] 
+
 ---
 
 ## Asset Declaration
 
 - **Movable Assets:** N/A
 - **Immovable Assets:** N/A
-- **Total Assets:** Rs 4.91 Crore
-- **Liabilities:** Rs 0
-- **Net Worth:** Rs 4.91 Crore
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 38% of Lok Sabha MPs
 
 ---
 
@@ -76,29 +77,41 @@
 - **Total Articles:** 10
 - **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
 
-- Congress MP Gaurav Gogoi fails in his first attempt to become MLA from Assam's Jorhat - MSN (MSN) [neutral]
+- ‘Jorhat does not fall behind neighbouring districts’: Gaurav Gogoi seeks review of UNNATI zone status - India Today NE (India Today NE) [neutral]
 - Assam Assembly results: State Congress chief Gaurav Gogoi loses in Jorhat - The Hindu (The Hindu) [neutral]
-- Assam Poll Results 2026: Congress leader Gaurav Gogoi defeated in Jorhat | India News - Hindustan Times (Hindustan Times) [neutral]
-- Rahul Gandhi's babbar sher Gaurav Gogoi loses Jorhat to BJP MLA by 23,000 votes - India Today (India Today) [neutral]
+- After Historic Lok Sabha Win, Why Gaurav Gogoi Lost In Assam's Jorhat To BJP - NDTV (NDTV) [neutral]
 - Congress CM face Gaurav Gogoi crashes & burns in Assam polls debut, loses Jorhat by 23,000+ votes - ThePrint (ThePrint) [neutral]
+- "Nothing against him," says BJP's Hitendra Nath Goswami after defeating Gaurav Gogoi in Jorhat - aninews.in (aninews.in) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **‘Jorhat does not fall behind neighbouring districts’: Gaurav Gogoi seeks review of UNNATI zone status - India Today NE** (India Today NE)
+- ! **Assam Assembly results: State Congress chief Gaurav Gogoi loses in Jorhat - The Hindu** (The Hindu)
+- ! **After Historic Lok Sabha Win, Why Gaurav Gogoi Lost In Assam's Jorhat To BJP - NDTV** (NDTV)
+- ! **Congress CM face Gaurav Gogoi crashes & burns in Assam polls debut, loses Jorhat by 23,000+ votes - ThePrint** (ThePrint)
+- ! **"Nothing against him," says BJP's Hitendra Nath Goswami after defeating Gaurav Gogoi in Jorhat - aninews.in** (aninews.in)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Assam: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Gaurav Gogoi shows moderate transparency with a score of 58.7/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Gaurav Gogoi shows moderate transparency with a score of 57.9/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Declared assets: Rs 49,061,120. MPLADS utilization: 21.4%. Parliament attendance: 100.0%. Questions asked: 45. Debates participated: 15.
+Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). MPLADS utilization: 21.4%. Parliament attendance: 100.0%. Questions asked: 45. Debates participated: 15. Low confidence data: Assets. 1 warning(s) noted.
 
 ---
 
@@ -138,7 +151,7 @@ Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Declared assets:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -236,12 +249,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

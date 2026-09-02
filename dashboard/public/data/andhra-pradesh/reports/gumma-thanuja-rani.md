@@ -75,9 +75,19 @@
 
 - YSRCP to raise Panchadarla mining issue in Parliament - Telangana Today (Telangana Today) [neutral]
 - Araku MP Thanuja Rani seeks reopening of Chinabhogili railway gate in Parvatipuram-Manyam - The Hindu (The Hindu) [neutral]
-- Tribal patients will face more ordeals with privatisation of medical colleges in Andhra: Araku MP - The Hindu (The Hindu) [neutral]
-- YSRC changes Araku MP candidate for second time - Deccan Chronicle (Deccan Chronicle) [neutral]
-- Aruku (ST) election results 2024: YSRCP's Gumma Thanuja Rani triumphs in Aruku (ST) election, defeating B - The Times of India (The Times of India) [neutral]
+- Araku MP seeks high level inquiry into tribal school deaths - The Hindu (The Hindu) [neutral]
+- Andhra Pradesh MP urges finance minister Nirmala Sitharaman to set up tribal banks, expand insurance acce - The Times of India (The Times of India) [neutral]
+- Araku MP flags off 10 new ambulances in Paderu - The Hindu (The Hindu) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **YSRCP to raise Panchadarla mining issue in Parliament - Telangana Today** (Telangana Today)
+- ! **Araku MP Thanuja Rani seeks reopening of Chinabhogili railway gate in Parvatipuram-Manyam - The Hindu** (The Hindu)
+- ! **Araku MP seeks high level inquiry into tribal school deaths - The Hindu** (The Hindu)
+- ! **Andhra Pradesh MP urges finance minister Nirmala Sitharaman to set up tribal banks, expand insurance acce - The Times of India** (The Times of India)
+- ! **Araku MP flags off 10 new ambulances in Paderu - The Hindu** (The Hindu)
 
 ---
 
@@ -139,7 +149,7 @@ No criminal cases declared. Parliament attendance: 90.0%. Questions asked: 34. D
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -241,5 +251,5 @@ Time limit: PIO must respond within 30 days of receipt.
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

@@ -3,19 +3,17 @@
 **Constituency:** Baharampur, West Bengal
 **Party:** All India Trinamool Congress
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 41
-**Education:** 10th Pass
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (37%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 47.7 / 100
+## Composite Transparency Score: 46.2 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 2.3 | 25% |
-| Asset Growth | 55.0 | 15% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 55.0 | 10% |
 | Questions & Debates | 40.0 | 10% |
@@ -38,14 +36,13 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 45.63 Crore
-- **Liabilities:** Rs 11.97 Crore
-- **Net Worth:** Rs 33.66 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 83% of Lok Sabha MPs
 
 ---
 
@@ -77,29 +74,41 @@
 - **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
 
 - ‘Where is Pathan?’ In WB’s Baharampur, residents complain of being abandoned by ‘outsider’ TMC MP Yusuf - ThePrint (ThePrint) [neutral]
-- Yusuf Pathan: From cricket star to first-time MP in Baharampur - MSN (MSN) [neutral]
-- Baharampur Lok Sabha Election Results 2024: Yusuf Pathan creates major upset, defeats Adhir Ranjan - India TV News (India TV News) [neutral]
-- Baharampur Lok Sabha Election Results 2024: यूसुफ पठान ने अधीर रंजन चौधरी का 25 साल पुराना किला किया ध्वस्त, जीता बहरामपुर का चुनाव - AajTak (AajTak) [neutral]
-- After 5 Terms As Baharampur MP, Adhir Chowdhury Bowled Out By Yusuf Pathan - NDTV (NDTV) [neutral]
+- Yusuf Pathan refutes resignation claims regarding Baharampur seat - thenewsmill.com (thenewsmill.com) [neutral]
+- Mamata Banerjee Sent Sourav Ganguly To Ask Yusuf Pathan To Quit As MP? What They Said - NDTV (NDTV) [neutral]
+- Have some shame and spine: Mahua Moitra slams Yusuf Pathan as TMC MPs rebel - India Today (India Today) [neutral]
+- In Murshidabad, ‘absent’ Yusuf Pathan draws fire from Opposition, locals; TMC MP, MLA join in - The Indian Express (The Indian Express) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **‘Where is Pathan?’ In WB’s Baharampur, residents complain of being abandoned by ‘outsider’ TMC MP Yusuf - ThePrint** (ThePrint)
+- ! **Yusuf Pathan refutes resignation claims regarding Baharampur seat - thenewsmill.com** (thenewsmill.com)
+- ! **Mamata Banerjee Sent Sourav Ganguly To Ask Yusuf Pathan To Quit As MP? What They Said - NDTV** (NDTV)
+- ! **Have some shame and spine: Mahua Moitra slams Yusuf Pathan as TMC MPs rebel - India Today** (India Today)
+- ! **In Murshidabad, ‘absent’ Yusuf Pathan draws fire from Opposition, locals; TMC MP, MLA join in - The Indian Express** (The Indian Express)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
 - [!] **mplads**: Extremely low utilization rate — verify data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for West Bengal: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Pathan Yusuf has a below-average transparency score of 47.7/100, indicating significant room for improvement. No criminal cases declared. Low MPLADS fund utilization needs attention.
+Pathan Yusuf has a below-average transparency score of 46.2/100, indicating significant room for improvement. No criminal cases declared. Low MPLADS fund utilization needs attention.
 
 ---
 
-No criminal cases declared. Declared assets: Rs 456,304,016. MPLADS utilization: 2.9%. Parliament attendance: 55.0%. Questions asked: 7. Debates participated: 2. 1 warning(s) noted.
+No criminal cases declared. MPLADS utilization: 2.9%. Parliament attendance: 55.0%. Questions asked: 7. Debates participated: 2. Low confidence data: Assets. 2 warning(s) noted.
 
 ---
 
@@ -139,7 +148,7 @@ No criminal cases declared. Declared assets: Rs 456,304,016. MPLADS utilization:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -237,12 +246,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

@@ -4,17 +4,17 @@
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
 **Report Date:** 2026-09-02
-**Data Confidence:** Low (43%) | **Evidence Grade:** Third-party (C)
+**Data Confidence:** Low (20%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 51.2 / 100
+## Composite Transparency Score: 39.5 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 22.4 | 25% |
-| Asset Growth | 50.0 | 15% |
-| Criminal Record | 100.0 | 15% |
+| Asset Growth | 45.0 | 15% |
+| Criminal Record | 45.0 | 15% |
 | Parliament Attendance | 50.0 | 10% |
 | Questions & Debates | 50.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
@@ -36,14 +36,13 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 8.59 Crore
-- **Liabilities:** Rs 0
-- **Net Worth:** Rs 8.59 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 53% of Lok Sabha MPs
 
 ---
 
@@ -72,32 +71,45 @@
 *Mixed/neutral coverage (10 articles)*
 
 - **Total Articles:** 10
-- **Positive:** 1 | **Negative:** 0 | **Neutral:** 9
+- **Positive:** 2 | **Negative:** 0 | **Neutral:** 8
 
-- Udhampur bus tragedy 'deeply painful', will ensure best treatment for injured: Dr Jitendra Singh - Kashmir News Service (Kashmir News Service) [neutral]
-- ATR services to begin in 6 months at Udhampur airport, says Jitendra Singh - ETInfra.com (ETInfra.com) [neutral]
-- Udhampur Firing Incident: MoS Jitendra Singh appeals people not to panic or listen to rumours - Dailyhunt (Dailyhunt) [neutral]
+- New Vande Bharat between Jammu-Srinagar to have stoppage at Udhampur - Daily Excelsior (Daily Excelsior) [neutral]
+- Udhampur airport terminal construction contract likely to be awarded in August: Union MoS Jitendra Singh - ET Infra (ET Infra) [positive]
+- Death toll climbs to 21 in Udhampur bus accident; 61 injured - Telangana Today (Telangana Today) [neutral]
+- ATR services to begin in 6 months at Udhampur airport, says Jitendra Singh - ET Infra (ET Infra) [neutral]
 - Udhampur Bus Tragedy: Death Toll Rises to 21; 61 Injured - The Avenue Mail (The Avenue Mail) [neutral]
-- Udhampur Set For Airport Development In Two Phases, Says Union Minister Jitendra Singh - Swarajyamag (Swarajyamag) [positive]
+
+---
+
+## News & Allegations
+
+- ! **New Vande Bharat between Jammu-Srinagar to have stoppage at Udhampur - Daily Excelsior** (Daily Excelsior)
+- ! **Udhampur airport terminal construction contract likely to be awarded in August: Union MoS Jitendra Singh - ET Infra** (ET Infra)
+- ! **Death toll climbs to 21 in Udhampur bus accident; 61 injured - Telangana Today** (Telangana Today)
+- ! **ATR services to begin in 6 months at Udhampur airport, says Jitendra Singh - ET Infra** (ET Infra)
+- ! **Udhampur Bus Tragedy: Death Toll Rises to 21; 61 Injured - The Avenue Mail** (The Avenue Mail)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
+- [!] **assets**: Low confidence in asset data
 - [!] **parliament_activity**: Low confidence in parliament activity data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Jammu And Kashmir: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Jitendra Singh shows moderate transparency with a score of 51.2/100. No criminal cases declared. Low MPLADS fund utilization needs attention.
+Jitendra Singh has a below-average transparency score of 39.5/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. Data confidence is low — scores should be interpreted with caution.
 
 ---
 
-No criminal cases declared. Declared assets: Rs 85,905,005. MPLADS utilization: 28.0%. Low confidence data: Parliament activity. 1 warning(s) noted.
+No criminal cases declared. MPLADS utilization: 28.0%. Low confidence data: Criminal record, Assets, Parliament activity. 3 warning(s) noted.
 
 ---
 
@@ -137,7 +149,7 @@ No criminal cases declared. Declared assets: Rs 85,905,005. MPLADS utilization: 
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -235,10 +247,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

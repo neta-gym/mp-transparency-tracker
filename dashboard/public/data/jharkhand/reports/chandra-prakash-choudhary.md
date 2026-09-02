@@ -3,24 +3,22 @@
 **Constituency:** Giridih, Jharkhand
 **Party:** AJSU Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 55
-**Education:** Graduate
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (46%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 55.1 / 100
+## Composite Transparency Score: 56.9 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 25.6 | 25% |
-| Asset Growth | 50.0 | 15% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 80.0 | 15% |
 | Parliament Attendance | 85.0 | 10% |
 | Questions & Debates | 70.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
-| Public Accessibility | 15.0 | 5% |
+| Public Accessibility | 65.0 | 5% |
 | Legislative Effectiveness | 40.0 | 10% |
 
 ---
@@ -34,18 +32,22 @@
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
+### Cases Detail
+
+1. 85/2019, Town P.S. Giridih | Section 127A R.P. Act. 1951 (Sections: 447, 188, 34) [pending] 
+2. 201/2021, Lalpur P.S. Ranchi (Sections: 147, 149, 341, 323, 332, 353) [pending] 
+
 ---
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 4.98 Crore
-- **Liabilities:** Rs 2.70 Crore
-- **Net Worth:** Rs 2.28 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 39% of Lok Sabha MPs
 
 ---
 
@@ -69,6 +71,18 @@
 
 ---
 
+## Public Accessibility
+
+- **Platforms:** 2
+
+
+| Platform | Handle | Verified | Active |
+|----------|--------|----------|--------|
+| Twitter | [@http://wwc.twitter.com/CPChoudhary AJSU](https://x.com/http://wwc.twitter.com/CPChoudhary AJSU) | No | Yes |
+| Facebook | [@http://wwc.facebook.com/CPChoudhary AJSU](https://facebook.com/http://wwc.facebook.com/CPChoudhary AJSU) | No | Yes |
+
+---
+
 ## In The News
 
 *Mixed/neutral coverage (10 articles)*
@@ -76,29 +90,41 @@
 - **Total Articles:** 10
 - **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
 
-- BJP ignored Kurmi community, says lone AJSU MP from Jharkhand - The Hindu (The Hindu) [neutral]
-- Giridih election results 2024 live updates: AJSU's Chandra Prakash Choudhary wins against JMM’s Mathura P - The Times of India (The Times of India) [neutral]
-- JMM decides to filed Mathura Prasad Mahto against Chandra Prakash Choudhary of AJSU in Giridih - jharkhandstatenews.com (jharkhandstatenews.com) [neutral]
-- Giridih lok sabha election results 2024: Giridih Winning Candidates List and Vote Share - India Today (India Today) [neutral]
-- Three days after collapse, search begins for trapped workers in illegal mine in Jharkhand’s Dhanbad - The New Indian Express (The New Indian Express) [neutral]
+- JMM decides to field Mathura Prasad Mahto against Chandra Prakash Choudhary of AJSU in Giridih - jharkhandstatenews.com (jharkhandstatenews.com) [neutral]
+- AJSU leader Chandraprakash Choudhary likely to get cabinet berth - The Avenue Mail (The Avenue Mail) [neutral]
+- Giridih constituency of Jharkhand Lok Sabha Election 2024: Date of voting, result, candidates list, main - The Times of India (The Times of India) [neutral]
+- MP office torched, SDPO injured in violent clash in Dhanbad - The New Indian Express (The New Indian Express) [neutral]
+- Giridih Lok Sabha Chunav Result 2019: आजसू के चंद्र प्रकाश चौधरी ने मारी बाजी, JMM के जगरनाथ महतो हारे - AajTak (AajTak) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **JMM decides to field Mathura Prasad Mahto against Chandra Prakash Choudhary of AJSU in Giridih - jharkhandstatenews.com** (jharkhandstatenews.com)
+- ! **AJSU leader Chandraprakash Choudhary likely to get cabinet berth - The Avenue Mail** (The Avenue Mail)
+- ! **Giridih constituency of Jharkhand Lok Sabha Election 2024: Date of voting, result, candidates list, main - The Times of India** (The Times of India)
+- ! **MP office torched, SDPO injured in violent clash in Dhanbad - The New Indian Express** (The New Indian Express)
+- ! **Giridih Lok Sabha Chunav Result 2019: आजसू के चंद्र प्रकाश चौधरी ने मारी बाजी, JMM के जगरनाथ महतो हारे - AajTak** (AajTak)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Jharkhand: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Chandra Prakash Choudhary shows moderate transparency with a score of 55.1/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Chandra Prakash Choudhary shows moderate transparency with a score of 56.9/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-Has 2 criminal case(s) (0 serious), 2 pending, 0 conviction(s). Declared assets: Rs 49,849,182. MPLADS utilization: 32.0%. Parliament attendance: 85.0%. Questions asked: 37. Debates participated: 5.
+Has 2 criminal case(s) (0 serious), 2 pending, 0 conviction(s). MPLADS utilization: 32.0%. Parliament attendance: 85.0%. Questions asked: 37. Debates participated: 5. Low confidence data: Assets. 1 warning(s) noted.
 
 ---
 
@@ -138,7 +164,7 @@ Has 2 criminal case(s) (0 serious), 2 pending, 0 conviction(s). Declared assets:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -236,12 +262,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

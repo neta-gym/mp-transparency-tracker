@@ -7,21 +7,21 @@
 **Education:** Post Graduate
 **Profession:** MLA
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Medium (56%) | **Evidence Grade:** Third-party (C)
 
 ---
 
-## Composite Transparency Score: 62.5 / 100
+## Composite Transparency Score: 70.5 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 53.8 | 25% |
-| Asset Growth | 55.0 | 15% |
+| Asset Growth | 85.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 85.0 | 10% |
 | Questions & Debates | 40.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
-| Public Accessibility | 15.0 | 5% |
+| Public Accessibility | 85.0 | 5% |
 | Legislative Effectiveness | 40.0 | 10% |
 
 ---
@@ -39,14 +39,14 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
+- **Movable Assets:** Rs 1.80 Crore
+- **Immovable Assets:** Rs 2.20 Crore
 - **Total Assets:** Rs 4.00 Crore
 - **Liabilities:** Rs 57.08 Lakh
 - **Net Worth:** Rs 3.43 Crore
-- **Previous Total Assets:** N/A
-- **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 32% of Lok Sabha MPs
+- **Previous Total Assets:** Rs 280546622.00 Crore
+- **Asset Growth:** -100.0%
+- **Wealth Percentile:** Wealthier than 31% of Lok Sabha MPs
 
 ---
 
@@ -70,6 +70,20 @@
 
 ---
 
+## Public Accessibility
+
+- **Platforms:** 4
+
+
+| Platform | Handle | Verified | Active |
+|----------|--------|----------|--------|
+| Twitter | [@share](https://twitter.com/share) | No | Yes |
+| Facebook | [@sharer](https://www.facebook.com/sharer) | No | Yes |
+| Instagram | [@adrspeaks](https://www.instagram.com/adrspeaks) | No | Yes |
+| Youtube | [@adrspeaks](https://www.youtube.com/user/adrspeaks) | No | Yes |
+
+---
+
 ## In The News
 
 *Mixed/neutral coverage (10 articles)*
@@ -77,11 +91,21 @@
 - **Total Articles:** 10
 - **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
 
-- Tura MP seeks Governor’s help to bar non-tribals from ADC polls - The Shillong Times (The Shillong Times) [neutral]
-- Meghalaya MP Saleng Sangma appeals voters to reject ‘divisive politics', accuses BJP of sidelining tribal voices - India Today NE (India Today NE) [neutral]
+- FCRA Bill will cripple Christian institutes in NE: Saleng to VP - The Shillong Times (The Shillong Times) [neutral]
+- PwDs in Meghalaya strive through hard work: Tura MP Saleng Sangma - Syllad (Syllad) [neutral]
 - Tura MP flags Rohingya threat to Garos, seeks PM intervention - The Times of India (The Times of India) [neutral]
-- Garo Hills Violence: Meghalaya MP alarms Centre over Rohingya involvement in attacks on locals - Organiser (Organiser) [neutral]
-- Tura MP credits police for containing Garo Hills unrest, says law will run its course - Syllad (Syllad) [neutral]
+- Garo Hills Violence: Meghalaya MP alarms Centre over Rohingya involvement in attacks on locals - organiser.org (organiser.org) [neutral]
+- Saleng snatches Tura seat from Purno’s family after 33 years - Highland Post (Highland Post) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **FCRA Bill will cripple Christian institutes in NE: Saleng to VP - The Shillong Times** (The Shillong Times)
+- ! **PwDs in Meghalaya strive through hard work: Tura MP Saleng Sangma - Syllad** (Syllad)
+- ! **Tura MP flags Rohingya threat to Garos, seeks PM intervention - The Times of India** (The Times of India)
+- ! **Garo Hills Violence: Meghalaya MP alarms Centre over Rohingya involvement in attacks on locals - organiser.org** (organiser.org)
+- ! **Saleng snatches Tura seat from Purno’s family after 33 years - Highland Post** (Highland Post)
 
 ---
 
@@ -95,7 +119,7 @@
 
 ## Qualitative Assessment
 
-Saleng A Sangma shows moderate transparency with a score of 62.5/100. No criminal cases declared. High parliament attendance.
+Saleng A Sangma demonstrates strong transparency with an overall score of 70.5/100. No criminal cases declared. High parliament attendance.
 
 ---
 
@@ -139,7 +163,7 @@ No criminal cases declared. Declared assets: Rs 40,049,264. MPLADS utilization: 
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -238,11 +262,12 @@ Time limit: PIO must respond within 30 days of receipt.
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
 | Assets | myneta | Official (B) |
+| Committees | sansad | LLM/Estimated (E) |
 | Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: myneta, prs, social_media, news, mplads*
+*Sources consulted: myneta, prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

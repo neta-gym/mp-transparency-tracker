@@ -3,20 +3,18 @@
 **Constituency:** Amravati, Maharashtra
 **Party:** Indian National Congress
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 56
-**Education:** 12th Pass
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (39%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 55.9 / 100
+## Composite Transparency Score: 52.4 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 25.7 | 25% |
-| Asset Growth | 55.0 | 15% |
-| Criminal Record | 90.0 | 15% |
+| Asset Growth | 45.0 | 15% |
+| Criminal Record | 80.0 | 15% |
 | Parliament Attendance | 85.0 | 10% |
 | Questions & Debates | 50.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
@@ -28,24 +26,27 @@
 ## Criminal Record
 
 - **Total Cases:** 1
-- **Serious Cases:** 0
+- **Serious Cases:** 1
 - **Convictions:** 0
 - **Pending Cases:** 1
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
+### Cases Detail
+
+1. Crime No. 153/2014 Dt. 05.04.2014, Daryapur Police Station (Sections: 467, 468, 471, 406, 420, 109, 120B) [pending] **SERIOUS**
+
 ---
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 1.74 Crore
-- **Liabilities:** Rs 31.07 Lakh
-- **Net Worth:** Rs 1.43 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 15% of Lok Sabha MPs
 
 ---
 
@@ -71,34 +72,46 @@
 
 ## In The News
 
-*Mixed/neutral coverage (9 articles)*
+*Mixed/neutral coverage (8 articles)*
 
-- **Total Articles:** 9
-- **Positive:** 0 | **Negative:** 0 | **Neutral:** 9
+- **Total Articles:** 8
+- **Positive:** 0 | **Negative:** 0 | **Neutral:** 8
 
+- Balwant Baswant Wankhade , INC candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details. - The Hindu (The Hindu) [neutral]
 - Amravati Election Results 2024: Congress's Wankhede maintains comfortable lead over BJP - The Times of India (The Times of India) [neutral]
-- Amravati Lok Sabha elections: BJP's Navneet Rana to face Congress candidate Balwant Baswant Wankhede - India TV News (India TV News) [neutral]
+- Parliament Of India : Lok Sabha Member Of Parliament - W - Sarkaritel.com (Sarkaritel.com) [neutral]
 - Amravati Election Result 2024 LIVE Updates Highlights: Balwant Baswant Wankhade of INC Wins - News18 (News18) [neutral]
-- Shah invites Rana couple to Delhi, just a courtesy visit, says Navneet - The Times of India (The Times of India) [neutral]
 - Maharashtra Lok Sabha 2024 Winner Candidates List: Check who's leading your constituency here - CNBC TV18 (CNBC TV18) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Balwant Baswant Wankhade , INC candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details. - The Hindu** (The Hindu)
+- ! **Amravati Election Results 2024: Congress's Wankhede maintains comfortable lead over BJP - The Times of India** (The Times of India)
+- ! **Parliament Of India : Lok Sabha Member Of Parliament - W - Sarkaritel.com** (Sarkaritel.com)
+- ! **Amravati Election Result 2024 LIVE Updates Highlights: Balwant Baswant Wankhade of INC Wins - News18** (News18)
+- ! **Maharashtra Lok Sabha 2024 Winner Candidates List: Check who's leading your constituency here - CNBC TV18** (CNBC TV18)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Maharashtra: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Balwant Baswant Wankhade shows moderate transparency with a score of 55.9/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance.
+Balwant Baswant Wankhade shows moderate transparency with a score of 52.4/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance.
 
 ---
 
-Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Declared assets: Rs 17,358,730. MPLADS utilization: 32.1%. Parliament attendance: 85.0%. Questions asked: 15. Debates participated: 3.
+Has 1 criminal case(s) (1 serious), 1 pending, 0 conviction(s). MPLADS utilization: 32.1%. Parliament attendance: 85.0%. Questions asked: 15. Debates participated: 3. Low confidence data: Assets. 1 warning(s) noted.
 
 ---
 
@@ -138,7 +151,7 @@ Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Declared assets:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -236,12 +249,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

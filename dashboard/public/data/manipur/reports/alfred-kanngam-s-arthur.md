@@ -7,21 +7,21 @@
 **Education:** 12th Pass
 **Profession:** Social Worker and Agriculturist
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Medium (56%) | **Evidence Grade:** Third-party (C)
 
 ---
 
-## Composite Transparency Score: 54.8 / 100
+## Composite Transparency Score: 62.1 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 44.2 | 25% |
-| Asset Growth | 60.0 | 15% |
+| Asset Growth | 85.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 55.0 | 10% |
 | Questions & Debates | 20.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
-| Public Accessibility | 15.0 | 5% |
+| Public Accessibility | 85.0 | 5% |
 | Legislative Effectiveness | 40.0 | 10% |
 
 ---
@@ -39,14 +39,14 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
+- **Movable Assets:** Rs 1.82 Crore
+- **Immovable Assets:** Rs 53.71 Crore
 - **Total Assets:** Rs 55.53 Crore
 - **Liabilities:** Rs 44.00 Lakh
 - **Net Worth:** Rs 55.09 Crore
-- **Previous Total Assets:** N/A
-- **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 86% of Lok Sabha MPs
+- **Previous Total Assets:** Rs 51474147151.00 Crore
+- **Asset Growth:** -100.0%
+- **Wealth Percentile:** Wealthier than 81% of Lok Sabha MPs
 
 ---
 
@@ -70,18 +70,42 @@
 
 ---
 
+## Public Accessibility
+
+- **Platforms:** 4
+
+
+| Platform | Handle | Verified | Active |
+|----------|--------|----------|--------|
+| Twitter | [@share](https://twitter.com/share) | No | Yes |
+| Facebook | [@sharer](https://www.facebook.com/sharer) | No | Yes |
+| Instagram | [@adrspeaks](https://www.instagram.com/adrspeaks) | No | Yes |
+| Youtube | [@adrspeaks](https://www.youtube.com/user/adrspeaks) | No | Yes |
+
+---
+
 ## In The News
 
 *Mixed/neutral coverage (10 articles)*
 
 - **Total Articles:** 10
-- **Positive:** 1 | **Negative:** 0 | **Neutral:** 9
+- **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
 
 - Manipur Naga body prescribes social boycott of Congress MP-elect, 2 others - The Hindu (The Hindu) [neutral]
-- Replace CM N Biren Singh to restore peace in state: Manipur MP in Parliament - The Indian Express (The Indian Express) [neutral]
-- Outer Manipur (ST) Lok Sabha election results 2024: INC's Alfred Kanngam S. Arthur beats Kachui Timothy Z - The Times of India (The Times of India) [neutral]
-- Manipur MP Alfred Kanngam S Arthur Reviews Flagship Schemes In Kakching District - Northeast Today (Northeast Today) [neutral]
 - Congress's Manipur MP on bringing peace in state: 'It becomes my duty' - India Today (India Today) [neutral]
+- Outer Manipur (ST) Lok Sabha election results 2024: INC's Alfred Kanngam S. Arthur beats Kachui Timothy Z - timesofindia.indiatimes.com (timesofindia.indiatimes.com) [neutral]
+- Manipur's Outer MP Alfred Kanngam S. Arthur Chairs District-Level DISHA Meeting in Kangpokpi - The Hills Journal (The Hills Journal) [neutral]
+- MP Alfred Arthur criticizes Prime Minister and Union Budget in Parliament - Imphal Times (Imphal Times) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Manipur Naga body prescribes social boycott of Congress MP-elect, 2 others - The Hindu** (The Hindu)
+- ! **Congress's Manipur MP on bringing peace in state: 'It becomes my duty' - India Today** (India Today)
+- ! **Outer Manipur (ST) Lok Sabha election results 2024: INC's Alfred Kanngam S. Arthur beats Kachui Timothy Z - timesofindia.indiatimes.com** (timesofindia.indiatimes.com)
+- ! **Manipur's Outer MP Alfred Kanngam S. Arthur Chairs District-Level DISHA Meeting in Kangpokpi - The Hills Journal** (The Hills Journal)
+- ! **MP Alfred Arthur criticizes Prime Minister and Union Budget in Parliament - Imphal Times** (Imphal Times)
 
 ---
 
@@ -95,7 +119,7 @@
 
 ## Qualitative Assessment
 
-Alfred Kanngam S Arthur shows moderate transparency with a score of 54.8/100. No criminal cases declared. Limited participation in parliamentary proceedings.
+Alfred Kanngam S Arthur shows moderate transparency with a score of 62.1/100. No criminal cases declared. Limited participation in parliamentary proceedings.
 
 ---
 
@@ -139,7 +163,7 @@ No criminal cases declared. Declared assets: Rs 555,326,115. MPLADS utilization:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -238,11 +262,12 @@ Time limit: PIO must respond within 30 days of receipt.
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
 | Assets | myneta | Official (B) |
+| Committees | sansad | LLM/Estimated (E) |
 | Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: myneta, prs, social_media, news, mplads*
+*Sources consulted: myneta, prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

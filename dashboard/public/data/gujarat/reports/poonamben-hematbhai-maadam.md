@@ -3,24 +3,22 @@
 **Constituency:** Jamnagar, Gujarat
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 49
-**Education:** Graduate
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (44%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 57.4 / 100
+## Composite Transparency Score: 60.2 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 8.4 | 25% |
-| Asset Growth | 50.0 | 15% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 90.0 | 10% |
 | Questions & Debates | 80.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
-| Public Accessibility | 15.0 | 5% |
+| Public Accessibility | 85.0 | 5% |
 | Legislative Effectiveness | 40.0 | 10% |
 
 ---
@@ -38,14 +36,13 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 147.70 Crore
-- **Liabilities:** Rs 53.00 Crore
-- **Net Worth:** Rs 94.70 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 95% of Lok Sabha MPs
 
 ---
 
@@ -69,6 +66,19 @@
 
 ---
 
+## Public Accessibility
+
+- **Platforms:** 3
+
+
+| Platform | Handle | Verified | Active |
+|----------|--------|----------|--------|
+| Twitter | [@http://x.com/poonambenmaadam](https://x.com/http://x.com/poonambenmaadam) | No | Yes |
+| Facebook | [@www.facebook.com/poonambenmaadam](https://facebook.com/www.facebook.com/poonambenmaadam) | No | Yes |
+| Instagram | [@www.facebook.com/poonambenmaadam](https://instagram.com/www.facebook.com/poonambenmaadam) | No | Yes |
+
+---
+
 ## In The News
 
 *Mixed/neutral coverage (10 articles)*
@@ -76,29 +86,41 @@
 - **Total Articles:** 10
 - **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
 
+- BJP MP Poonam Maadam throws bold public challenge: Uncle Vikram Maadam responds, promises photo with Rahul ... - bhaskarenglish.in (bhaskarenglish.in) [neutral]
 - Jamnagar Lok Sabha Seat Results Live 2024: BJP's Poonamben Maadam Wins By Over 2.3 Lakh votes - ETV Bharat (ETV Bharat) [neutral]
 - Jamnagar election results 2024 live updates: BJP's Poonamben Hematbhai Maadam wins against Cong's J P Mar - The Times of India (The Times of India) [neutral]
-- Poonamben Hemantbhai Maadam: Age, Biography, Education, Husband, Caste, Net Worth & More - Oneindia (Oneindia) [neutral]
-- BJP MP Poonam Maadam throws bold public challenge: Uncle Vikram Maadam responds, promises photo with Rahul ... - Bhaskar English (Bhaskar English) [neutral]
-- The Gujarat Waqf Board did not claim that 'Beyt Dwarka' belongs to them; case related to 'Shiyalbet' is being falsely linked to 'Beyt Dwarka' - FACTLY (FACTLY) [neutral]
+- Jamnagar Election Result 2024 LIVE Updates Highlights: Poonamben Hematbhai Maadam of BJP Wins - News18 (News18) [neutral]
+- BJP MP Poonamben Maadam falls into 8-foot-deep drain after cover collapses in Jamnagar - Scroll.in (Scroll.in) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **BJP MP Poonam Maadam throws bold public challenge: Uncle Vikram Maadam responds, promises photo with Rahul ... - bhaskarenglish.in** (bhaskarenglish.in)
+- ! **Jamnagar Lok Sabha Seat Results Live 2024: BJP's Poonamben Maadam Wins By Over 2.3 Lakh votes - ETV Bharat** (ETV Bharat)
+- ! **Jamnagar election results 2024 live updates: BJP's Poonamben Hematbhai Maadam wins against Cong's J P Mar - The Times of India** (The Times of India)
+- ! **Jamnagar Election Result 2024 LIVE Updates Highlights: Poonamben Hematbhai Maadam of BJP Wins - News18** (News18)
+- ! **BJP MP Poonamben Maadam falls into 8-foot-deep drain after cover collapses in Jamnagar - Scroll.in** (Scroll.in)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Gujarat: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Poonamben Hematbhai Maadam shows moderate transparency with a score of 57.4/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Poonamben Hematbhai Maadam shows moderate transparency with a score of 60.2/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-No criminal cases declared. Declared assets: Rs 1,477,002,341. MPLADS utilization: 10.5%. Parliament attendance: 90.0%. Questions asked: 55. Debates participated: 5.
+No criminal cases declared. MPLADS utilization: 10.5%. Parliament attendance: 90.0%. Questions asked: 55. Debates participated: 5. Low confidence data: Assets. 1 warning(s) noted.
 
 ---
 
@@ -138,7 +160,7 @@ No criminal cases declared. Declared assets: Rs 1,477,002,341. MPLADS utilizatio
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -236,12 +258,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

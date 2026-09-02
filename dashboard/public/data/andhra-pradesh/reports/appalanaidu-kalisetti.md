@@ -3,19 +3,17 @@
 **Constituency:** Vizianagaram, Andhra Pradesh
 **Party:** Telugu Desam Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 50
-**Education:** Graduate Professional
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (37%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 58.7 / 100
+## Composite Transparency Score: 57.2 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 8.7 | 25% |
-| Asset Growth | 55.0 | 15% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 100.0 | 10% |
 | Questions & Debates | 70.0 | 10% |
@@ -38,14 +36,13 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 6.24 Crore
-- **Liabilities:** Rs 66.71 Lakh
-- **Net Worth:** Rs 5.57 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 45% of Lok Sabha MPs
 
 ---
 
@@ -74,31 +71,43 @@
 *Mixed/neutral coverage (10 articles)*
 
 - **Total Articles:** 10
-- **Positive:** 1 | **Negative:** 0 | **Neutral:** 9
+- **Positive:** 2 | **Negative:** 0 | **Neutral:** 8
 
+- Vizianagaram MP Kalisetti Appalanaidu seeks Centre’s help to bring back stranded seafarers - newindianexpress.com (newindianexpress.com) [neutral]
+- Vizianagaram MP Kalisetti Appalanaidu presents handwoven garments to PM Modi on National Handloom Day - thenewsmill.com (thenewsmill.com) [neutral]
+- Andhra CM Chandrababu Naidu invites PM Modi for Bhogapuram Airport inauguration, praises TDP MP Kalisetti Appalanaidu - aninews.in (aninews.in) [neutral]
 - VB-G RAM G scheme a boon for rural people says MP Kalisetti Appala Naidu - The Hindu (The Hindu) [positive]
-- MP Kalisetti walks down memory lane to Mettavalasa school - The Hans India (The Hans India) [neutral]
 - TDP MP Appalanaidu Kalisetti's Third Child Incentive Wins PM Modi’s Praise - Deccan Chronicle (Deccan Chronicle) [neutral]
-- Andhra: TDP MP Kalisetti Appalanaidu offers incentives for third child; Rs 50,000 for girl, cow for boy - ANI News (ANI News) [neutral]
-- Andhra MP promises Rs 50,000 for women who have third girl child, cow for boy - India Today (India Today) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Vizianagaram MP Kalisetti Appalanaidu seeks Centre’s help to bring back stranded seafarers - newindianexpress.com** (newindianexpress.com)
+- ! **Vizianagaram MP Kalisetti Appalanaidu presents handwoven garments to PM Modi on National Handloom Day - thenewsmill.com** (thenewsmill.com)
+- ! **Andhra CM Chandrababu Naidu invites PM Modi for Bhogapuram Airport inauguration, praises TDP MP Kalisetti Appalanaidu - aninews.in** (aninews.in)
+- ! **VB-G RAM G scheme a boon for rural people says MP Kalisetti Appala Naidu - The Hindu** (The Hindu)
+- ! **TDP MP Appalanaidu Kalisetti's Third Child Incentive Wins PM Modi’s Praise - Deccan Chronicle** (Deccan Chronicle)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Andhra Pradesh: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Appalanaidu Kalisetti shows moderate transparency with a score of 58.7/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Appalanaidu Kalisetti shows moderate transparency with a score of 57.2/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-No criminal cases declared. Declared assets: Rs 62,365,187. MPLADS utilization: 10.8%. Parliament attendance: 100.0%. Questions asked: 53. Debates participated: 4.
+No criminal cases declared. MPLADS utilization: 10.8%. Parliament attendance: 100.0%. Questions asked: 53. Debates participated: 4. Low confidence data: Assets. 1 warning(s) noted.
 
 ---
 
@@ -138,7 +147,7 @@ No criminal cases declared. Declared assets: Rs 62,365,187. MPLADS utilization: 
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -236,12 +245,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

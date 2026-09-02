@@ -3,20 +3,18 @@
 **Constituency:** Bargarh, Odisha
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 58
-**Education:** 10th Pass
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (39%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 43.7 / 100
+## Composite Transparency Score: 37.4 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 8.3 | 25% |
-| Asset Growth | 60.0 | 15% |
-| Criminal Record | 20.0 | 15% |
+| Asset Growth | 45.0 | 15% |
+| Criminal Record | 0.0 | 15% |
 | Parliament Attendance | 95.0 | 10% |
 | Questions & Debates | 80.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
@@ -28,24 +26,34 @@
 ## Criminal Record
 
 - **Total Cases:** 8
-- **Serious Cases:** 0
+- **Serious Cases:** 2
 - **Convictions:** 0
 - **Pending Cases:** 8
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
+### Cases Detail
+
+1. 219 Dt. 01-11-2021 of Paikmal P.S. At/PO Paikmal Dist. Bargarh (Odisha) (Sections: 143, 149, 341, 283) [pending] 
+2. 33 Dt. 11-03-2020 of Paikmal P.S. At/Po- Paikmal Dist. Bargarh (Odisha) (Sections: 143, 149, 341, 283) [pending] 
+3. 21 Dt. 18-02-11 of Paikmal P.S. At/Po- Paikmal Dist. Bargarh (Sections: 143, 283, 341, 431, 149) [pending] 
+4. 03 Dt. 06-01-11 of Padampur P.S.  At/Po- Padampur Dist. Bargarh (Odisha) | Sec,3(i)(x) ST & SC (PA) Act (Sections: 147, 294, 323, 506, 149) [pending] 
+5. 05 Dt. 03-01-11 of Paikmal P.S. At/Po- Paikmal, Dist. Bargarh (Odisha) (Sections: 147, 323, 294, 307, 506, 149) [pending] **SERIOUS**
+6. 174 Dt. 31-12-2010 of Paikmal P.S. At/Po- Paikmal Dist. Bargarh  Odisha | Sec. 7 CRL Act (Sections: 147, 341, 353, 332, 294, 506, 149) [pending] 
+7. 175 Dt. 31-12-2010 of Paikmal P.S. At/Po- Paikmal Dist. Bargarh Odisha | Sec,3(i)(x) ST & SC (PA) Act (Sections: 147, 341, 452, 353, 332, 294, 506, 307, 149) [pending] **SERIOUS**
+8. 72 Dt. 24-06-2010 of Paikmal P.S. At/Po- Paikmal Dist. Bargarh | Sec,3(i)(x) ST & SC (PA) Act (Sections: 143, 294, 342, 506, 149) [pending] 
+
 ---
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 2.26 Crore
-- **Liabilities:** Rs 6.77 Lakh
-- **Net Worth:** Rs 2.19 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 20% of Lok Sabha MPs
 
 ---
 
@@ -76,29 +84,41 @@
 - **Total Articles:** 10
 - **Positive:** 1 | **Negative:** 0 | **Neutral:** 9
 
-- Union Minister Pradhan nominated as Sambalpur Railway Divisional Committee Chairman - prameyanews.com (prameyanews.com) [neutral]
-- Bargarh Odisha Bharatiya Janata Party - The Times of India (The Times of India) [neutral]
+- Pradeep Purohit urges centre to provide special development package for Padampur - The New Indian Express (The New Indian Express) [positive]
+- Amit Shah to inaugurate ethanol plant in Bargarh on July 4 - The Times of India (The Times of India) [neutral]
+- Amit Shah’s Odisha visit on July 4: To inaugurate major industrial project in Bargarh - prameyanews.com (prameyanews.com) [neutral]
+- Odisha govt suspends three senior engineers over lapses in Bargarh canal work - The New Indian Express (The New Indian Express) [neutral]
 - Bargarh lok sabha election results 2024: Bargarh Winning Candidates List and Vote Share - India Today (India Today) [neutral]
-- BJP MP Pradeep Purohit takes swipe at VK Pandian - Odisha TV (Odisha TV) [neutral]
-- Bargarh MP seeks Amit Shah’s help for protection of Gandhamardan Hills - The New Indian Express (The New Indian Express) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Pradeep Purohit urges centre to provide special development package for Padampur - The New Indian Express** (The New Indian Express)
+- ! **Amit Shah to inaugurate ethanol plant in Bargarh on July 4 - The Times of India** (The Times of India)
+- ! **Amit Shah’s Odisha visit on July 4: To inaugurate major industrial project in Bargarh - prameyanews.com** (prameyanews.com)
+- ! **Odisha govt suspends three senior engineers over lapses in Bargarh canal work - The New Indian Express** (The New Indian Express)
+- ! **Bargarh lok sabha election results 2024: Bargarh Winning Candidates List and Vote Share - India Today** (India Today)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Odisha: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Pradeep Purohit has a below-average transparency score of 43.7/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Pradeep Purohit has a below-average transparency score of 37.4/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-Has 8 criminal case(s) (0 serious), 8 pending, 0 conviction(s). Declared assets: Rs 22,595,410. MPLADS utilization: 10.4%. Parliament attendance: 95.0%. Questions asked: 51. Debates participated: 7.
+Has 8 criminal case(s) (2 serious), 8 pending, 0 conviction(s). MPLADS utilization: 10.4%. Parliament attendance: 95.0%. Questions asked: 51. Debates participated: 7. Low confidence data: Assets. 1 warning(s) noted.
 
 ---
 
@@ -138,7 +158,7 @@ Has 8 criminal case(s) (0 serious), 8 pending, 0 conviction(s). Declared assets:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -236,12 +256,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

@@ -3,24 +3,22 @@
 **Constituency:** Shahdol, Madhya Pradesh
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 37
-**Education:** Graduate
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (44%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 59.7 / 100
+## Composite Transparency Score: 61.0 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 27.3 | 25% |
-| Asset Growth | 60.0 | 15% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 90.0 | 10% |
 | Questions & Debates | 50.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
-| Public Accessibility | 15.0 | 5% |
+| Public Accessibility | 85.0 | 5% |
 | Legislative Effectiveness | 40.0 | 10% |
 
 ---
@@ -38,14 +36,13 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 5.02 Crore
-- **Liabilities:** Rs 42.84 Lakh
-- **Net Worth:** Rs 4.59 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 39% of Lok Sabha MPs
 
 ---
 
@@ -69,6 +66,19 @@
 
 ---
 
+## Public Accessibility
+
+- **Platforms:** 3
+
+
+| Platform | Handle | Verified | Active |
+|----------|--------|----------|--------|
+| Twitter | [@http://www.twitter.com/HIMADRI 4 BJP](https://x.com/http://www.twitter.com/HIMADRI 4 BJP) | No | Yes |
+| Facebook | [@http://www.facebook.com/HIMADRI SINGH](https://facebook.com/http://www.facebook.com/HIMADRI SINGH) | No | Yes |
+| Instagram | [@http://www.instagram.com/HIMADRI 4 BJP](https://instagram.com/http://www.instagram.com/HIMADRI 4 BJP) | No | Yes |
+
+---
+
 ## In The News
 
 *Mixed/neutral coverage (10 articles)*
@@ -77,28 +87,40 @@
 - **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
 
 - BJP leader crushed to death by Bolero: Murder mystery deepens in BJP MP Himadri Singh’s female assistant ca... - Bhaskar English (Bhaskar English) [neutral]
-- दिल्ली से पढ़ीं BJP सांसद ने अपनी बेटी का गांव के सरकारी स्कूल में कराया एडमिशन, उमा भारती ने बताया आदर्श उदाहरण - AajTak (AajTak) [neutral]
 - Two women slug it out in Shahdol - The Times of India (The Times of India) [neutral]
-- Himadri Singh, Daughter of Former Congress Union Minister, Joins BJP in Madhya Pradesh - News18 (News18) [neutral]
+- Denied ticket from Shahdol, MP Gyan Singh announces to contest LS polls as independent - The New Indian Express (The New Indian Express) [neutral]
 - Shahdol lok sabha election results 2024: Shahdol Winning Candidates List and Vote Share - India Today (India Today) [neutral]
+- Shivraj Singh Chouhan from Vidisha, Jyotiraditya Scindia fielded in Guna in BJP's 1st list - The Times of India (The Times of India) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **BJP leader crushed to death by Bolero: Murder mystery deepens in BJP MP Himadri Singh’s female assistant ca... - Bhaskar English** (Bhaskar English)
+- ! **Two women slug it out in Shahdol - The Times of India** (The Times of India)
+- ! **Denied ticket from Shahdol, MP Gyan Singh announces to contest LS polls as independent - The New Indian Express** (The New Indian Express)
+- ! **Shahdol lok sabha election results 2024: Shahdol Winning Candidates List and Vote Share - India Today** (India Today)
+- ! **Shivraj Singh Chouhan from Vidisha, Jyotiraditya Scindia fielded in Guna in BJP's 1st list - The Times of India** (The Times of India)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Madhya Pradesh: 8 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Himadri Singh shows moderate transparency with a score of 59.7/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
+Himadri Singh shows moderate transparency with a score of 61.0/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
 
 ---
 
-No criminal cases declared. Declared assets: Rs 50,180,267. MPLADS utilization: 34.1%. Parliament attendance: 90.0%. Questions asked: 25. Debates participated: 3.
+No criminal cases declared. MPLADS utilization: 34.1%. Parliament attendance: 90.0%. Questions asked: 25. Debates participated: 3. Low confidence data: Assets. 1 warning(s) noted.
 
 ---
 
@@ -138,7 +160,7 @@ No criminal cases declared. Declared assets: Rs 50,180,267. MPLADS utilization: 
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -236,12 +258,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

@@ -3,24 +3,22 @@
 **Constituency:** Machhlishahr, Uttar Pradesh
 **Party:** Samajwadi Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 25
-**Education:** Graduate Professional
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (46%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 52.4 / 100
+## Composite Transparency Score: 55.1 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 29.3 | 25% |
-| Asset Growth | 50.0 | 15% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 80.0 | 15% |
 | Parliament Attendance | 95.0 | 10% |
 | Questions & Debates | 20.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
-| Public Accessibility | 15.0 | 5% |
+| Public Accessibility | 85.0 | 5% |
 | Legislative Effectiveness | 40.0 | 10% |
 
 ---
@@ -34,18 +32,22 @@
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
+### Cases Detail
+
+1. 0111/2024, Police Station Madiyahun, Dist. Jaunpur, UP (Sections: 171F, 188) [pending] 
+2. 0096/2024, Police Station Phulpur, Dist. Varanasi, UP (Sections: 171F, 142, 188) [pending] 
+
 ---
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 11.26 Lakh
-- **Liabilities:** Rs 0
-- **Net Worth:** Rs 11.26 Lakh
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 1% of Lok Sabha MPs
 
 ---
 
@@ -69,36 +71,61 @@
 
 ---
 
+## Public Accessibility
+
+- **Platforms:** 3
+
+
+| Platform | Handle | Verified | Active |
+|----------|--------|----------|--------|
+| Twitter | [@https://x.com/priyasarojMP](https://x.com/https://x.com/priyasarojMP) | No | Yes |
+| Facebook | [@https://www.facebook.com/SarojpriyaSp/](https://facebook.com/https://www.facebook.com/SarojpriyaSp/) | No | Yes |
+| Instagram | [@https://www.instagram.com/ipriyasarojmp](https://instagram.com/https://www.instagram.com/ipriyasarojmp) | No | Yes |
+
+---
+
 ## In The News
 
 *Mixed/neutral coverage (10 articles)*
 
 - **Total Articles:** 10
-- **Positive:** 0 | **Negative:** 1 | **Neutral:** 9
+- **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
 
-- SP MP Priya Saroj Files Complaint Against BJP Leaders Over AI-Generated Morphed Images - ABP News (ABP News) [negative]
-- Priya Saroj cheers for Rinku in Lucknow, pays tribute to late father-in-law: Video - MSN (MSN) [neutral]
-- ... तो क्रिकेटर रिंकू सिंह से नहीं IAS से होती MP प्र‍िया सरोज की शादी, ऐसे शुरू हुई कपल की लव स्टोरी, VIDEO - AajTak (AajTak) [neutral]
-- Who Is Priya Saroj? Meet Rinku Singh’s Would-Be Wife, Young Samajwadi MP and Lawyer - Asianet Newsable (Asianet Newsable) [neutral]
-- Rinku Singh Visits Kashi Vishwanath Temple with Fiancee Priya Saroj, Fans Gather in Varanasi - Dailyhunt (Dailyhunt) [neutral]
+- Priya Saroj cheers for Rinku in Lucknow, pays tribute to late father-in-law: Video - India Today (India Today) [neutral]
+- Who is Priya Saroj? Samajwadi Party MP engaged with cricketer Rinku Singh - Livemint (Livemint) [neutral]
+- Rinku Singh Engaged To SP MP Priya Saroj? - Rediff (Rediff) [neutral]
+- Who is Priya Saroj, Samajwadi Party Engaged to Cricketer Rinku Singh - Deccan Chronicle (Deccan Chronicle) [neutral]
+- Who is Priya Saroj? The 25-year-old MP linked to cricketer Rinku Singh - The Times of India (The Times of India) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Priya Saroj cheers for Rinku in Lucknow, pays tribute to late father-in-law: Video - India Today** (India Today)
+- ! **Who is Priya Saroj? Samajwadi Party MP engaged with cricketer Rinku Singh - Livemint** (Livemint)
+- ! **Rinku Singh Engaged To SP MP Priya Saroj? - Rediff** (Rediff)
+- ! **Who is Priya Saroj, Samajwadi Party Engaged to Cricketer Rinku Singh - Deccan Chronicle** (Deccan Chronicle)
+- ! **Who is Priya Saroj? The 25-year-old MP linked to cricketer Rinku Singh - The Times of India** (The Times of India)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Uttar Pradesh: 8 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Priya Saroj shows moderate transparency with a score of 52.4/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance. Limited participation in parliamentary proceedings.
+Priya Saroj shows moderate transparency with a score of 55.1/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance. Limited participation in parliamentary proceedings.
 
 ---
 
-Has 2 criminal case(s) (0 serious), 2 pending, 0 conviction(s). Declared assets: Rs 1,125,719. MPLADS utilization: 36.6%. Parliament attendance: 95.0%. Debates participated: 4.
+Has 2 criminal case(s) (0 serious), 2 pending, 0 conviction(s). MPLADS utilization: 36.6%. Parliament attendance: 95.0%. Debates participated: 4. Low confidence data: Assets. 1 warning(s) noted.
 
 ---
 
@@ -138,7 +165,7 @@ Has 2 criminal case(s) (0 serious), 2 pending, 0 conviction(s). Declared assets:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -236,12 +263,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

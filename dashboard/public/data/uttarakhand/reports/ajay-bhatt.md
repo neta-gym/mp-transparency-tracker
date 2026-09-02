@@ -7,21 +7,21 @@
 **Education:** Graduate Professional
 **Profession:** Salary from India Govt
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Medium (56%) | **Evidence Grade:** Third-party (C)
 
 ---
 
-## Composite Transparency Score: 57.3 / 100
+## Composite Transparency Score: 64.5 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 18.8 | 25% |
-| Asset Growth | 60.0 | 15% |
+| Asset Growth | 85.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 85.0 | 10% |
 | Questions & Debates | 50.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
-| Public Accessibility | 15.0 | 5% |
+| Public Accessibility | 85.0 | 5% |
 | Legislative Effectiveness | 40.0 | 10% |
 
 ---
@@ -39,13 +39,13 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
+- **Movable Assets:** Rs 2.00 Crore
+- **Immovable Assets:** Rs 2.87 Crore
 - **Total Assets:** Rs 4.87 Crore
 - **Liabilities:** Rs 19.05 Lakh
 - **Net Worth:** Rs 4.68 Crore
-- **Previous Total Assets:** N/A
-- **Asset Growth:** N/A
+- **Previous Total Assets:** Rs 196995291.00 Crore
+- **Asset Growth:** -100.0%
 - **Wealth Percentile:** Wealthier than 38% of Lok Sabha MPs
 
 ---
@@ -70,6 +70,20 @@
 
 ---
 
+## Public Accessibility
+
+- **Platforms:** 4
+
+
+| Platform | Handle | Verified | Active |
+|----------|--------|----------|--------|
+| Twitter | [@share](https://twitter.com/share) | No | Yes |
+| Facebook | [@sharer](https://www.facebook.com/sharer) | No | Yes |
+| Instagram | [@adrspeaks](https://www.instagram.com/adrspeaks) | No | Yes |
+| Youtube | [@adrspeaks](https://www.youtube.com/user/adrspeaks) | No | Yes |
+
+---
+
 ## In The News
 
 *Mixed/neutral coverage (10 articles)*
@@ -78,10 +92,20 @@
 - **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
 
 - Big push given to hill tourism in U’khand, Centre informs MP Ajay Bhatt in Lok Sabha - Garhwal Post (Garhwal Post) [neutral]
-- ‘If your cow isn’t giving milk, say Jai Shri Ram’: BJP MP Ajay Bhatt says chanting religious slogan will so... - Bhaskar English (Bhaskar English) [neutral]
-- Nainital Udhamsingh Nagar election results 2024 live updates: Ajay Bhatt of BJP wins against Prakash Josh - The Times of India (The Times of India) [neutral]
-- Lok Sabha Elections 2024: Triumphs And Transitions - The Nainital-Udhamsingh Nagar Saga - NDTV (NDTV) [neutral]
-- Political Profile of Ajay Bhatt, Bjp Party, Nainital-udhamsingh Nagar, and Net Worth - India TV News (India TV News) [neutral]
+- Nainital-Udhamsingh Nagar election results 2024 live updates: BJP's Ajay Bhatt wins - The Times of India (The Times of India) [neutral]
+- ‘If your cow isn’t giving milk, say Jai Shri Ram’: BJP MP Ajay Bhatt says chanting religious slogan will so... - bhaskarenglish.in (bhaskarenglish.in) [neutral]
+- Nainital-Udhamsingh Nagar Election Result 2024 Live Updates: BJP's Ajay Bhatt Has Won This Lok Sabha Seat - The Quint (The Quint) [neutral]
+- "I Am Not In Race To Become Uttarakhand Chief Minister": BJP's Ajay Bhatt - NDTV (NDTV) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Big push given to hill tourism in U’khand, Centre informs MP Ajay Bhatt in Lok Sabha - Garhwal Post** (Garhwal Post)
+- ! **Nainital-Udhamsingh Nagar election results 2024 live updates: BJP's Ajay Bhatt wins - The Times of India** (The Times of India)
+- ! **‘If your cow isn’t giving milk, say Jai Shri Ram’: BJP MP Ajay Bhatt says chanting religious slogan will so... - bhaskarenglish.in** (bhaskarenglish.in)
+- ! **Nainital-Udhamsingh Nagar Election Result 2024 Live Updates: BJP's Ajay Bhatt Has Won This Lok Sabha Seat - The Quint** (The Quint)
+- ! **"I Am Not In Race To Become Uttarakhand Chief Minister": BJP's Ajay Bhatt - NDTV** (NDTV)
 
 ---
 
@@ -95,7 +119,7 @@
 
 ## Qualitative Assessment
 
-Ajay Bhatt shows moderate transparency with a score of 57.3/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
+Ajay Bhatt shows moderate transparency with a score of 64.5/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
 
 ---
 
@@ -139,7 +163,7 @@ No criminal cases declared. Declared assets: Rs 48,714,988. MPLADS utilization: 
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -238,11 +262,12 @@ Time limit: PIO must respond within 30 days of receipt.
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
 | Assets | myneta | Official (B) |
+| Committees | sansad | LLM/Estimated (E) |
 | Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: myneta, prs, social_media, news, mplads*
+*Sources consulted: myneta, prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

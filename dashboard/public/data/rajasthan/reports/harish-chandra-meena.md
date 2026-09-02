@@ -3,24 +3,22 @@
 **Constituency:** Tonk-Sawai Madhopur, Rajasthan
 **Party:** Indian National Congress
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 69
-**Education:** Graduate
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (44%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 53.0 / 100
+## Composite Transparency Score: 54.8 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 0.0 | 25% |
-| Asset Growth | 50.0 | 15% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 85.0 | 10% |
 | Questions & Debates | 60.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
-| Public Accessibility | 15.0 | 5% |
+| Public Accessibility | 65.0 | 5% |
 | Legislative Effectiveness | 40.0 | 10% |
 
 ---
@@ -38,14 +36,13 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 23.08 Crore
-- **Liabilities:** Rs 0
-- **Net Worth:** Rs 23.08 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 74% of Lok Sabha MPs
 
 ---
 
@@ -69,6 +66,18 @@
 
 ---
 
+## Public Accessibility
+
+- **Platforms:** 2
+
+
+| Platform | Handle | Verified | Active |
+|----------|--------|----------|--------|
+| Twitter | [@@Hc_meenaMP](https://x.com/@Hc_meenaMP) | No | Yes |
+| Facebook | [@https://www.facebook.com/harish.meenamp/](https://facebook.com/https://www.facebook.com/harish.meenamp/) | No | Yes |
+
+---
+
 ## In The News
 
 *Mixed/neutral coverage (10 articles)*
@@ -76,30 +85,42 @@
 - **Total Articles:** 10
 - **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
 
+- Report card of 25 Rajasthan MPs: Receives ₹5 cr annually; most spend only a fraction; one spends nothing - bhaskarenglish.in (bhaskarenglish.in) [neutral]
 - MP seeks rly link for Tonk in LS - The Times of India (The Times of India) [neutral]
-- "Those Who Abuse Modi...": BJP Leader Refuses Blankets To Muslim Women - Cobrapost (Cobrapost) [neutral]
 - "Those Who Abuse Modi...": BJP Leader Refuses Blankets To Muslim Women - NDTV (NDTV) [neutral]
-- Ex-BJP MP takes back blanket from Muslim woman after asking her religion in Tonk; triggers row - DT Next (DT Next) [neutral]
-- Watch: 'Those who abuse PM Modi...' - Rajasthan BJP leader refuses to give Muslim women blankets - Moneycontrol.com (Moneycontrol.com) [neutral]
+- In Rajasthan's Tonk-Sawai Madhopur, Congress' Harish Chandra Meena up against two-time BJP MP Sukhbir Singh Jaunapuria - aninews.in (aninews.in) [neutral]
+- Tonk - Sawai Madhopur Lok Sabha Election Results 2024 - India Today (India Today) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Report card of 25 Rajasthan MPs: Receives ₹5 cr annually; most spend only a fraction; one spends nothing - bhaskarenglish.in** (bhaskarenglish.in)
+- ! **MP seeks rly link for Tonk in LS - The Times of India** (The Times of India)
+- ! **"Those Who Abuse Modi...": BJP Leader Refuses Blankets To Muslim Women - NDTV** (NDTV)
+- ! **In Rajasthan's Tonk-Sawai Madhopur, Congress' Harish Chandra Meena up against two-time BJP MP Sukhbir Singh Jaunapuria - aninews.in** (aninews.in)
+- ! **Tonk - Sawai Madhopur Lok Sabha Election Results 2024 - India Today** (India Today)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
 - [!] **mplads**: Extremely low utilization rate — verify data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Rajasthan: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Harish Chandra Meena shows moderate transparency with a score of 53.0/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Harish Chandra Meena shows moderate transparency with a score of 54.8/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-No criminal cases declared. Declared assets: Rs 230,794,780. MPLADS utilization: 0.0%. Parliament attendance: 85.0%. Questions asked: 32. Debates participated: 4. 1 warning(s) noted.
+No criminal cases declared. MPLADS utilization: 0.0%. Parliament attendance: 85.0%. Questions asked: 32. Debates participated: 4. Low confidence data: Assets. 2 warning(s) noted.
 
 ---
 
@@ -139,7 +160,7 @@ No criminal cases declared. Declared assets: Rs 230,794,780. MPLADS utilization:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -237,12 +258,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

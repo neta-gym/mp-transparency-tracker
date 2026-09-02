@@ -7,21 +7,21 @@
 **Education:** Others
 **Profession:** Social Worker
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Medium (57%) | **Evidence Grade:** Third-party (C)
 
 ---
 
-## Composite Transparency Score: 55.0 / 100
+## Composite Transparency Score: 62.3 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 8.9 | 25% |
-| Asset Growth | 60.0 | 15% |
+| Asset Growth | 85.0 | 15% |
 | Criminal Record | 90.0 | 15% |
 | Parliament Attendance | 90.0 | 10% |
 | Questions & Debates | 60.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
-| Public Accessibility | 15.0 | 5% |
+| Public Accessibility | 85.0 | 5% |
 | Legislative Effectiveness | 40.0 | 10% |
 
 ---
@@ -35,18 +35,22 @@
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
+### Cases Detail
+
+1. 216 Date 31/10/2011, Town Police Station, Keonjhar (Sections: 143, 341, 294, 149) [pending] 
+
 ---
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
+- **Movable Assets:** Rs 29.62 Lakh
+- **Immovable Assets:** Rs 55.24 Lakh
 - **Total Assets:** Rs 84.86 Lakh
 - **Liabilities:** Rs 1.77 Lakh
 - **Net Worth:** Rs 83.10 Lakh
-- **Previous Total Assets:** N/A
-- **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 7% of Lok Sabha MPs
+- **Previous Total Assets:** Rs 5512006.55 Crore
+- **Asset Growth:** -100.0%
+- **Wealth Percentile:** Wealthier than 8% of Lok Sabha MPs
 
 ---
 
@@ -70,18 +74,41 @@
 
 ---
 
+## Public Accessibility
+
+- **Platforms:** 3
+
+
+| Platform | Handle | Verified | Active |
+|----------|--------|----------|--------|
+| Twitter | [@https://x.com/i/flow/login?redirect_after_login=%2Fanantanayakkjr](https://x.com/https://x.com/i/flow/login?redirect_after_login=%2Fanantanayakkjr) | No | Yes |
+| Facebook | [@https://www.facebook.com/anantanayakbjp/](https://facebook.com/https://www.facebook.com/anantanayakbjp/) | No | Yes |
+| Instagram | [@https://www.instagram.com/anantanayakbjp](https://instagram.com/https://www.instagram.com/anantanayakbjp) | No | Yes |
+
+---
+
 ## In The News
 
 *Mixed/neutral coverage (10 articles)*
 
 - **Total Articles:** 10
-- **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
+- **Positive:** 1 | **Negative:** 0 | **Neutral:** 9
 
-- KISS student murder: Keonjhar MP demands immediate action - Odisha TV (Odisha TV) [neutral]
-- Ananta Nayak , BJP candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details. - The Hindu (The Hindu) [neutral]
 - Keonjhar (ST) lok sabha election results 2024: Keonjhar (ST) Winning Candidates List and Vote Share - India Today (India Today) [neutral]
-- Odisha: Can change of candidates by BJD check BJP’s growing presence in Keonjhar? - The New Indian Express (The New Indian Express) [neutral]
 - Keonjhar Election Result 2024 LIVE Updates Highlights: Ananta Nayak of BJP Wins - News18 (News18) [neutral]
+- Meet the Youngest Lok Sabha MP, Chandrani Murmu - The Quint (The Quint) [neutral]
+- From searching job to youngest ever MP at 25, amazing tale of BJD's Chandrani Murmu - The New Indian Express (The New Indian Express) [neutral]
+- CM Majhi Launches “Zero Accident Day” in Keonjhar - Pragativadi (Pragativadi) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Keonjhar (ST) lok sabha election results 2024: Keonjhar (ST) Winning Candidates List and Vote Share - India Today** (India Today)
+- ! **Keonjhar Election Result 2024 LIVE Updates Highlights: Ananta Nayak of BJP Wins - News18** (News18)
+- ! **Meet the Youngest Lok Sabha MP, Chandrani Murmu - The Quint** (The Quint)
+- ! **From searching job to youngest ever MP at 25, amazing tale of BJD's Chandrani Murmu - The New Indian Express** (The New Indian Express)
+- ! **CM Majhi Launches “Zero Accident Day” in Keonjhar - Pragativadi** (Pragativadi)
 
 ---
 
@@ -95,7 +122,7 @@
 
 ## Qualitative Assessment
 
-Ananta Nayak shows moderate transparency with a score of 55.0/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Ananta Nayak shows moderate transparency with a score of 62.3/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
@@ -139,7 +166,7 @@ Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Declared assets:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -238,11 +265,12 @@ Time limit: PIO must respond within 30 days of receipt.
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
 | Assets | myneta | Official (B) |
+| Committees | sansad | LLM/Estimated (E) |
 | Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: myneta, prs, social_media, news, mplads*
+*Sources consulted: myneta, prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

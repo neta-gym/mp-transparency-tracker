@@ -3,19 +3,17 @@
 **Constituency:** Kannur, Kerala
 **Party:** Indian National Congress
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 75
-**Education:** Post Graduate
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (39%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 34.8 / 100
+## Composite Transparency Score: 32.5 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 11.4 | 25% |
-| Asset Growth | 60.0 | 15% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 0.0 | 15% |
 | Parliament Attendance | 65.0 | 10% |
 | Questions & Debates | 70.0 | 10% |
@@ -28,24 +26,40 @@
 ## Criminal Record
 
 - **Total Cases:** 14
-- **Serious Cases:** 0
-- **Convictions:** 0
-- **Pending Cases:** 14
+- **Serious Cases:** 2
+- **Convictions:** 2
+- **Pending Cases:** 12
 - **Disposed Cases:** 0
 - **Data Source:** myneta
+
+### Cases Detail
+
+1. Cr. No. 498/2023, Cantonment Police Station Thiruvanathapuram | Section 77(B), 39, 121 of K.P. Act. (Sections: 143, 147, 149, 283) [pending] 
+2. Cr. No. 1124/2023, Cantonment Police Station, Thiruvanathapuram | Section 77(B), 39, 121 of K.P. Act. (Sections: 143, 147, 149, 283) [pending] 
+3. Cr. No. 1168/2022, Cantonment Police Station Thiruvanathapuram | Section 77(B), 39, 121 of K.P. Act. (Sections: 143, 147, 149, 283) [pending] 
+4. Cr. No. 584/2011, Museum Police Station Thiruvanathapuram (Sections: 143, 147, 149, 283) [pending] 
+5. Cr. No. 1650/2023, Museum Police Station Thiruvanathapuram | Section 39, 121 of K.P. Act & Section 5 of PDPP Act (Sections: 143, 147, 149, 283, 324, 353) [pending] 
+6. Cr. No. 925/2021, Museum Police Station Thiruvanathapuram | Section 4(2)(e) 5 of KEDO (Sections: 143, 147, 149, 283) [pending] 
+7. Cr. No. 902/2023 , Central Police Station Ernakulam (Sections: 153) [pending] 
+8. Cr. No. 521/2022, Ernakulam Palarivattom Police Station (Sections: 153) [pending] 
+9. Cr. No. 522/2019, Kannur Town Police Station (Sections: 171C, 171G, 509, 505(2)) [pending] 
+10. 260/CB/CU11/EKM/D/2021, Ernakulam Crime Branch | Charge Sheet Filed on 26.02.2024 (Sections: 420, 120B, 34) [pending] **SERIOUS**
+11. 148/1997, Shangumugam Police Station, Thiruvanathapuram (Sections: 120B) [pending] **SERIOUS**
+12. Thambanur Police Station | Section 39, 121 K.P. Act. and Section 4 KEDO Act. (Sections: 143, 147, 283) [pending] 
+13. No description (Sections: 143, 147, 283, 149) [convicted] 
+14. Section 118E, Section 14(2)(a) and Section 5 of KEDO Act (Sections: 143, 145, 147, 148, 269, 283, 149) [convicted] 
 
 ---
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 6.30 Crore
-- **Liabilities:** Rs 59.34 Lakh
-- **Net Worth:** Rs 5.70 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 45% of Lok Sabha MPs
 
 ---
 
@@ -77,28 +91,40 @@
 - **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
 
 - Kerala Assembly Elections 2026: KPCC tries to persuade K. Sudhakaran to step back from Kannur race; MP’s emotional post sparks debate - The Hindu (The Hindu) [neutral]
-- Kerala CM selection: MP K Sudhakaran heads to Delhi as talks reach final stage - Mathrubhumi English (Mathrubhumi English) [neutral]
-- Sudhakaran crisis averted in Kerala as senior Cong leader Antony steps in - The News Minute (The News Minute) [neutral]
 - 'Rejected' Sudhakaran becomes cynosure of all eyes in Kannur - The New Indian Express (The New Indian Express) [neutral]
-- Emotional K Sudhakaran tries to reconnect with base in Kannur - The Times of India (The Times of India) [neutral]
+- Sudhakaran crisis averted in Kerala as senior Cong leader Antony steps in - The News Minute (The News Minute) [neutral]
+- Kerala Assembly elections: K Sudhakaran decides not to contest from Kannur seat - The Federal (The Federal) [neutral]
+- Congress's resolute stand, local pushback force MP’s retreat - The Times of India (The Times of India) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Kerala Assembly Elections 2026: KPCC tries to persuade K. Sudhakaran to step back from Kannur race; MP’s emotional post sparks debate - The Hindu** (The Hindu)
+- ! **'Rejected' Sudhakaran becomes cynosure of all eyes in Kannur - The New Indian Express** (The New Indian Express)
+- ! **Sudhakaran crisis averted in Kerala as senior Cong leader Antony steps in - The News Minute** (The News Minute)
+- ! **Kerala Assembly elections: K Sudhakaran decides not to contest from Kannur seat - The Federal** (The Federal)
+- ! **Congress's resolute stand, local pushback force MP’s retreat - The Times of India** (The Times of India)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Kerala: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-K Sudhakaran has a below-average transparency score of 34.8/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. Active in questions and debates.
+K Sudhakaran has a below-average transparency score of 32.5/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. Active in questions and debates.
 
 ---
 
-Has 14 criminal case(s) (0 serious), 14 pending, 0 conviction(s). Declared assets: Rs 62,979,919. MPLADS utilization: 14.2%. Parliament attendance: 65.0%. Questions asked: 57. Debates participated: 3.
+Has 14 criminal case(s) (2 serious), 12 pending, 2 conviction(s). MPLADS utilization: 14.2%. Parliament attendance: 65.0%. Questions asked: 57. Debates participated: 3. Low confidence data: Assets. 1 warning(s) noted.
 
 ---
 
@@ -138,7 +164,7 @@ Has 14 criminal case(s) (0 serious), 14 pending, 0 conviction(s). Declared asset
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -236,12 +262,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

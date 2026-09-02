@@ -3,20 +3,18 @@
 **Constituency:** Balasore, Odisha
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 69
-**Education:** Graduate
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (39%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 33.0 / 100
+## Composite Transparency Score: 30.3 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 1.4 | 25% |
-| Asset Growth | 50.0 | 15% |
-| Criminal Record | 10.0 | 15% |
+| Asset Growth | 45.0 | 15% |
+| Criminal Record | 0.0 | 15% |
 | Parliament Attendance | 70.0 | 10% |
 | Questions & Debates | 60.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
@@ -28,24 +26,35 @@
 ## Criminal Record
 
 - **Total Cases:** 9
-- **Serious Cases:** 0
+- **Serious Cases:** 1
 - **Convictions:** 0
 - **Pending Cases:** 9
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
+### Cases Detail
+
+1. No description (Sections: 147, 294, 323, 506, 425, 149) [pending] 
+2. No description (Sections: 185, 427) [pending] 
+3. No description (Sections: 188, 427) [pending] 
+4. Section 3(i)(x) of SC ST POA Act. (Sections: 143, 294, 323, 506, 34) [pending] 
+5. Section 32 PA (Sections: 153A, 34) [pending] 
+6. No description (Sections: 294, 323, 384, 506, 34) [pending] 
+7. No description (Sections: 294, 323, 384, 506, 34) [pending] 
+8. No description (Sections: 188, 427) [pending] 
+9. Section 125A of RPA (Sections: 177, 181, 465, 471, 409) [pending] **SERIOUS**
+
 ---
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 49.59 Lakh
-- **Liabilities:** Rs 0
-- **Net Worth:** Rs 49.59 Lakh
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 5% of Lok Sabha MPs
 
 ---
 
@@ -76,30 +85,42 @@
 - **Total Articles:** 10
 - **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
 
-- Balasore Ex-MP Rabindra Jena Quits BJD Amid Rajya Sabha Buzz – BJP Switch on Cards? - pragativadi.com (pragativadi.com) [neutral]
-- Jiban quits BJP opposing Rabindra’s induction - The Hans India (The Hans India) [neutral]
-- BJD accuses government of inaction against illegal mining in Odisha - The New Indian Express (The New Indian Express) [neutral]
-- Balasore self-immolation case: BJP MP Pratap Sarangi calls incident "unprecedented" - ANI News (ANI News) [neutral]
-- Begunia school headmaster, assistant held responsible for chaining minor boy for 10 days - The New Indian Express (The New Indian Express) [neutral]
+- Balasore election results 2024 live updates: BJP's Pratap Chandra Sarangi triumphs in Balasore, Defeats B - The Times of India (The Times of India) [neutral]
+- Balasore self-immolation case: BJP MP Pratap Sarangi calls incident "unprecedented" - aninews.in (aninews.in) [neutral]
+- "Rahul Gandhi Behaved Like A Bouncer": BJP MP Injured In Parliament Stand-Off - NDTV (NDTV) [neutral]
+- Who is Pratap Chandra Sarangi, the BJP MP in ICU after scuffle outside Parliament? - Moneycontrol.com (Moneycontrol.com) [neutral]
+- Pratap Chandra Sarangi: New Balasore MP known for frugal living vanquishes media tycoon and an industrialist; shocks BJD - Firstpost (Firstpost) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Balasore election results 2024 live updates: BJP's Pratap Chandra Sarangi triumphs in Balasore, Defeats B - The Times of India** (The Times of India)
+- ! **Balasore self-immolation case: BJP MP Pratap Sarangi calls incident "unprecedented" - aninews.in** (aninews.in)
+- ! **"Rahul Gandhi Behaved Like A Bouncer": BJP MP Injured In Parliament Stand-Off - NDTV** (NDTV)
+- ! **Who is Pratap Chandra Sarangi, the BJP MP in ICU after scuffle outside Parliament? - Moneycontrol.com** (Moneycontrol.com)
+- ! **Pratap Chandra Sarangi: New Balasore MP known for frugal living vanquishes media tycoon and an industrialist; shocks BJD - Firstpost** (Firstpost)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
 - [!] **mplads**: Extremely low utilization rate — verify data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Odisha: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Pratap Chandra Sarangi has a below-average transparency score of 33.0/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. Active in questions and debates.
+Pratap Chandra Sarangi has a below-average transparency score of 30.3/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. Active in questions and debates.
 
 ---
 
-Has 9 criminal case(s) (0 serious), 9 pending, 0 conviction(s). Declared assets: Rs 4,959,072. MPLADS utilization: 1.7%. Parliament attendance: 70.0%. Questions asked: 46. Debates participated: 2. 1 warning(s) noted.
+Has 9 criminal case(s) (1 serious), 9 pending, 0 conviction(s). MPLADS utilization: 1.7%. Parliament attendance: 70.0%. Questions asked: 46. Debates participated: 2. Low confidence data: Assets. 2 warning(s) noted.
 
 ---
 
@@ -139,7 +160,7 @@ Has 9 criminal case(s) (0 serious), 9 pending, 0 conviction(s). Declared assets:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -237,12 +258,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

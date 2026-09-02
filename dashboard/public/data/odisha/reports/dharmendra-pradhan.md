@@ -3,24 +3,22 @@
 **Constituency:** Sambalpur, Odisha
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 54
-**Education:** Post Graduate
 **Report Date:** 2026-09-02
-**Data Confidence:** Low (43%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (39%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 39.0 / 100
+## Composite Transparency Score: 40.2 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 3.5 | 25% |
-| Asset Growth | 60.0 | 15% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 50.0 | 15% |
 | Parliament Attendance | 50.0 | 10% |
 | Questions & Debates | 50.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
-| Public Accessibility | 15.0 | 5% |
+| Public Accessibility | 85.0 | 5% |
 | Legislative Effectiveness | 40.0 | 10% |
 
 ---
@@ -34,18 +32,25 @@
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
+### Cases Detail
+
+1. G.R.P.S, Rourkela no: 09 of 2005- 8/2/2005 at Rourkela, dist- Sundargarh | Sec.147/174 of Railway Act (Sections: 143, 341, 283, 504, 149) [pending] 
+2. Puri town PS Case no: 149/2006- 19/5/2006 | Sec.3 PDPP Act (Sections: 341, 186, 294, 34) [pending] 
+3. Kankadahada PS Case no: 05/2010- 23/1/2010 | Sec.7 of CRL. Law Amendment Act (Sections: 143, 283, 431, 294, 506, 149) [pending] 
+4. Baripada town PS Case no: 16/2019- 24/1/2019 | Sec. 3(1)(r)(s) of SC & ST (PoA) Act (Sections: 499, 500, 504) [pending] 
+5. Bhanjanagar PS Case no: 120/2019- 12/4/2019 | Sec.125 of Representation of people Act (Sections: 153A) [pending] 
+
 ---
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 6.92 Crore
-- **Liabilities:** Rs 53.38 Lakh
-- **Net Worth:** Rs 6.39 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 48% of Lok Sabha MPs
 
 ---
 
@@ -69,6 +74,19 @@
 
 ---
 
+## Public Accessibility
+
+- **Platforms:** 3
+
+
+| Platform | Handle | Verified | Active |
+|----------|--------|----------|--------|
+| Twitter | [@https://x.com/dpradhanbjp?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor](https://x.com/https://x.com/dpradhanbjp?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) | No | Yes |
+| Facebook | [@https://www.facebook.com/DharmendraPradhanOdisha/](https://facebook.com/https://www.facebook.com/DharmendraPradhanOdisha/) | No | Yes |
+| Instagram | [@https://www.instagram.com/dpradhanbjp/?hl=en](https://instagram.com/https://www.instagram.com/dpradhanbjp/?hl=en) | No | Yes |
+
+---
+
 ## In The News
 
 *Mixed/neutral coverage (10 articles)*
@@ -76,32 +94,43 @@
 - **Total Articles:** 10
 - **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
 
-- Bhima Mandali caves to be developed as global heritage site, says Dharmendra Pradhan - The News Mill (The News Mill) [neutral]
-- Minister Pradhan, Samal hail ‘historic’
-victory in the Assembly elections - The New Indian Express (The New Indian Express) [neutral]
-- Dharmendra Pradhan Lays Foundation Stone For ‘Bhima Mandali’ Eco Heritage Site - Ommcom News (Ommcom News) [neutral]
-- 10 thousand years old Bhima Mandali to be developed as Global Heritage site: Union Minister Dharmendra Pradhan - India's News.Net (India's News.Net) [neutral]
-- Bhima Mandali to be developed as Global Heritage site: Pradhan - Magzter (Magzter) [neutral]
+- Dharmendra Pradhan seeks C-DAC centre at GMU & expansion of STPI - The New Indian Express (The New Indian Express) [neutral]
+- Odisha: Dharmendra Pradhan hits back at Naveen Patnaik over MMDR bill; Slams for concealing facts & misleading people - organiser.org (organiser.org) [neutral]
+- Do not conceal the facts and mislead people: Former Union Minister Dharmendra Pradhan - The New Indian Express (The New Indian Express) [neutral]
+- Dharmendra Pradhan Writes to Vaishnaw for C-DAC Hub at GMU Sambalpur, Expansion of STPI - Pragativadi (Pragativadi) [neutral]
+- "MP (LS), Sambalpur": Dharmendra Pradhan Drops "Union Minister" From X Bio - NDTV (NDTV) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Dharmendra Pradhan seeks C-DAC centre at GMU & expansion of STPI - The New Indian Express** (The New Indian Express)
+- ! **Odisha: Dharmendra Pradhan hits back at Naveen Patnaik over MMDR bill; Slams for concealing facts & misleading people - organiser.org** (organiser.org)
+- ! **Do not conceal the facts and mislead people: Former Union Minister Dharmendra Pradhan - The New Indian Express** (The New Indian Express)
+- ! **Dharmendra Pradhan Writes to Vaishnaw for C-DAC Hub at GMU Sambalpur, Expansion of STPI - Pragativadi** (Pragativadi)
+- ! **"MP (LS), Sambalpur": Dharmendra Pradhan Drops "Union Minister" From X Bio - NDTV** (NDTV)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
 - [!] **mplads**: Extremely low utilization rate — verify data
 - [!] **parliament_activity**: Low confidence in parliament activity data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Odisha: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Dharmendra Pradhan has a below-average transparency score of 39.0/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention.
+Dharmendra Pradhan has a below-average transparency score of 40.2/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention.
 
 ---
 
-Has 5 criminal case(s) (0 serious), 5 pending, 0 conviction(s). Declared assets: Rs 69,219,190. MPLADS utilization: 4.4%. Low confidence data: Parliament activity. 2 warning(s) noted.
+Has 5 criminal case(s) (0 serious), 5 pending, 0 conviction(s). MPLADS utilization: 4.4%. Low confidence data: Assets, Parliament activity. 3 warning(s) noted.
 
 ---
 
@@ -141,7 +170,7 @@ Has 5 criminal case(s) (0 serious), 5 pending, 0 conviction(s). Declared assets:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -239,12 +268,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

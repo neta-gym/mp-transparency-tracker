@@ -4,17 +4,17 @@
 **Party:** Samajwadi Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Third-party (C)
+**Data Confidence:** Low (27%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 62.6 / 100
+## Composite Transparency Score: 49.3 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 62.9 | 25% |
-| Asset Growth | 60.0 | 15% |
-| Criminal Record | 100.0 | 15% |
+| Asset Growth | 45.0 | 15% |
+| Criminal Record | 45.0 | 15% |
 | Parliament Attendance | 95.0 | 10% |
 | Questions & Debates | 0.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
@@ -36,14 +36,13 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 9.12 Crore
-- **Liabilities:** Rs 43.78 Lakh
-- **Net Worth:** Rs 8.68 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 56% of Lok Sabha MPs
 
 ---
 
@@ -75,28 +74,41 @@
 - **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
 
 - SP MP Akshay Yadav defends ‘dynasty politics’: Outlines party's strategy for 2028 MP polls - Bhaskar English (Bhaskar English) [neutral]
-- Firozabad election results 2024 live updates: SP's Akshaya Yadav wins against BJP's Vishwadeep Singh - The Times of India (The Times of India) [neutral]
 - Firozabad Election Result: फिरोजाबाद में सपा के अक्षय यादव को 89 हजार वोटों से जीत - AajTak (AajTak) [neutral]
 - Uncle Vs Nephew As Shivpal Yadav Goes UP Against Akshay In UP's Firozabad - NDTV (NDTV) [neutral]
-- Shivpal Yadav to challenge nephew Akshay in Firozabad - HW News English (HW News English) [neutral]
+- Firozabad election results 2024 live updates: SP's Akshaya Yadav wins against BJP's Vishwadeep Singh - The Times of India (The Times of India) [neutral]
+- Shivpal Yadav to take on nephew in Firozabad; Akshay Yadav is Samajwadi Party MP and Ram Gopal Yadav's son - Firstpost (Firstpost) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **SP MP Akshay Yadav defends ‘dynasty politics’: Outlines party's strategy for 2028 MP polls - Bhaskar English** (Bhaskar English)
+- ! **Firozabad Election Result: फिरोजाबाद में सपा के अक्षय यादव को 89 हजार वोटों से जीत - AajTak** (AajTak)
+- ! **Uncle Vs Nephew As Shivpal Yadav Goes UP Against Akshay In UP's Firozabad - NDTV** (NDTV)
+- ! **Firozabad election results 2024 live updates: SP's Akshaya Yadav wins against BJP's Vishwadeep Singh - The Times of India** (The Times of India)
+- ! **Shivpal Yadav to take on nephew in Firozabad; Akshay Yadav is Samajwadi Party MP and Ram Gopal Yadav's son - Firstpost** (Firstpost)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
+- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Uttar Pradesh: 8 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Akshay Yadav shows moderate transparency with a score of 62.6/100. No criminal cases declared. High parliament attendance. Limited participation in parliamentary proceedings.
+Akshay Yadav has a below-average transparency score of 49.3/100, indicating significant room for improvement. Significant criminal cases are a concern. High parliament attendance. Limited participation in parliamentary proceedings. Data confidence is low — scores should be interpreted with caution.
 
 ---
 
-No criminal cases declared. Declared assets: Rs 91,161,885. MPLADS utilization: 65.2%. Parliament attendance: 95.0%.
+No criminal cases declared. MPLADS utilization: 65.2%. Parliament attendance: 95.0%. Low confidence data: Criminal record, Assets. 2 warning(s) noted.
 
 ---
 
@@ -136,7 +148,7 @@ No criminal cases declared. Declared assets: Rs 91,161,885. MPLADS utilization: 
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -234,10 +246,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

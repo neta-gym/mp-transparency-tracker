@@ -4,31 +4,31 @@
 **Party:** Indian National Congress
 **House:** Lok Sabha (18th Parliament, 2024-present)
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Third-party (C)
+**Data Confidence:** Low (34%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 47.3 / 100
+## Composite Transparency Score: 52.3 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 11.7 | 25% |
-| Asset Growth | 55.0 | 15% |
-| Criminal Record | 30.0 | 15% |
+| Asset Growth | 45.0 | 15% |
+| Criminal Record | 45.0 | 15% |
 | Parliament Attendance | 100.0 | 10% |
 | Questions & Debates | 90.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
-| Public Accessibility | 15.0 | 5% |
+| Public Accessibility | 85.0 | 5% |
 | Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
 ## Criminal Record
 
-- **Total Cases:** 7
+- **Total Cases:** 0
 - **Serious Cases:** 0
 - **Convictions:** 0
-- **Pending Cases:** 7
+- **Pending Cases:** 0
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
@@ -36,14 +36,13 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 7.68 Crore
-- **Liabilities:** Rs 1.02 Crore
-- **Net Worth:** Rs 6.67 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 51% of Lok Sabha MPs
 
 ---
 
@@ -67,6 +66,19 @@
 
 ---
 
+## Public Accessibility
+
+- **Platforms:** 3
+
+
+| Platform | Handle | Verified | Active |
+|----------|--------|----------|--------|
+| Twitter | [@@VarshaGaikwadOfficial](https://x.com/@VarshaGaikwadOfficial) | No | Yes |
+| Facebook | [@@VarshaEGaikwadOfficial](https://facebook.com/@VarshaEGaikwadOfficial) | No | Yes |
+| Instagram | [@@varshaeknathgaikwad](https://instagram.com/@varshaeknathgaikwad) | No | Yes |
+
+---
+
 ## In The News
 
 *Mixed/neutral coverage (10 articles)*
@@ -74,29 +86,42 @@
 - **Total Articles:** 10
 - **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
 
-- SC/ST Entrepreneurs’ Rights Being Denied: 4% Government Procurement Target Stuck at Just 1.79% Even After 9 Years! - The Mooknayak English (The Mooknayak English) [neutral]
-- Given up in early trends, 4 assembly seats helped Gaikwad make dramatic comeback - The Times of India (The Times of India) [neutral]
 - Congress’ Mumbai unit chief Varsha Gaikwad to contest from Mumbai North Central - The Hindu (The Hindu) [neutral]
-- My fight is issue-based: Varsha Gaikwad, Congress candidate, Mumbai North Central - Citizen Matters (Citizen Matters) [neutral]
+- Given up in early trends, 4 assembly seats helped Gaikwad make dramatic comeback - The Times of India (The Times of India) [neutral]
+- Congress city unit chief Varsha Gaikwad to contest from Mumbai North Central - The Indian Express (The Indian Express) [neutral]
+- Congress fields Varsha Gaikwad from North Central, Mahayuti struggles with seat-sharing | Mumbai news - Hindustan Times (Hindustan Times) [neutral]
 - Court dismisses plea challenging Congress MP Varsha Gaikwad's Lok Sabha win - India Today (India Today) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Congress’ Mumbai unit chief Varsha Gaikwad to contest from Mumbai North Central - The Hindu** (The Hindu)
+- ! **Given up in early trends, 4 assembly seats helped Gaikwad make dramatic comeback - The Times of India** (The Times of India)
+- ! **Congress city unit chief Varsha Gaikwad to contest from Mumbai North Central - The Indian Express** (The Indian Express)
+- ! **Congress fields Varsha Gaikwad from North Central, Mahayuti struggles with seat-sharing | Mumbai news - Hindustan Times** (Hindustan Times)
+- ! **Court dismisses plea challenging Congress MP Varsha Gaikwad's Lok Sabha win - India Today** (India Today)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
+- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Maharashtra: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Varsha Eknath Gaikwad has a below-average transparency score of 47.3/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Varsha Eknath Gaikwad shows moderate transparency with a score of 52.3/100. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-Has 7 criminal case(s) (0 serious), 7 pending, 0 conviction(s). Declared assets: Rs 76,848,656. MPLADS utilization: 14.6%. Parliament attendance: 100.0%. Questions asked: 66. Debates participated: 15.
+No criminal cases declared. MPLADS utilization: 14.6%. Parliament attendance: 100.0%. Questions asked: 66. Debates participated: 15. Low confidence data: Criminal record, Assets. 2 warning(s) noted.
 
 ---
 
@@ -136,7 +161,7 @@ Has 7 criminal case(s) (0 serious), 7 pending, 0 conviction(s). Declared assets:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -234,10 +259,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

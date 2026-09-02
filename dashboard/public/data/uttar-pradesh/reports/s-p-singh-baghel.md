@@ -3,19 +3,17 @@
 **Constituency:** Agra, Uttar Pradesh
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 63
-**Education:** Doctorate
 **Report Date:** 2026-09-02
-**Data Confidence:** Low (43%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (30%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 59.2 / 100
+## Composite Transparency Score: 56.9 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 54.6 | 25% |
-| Asset Growth | 60.0 | 15% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 50.0 | 10% |
 | Questions & Debates | 50.0 | 10% |
@@ -38,14 +36,13 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 10.44 Crore
-- **Liabilities:** Rs 51.70 Lakh
-- **Net Worth:** Rs 9.92 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 59% of Lok Sabha MPs
 
 ---
 
@@ -76,30 +73,42 @@
 - **Total Articles:** 10
 - **Positive:** 0 | **Negative:** 1 | **Neutral:** 9
 
-- Former sub-inspector and Agra MP SP Singh Baghel gets ministerial berth - The Times of India (The Times of India) [neutral]
-- Agra Lok Sabha elections 2024: BJP's SP Singh Baghel to face triangular contest with SP, BSP - India TV News (India TV News) [neutral]
+- Lok Sabha Speaker Om Birla unveils statue of Lokmata Ahilyabai Holkar - Hindusthan Samachar English (Hindusthan Samachar English) [neutral]
 - Shifted from Law Ministry after Kiren Rijiju ouster, S P Singh Baghel is new MoS Health - The Indian Express (The Indian Express) [neutral]
+- Lok Sabha polls: Hope Katheria continues to work for party, says Agra BJP candidate SP Singh Baghel - The Times of India (The Times of India) [neutral]
 - "Improved Law And Order A Key Factor": BJP MP From Agra SP Singh Baghel After Taking Oath - NDTV (NDTV) [neutral]
 - Complaint against Union Minister Baghel for 'Possessing' Fake Caste Certificate - ETV Bharat (ETV Bharat) [negative]
 
 ---
 
+## News & Allegations
+
+- ! **Lok Sabha Speaker Om Birla unveils statue of Lokmata Ahilyabai Holkar - Hindusthan Samachar English** (Hindusthan Samachar English)
+- ! **Shifted from Law Ministry after Kiren Rijiju ouster, S P Singh Baghel is new MoS Health - The Indian Express** (The Indian Express)
+- ! **Lok Sabha polls: Hope Katheria continues to work for party, says Agra BJP candidate SP Singh Baghel - The Times of India** (The Times of India)
+- ! **"Improved Law And Order A Key Factor": BJP MP From Agra SP Singh Baghel After Taking Oath - NDTV** (NDTV)
+- !! **Complaint against Union Minister Baghel for 'Possessing' Fake Caste Certificate - ETV Bharat** (ETV Bharat)
+
+---
+
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
 - [!] **parliament_activity**: Low confidence in parliament activity data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Uttar Pradesh: 8 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-S  P Singh Baghel shows moderate transparency with a score of 59.2/100. No criminal cases declared.
+S  P Singh Baghel shows moderate transparency with a score of 56.9/100. No criminal cases declared.
 
 ---
 
-No criminal cases declared. Declared assets: Rs 104,358,691. MPLADS utilization: 59.7%. Low confidence data: Parliament activity. 1 warning(s) noted.
+No criminal cases declared. MPLADS utilization: 59.7%. Low confidence data: Assets, Parliament activity. 2 warning(s) noted.
 
 ---
 
@@ -139,7 +148,7 @@ No criminal cases declared. Declared assets: Rs 104,358,691. MPLADS utilization:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -237,12 +246,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

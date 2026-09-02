@@ -3,25 +3,22 @@
 **Constituency:** Robertsganj, Uttar Pradesh
 **Party:** Samajwadi Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 51
-**Education:** 5th Pass
-**Profession:** Agriculture, Singer, TV Actor
 **Report Date:** 2026-09-02
-**Data Confidence:** Low (49%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (44%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 63.7 / 100
+## Composite Transparency Score: 66.4 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 47.1 | 25% |
-| Asset Growth | 50.0 | 15% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 100.0 | 10% |
 | Questions & Debates | 50.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
-| Public Accessibility | 15.0 | 5% |
+| Public Accessibility | 85.0 | 5% |
 | Legislative Effectiveness | 40.0 | 10% |
 
 ---
@@ -39,14 +36,13 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 1.23 Crore
-- **Immovable Assets:** Rs 77.00 Lakh
-- **Total Assets:** Rs 2.00 Crore
-- **Liabilities:** Rs 69.55 Lakh
-- **Net Worth:** Rs 1.30 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 17% of Lok Sabha MPs
 
 ---
 
@@ -70,6 +66,19 @@
 
 ---
 
+## Public Accessibility
+
+- **Platforms:** 3
+
+
+| Platform | Handle | Verified | Active |
+|----------|--------|----------|--------|
+| Twitter | [@https://x.com/chhotelal2014?t=yp9Vnmop-AY0k79iqIfrww&s=08](https://x.com/https://x.com/chhotelal2014?t=yp9Vnmop-AY0k79iqIfrww&s=08) | No | Yes |
+| Facebook | [@https://www.facebook.com/MPchhotelal?mibextid=ZbWKwL](https://facebook.com/https://www.facebook.com/MPchhotelal?mibextid=ZbWKwL) | No | Yes |
+| Instagram | [@https://www.instagram.com/chhotelal.singh.kharwar?utm_source=qr&igsh=emtnY3B1eng5Y2Ey](https://instagram.com/https://www.instagram.com/chhotelal.singh.kharwar?utm_source=qr&igsh=emtnY3B1eng5Y2Ey) | No | Yes |
+
+---
+
 ## In The News
 
 *Mixed/neutral coverage (10 articles)*
@@ -77,29 +86,41 @@
 - **Total Articles:** 10
 - **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
 
-- UP quarry collapse result of govt, police colluding with mining mafia: Opposition - The Indian Express (The Indian Express) [neutral]
-- Stone quarry collapse in UP's Sonbhadra—Death toll rises to 6; MP Kharwar claims illegal mining run by mafia - Mint (Mint) [neutral]
-- UP’s quiet Robertsganj ‘wishes for change’, but youth & tribal voters to have final say - The Times of India (The Times of India) [neutral]
 - Allahabad High Court Issues Notice On Apna Dal (S) Leader's Plea Challenging Election Of SP's Robertsganj ... - Live Law (Live Law) [neutral]
-- Robertsganj lok sabha election results 2024: Robertsganj Winning Candidates List and Vote Share - India Today (India Today) [neutral]
+- Robertsganj election results 2024 live updates: SP's Chhotelal wins - The Times of India (The Times of India) [neutral]
+- Uttar Pradesh: Scolded by Yogi Adityanath, Dalit MP complains to PM Modi - The Indian Express (The Indian Express) [neutral]
+- Who will hit poll treasure trove in tribal terrain of Sonbhadra? - The Times of India (The Times of India) [neutral]
+- Why Dalit BJP MPs in UP Are Protesting Against Party Leadership - TheWire.in (TheWire.in) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Allahabad High Court Issues Notice On Apna Dal (S) Leader's Plea Challenging Election Of SP's Robertsganj ... - Live Law** (Live Law)
+- ! **Robertsganj election results 2024 live updates: SP's Chhotelal wins - The Times of India** (The Times of India)
+- ! **Uttar Pradesh: Scolded by Yogi Adityanath, Dalit MP complains to PM Modi - The Indian Express** (The Indian Express)
+- ! **Who will hit poll treasure trove in tribal terrain of Sonbhadra? - The Times of India** (The Times of India)
+- ! **Why Dalit BJP MPs in UP Are Protesting Against Party Leadership - TheWire.in** (TheWire.in)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Uttar Pradesh: 8 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Chhotelal shows moderate transparency with a score of 63.7/100. No criminal cases declared. High parliament attendance.
+Chhotelal shows moderate transparency with a score of 66.4/100. No criminal cases declared. High parliament attendance.
 
 ---
 
-No criminal cases declared. Declared assets: Rs 19,997,783. MPLADS utilization: 54.8%. Parliament attendance: 100.0%. Questions asked: 6. Debates participated: 7.
+No criminal cases declared. MPLADS utilization: 54.8%. Parliament attendance: 100.0%. Questions asked: 6. Debates participated: 7. Low confidence data: Assets. 1 warning(s) noted.
 
 ---
 
@@ -139,7 +160,7 @@ No criminal cases declared. Declared assets: Rs 19,997,783. MPLADS utilization: 
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -237,12 +258,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

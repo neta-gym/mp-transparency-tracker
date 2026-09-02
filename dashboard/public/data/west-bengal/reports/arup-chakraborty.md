@@ -3,19 +3,17 @@
 **Constituency:** Bankura, West Bengal
 **Party:** All India Trinamool Congress
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 68
-**Education:** Graduate Professional
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (37%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 48.3 / 100
+## Composite Transparency Score: 47.6 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 29.2 | 25% |
-| Asset Growth | 50.0 | 15% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 55.0 | 10% |
 | Questions & Debates | 0.0 | 10% |
@@ -38,14 +36,13 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 17.19 Crore
-- **Liabilities:** Rs 6.57 Crore
-- **Net Worth:** Rs 10.62 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 68% of Lok Sabha MPs
 
 ---
 
@@ -76,29 +73,41 @@
 - **Total Articles:** 10
 - **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
 
-- Trinamool plaint after CAPF jawan ‘seen’ with lotus cutouts - The Times of India (The Times of India) [neutral]
-- Families allege ‘SIR stress’ behind two heart attack deaths in Bengal - The Times of India (The Times of India) [neutral]
+- 'Mamata Banerjee's Life Is In Danger Inside Her Home' - Rediff (Rediff) [neutral]
+- Several TMC rebels jumping ship carry baggage: Is 'washing machine' back at work? - The Federal (The Federal) [neutral]
+- Trinamool Rebel Camp Moves to Join NCPI, Bypasses Anti-Defection Law - The Avenue Mail (The Avenue Mail) [neutral]
 - If patients die and public anger falls on you, we won't protect you: TMC MP Arup Chakraborty to doctors - Telegraph India (Telegraph India) [neutral]
-- LS polls: ‘Son of the soil’ is TMC’s ‘bet in Bankura’ - MillenniumPost (MillenniumPost) [neutral]
 - Parties in Taldangra look for Odia community votes - The Statesman (The Statesman) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **'Mamata Banerjee's Life Is In Danger Inside Her Home' - Rediff** (Rediff)
+- ! **Several TMC rebels jumping ship carry baggage: Is 'washing machine' back at work? - The Federal** (The Federal)
+- ! **Trinamool Rebel Camp Moves to Join NCPI, Bypasses Anti-Defection Law - The Avenue Mail** (The Avenue Mail)
+- ! **If patients die and public anger falls on you, we won't protect you: TMC MP Arup Chakraborty to doctors - Telegraph India** (Telegraph India)
+- ! **Parties in Taldangra look for Odia community votes - The Statesman** (The Statesman)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for West Bengal: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Arup Chakraborty has a below-average transparency score of 48.3/100, indicating significant room for improvement. No criminal cases declared. Low MPLADS fund utilization needs attention. Limited participation in parliamentary proceedings.
+Arup Chakraborty has a below-average transparency score of 47.6/100, indicating significant room for improvement. No criminal cases declared. Low MPLADS fund utilization needs attention. Limited participation in parliamentary proceedings.
 
 ---
 
-No criminal cases declared. Declared assets: Rs 171,911,710. MPLADS utilization: 36.5%. Parliament attendance: 55.0%.
+No criminal cases declared. MPLADS utilization: 36.5%. Parliament attendance: 55.0%. Low confidence data: Assets. 1 warning(s) noted.
 
 ---
 
@@ -138,7 +147,7 @@ No criminal cases declared. Declared assets: Rs 171,911,710. MPLADS utilization:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -236,12 +245,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

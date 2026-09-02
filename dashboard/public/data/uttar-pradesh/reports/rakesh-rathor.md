@@ -3,19 +3,17 @@
 **Constituency:** Sitapur, Uttar Pradesh
 **Party:** Indian National Congress
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 60
-**Education:** Graduate
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (39%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 58.3 / 100
+## Composite Transparency Score: 56.8 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 52.8 | 25% |
-| Asset Growth | 55.0 | 15% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 90.0 | 15% |
 | Parliament Attendance | 85.0 | 10% |
 | Questions & Debates | 20.0 | 10% |
@@ -34,18 +32,21 @@
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
+### Cases Detail
+
+1. Vaad No. 1552/2020, P.S. Pisawan District Sitapur (Sections: 406, 417, 323, 504, 506) [pending] 
+
 ---
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 4.21 Crore
-- **Liabilities:** Rs 82.89 Lakh
-- **Net Worth:** Rs 3.38 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 34% of Lok Sabha MPs
 
 ---
 
@@ -71,34 +72,46 @@
 
 ## In The News
 
-*Mixed/neutral coverage (10 articles)*
+*Predominantly negative coverage (6/10 articles)*
 
 - **Total Articles:** 10
-- **Positive:** 0 | **Negative:** 4 | **Neutral:** 6
+- **Positive:** 0 | **Negative:** 6 | **Neutral:** 4
 
-- Sitapur Congress MP Rakesh Rathor walks out of jail after getting bail in rape case - Dailyhunt (Dailyhunt) [neutral]
 - Sitapur Congress MP Rakesh Rathore walks out of jail after getting bail in rape case - The Hindu (The Hindu) [neutral]
 - सीतापुर: रेप केस में फंसे कांग्रेस सांसद राकेश राठौर जेल से रिहा, बोले- अगर मैंने कुछ गलत किया तो... - AajTak (AajTak) [neutral]
-- Congress’s Sitapur MP held for rape on pretext of marriage - The Times of India (The Times of India) [neutral]
 - Allahabad High Court Refuses Anticipatory Bail To Sitapur Congress MP Accused Of Sexually Exploiting... - Live Law (Live Law) [negative]
+- UP woman accuses Congress MP Rakesh Rathore of rape, threats - The Times of India (The Times of India) [neutral]
+- Congress MP from Sitapur Rakesh Rathore arrested on rape charge - The New Indian Express (The New Indian Express) [negative]
+
+---
+
+## News & Allegations
+
+- ! **Sitapur Congress MP Rakesh Rathore walks out of jail after getting bail in rape case - The Hindu** (The Hindu)
+- ! **सीतापुर: रेप केस में फंसे कांग्रेस सांसद राकेश राठौर जेल से रिहा, बोले- अगर मैंने कुछ गलत किया तो... - AajTak** (AajTak)
+- !! **Allahabad High Court Refuses Anticipatory Bail To Sitapur Congress MP Accused Of Sexually Exploiting... - Live Law** (Live Law)
+- ! **UP woman accuses Congress MP Rakesh Rathore of rape, threats - The Times of India** (The Times of India)
+- !! **Congress MP from Sitapur Rakesh Rathore arrested on rape charge - The New Indian Express** (The New Indian Express)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Uttar Pradesh: 8 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Rakesh Rathor shows moderate transparency with a score of 58.3/100. Minor criminal cases on record. High parliament attendance. Limited participation in parliamentary proceedings.
+Rakesh Rathor shows moderate transparency with a score of 56.8/100. Minor criminal cases on record. High parliament attendance. Limited participation in parliamentary proceedings.
 
 ---
 
-Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Declared assets: Rs 42,107,005. MPLADS utilization: 58.5%. Parliament attendance: 85.0%. Questions asked: 6.
+Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). MPLADS utilization: 58.5%. Parliament attendance: 85.0%. Questions asked: 6. Low confidence data: Assets. 1 warning(s) noted.
 
 ---
 
@@ -138,7 +151,7 @@ Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Declared assets:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -236,12 +249,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

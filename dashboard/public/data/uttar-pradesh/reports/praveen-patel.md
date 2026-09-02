@@ -3,19 +3,17 @@
 **Constituency:** Phulpur, Uttar Pradesh
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 45
-**Education:** Post Graduate
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (37%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 63.3 / 100
+## Composite Transparency Score: 61.0 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 37.7 | 25% |
-| Asset Growth | 60.0 | 15% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 80.0 | 10% |
 | Questions & Debates | 80.0 | 10% |
@@ -38,14 +36,13 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 64.92 Crore
-- **Liabilities:** Rs 3.78 Crore
-- **Net Worth:** Rs 61.13 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 88% of Lok Sabha MPs
 
 ---
 
@@ -76,29 +73,41 @@
 - **Total Articles:** 10
 - **Positive:** 1 | **Negative:** 0 | **Neutral:** 9
 
-- Phulpur MP lays foundation stone of Gautam Buddha Meditation Park at JIMARS - Hindusthan Samachar English (Hindusthan Samachar English) [neutral]
-- Jal Jeevan Mission scheme dedicated to Prayagraj village - The Times of India (The Times of India) [positive]
+- MP Ujjwal seeks more flights operation from Prayagraj Airport to major domestic destinations - Hindusthan Samachar English (Hindusthan Samachar English) [neutral]
+- Phulpur election results 2024: BJP's Praveen Patel wins - The Times of India (The Times of India) [neutral]
 - BJP Phulpur candidate Praveen Patel owns wealth over ₹50 crore | Hindustan Times - Hindustan Times (Hindustan Times) [neutral]
-- BJP MP Praveen Patel honoured with Sansad Ratna Awards - The Times of India (The Times of India) [neutral]
-- Nishikant to Kangana—who was class bunker, who asked most questions, a Lok Sabha report card of BJP MPs - ThePrint (ThePrint) [neutral]
+- Caste rules at Nehru citadel: Phulpur rues lack of development but eyes Patel consolidation - Telegraph India (Telegraph India) [positive]
+- Parliament Of India : Lok Sabha Member Of Parliament – P - Sarkaritel.com (Sarkaritel.com) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **MP Ujjwal seeks more flights operation from Prayagraj Airport to major domestic destinations - Hindusthan Samachar English** (Hindusthan Samachar English)
+- ! **Phulpur election results 2024: BJP's Praveen Patel wins - The Times of India** (The Times of India)
+- ! **BJP Phulpur candidate Praveen Patel owns wealth over ₹50 crore | Hindustan Times - Hindustan Times** (Hindustan Times)
+- ! **Caste rules at Nehru citadel: Phulpur rues lack of development but eyes Patel consolidation - Telegraph India** (Telegraph India)
+- ! **Parliament Of India : Lok Sabha Member Of Parliament – P - Sarkaritel.com** (Sarkaritel.com)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Uttar Pradesh: 8 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Praveen Patel shows moderate transparency with a score of 63.3/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Praveen Patel shows moderate transparency with a score of 61.0/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-No criminal cases declared. Declared assets: Rs 649,173,761. MPLADS utilization: 47.1%. Parliament attendance: 80.0%. Questions asked: 77. Debates participated: 7.
+No criminal cases declared. MPLADS utilization: 47.1%. Parliament attendance: 80.0%. Questions asked: 77. Debates participated: 7. Low confidence data: Assets. 1 warning(s) noted.
 
 ---
 
@@ -138,7 +147,7 @@ No criminal cases declared. Declared assets: Rs 649,173,761. MPLADS utilization:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -236,12 +245,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

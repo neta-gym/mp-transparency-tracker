@@ -3,24 +3,22 @@
 **Constituency:** Rajmahal, Jharkhand
 **Party:** Jharkhand Mukti Morcha
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 41
-**Education:** 10th Pass
 **Report Date:** 2026-09-02
-**Data Confidence:** Low (49%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (44%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 59.4 / 100
+## Composite Transparency Score: 51.7 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 11.0 | 25% |
-| Asset Growth | 55.0 | 15% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 100.0 | 15% |
-| Parliament Attendance | 95.0 | 10% |
-| Questions & Debates | 80.0 | 10% |
+| Parliament Attendance | 70.0 | 10% |
+| Questions & Debates | 40.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
-| Public Accessibility | 15.0 | 5% |
+| Public Accessibility | 45.0 | 5% |
 | Legislative Effectiveness | 40.0 | 10% |
 
 ---
@@ -40,12 +38,11 @@
 
 - **Movable Assets:** N/A
 - **Immovable Assets:** N/A
-- **Total Assets:** Rs 6.20 Crore
-- **Liabilities:** Rs 1.70 Crore
-- **Net Worth:** Rs 4.50 Crore
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 45% of Lok Sabha MPs
 
 ---
 
@@ -61,44 +58,67 @@
 
 ## Parliament Activity
 
-- **Attendance:** 95.0%
-- **Questions Asked:** 52
-- **Debates Participated:** 9
+- **Attendance:** 70.0%
+- **Questions Asked:** 9
+- **Debates Participated:** 3
 - **Private Bills:** 0
 - **Is Minister:** No
 
 ---
 
+## Public Accessibility
+
+- **Platforms:** 1
+
+
+| Platform | Handle | Verified | Active |
+|----------|--------|----------|--------|
+| Facebook | [@https://www.facebook.com/HansdakVijay/](https://facebook.com/https://www.facebook.com/HansdakVijay/) | No | Yes |
+
+---
+
 ## In The News
 
-*Mixed/neutral coverage (10 articles)*
+*Mixed/neutral coverage (9 articles)*
 
-- **Total Articles:** 10
-- **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
+- **Total Articles:** 9
+- **Positive:** 0 | **Negative:** 0 | **Neutral:** 9
 
-- Vijay Kumar Hansdak - The Times of India (The Times of India) [neutral]
-- Rajmahal lok sabha election results 2024: Rajmahal Winning Candidates List and Vote Share - India Today (India Today) [neutral]
 - Vijay Kumar Hansdak , JMM candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details. - The Hindu (The Hindu) [neutral]
 - Hemant’s arrest, Kalpana’s rallies & Modi magic — how poll campaign is playing out in tribal Rajmahal - ThePrint (ThePrint) [neutral]
-- Vijay Kumar Hansdak: Age, Biography, Education, Wife, Caste, Net Worth & More - Oneindia (Oneindia) [neutral]
+- Vijay Kumar Hansdak - The Times of India (The Times of India) [neutral]
+- Rajmahal lok sabha election results 2024: Rajmahal Winning Candidates List and Vote Share - India Today (India Today) [neutral]
+- Rajmahal Election Result 2024 LIVE Updates Highlights: Vijay Kumar Hansdak of JMM Wins - news18.com (news18.com) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Vijay Kumar Hansdak , JMM candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details. - The Hindu** (The Hindu)
+- ! **Hemant’s arrest, Kalpana’s rallies & Modi magic — how poll campaign is playing out in tribal Rajmahal - ThePrint** (ThePrint)
+- ! **Vijay Kumar Hansdak - The Times of India** (The Times of India)
+- ! **Rajmahal lok sabha election results 2024: Rajmahal Winning Candidates List and Vote Share - India Today** (India Today)
+- ! **Rajmahal Election Result 2024 LIVE Updates Highlights: Vijay Kumar Hansdak of JMM Wins - news18.com** (news18.com)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Jharkhand: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Vijay Kumar Hansdak shows moderate transparency with a score of 59.4/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Vijay Kumar Hansdak shows moderate transparency with a score of 51.7/100. No criminal cases declared. Low MPLADS fund utilization needs attention.
 
 ---
 
-No criminal cases declared. Declared assets: Rs 62,011,168. MPLADS utilization: 13.7%. Parliament attendance: 95.0%. Questions asked: 52. Debates participated: 9.
+No criminal cases declared. MPLADS utilization: 13.7%. Parliament attendance: 70.0%. Questions asked: 9. Debates participated: 3. Low confidence data: Assets. 1 warning(s) noted.
 
 ---
 
@@ -138,7 +158,7 @@ No criminal cases declared. Declared assets: Rs 62,011,168. MPLADS utilization: 
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -236,12 +256,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

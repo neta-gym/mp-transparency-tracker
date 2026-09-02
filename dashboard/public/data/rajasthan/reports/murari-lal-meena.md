@@ -3,19 +3,17 @@
 **Constituency:** Dausa, Rajasthan
 **Party:** Indian National Congress
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 65
-**Education:** Others
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (37%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 58.4 / 100
+## Composite Transparency Score: 56.1 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 6.8 | 25% |
-| Asset Growth | 60.0 | 15% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 95.0 | 10% |
 | Questions & Debates | 70.0 | 10% |
@@ -38,14 +36,13 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 13.57 Crore
-- **Liabilities:** Rs 21.67 Lakh
-- **Net Worth:** Rs 13.35 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 64% of Lok Sabha MPs
 
 ---
 
@@ -76,30 +73,42 @@
 - **Total Articles:** 10
 - **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
 
+- One in three AIIMS faculty posts vacant, government tells Parliament - The Indian Express (The Indian Express) [neutral]
+- Rajasthan: Several feared dead after bus catches fire following collision on Dausa's Jaipur-Bandikui expressway, atleast 25 escape - aninews.in (aninews.in) [neutral]
+- At least 8 dead after bus catches fire after collision on Dausa's Jaipur-Bandikui expressway, 25 escape - Public TV English (Public TV English) [neutral]
+- Rajasthan: 8 killed, 24 injured as bus catches fire after ramming truck in Dausa - DT Next (DT Next) [neutral]
 - Dausa (ST) election results 2024 live updates: Congress's Murari Lal Meena wins - The Times of India (The Times of India) [neutral]
-- Dausa lok sabha election results 2024: Dausa Winning Candidates List and Vote Share - India Today (India Today) [neutral]
-- PM Modi holds roadshow in Rajasthan’s Dausa - DD News (DD News) [neutral]
-- BJP leader Kirodi Lal Meena’s reputation at stake in Dausa Assembly bypoll - The Hindu (The Hindu) [neutral]
-- Will win Dausa Vidhan Sabha seat by huge margin, says Congress leader Murari Lal Meena - The Statesman (The Statesman) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **One in three AIIMS faculty posts vacant, government tells Parliament - The Indian Express** (The Indian Express)
+- ! **Rajasthan: Several feared dead after bus catches fire following collision on Dausa's Jaipur-Bandikui expressway, atleast 25 escape - aninews.in** (aninews.in)
+- ! **At least 8 dead after bus catches fire after collision on Dausa's Jaipur-Bandikui expressway, 25 escape - Public TV English** (Public TV English)
+- ! **Rajasthan: 8 killed, 24 injured as bus catches fire after ramming truck in Dausa - DT Next** (DT Next)
+- ! **Dausa (ST) election results 2024 live updates: Congress's Murari Lal Meena wins - The Times of India** (The Times of India)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
 - [!] **mplads**: Extremely low utilization rate — verify data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Rajasthan: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Murari Lal Meena shows moderate transparency with a score of 58.4/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Murari Lal Meena shows moderate transparency with a score of 56.1/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-No criminal cases declared. Declared assets: Rs 135,714,010. MPLADS utilization: 8.5%. Parliament attendance: 95.0%. Questions asked: 48. Debates participated: 7. 1 warning(s) noted.
+No criminal cases declared. MPLADS utilization: 8.5%. Parliament attendance: 95.0%. Questions asked: 48. Debates participated: 7. Low confidence data: Assets. 2 warning(s) noted.
 
 ---
 
@@ -139,7 +148,7 @@ No criminal cases declared. Declared assets: Rs 135,714,010. MPLADS utilization:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -237,12 +246,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

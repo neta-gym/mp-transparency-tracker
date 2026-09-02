@@ -3,24 +3,22 @@
 **Constituency:** Birbhum, West Bengal
 **Party:** All India Trinamool Congress
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 55
-**Education:** Graduate
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (44%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 49.6 / 100
+## Composite Transparency Score: 50.6 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 25.5 | 25% |
-| Asset Growth | 55.0 | 15% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 50.0 | 10% |
 | Questions & Debates | 20.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
-| Public Accessibility | 15.0 | 5% |
+| Public Accessibility | 65.0 | 5% |
 | Legislative Effectiveness | 40.0 | 10% |
 
 ---
@@ -38,14 +36,13 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 10.92 Crore
-- **Liabilities:** Rs 2.02 Crore
-- **Net Worth:** Rs 8.91 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 60% of Lok Sabha MPs
 
 ---
 
@@ -69,36 +66,60 @@
 
 ---
 
+## Public Accessibility
+
+- **Platforms:** 2
+
+
+| Platform | Handle | Verified | Active |
+|----------|--------|----------|--------|
+| Twitter | [@https://x.com/SatabdiRoy_](https://x.com/https://x.com/SatabdiRoy_) | No | Yes |
+| Facebook | [@https://www.facebook.com/people/MP-Satabdi-Roy/100087419953925/](https://facebook.com/https://www.facebook.com/people/MP-Satabdi-Roy/100087419953925/) | No | Yes |
+
+---
+
 ## In The News
 
 *Mixed/neutral coverage (10 articles)*
 
 - **Total Articles:** 10
-- **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
+- **Positive:** 0 | **Negative:** 1 | **Neutral:** 9
 
-- Satabdi Roy News - The Times of India (The Times of India) [neutral]
-- Satabdi Roy campaigns in support of TMC candidate in Suri #Gallery - Social News XYZ (Social News XYZ) [neutral]
-- Birbhum: Satabdi Roy Campaigns for Nilabati Saha #Gallery - Social News XYZ (Social News XYZ) [neutral]
-- ASI in Birbhum calls senior officer ‘criminal’ over attack on Trinamool MP Shatabdi Roy’s car - tennews.in (tennews.in) [neutral]
-- TMC MP Satabdi Roy appointed West Bengal unit vice president after brief rebellion - Scroll.in (Scroll.in) [neutral]
+- Eggs pelted at NCPI MP Satabdi Roy’s vehicle in Birbhum - MillenniumPost (MillenniumPost) [neutral]
+- Exclusive | Not Important What BJP Did, Why Couldn’t TMC Retain its Flock?: Rebel MP Satabdi Roy - TheWire.in (TheWire.in) [neutral]
+- How come Mamata was unaware of corruption in Trinamool? Rebel MP as crisis deepens - indiatoday.in (indiatoday.in) [negative]
+- Chief Minister Suvendu Adhikari visits Trinamool Congress MP Satabdi Roy's residence in Delhi amid turmoil in opposition party - aninews.in (aninews.in) [neutral]
+- West Bengal: ‘I am facing a lot in TMC,’ says MP Satabdi Roy after cryptic message creates stir - Scroll.in (Scroll.in) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Eggs pelted at NCPI MP Satabdi Roy’s vehicle in Birbhum - MillenniumPost** (MillenniumPost)
+- ! **Exclusive | Not Important What BJP Did, Why Couldn’t TMC Retain its Flock?: Rebel MP Satabdi Roy - TheWire.in** (TheWire.in)
+- !! **How come Mamata was unaware of corruption in Trinamool? Rebel MP as crisis deepens - indiatoday.in** (indiatoday.in)
+- ! **Chief Minister Suvendu Adhikari visits Trinamool Congress MP Satabdi Roy's residence in Delhi amid turmoil in opposition party - aninews.in** (aninews.in)
+- ! **West Bengal: ‘I am facing a lot in TMC,’ says MP Satabdi Roy after cryptic message creates stir - Scroll.in** (Scroll.in)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for West Bengal: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Satabdi Roy has a below-average transparency score of 49.6/100, indicating significant room for improvement. No criminal cases declared. Low MPLADS fund utilization needs attention. Limited participation in parliamentary proceedings.
+Satabdi Roy shows moderate transparency with a score of 50.6/100. No criminal cases declared. Low MPLADS fund utilization needs attention. Limited participation in parliamentary proceedings.
 
 ---
 
-No criminal cases declared. Declared assets: Rs 109,245,500. MPLADS utilization: 31.8%. Parliament attendance: 50.0%. Debates participated: 3.
+No criminal cases declared. MPLADS utilization: 31.8%. Parliament attendance: 50.0%. Debates participated: 3. Low confidence data: Assets. 1 warning(s) noted.
 
 ---
 
@@ -138,7 +159,7 @@ No criminal cases declared. Declared assets: Rs 109,245,500. MPLADS utilization:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -236,12 +257,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

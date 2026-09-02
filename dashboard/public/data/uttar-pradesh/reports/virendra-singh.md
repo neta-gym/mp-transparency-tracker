@@ -3,24 +3,22 @@
 **Constituency:** Chandauli, Uttar Pradesh
 **Party:** Samajwadi Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 63
-**Education:** 12th Pass
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (44%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 62.3 / 100
+## Composite Transparency Score: 65.1 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 39.2 | 25% |
-| Asset Growth | 50.0 | 15% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 95.0 | 10% |
 | Questions & Debates | 60.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
-| Public Accessibility | 15.0 | 5% |
+| Public Accessibility | 85.0 | 5% |
 | Legislative Effectiveness | 40.0 | 10% |
 
 ---
@@ -38,14 +36,13 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 7.15 Lakh
-- **Liabilities:** Rs 0
-- **Net Worth:** Rs 7.15 Lakh
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 1% of Lok Sabha MPs
 
 ---
 
@@ -69,36 +66,61 @@
 
 ---
 
+## Public Accessibility
+
+- **Platforms:** 3
+
+
+| Platform | Handle | Verified | Active |
+|----------|--------|----------|--------|
+| Twitter | [@https://x.com/i/flow/login?redirect_after_login=%2Fapkavirendra](https://x.com/https://x.com/i/flow/login?redirect_after_login=%2Fapkavirendra) | No | Yes |
+| Facebook | [@https://www.facebook.com/apkavirendra/](https://facebook.com/https://www.facebook.com/apkavirendra/) | No | Yes |
+| Instagram | [@https://www.instagram.com/apkavirendra1/](https://instagram.com/https://www.instagram.com/apkavirendra1/) | No | Yes |
+
+---
+
 ## In The News
 
 *Mixed/neutral coverage (10 articles)*
 
 - **Total Articles:** 10
-- **Positive:** 1 | **Negative:** 0 | **Neutral:** 9
+- **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
 
+- Traditional boatmen washed out by waterways infrastructure and tourism - Mongabay India (Mongabay India) [neutral]
 - SP leaders heading to Manikarnika Ghat stopped by police; MP Virendra Singh sits on dharna - The Statesman (The Statesman) [neutral]
-- Traditional boatmen washed out by waterways infrastructure and tourism - Mongabay-India (Mongabay-India) [neutral]
-- SP members stopped from visiting Manikarnika Ghat - The Times of India (The Times of India) [neutral]
 - ‘Total foreign policy failure’: SP’s Chandauli MP on Op Sindoor, monsoon session - Newslaundry (Newslaundry) [neutral]
-- Political Profile of Birendra Singh, Sp Party, Chandauli, and Net Worth - India TV News (India TV News) [neutral]
+- Akhilesh Yadav asks SP MPs to monitor voter roll revision: Calls for FIRs, court action over wrongful delet... - Bhaskar English (Bhaskar English) [neutral]
+- Chandauli election results 2024 live updates: SP's Birendra Singh wins with 4.7 lakh votes - The Times of India (The Times of India) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Traditional boatmen washed out by waterways infrastructure and tourism - Mongabay India** (Mongabay India)
+- ! **SP leaders heading to Manikarnika Ghat stopped by police; MP Virendra Singh sits on dharna - The Statesman** (The Statesman)
+- ! **‘Total foreign policy failure’: SP’s Chandauli MP on Op Sindoor, monsoon session - Newslaundry** (Newslaundry)
+- ! **Akhilesh Yadav asks SP MPs to monitor voter roll revision: Calls for FIRs, court action over wrongful delet... - Bhaskar English** (Bhaskar English)
+- ! **Chandauli election results 2024 live updates: SP's Birendra Singh wins with 4.7 lakh votes - The Times of India** (The Times of India)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Uttar Pradesh: 8 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Virendra Singh shows moderate transparency with a score of 62.3/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Virendra Singh shows moderate transparency with a score of 65.1/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-No criminal cases declared. Declared assets: Rs 715,000. MPLADS utilization: 49.0%. Parliament attendance: 95.0%. Questions asked: 16. Debates participated: 13.
+No criminal cases declared. MPLADS utilization: 49.0%. Parliament attendance: 95.0%. Questions asked: 16. Debates participated: 13. Low confidence data: Assets. 1 warning(s) noted.
 
 ---
 
@@ -138,7 +160,7 @@ No criminal cases declared. Declared assets: Rs 715,000. MPLADS utilization: 49.
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -236,12 +258,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

@@ -3,19 +3,17 @@
 **Constituency:** Coochbehar, West Bengal
 **Party:** All India Trinamool Congress
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 60
-**Education:** Graduate Professional
 **Report Date:** 2026-09-02
-**Data Confidence:** Low (49%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (39%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 45.2 / 100
+## Composite Transparency Score: 44.5 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 17.4 | 25% |
-| Asset Growth | 50.0 | 15% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 90.0 | 15% |
 | Parliament Attendance | 50.0 | 10% |
 | Questions & Debates | 20.0 | 10% |
@@ -34,18 +32,21 @@
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
+### Cases Detail
+
+1. Gr-662/2011 Sitai Police Station,Dist-Cooch Behar,West Bengal (Sections: 147, 148, 149, 325, 506) [pending] 
+
 ---
 
 ## Asset Declaration
 
 - **Movable Assets:** N/A
 - **Immovable Assets:** N/A
-- **Total Assets:** Rs 2.69 Crore
-- **Liabilities:** Rs 0
-- **Net Worth:** Rs 2.69 Crore
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 24% of Lok Sabha MPs
 
 ---
 
@@ -76,29 +77,41 @@
 - **Total Articles:** 10
 - **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
 
-- TMC MP’s citizenship remark on CEC Kumar triggers political row - MillenniumPost (MillenniumPost) [neutral]
-- BJP names turncoat; Saffron camp's fourth list of 13 candidates reveals surprise choices in Calcutta and north - Dailyhunt (Dailyhunt) [neutral]
-- Factional tussle in Cooch Behar TMC ahead of CM visit - The Statesman (The Statesman) [neutral]
-- Private tutor commits suicide amid SIR ‘anxiety’ in Dinhata - MillenniumPost (MillenniumPost) [neutral]
-- Cooch Behar to Kolkata flights to continue weekly from Feb 12 - MillenniumPost (MillenniumPost) [neutral]
+- Fear Of Protests, Egg Attacks? TMC's Rebel MP, MLA Wife From Coochbehar Haven't Returned Home Since Change Of Guard - ETV Bharat (ETV Bharat) [neutral]
+- 19 TMC MPs want new bloc in Lok Sabha: Jagadish Chandra Barma Basunia - Telegraph India (Telegraph India) [neutral]
+- Dissident TMC faction to approach LS Speaker, seek recognition as ‘real TMC’ - ThePrint (ThePrint) [neutral]
+- Rebel MPs to meet Speaker to get recognition as 'real TMC' - Rediff (Rediff) [neutral]
+- TMC’s LS revolt: Signature sheets go viral, feature names of 19 MPs - Telangana Today (Telangana Today) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Fear Of Protests, Egg Attacks? TMC's Rebel MP, MLA Wife From Coochbehar Haven't Returned Home Since Change Of Guard - ETV Bharat** (ETV Bharat)
+- ! **19 TMC MPs want new bloc in Lok Sabha: Jagadish Chandra Barma Basunia - Telegraph India** (Telegraph India)
+- ! **Dissident TMC faction to approach LS Speaker, seek recognition as ‘real TMC’ - ThePrint** (ThePrint)
+- ! **Rebel MPs to meet Speaker to get recognition as 'real TMC' - Rediff** (Rediff)
+- ! **TMC’s LS revolt: Signature sheets go viral, feature names of 19 MPs - Telangana Today** (Telangana Today)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for West Bengal: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Jagadish Chandra Barma Basunia has a below-average transparency score of 45.2/100, indicating significant room for improvement. Minor criminal cases on record. Low MPLADS fund utilization needs attention. Limited participation in parliamentary proceedings.
+Jagadish Chandra Barma Basunia has a below-average transparency score of 44.5/100, indicating significant room for improvement. Minor criminal cases on record. Low MPLADS fund utilization needs attention. Limited participation in parliamentary proceedings.
 
 ---
 
-Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Declared assets: Rs 26,907,638. MPLADS utilization: 21.8%. Parliament attendance: 50.0%. Debates participated: 1.
+Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). MPLADS utilization: 21.8%. Parliament attendance: 50.0%. Debates participated: 1. Low confidence data: Assets. 1 warning(s) noted.
 
 ---
 
@@ -138,7 +151,7 @@ Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Declared assets:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -236,12 +249,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

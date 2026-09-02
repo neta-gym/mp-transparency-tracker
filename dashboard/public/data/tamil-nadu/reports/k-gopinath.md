@@ -3,24 +3,22 @@
 **Constituency:** Krishnagiri, Tamil Nadu
 **Party:** Indian National Congress
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 61
-**Education:** 10th Pass
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (44%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 53.7 / 100
+## Composite Transparency Score: 55.0 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 15.0 | 25% |
-| Asset Growth | 60.0 | 15% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 60.0 | 10% |
 | Questions & Debates | 60.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
-| Public Accessibility | 15.0 | 5% |
+| Public Accessibility | 85.0 | 5% |
 | Legislative Effectiveness | 40.0 | 10% |
 
 ---
@@ -38,14 +36,13 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 12.34 Crore
-- **Liabilities:** Rs 1.15 Crore
-- **Net Worth:** Rs 11.19 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 62% of Lok Sabha MPs
 
 ---
 
@@ -69,6 +66,19 @@
 
 ---
 
+## Public Accessibility
+
+- **Platforms:** 3
+
+
+| Platform | Handle | Verified | Active |
+|----------|--------|----------|--------|
+| Twitter | [@https://x.com/i/flow/login?redirect_after_login=%2FKGopinath09](https://x.com/https://x.com/i/flow/login?redirect_after_login=%2FKGopinath09) | No | Yes |
+| Facebook | [@https://www.facebook.com/KGopinath09/](https://facebook.com/https://www.facebook.com/KGopinath09/) | No | Yes |
+| Instagram | [@https://www.instagram.com/kgopinath09/](https://instagram.com/https://www.instagram.com/kgopinath09/) | No | Yes |
+
+---
+
 ## In The News
 
 *Mixed/neutral coverage (10 articles)*
@@ -76,29 +86,41 @@
 - **Total Articles:** 10
 - **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
 
-- Cong MP writes to LS speaker for office space in TN constituency - The Times of India (The Times of India) [neutral]
 - Gopinath K , INC candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details. - The Hindu (The Hindu) [neutral]
-- Tamilnadu MP takes Oath in Telugu, here is why ? - Gulte (Gulte) [neutral]
+- Krishnagiri election results 2024 live updates: INC's Gopinath K wins - The Times of India (The Times of India) [neutral]
 - Wait is over: Tamil Nadu Congress list with seven names out - The New Indian Express (The New Indian Express) [neutral]
-- Political Profile of Gopinath K, Inc Party, Krishnagiri, and Net Worth - India TV News (India TV News) [neutral]
+- Telugu Pride Soars Beyond Borders: Community Fighting All Odds To Preserve Language & Culture - ETV Bharat (ETV Bharat) [neutral]
+- Tamilnadu MP takes Oath in Telugu, here is why ? - Gulte (Gulte) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Gopinath K , INC candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details. - The Hindu** (The Hindu)
+- ! **Krishnagiri election results 2024 live updates: INC's Gopinath K wins - The Times of India** (The Times of India)
+- ! **Wait is over: Tamil Nadu Congress list with seven names out - The New Indian Express** (The New Indian Express)
+- ! **Telugu Pride Soars Beyond Borders: Community Fighting All Odds To Preserve Language & Culture - ETV Bharat** (ETV Bharat)
+- ! **Tamilnadu MP takes Oath in Telugu, here is why ? - Gulte** (Gulte)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Tamil Nadu: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-K Gopinath shows moderate transparency with a score of 53.7/100. No criminal cases declared. Low MPLADS fund utilization needs attention. Active in questions and debates.
+K Gopinath shows moderate transparency with a score of 55.0/100. No criminal cases declared. Low MPLADS fund utilization needs attention. Active in questions and debates.
 
 ---
 
-No criminal cases declared. Declared assets: Rs 123,405,500. MPLADS utilization: 18.7%. Parliament attendance: 60.0%. Questions asked: 31. Debates participated: 2.
+No criminal cases declared. MPLADS utilization: 18.7%. Parliament attendance: 60.0%. Questions asked: 31. Debates participated: 2. Low confidence data: Assets. 1 warning(s) noted.
 
 ---
 
@@ -138,7 +160,7 @@ No criminal cases declared. Declared assets: Rs 123,405,500. MPLADS utilization:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -236,12 +258,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

@@ -3,24 +3,22 @@
 **Constituency:** Perambalur, Tamil Nadu
 **Party:** Dravida Munnetra Kazhagam
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 27
-**Education:** Graduate Professional
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (44%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 60.4 / 100
+## Composite Transparency Score: 61.2 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 34.5 | 25% |
-| Asset Growth | 50.0 | 15% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 95.0 | 10% |
 | Questions & Debates | 50.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
-| Public Accessibility | 15.0 | 5% |
+| Public Accessibility | 45.0 | 5% |
 | Legislative Effectiveness | 40.0 | 10% |
 
 ---
@@ -38,14 +36,13 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 98.80 Lakh
-- **Liabilities:** Rs 0
-- **Net Worth:** Rs 98.80 Lakh
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 8% of Lok Sabha MPs
 
 ---
 
@@ -69,36 +66,59 @@
 
 ---
 
+## Public Accessibility
+
+- **Platforms:** 1
+
+
+| Platform | Handle | Verified | Active |
+|----------|--------|----------|--------|
+| Twitter | [@https://x.com/arunnehru_dmk?lang=en](https://x.com/https://x.com/arunnehru_dmk?lang=en) | No | Yes |
+
+---
+
 ## In The News
 
 *Mixed/neutral coverage (10 articles)*
 
 - **Total Articles:** 10
-- **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
+- **Positive:** 1 | **Negative:** 0 | **Neutral:** 9
 
-- Arun Nehru demands cold storage at Musiri to help banana farmers - The Hindu (The Hindu) [neutral]
+- Tiruchy ITI cluster among 6 in Tamil Nadu chosen for PM-SETU scheme - newindianexpress.com (newindianexpress.com) [positive]
+- Centre gives nod to prepare DPR for Namakkal-Perambalur-Ariyalur rail link - timesofindia.indiatimes.com (timesofindia.indiatimes.com) [neutral]
+- Rahul Gandhi to campaign for 9 alliance candidates in Tiruchirappalli on April 18 - newindianexpress.com (newindianexpress.com) [neutral]
+- Arun Nehru files nomination papers for Perambalur constituency - The Hindu (The Hindu) [neutral]
 - Delhi Confidential: Sweet offering - The Indian Express (The Indian Express) [neutral]
-- Perambalur election results 2024 live updates: DMK's Arun Nehru wins with over 6 lakh votes - The Times of India (The Times of India) [neutral]
-- DMK's Arun Nehru triumphs in Perambalur, defeats AIADMK rival by massive margin - The New Indian Express (The New Indian Express) [neutral]
-- Political Profile of Arun Nehru, Ind Party, Perambalur, and Net Worth - India TV News (India TV News) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Tiruchy ITI cluster among 6 in Tamil Nadu chosen for PM-SETU scheme - newindianexpress.com** (newindianexpress.com)
+- ! **Centre gives nod to prepare DPR for Namakkal-Perambalur-Ariyalur rail link - timesofindia.indiatimes.com** (timesofindia.indiatimes.com)
+- ! **Rahul Gandhi to campaign for 9 alliance candidates in Tiruchirappalli on April 18 - newindianexpress.com** (newindianexpress.com)
+- ! **Arun Nehru files nomination papers for Perambalur constituency - The Hindu** (The Hindu)
+- ! **Delhi Confidential: Sweet offering - The Indian Express** (The Indian Express)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Tamil Nadu: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Arun Nehru shows moderate transparency with a score of 60.4/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
+Arun Nehru shows moderate transparency with a score of 61.2/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
 
 ---
 
-No criminal cases declared. Declared assets: Rs 9,880,000. MPLADS utilization: 43.1%. Parliament attendance: 95.0%. Questions asked: 9. Debates participated: 10.
+No criminal cases declared. MPLADS utilization: 43.1%. Parliament attendance: 95.0%. Questions asked: 9. Debates participated: 10. Low confidence data: Assets. 1 warning(s) noted.
 
 ---
 
@@ -138,7 +158,7 @@ No criminal cases declared. Declared assets: Rs 9,880,000. MPLADS utilization: 4
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -236,12 +256,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

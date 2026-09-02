@@ -3,19 +3,17 @@
 **Constituency:** Alwar, Rajasthan
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 55
-**Education:** Graduate Professional
 **Report Date:** 2026-09-02
-**Data Confidence:** Low (43%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (30%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 52.0 / 100
+## Composite Transparency Score: 51.2 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 26.2 | 25% |
-| Asset Growth | 50.0 | 15% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 50.0 | 10% |
 | Questions & Debates | 50.0 | 10% |
@@ -38,14 +36,13 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 2.32 Crore
-- **Liabilities:** Rs 0
-- **Net Worth:** Rs 2.32 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 20% of Lok Sabha MPs
 
 ---
 
@@ -76,30 +73,42 @@
 - **Total Articles:** 10
 - **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
 
-- India proposes Alwar’s Siliserh Lake as Ramsar site - MSN (MSN) [neutral]
-- Union, state ministers launch annual bird fest at Siliserh Lake in Alwar - The Times of India (The Times of India) [neutral]
-- Rajasthan: Alwar Tiger International Half Marathon 2026 Sees 20,000+ Runners Promoting Wildlife Conservation From 5 Countries - Indianmasterminds (Indianmasterminds) [neutral]
 - Bhupender Yadav | In Alwar, BJP’s go-to poll manager has a role reversal - The Hindu (The Hindu) [neutral]
-- Bhupender Yadav opens Rajasthan's first 'Namo Biodiversity Park' in Alwar - The Hans India (The Hans India) [neutral]
+- Alwar Election results 2024 Live Updates: BJP's Bhupender Yadav wins against Congress's Lalit Yadav - timesofindia.indiatimes.com (timesofindia.indiatimes.com) [neutral]
+- Meet the commander who leads the BJP’s battle to conquer Mamata Banerjee’s fortress Bengal - Telegraph India (Telegraph India) [neutral]
+- For debutant Bhupender Yadav, ‘proximity to Modi; biggest plus, water shortage a minus - The Indian Express (The Indian Express) [neutral]
+- PM Modi extends birthday greetings to Environment Minister Bhupender Yadav, lauds climate and conservation efforts - DD India (DD India) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Bhupender Yadav | In Alwar, BJP’s go-to poll manager has a role reversal - The Hindu** (The Hindu)
+- ! **Alwar Election results 2024 Live Updates: BJP's Bhupender Yadav wins against Congress's Lalit Yadav - timesofindia.indiatimes.com** (timesofindia.indiatimes.com)
+- ! **Meet the commander who leads the BJP’s battle to conquer Mamata Banerjee’s fortress Bengal - Telegraph India** (Telegraph India)
+- ! **For debutant Bhupender Yadav, ‘proximity to Modi; biggest plus, water shortage a minus - The Indian Express** (The Indian Express)
+- ! **PM Modi extends birthday greetings to Environment Minister Bhupender Yadav, lauds climate and conservation efforts - DD India** (DD India)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
 - [!] **parliament_activity**: Low confidence in parliament activity data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Rajasthan: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Bhupender Yadav shows moderate transparency with a score of 52.0/100. No criminal cases declared. Low MPLADS fund utilization needs attention.
+Bhupender Yadav shows moderate transparency with a score of 51.2/100. No criminal cases declared. Low MPLADS fund utilization needs attention.
 
 ---
 
-No criminal cases declared. Declared assets: Rs 23,236,037. MPLADS utilization: 32.8%. Low confidence data: Parliament activity. 1 warning(s) noted.
+No criminal cases declared. MPLADS utilization: 32.8%. Low confidence data: Assets, Parliament activity. 2 warning(s) noted.
 
 ---
 
@@ -139,7 +148,7 @@ No criminal cases declared. Declared assets: Rs 23,236,037. MPLADS utilization: 
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -237,12 +246,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

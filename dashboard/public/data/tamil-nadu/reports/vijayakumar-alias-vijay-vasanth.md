@@ -3,19 +3,17 @@
 **Constituency:** Kanniyakumari, Tamil Nadu
 **Party:** Indian National Congress
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 40
-**Education:** Post Graduate
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (39%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 44.1 / 100
+## Composite Transparency Score: 41.9 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 21.9 | 25% |
-| Asset Growth | 60.0 | 15% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 20.0 | 15% |
 | Parliament Attendance | 80.0 | 10% |
 | Questions & Debates | 80.0 | 10% |
@@ -34,18 +32,28 @@
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
+### Cases Detail
+
+1. 99/2023 KOTTAR POLICE STATION, KANNIYAKUMARI DISTRICT (Sections: 143, 290, 341) [pending] 
+2. 785/2021 KOTTAR POLICE STATION, KANNIYAKUMARI DISTRICT | Section 3-ED ACT 1897 (Sections: 143, 269, 270, 283, 290, 341) [pending] 
+3. 74/2021 KOTTAR POLICE STATION, KANNIYAKUMARI DISTRICT | Section 3-ED ACT 1897, 71(XI), 73 TNCP ACT (Sections: 143, 269, 270, 283, 290, 341) [pending] 
+4. 1053/2020 KOTTAR POLICE STATION, KANNIYAKUMARI DISTRICT | Section 71(XI), 73 TNCP ACT, Section 3 ED Act 1897 (Sections: 143, 269, 270, 283, 290, 341) [pending] 
+5. 507/2021 MARTHANDAM POLICE STATION, KANNIYAKUMARI DISTRICT | Section 3-ED ACT 1897 (Sections: 143, 269, 270) [pending] 
+6. 445/2021 VADASERI POLICE STATION, KANNIYAKUMARI DISTRICT | Section 3-ED ACT 1897 (Sections: 143, 269, 270, 283, 341) [pending] 
+7. 380/2021 NESAMONY NAGAR POLICE STATION, KANNIYAKUMARI DISTRICT | Section 3- ED ACT 1897 (Sections: 143, 269, 270) [pending] 
+8. 186/2024 THUCKALAY POLICE STATION, KANNIYAKUMARI DISTRICT (Sections: 143, 341, 290) [pending] 
+
 ---
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 64.27 Crore
-- **Liabilities:** Rs 3.06 Crore
-- **Net Worth:** Rs 61.21 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 88% of Lok Sabha MPs
 
 ---
 
@@ -71,34 +79,46 @@
 
 ## In The News
 
-*Mixed/neutral coverage (10 articles)*
+*Mixed/neutral coverage (9 articles)*
 
-- **Total Articles:** 10
-- **Positive:** 0 | **Negative:** 1 | **Neutral:** 9
+- **Total Articles:** 9
+- **Positive:** 0 | **Negative:** 1 | **Neutral:** 8
 
-- A tricky triangle in India’s southernmost square - The Times of India (The Times of India) [neutral]
-- Political Profile of Vijayakumar Alias Vijay Vasanth, Inc Party, Kanniyakumari, and Net Worth - India TV News (India TV News) [neutral]
-- Vijayakumar Alias Vijay Vasanth - The Hindu (The Hindu) [neutral]
+- MP Vijay Vasanth moves attention notice in LS, seeks Rs 1,000 cr special package for Kanyakumari fishing villages - aninews.in (aninews.in) [neutral]
+- Kanniyakumari election results 2024 live updates: Congress's Vijay Vasanth wins - The Times of India (The Times of India) [neutral]
 - Congress' Vijay Vasanth wins Kanniyakumari byelection - The New Indian Express (The New Indian Express) [neutral]
-- Kanniyakumari: Second generation Congress MP versus BJP veteran of 10 battles - The Economic Times (The Economic Times) [neutral]
+- Vijayakumar Alias Vijay Vasanth - The Hindu (The Hindu) [neutral]
+- Kanniyakumari Election Result 2024 Live Updates: Congress' Vijayakumar Has Won This Lok Sabha Seat - The Quint (The Quint) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **MP Vijay Vasanth moves attention notice in LS, seeks Rs 1,000 cr special package for Kanyakumari fishing villages - aninews.in** (aninews.in)
+- ! **Kanniyakumari election results 2024 live updates: Congress's Vijay Vasanth wins - The Times of India** (The Times of India)
+- ! **Congress' Vijay Vasanth wins Kanniyakumari byelection - The New Indian Express** (The New Indian Express)
+- ! **Vijayakumar Alias Vijay Vasanth - The Hindu** (The Hindu)
+- ! **Kanniyakumari Election Result 2024 Live Updates: Congress' Vijayakumar Has Won This Lok Sabha Seat - The Quint** (The Quint)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Tamil Nadu: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Vijayakumar Alias Vijay Vasanth has a below-average transparency score of 44.1/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Vijayakumar Alias Vijay Vasanth has a below-average transparency score of 41.9/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-Has 8 criminal case(s) (0 serious), 8 pending, 0 conviction(s). Declared assets: Rs 642,730,752. MPLADS utilization: 27.3%. Parliament attendance: 80.0%. Questions asked: 55. Debates participated: 10.
+Has 8 criminal case(s) (0 serious), 8 pending, 0 conviction(s). MPLADS utilization: 27.3%. Parliament attendance: 80.0%. Questions asked: 55. Debates participated: 10. Low confidence data: Assets. 1 warning(s) noted.
 
 ---
 
@@ -138,7 +158,7 @@ Has 8 criminal case(s) (0 serious), 8 pending, 0 conviction(s). Declared assets:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -236,12 +256,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

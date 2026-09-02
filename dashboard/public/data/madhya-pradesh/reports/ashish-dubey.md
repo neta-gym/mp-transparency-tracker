@@ -3,19 +3,17 @@
 **Constituency:** Jabalpur, Madhya Pradesh
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 54
-**Education:** Graduate Professional
 **Report Date:** 2026-09-02
-**Data Confidence:** Low (49%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (37%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 56.0 / 100
+## Composite Transparency Score: 53.8 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 10.0 | 25% |
-| Asset Growth | 60.0 | 15% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 95.0 | 10% |
 | Questions & Debates | 40.0 | 10% |
@@ -40,12 +38,11 @@
 
 - **Movable Assets:** N/A
 - **Immovable Assets:** N/A
-- **Total Assets:** Rs 35.19 Crore
-- **Liabilities:** Rs 1.35 Crore
-- **Net Worth:** Rs 33.83 Crore
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 79% of Lok Sabha MPs
 
 ---
 
@@ -76,29 +73,41 @@
 - **Total Articles:** 10
 - **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
 
-- Union Minister JP Nadda arrives in Jabalpur: On 3-day visit, will attend local programmes; to depart for De... - Bhaskar English (Bhaskar English) [neutral]
-- Devpt, enhancement of airport facilities discussed in AAI’s first ADC meeting - thehitavada.com (thehitavada.com) [neutral]
 - Ashish Dubey , BJP candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details. - The Hindu (The Hindu) [neutral]
 - Jabalpur election results 2024 live updates: BJP's Ashish Dubey wins - The Times of India (The Times of India) [neutral]
-- Jabalpur Election Result 2024 LIVE Updates Highlights: Ashish Dubey of BJP Wins - News18 (News18) [neutral]
+- Union Minister JP Nadda arrives in Jabalpur: On 3-day visit, will attend local programmes; to depart for De... - Bhaskar English (Bhaskar English) [neutral]
+- Ashish Dubey asks party workers to work to fulfill PM’s dream of 400 seats - thehitavada.com (thehitavada.com) [neutral]
+- Parliament Of India : Lok Sabha Member Of Parliament - D - Sarkaritel.com (Sarkaritel.com) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Ashish Dubey , BJP candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details. - The Hindu** (The Hindu)
+- ! **Jabalpur election results 2024 live updates: BJP's Ashish Dubey wins - The Times of India** (The Times of India)
+- ! **Union Minister JP Nadda arrives in Jabalpur: On 3-day visit, will attend local programmes; to depart for De... - Bhaskar English** (Bhaskar English)
+- ! **Ashish Dubey asks party workers to work to fulfill PM’s dream of 400 seats - thehitavada.com** (thehitavada.com)
+- ! **Parliament Of India : Lok Sabha Member Of Parliament - D - Sarkaritel.com** (Sarkaritel.com)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Madhya Pradesh: 8 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Ashish Dubey shows moderate transparency with a score of 56.0/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
+Ashish Dubey shows moderate transparency with a score of 53.8/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
 
 ---
 
-No criminal cases declared. Declared assets: Rs 351,856,860. MPLADS utilization: 12.5%. Parliament attendance: 95.0%. Questions asked: 5. Debates participated: 4.
+No criminal cases declared. MPLADS utilization: 12.5%. Parliament attendance: 95.0%. Questions asked: 5. Debates participated: 4. Low confidence data: Assets. 1 warning(s) noted.
 
 ---
 
@@ -138,7 +147,7 @@ No criminal cases declared. Declared assets: Rs 351,856,860. MPLADS utilization:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -236,12 +245,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

@@ -3,19 +3,17 @@
 **Constituency:** Khammam, Telangana
 **Party:** Indian National Congress
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 63
-**Education:** Others
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (39%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 51.5 / 100
+## Composite Transparency Score: 50.0 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 6.4 | 25% |
-| Asset Growth | 55.0 | 15% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 90.0 | 15% |
 | Parliament Attendance | 75.0 | 10% |
 | Questions & Debates | 60.0 | 10% |
@@ -34,18 +32,21 @@
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
+### Cases Detail
+
+1. 389/2023, PS Moinabad | Section 123(1) of RP Act (Sections: 188, 171B, 171E) [pending] 
+
 ---
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 58.28 Crore
-- **Liabilities:** Rs 9.55 Crore
-- **Net Worth:** Rs 48.73 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 87% of Lok Sabha MPs
 
 ---
 
@@ -74,32 +75,44 @@
 *Mixed/neutral coverage (10 articles)*
 
 - **Total Articles:** 10
-- **Positive:** 2 | **Negative:** 0 | **Neutral:** 8
+- **Positive:** 1 | **Negative:** 0 | **Neutral:** 9
 
-- Khammam MP Sanctions ₹34.4 Lakh MPLADS Funds for Hand Pumps - Deccan Chronicle (Deccan Chronicle) [neutral]
-- MP Raghuram oversees summer relief initiative for litigants at court - The Hans India (The Hans India) [positive]
+- Khammam MP denies complaining against CPI MLA Kunamneni Sambasiva Rao - Telangana Today (Telangana Today) [neutral]
+- Khammam MP Bats for Congress Rule at Centre - Deccan Chronicle (Deccan Chronicle) [neutral]
 - Khammam MP Raghuram Reddy nominated as member of India-Switzerland Parliamentary Friendship Group - The Hindu (The Hindu) [neutral]
-- Khammam MP Seeks Buddhist Circuit Tag For Nelakondapalli - Dailyhunt (Dailyhunt) [neutral]
-- Bhatti urges DCC members to publicise devpt schemes - The Hans India (The Hans India) [neutral]
+- Khammam MP Seeks Better BSNL Services To Improve Rural Connectivity - Deccan Chronicle (Deccan Chronicle) [neutral]
+- Khammam MP Seeks Buddhist Circuit Tag For Nelakondapalli - Deccan Chronicle (Deccan Chronicle) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Khammam MP denies complaining against CPI MLA Kunamneni Sambasiva Rao - Telangana Today** (Telangana Today)
+- ! **Khammam MP Bats for Congress Rule at Centre - Deccan Chronicle** (Deccan Chronicle)
+- ! **Khammam MP Raghuram Reddy nominated as member of India-Switzerland Parliamentary Friendship Group - The Hindu** (The Hindu)
+- ! **Khammam MP Seeks Better BSNL Services To Improve Rural Connectivity - Deccan Chronicle** (Deccan Chronicle)
+- ! **Khammam MP Seeks Buddhist Circuit Tag For Nelakondapalli - Deccan Chronicle** (Deccan Chronicle)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
 - [!] **mplads**: Extremely low utilization rate — verify data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Telangana: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Ramasahayam Raghuram Reddy shows moderate transparency with a score of 51.5/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. Active in questions and debates.
+Ramasahayam Raghuram Reddy shows moderate transparency with a score of 50.0/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. Active in questions and debates.
 
 ---
 
-Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Declared assets: Rs 582,770,537. MPLADS utilization: 8.0%. Parliament attendance: 75.0%. Questions asked: 33. Debates participated: 4. 1 warning(s) noted.
+Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). MPLADS utilization: 8.0%. Parliament attendance: 75.0%. Questions asked: 33. Debates participated: 4. Low confidence data: Assets. 2 warning(s) noted.
 
 ---
 
@@ -139,7 +152,7 @@ Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Declared assets:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -237,12 +250,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

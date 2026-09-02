@@ -3,19 +3,17 @@
 **Constituency:** Balaghat, Madhya Pradesh
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 56
-**Education:** Graduate
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (37%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 61.4 / 100
+## Composite Transparency Score: 60.6 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 33.2 | 25% |
-| Asset Growth | 50.0 | 15% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 90.0 | 10% |
 | Questions & Debates | 70.0 | 10% |
@@ -38,14 +36,13 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 5.90 Crore
-- **Liabilities:** Rs 0
-- **Net Worth:** Rs 5.90 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 44% of Lok Sabha MPs
 
 ---
 
@@ -71,34 +68,46 @@
 
 ## In The News
 
-*Mixed/neutral coverage (10 articles)*
+*Mixed/neutral coverage (9 articles)*
 
-- **Total Articles:** 10
-- **Positive:** 1 | **Negative:** 0 | **Neutral:** 9
+- **Total Articles:** 9
+- **Positive:** 1 | **Negative:** 0 | **Neutral:** 8
 
 - MP HC rejects vote mismatch petition against BJP MP Bharti Pardhi | SCC Times - SCC Online (SCC Online) [neutral]
 - Railway bridge in Balaghat inaugurated twice: BJP MP Bharti Pardhi opens it first, Congress MLA Vivek Patel... - Bhaskar English (Bhaskar English) [positive]
-- Balaghat election results 2024 live updates: BJP's Bharti Pardhi wins - The Times of India (The Times of India) [neutral]
 - From shadow to spotlight, a leap to big league | India News - Hindustan Times (Hindustan Times) [neutral]
-- MP: BJP's Bharti Pardhi vs Congress' Samrat Saraswat in Balaghat for LS Polls; constituency to vote tomorrow - The News Mill (The News Mill) [neutral]
+- Madhya Pradesh: Battle for Mahakoshal, Vindhya - The New Indian Express (The New Indian Express) [neutral]
+- Balaghat lok sabha election results 2024: Balaghat Winning Candidates List and Vote Share - India Today (India Today) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **MP HC rejects vote mismatch petition against BJP MP Bharti Pardhi | SCC Times - SCC Online** (SCC Online)
+- ! **Railway bridge in Balaghat inaugurated twice: BJP MP Bharti Pardhi opens it first, Congress MLA Vivek Patel... - Bhaskar English** (Bhaskar English)
+- ! **From shadow to spotlight, a leap to big league | India News - Hindustan Times** (Hindustan Times)
+- ! **Madhya Pradesh: Battle for Mahakoshal, Vindhya - The New Indian Express** (The New Indian Express)
+- ! **Balaghat lok sabha election results 2024: Balaghat Winning Candidates List and Vote Share - India Today** (India Today)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Madhya Pradesh: 8 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Bharti Pardhi shows moderate transparency with a score of 61.4/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Bharti Pardhi shows moderate transparency with a score of 60.6/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-No criminal cases declared. Declared assets: Rs 59,018,167. MPLADS utilization: 41.5%. Parliament attendance: 90.0%. Questions asked: 44. Debates participated: 10.
+No criminal cases declared. MPLADS utilization: 41.5%. Parliament attendance: 90.0%. Questions asked: 44. Debates participated: 10. Low confidence data: Assets. 1 warning(s) noted.
 
 ---
 
@@ -138,7 +147,7 @@ No criminal cases declared. Declared assets: Rs 59,018,167. MPLADS utilization: 
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -236,12 +245,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

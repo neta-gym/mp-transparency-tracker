@@ -3,19 +3,17 @@
 **Constituency:** Kairana, Uttar Pradesh
 **Party:** Samajwadi Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 29
-**Education:** Post Graduate
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (37%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 60.0 / 100
+## Composite Transparency Score: 58.5 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 22.6 | 25% |
-| Asset Growth | 55.0 | 15% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 90.0 | 10% |
 | Questions & Debates | 70.0 | 10% |
@@ -38,14 +36,13 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 68.75 Lakh
-- **Liabilities:** Rs 8.84 Lakh
-- **Net Worth:** Rs 59.91 Lakh
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 6% of Lok Sabha MPs
 
 ---
 
@@ -76,29 +73,41 @@
 - **Total Articles:** 10
 - **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
 
-- 'Muslim women will be last to benefit from reservation bill': MP Iqra Hasan - The Times of India (The Times of India) [neutral]
-- Quiet Politics, Ground Gains: Iqra Choudhary’s Incremental Model In UP's Kairana - Outlook India (Outlook India) [neutral]
 - SP’s Iqra seeks a day in every House session to discuss women issues - The Indian Express (The Indian Express) [neutral]
-- Lokmat Parliamentary Awards 2025: Iqra Choudhary Receives Best Debutant Woman Parliamentarian of the Year Award - lokmattimes.com (lokmattimes.com) [neutral]
-- Hindutva leader questions, 'How is Iqra Hasan a Gurjar?': Says, 'A community that wears salwar out of fear ... - Bhaskar English (Bhaskar English) [neutral]
+- 'Muslim women will be last to benefit from reservation bill': MP Iqra Hasan - The Times of India (The Times of India) [neutral]
+- Quiet Politics, Ground Gains: Iqra Choudhary’s Incremental Model In UP's Kairana - outlookindia.com (outlookindia.com) [neutral]
+- Kairana Election Result: कैराना से जीतीं सपा की इकरा हसन, बीजेपी प्रत्याशी को 69 हजार वोट से हराया - AajTak (AajTak) [neutral]
+- Places of Worship Act: SP leader moves SC for effective execution - The Hindu (The Hindu) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **SP’s Iqra seeks a day in every House session to discuss women issues - The Indian Express** (The Indian Express)
+- ! **'Muslim women will be last to benefit from reservation bill': MP Iqra Hasan - The Times of India** (The Times of India)
+- ! **Quiet Politics, Ground Gains: Iqra Choudhary’s Incremental Model In UP's Kairana - outlookindia.com** (outlookindia.com)
+- ! **Kairana Election Result: कैराना से जीतीं सपा की इकरा हसन, बीजेपी प्रत्याशी को 69 हजार वोट से हराया - AajTak** (AajTak)
+- ! **Places of Worship Act: SP leader moves SC for effective execution - The Hindu** (The Hindu)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Uttar Pradesh: 8 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Iqra Choudhary shows moderate transparency with a score of 60.0/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Iqra Choudhary shows moderate transparency with a score of 58.5/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-No criminal cases declared. Declared assets: Rs 6,874,858. MPLADS utilization: 28.3%. Parliament attendance: 90.0%. Questions asked: 32. Debates participated: 12.
+No criminal cases declared. MPLADS utilization: 28.3%. Parliament attendance: 90.0%. Questions asked: 32. Debates participated: 12. Low confidence data: Assets. 1 warning(s) noted.
 
 ---
 
@@ -138,7 +147,7 @@ No criminal cases declared. Declared assets: Rs 6,874,858. MPLADS utilization: 2
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -236,12 +245,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

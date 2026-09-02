@@ -1,21 +1,19 @@
 # Sanjay Dina Patil — Transparency Report
 
 **Constituency:** Mumbai North East, Maharashtra
-**Party:** Shiv Sena (Uddhav Balasaheb Thackrey)
+**Party:** Shiv Sena
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 43
-**Education:** 8th Pass
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (37%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 54.4 / 100
+## Composite Transparency Score: 53.7 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 0.9 | 25% |
-| Asset Growth | 50.0 | 15% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 80.0 | 10% |
 | Questions & Debates | 80.0 | 10% |
@@ -38,14 +36,13 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 10.44 Lakh
-- **Liabilities:** Rs 0
-- **Net Worth:** Rs 10.44 Lakh
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 1% of Lok Sabha MPs
 
 ---
 
@@ -76,30 +73,42 @@
 - **Total Articles:** 10
 - **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
 
-- In Sena UBT, leaders seek tickets for kin, party says considering based on work - The Indian Express (The Indian Express) [neutral]
-- Mumbai North East election results 2024 live updates: SS(UBT)'s Sanjay Dina Patil wins - The Times of India (The Times of India) [neutral]
-- Mumbai North - East lok sabha election results 2024: Mumbai North - East Winning Candidates List and Vote Share - India Today (India Today) [neutral]
-- Mumbai, meet your new MPs - Citizen Matters (Citizen Matters) [neutral]
-- Mumbai North East: Marathi-Muslim wave for Sanjay Dina Patil | Mumbai news - Hindustan Times (Hindustan Times) [neutral]
+- Raut seeks action against rebel MP Sanjay Patil over 'threats'; Fadnavis says police will act - The Hindu (The Hindu) [neutral]
+- Uddhav to begin tour of rebel MPs’ constituencies with Mumbai North East - The Times of India (The Times of India) [neutral]
+- Data reveals funds allotted to defected Shiv Sena MPs remained unutilised - The New Indian Express (The New Indian Express) [neutral]
+- Sena MP Sanjay Dina Patil threatens journalists, hurls expletives; Shinde tries damage control - ThePrint (ThePrint) [neutral]
+- 'If you come again, I'll kill you': Shiv Sena rebel MP Sanjay Patil loses temper over journalists' question... - Bhaskar English (Bhaskar English) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Raut seeks action against rebel MP Sanjay Patil over 'threats'; Fadnavis says police will act - The Hindu** (The Hindu)
+- ! **Uddhav to begin tour of rebel MPs’ constituencies with Mumbai North East - The Times of India** (The Times of India)
+- ! **Data reveals funds allotted to defected Shiv Sena MPs remained unutilised - The New Indian Express** (The New Indian Express)
+- ! **Sena MP Sanjay Dina Patil threatens journalists, hurls expletives; Shinde tries damage control - ThePrint** (ThePrint)
+- ! **'If you come again, I'll kill you': Shiv Sena rebel MP Sanjay Patil loses temper over journalists' question... - Bhaskar English** (Bhaskar English)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
 - [!] **mplads**: Extremely low utilization rate — verify data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Maharashtra: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Sanjay Dina Patil shows moderate transparency with a score of 54.4/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Sanjay Dina Patil shows moderate transparency with a score of 53.7/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-No criminal cases declared. Declared assets: Rs 1,043,603. MPLADS utilization: 1.1%. Parliament attendance: 80.0%. Questions asked: 64. Debates participated: 8. 1 warning(s) noted.
+No criminal cases declared. MPLADS utilization: 1.1%. Parliament attendance: 80.0%. Questions asked: 64. Debates participated: 8. Low confidence data: Assets. 2 warning(s) noted.
 
 ---
 
@@ -139,7 +148,7 @@ No criminal cases declared. Declared assets: Rs 1,043,603. MPLADS utilization: 1
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -237,12 +246,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

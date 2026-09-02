@@ -3,24 +3,22 @@
 **Constituency:** Domariyaganj, Uttar Pradesh
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 74
-**Education:** Post Graduate
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (46%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 58.0 / 100
+## Composite Transparency Score: 51.3 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 1.3 | 25% |
-| Asset Growth | 60.0 | 15% |
-| Criminal Record | 90.0 | 15% |
+| Asset Growth | 45.0 | 15% |
+| Criminal Record | 55.0 | 15% |
 | Parliament Attendance | 100.0 | 10% |
 | Questions & Debates | 90.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
-| Public Accessibility | 15.0 | 5% |
+| Public Accessibility | 65.0 | 5% |
 | Legislative Effectiveness | 40.0 | 10% |
 
 ---
@@ -29,23 +27,26 @@
 
 - **Total Cases:** 1
 - **Serious Cases:** 0
-- **Convictions:** 0
-- **Pending Cases:** 1
+- **Convictions:** 1
+- **Pending Cases:** 0
 - **Disposed Cases:** 0
 - **Data Source:** myneta
+
+### Cases Detail
+
+1. Section 3/4 Representation of the People Act (Sections: 188) [convicted] 
 
 ---
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 19.35 Crore
-- **Liabilities:** Rs 74.87 Lakh
-- **Net Worth:** Rs 18.60 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 71% of Lok Sabha MPs
 
 ---
 
@@ -69,6 +70,18 @@
 
 ---
 
+## Public Accessibility
+
+- **Platforms:** 2
+
+
+| Platform | Handle | Verified | Active |
+|----------|--------|----------|--------|
+| Twitter | [@https://x.com/jagdambikapalmp?lang=en](https://x.com/https://x.com/jagdambikapalmp?lang=en) | No | Yes |
+| Facebook | [@https://www.facebook.com/JagdambikaPalMP/](https://facebook.com/https://www.facebook.com/JagdambikaPalMP/) | No | Yes |
+
+---
+
 ## In The News
 
 *Mixed/neutral coverage (10 articles)*
@@ -76,30 +89,42 @@
 - **Total Articles:** 10
 - **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
 
-- Digvijaya Singh says Jagdambika Pal would be ‘better’ speaker than Om Birla – ‘Kabira khada bazaar mein…’ | Watch Video - Mint (Mint) [neutral]
-- BJP’s Jagdambika Pal takes a dig at Rahul Gandhi’s ‘vote theft’ allegations - The Hindu (The Hindu) [neutral]
+- ‘CM for a day’ Jagdambika Pal adds another record to his name. This time, for expunged remarks - ThePrint (ThePrint) [neutral]
 - Domariyaganj election results 2024 live updates: BJP's Jagdambika Pal wins against SP's Bhishma Shankar - The Times of India (The Times of India) [neutral]
-- Political Profile of Jagdambika Pal, Bjp Party, Domariyaganj, and Net Worth - India TV News (India TV News) [neutral]
+- BJP’s Jagdambika Pal takes a dig at Rahul Gandhi’s ‘vote theft’ allegations - The Hindu (The Hindu) [neutral]
 - Power corridor: Quota continues due to BJP: Jagdambika Pal - The New Indian Express (The New Indian Express) [neutral]
+- Rahul says will go easy on 'former Congress member' Jagdambika Pal; LS Chair fires back with swift counter - Moneycontrol.com (Moneycontrol.com) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **‘CM for a day’ Jagdambika Pal adds another record to his name. This time, for expunged remarks - ThePrint** (ThePrint)
+- ! **Domariyaganj election results 2024 live updates: BJP's Jagdambika Pal wins against SP's Bhishma Shankar - The Times of India** (The Times of India)
+- ! **BJP’s Jagdambika Pal takes a dig at Rahul Gandhi’s ‘vote theft’ allegations - The Hindu** (The Hindu)
+- ! **Power corridor: Quota continues due to BJP: Jagdambika Pal - The New Indian Express** (The New Indian Express)
+- ! **Rahul says will go easy on 'former Congress member' Jagdambika Pal; LS Chair fires back with swift counter - Moneycontrol.com** (Moneycontrol.com)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
 - [!] **mplads**: Extremely low utilization rate — verify data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Uttar Pradesh: 8 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Jagdambika Pal shows moderate transparency with a score of 58.0/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Jagdambika Pal shows moderate transparency with a score of 51.3/100. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Declared assets: Rs 193,536,623. MPLADS utilization: 1.6%. Parliament attendance: 100.0%. Questions asked: 48. Debates participated: 34. 1 warning(s) noted.
+Has 1 criminal case(s) (0 serious), 0 pending, 1 conviction(s). MPLADS utilization: 1.6%. Parliament attendance: 100.0%. Questions asked: 48. Debates participated: 34. Low confidence data: Assets. 2 warning(s) noted.
 
 ---
 
@@ -139,7 +164,7 @@ Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Declared assets:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -237,12 +262,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

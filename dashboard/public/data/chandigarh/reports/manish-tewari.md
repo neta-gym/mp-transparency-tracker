@@ -7,21 +7,21 @@
 **Education:** Graduate Professional
 **Profession:** Advocate
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Medium (56%) | **Evidence Grade:** Third-party (C)
 
 ---
 
-## Composite Transparency Score: 61.6 / 100
+## Composite Transparency Score: 67.9 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 8.1 | 25% |
-| Asset Growth | 60.0 | 15% |
+| Asset Growth | 85.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 95.0 | 10% |
 | Questions & Debates | 70.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
-| Public Accessibility | 15.0 | 5% |
+| Public Accessibility | 65.0 | 5% |
 | Legislative Effectiveness | 70.0 | 10% |
 
 ---
@@ -39,14 +39,14 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
+- **Movable Assets:** Rs 8.81 Crore
+- **Immovable Assets:** Rs 20.87 Crore
 - **Total Assets:** Rs 29.68 Crore
-- **Liabilities:** Rs 2.50 Crore
-- **Net Worth:** Rs 27.18 Crore
-- **Previous Total Assets:** N/A
-- **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 78% of Lok Sabha MPs
+- **Liabilities:** Rs 2.58 Crore
+- **Net Worth:** Rs 27.11 Crore
+- **Previous Total Assets:** Rs 15463786015.00 Crore
+- **Asset Growth:** -100.0%
+- **Wealth Percentile:** Wealthier than 74% of Lok Sabha MPs
 
 ---
 
@@ -78,6 +78,18 @@
 
 ---
 
+## Public Accessibility
+
+- **Platforms:** 2
+
+
+| Platform | Handle | Verified | Active |
+|----------|--------|----------|--------|
+| Twitter | [@http://www.twitter.com/@manishtewari](https://x.com/http://www.twitter.com/@manishtewari) | No | Yes |
+| Facebook | [@http://www.facebook.com/manish tewari](https://facebook.com/http://www.facebook.com/manish tewari) | No | Yes |
+
+---
+
 ## In The News
 
 *Mixed/neutral coverage (10 articles)*
@@ -85,11 +97,21 @@
 - **Total Articles:** 10
 - **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
 
-- Chandigarh MP Manish Tewari seeks free power, water for urban poor - The Indian Express (The Indian Express) [neutral]
-- Stop shedding crocodile tears for people of Chandigarh: BJP leader Sanjay Tandon to Congress MP Manish Tewari - The Statesman (The Statesman) [neutral]
-- ‘Train bounces like table tennis ball’: Congress MP Manish Tewari flags 'dangerous' Delhi-Chandigarh rail route | India News - Hindustan Times (Hindustan Times) [neutral]
-- Chandigarh: MP Manish Tewari meets Ward No. 34 residents under public outreach campaign - MSN (MSN) [neutral]
-- Chandigarh MP Manish Tewari demands free power and water for urban poor and lower middle-class households - The Tribune (The Tribune) [neutral]
+- Chandigarh loses over 50 per cent voters in SIR, MP Manish Tewari flags fresh figures - The Tribune (The Tribune) [neutral]
+- Tewari leads swachhta workshop in Sector 16 school - The Times of India (The Times of India) [neutral]
+- Chandigarh MP Manish Tewari questions Chandigarh’s balance as Punjab Acts dominate laws in UT - The Indian Express (The Indian Express) [neutral]
+- Hon'ble MP Shri Manish Tewari Plants Sapling at Sukhana Choe Forest under "Har Ghar Tiranga Campaign" , Highlights Sustainable Forestry and Ecological Conservation Initiatives - indianewscalling.com (indianewscalling.com) [neutral]
+- Chandigarh MP Manish Tewari leads ‘Swachhta ki Karyashala’ in Sector 16 - The Tribune (The Tribune) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Chandigarh loses over 50 per cent voters in SIR, MP Manish Tewari flags fresh figures - The Tribune** (The Tribune)
+- ! **Tewari leads swachhta workshop in Sector 16 school - The Times of India** (The Times of India)
+- ! **Chandigarh MP Manish Tewari questions Chandigarh’s balance as Punjab Acts dominate laws in UT - The Indian Express** (The Indian Express)
+- ! **Hon'ble MP Shri Manish Tewari Plants Sapling at Sukhana Choe Forest under "Har Ghar Tiranga Campaign" , Highlights Sustainable Forestry and Ecological Conservation Initiatives - indianewscalling.com** (indianewscalling.com)
+- ! **Chandigarh MP Manish Tewari leads ‘Swachhta ki Karyashala’ in Sector 16 - The Tribune** (The Tribune)
 
 ---
 
@@ -103,7 +125,7 @@
 
 ## Qualitative Assessment
 
-Manish Tewari shows moderate transparency with a score of 61.6/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Manish Tewari shows moderate transparency with a score of 67.9/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
@@ -147,7 +169,7 @@ No criminal cases declared. Declared assets: Rs 296,842,688. MPLADS utilization:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -246,11 +268,12 @@ Time limit: PIO must respond within 30 days of receipt.
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
 | Assets | myneta | Official (B) |
+| Committees | sansad | LLM/Estimated (E) |
 | Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: myneta, prs, social_media, news, mplads*
+*Sources consulted: myneta, prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

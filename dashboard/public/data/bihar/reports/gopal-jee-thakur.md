@@ -3,24 +3,22 @@
 **Constituency:** Darbhanga, Bihar
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 54
-**Education:** Doctorate
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (46%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 55.9 / 100
+## Composite Transparency Score: 57.9 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 15.6 | 25% |
-| Asset Growth | 55.0 | 15% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 90.0 | 15% |
 | Parliament Attendance | 85.0 | 10% |
 | Questions & Debates | 70.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
-| Public Accessibility | 15.0 | 5% |
+| Public Accessibility | 85.0 | 5% |
 | Legislative Effectiveness | 40.0 | 10% |
 
 ---
@@ -34,18 +32,21 @@
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
+### Cases Detail
+
+1. 230/2013, Nagar P.S., Darbhanga (Sections: 143, 353, 149, 342) [pending] 
+
 ---
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 3.91 Crore
-- **Liabilities:** Rs 68.76 Lakh
-- **Net Worth:** Rs 3.22 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 32% of Lok Sabha MPs
 
 ---
 
@@ -69,6 +70,19 @@
 
 ---
 
+## Public Accessibility
+
+- **Platforms:** 3
+
+
+| Platform | Handle | Verified | Active |
+|----------|--------|----------|--------|
+| Twitter | [@http://www.twitter.com/gopaljeebjp](https://x.com/http://www.twitter.com/gopaljeebjp) | No | Yes |
+| Facebook | [@http://www.facebook.com/gopaljeebjp/](https://facebook.com/http://www.facebook.com/gopaljeebjp/) | No | Yes |
+| Instagram | [@https://www.instagram.com/gopaljeebjp/?hl=en](https://instagram.com/https://www.instagram.com/gopaljeebjp/?hl=en) | No | Yes |
+
+---
+
 ## In The News
 
 *Mixed/neutral coverage (10 articles)*
@@ -76,29 +90,41 @@
 - **Total Articles:** 10
 - **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
 
-- Darbhanga MP reviews Paddy Procurement with PACS Chiefs - Indian Cooperative (Indian Cooperative) [neutral]
-- Darbhanga MP Demands Patna High Court Bench for North Bihar, Submits Memorandum to Governor - Patna Press (Patna Press) [neutral]
-- Mithila–Seemanchal Rail Map Set to Change with Darbhanga Station Transformation - Patna Press (Patna Press) [neutral]
+- Darbhanga MP reviews Paddy Procurement with PACS Chiefs - indiancooperative.com (indiancooperative.com) [neutral]
+- Bihar CM welcomes inclusion of Maithili in CBSE curriculum from 2026-27 session - ET Education (ET Education) [neutral]
+- Jaipur gets Amrit Bharat Express to Darbhanga; Khatipura Mega Coaching Terminal opens - The Tribune (The Tribune) [neutral]
 - "Provocative statement" Darbhanga BJP MP on mayor's statement on Holi - ANI News (ANI News) [neutral]
-- Gopal Jee Thakur Latest News, Updates in Hindi | गोपालजी ठाकुर के समाचार और अपडेट - AajTak (AajTak) [neutral]
+- Gopal Jee Thakur Latest News, Updates in Hindi | गोपालजी ठाकुर के समाचार और अपडेट - Aaj Tak News (Aaj Tak News) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Darbhanga MP reviews Paddy Procurement with PACS Chiefs - indiancooperative.com** (indiancooperative.com)
+- ! **Bihar CM welcomes inclusion of Maithili in CBSE curriculum from 2026-27 session - ET Education** (ET Education)
+- ! **Jaipur gets Amrit Bharat Express to Darbhanga; Khatipura Mega Coaching Terminal opens - The Tribune** (The Tribune)
+- ! **"Provocative statement" Darbhanga BJP MP on mayor's statement on Holi - ANI News** (ANI News)
+- ! **Gopal Jee Thakur Latest News, Updates in Hindi | गोपालजी ठाकुर के समाचार और अपडेट - Aaj Tak News** (Aaj Tak News)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Bihar: 8 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Gopal Jee Thakur shows moderate transparency with a score of 55.9/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Gopal Jee Thakur shows moderate transparency with a score of 57.9/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Declared assets: Rs 39,078,830. MPLADS utilization: 19.5%. Parliament attendance: 85.0%. Questions asked: 37. Debates participated: 8.
+Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). MPLADS utilization: 19.5%. Parliament attendance: 85.0%. Questions asked: 37. Debates participated: 8. Low confidence data: Assets. 1 warning(s) noted.
 
 ---
 
@@ -138,7 +164,7 @@ Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Declared assets:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -236,12 +262,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

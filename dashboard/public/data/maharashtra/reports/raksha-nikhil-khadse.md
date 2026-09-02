@@ -3,19 +3,17 @@
 **Constituency:** Raver, Maharashtra
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 36
-**Education:** Graduate
 **Report Date:** 2026-09-02
-**Data Confidence:** Low (43%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (30%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 48.9 / 100
+## Composite Transparency Score: 46.6 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 3.1 | 25% |
-| Asset Growth | 60.0 | 15% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 50.0 | 10% |
 | Questions & Debates | 50.0 | 10% |
@@ -38,14 +36,13 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 18.21 Crore
-- **Liabilities:** Rs 77.36 Lakh
-- **Net Worth:** Rs 17.44 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 70% of Lok Sabha MPs
 
 ---
 
@@ -76,31 +73,43 @@
 - **Total Articles:** 10
 - **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
 
-- Raksha becomes Union min, gives credit to father-in-law - The Times of India (The Times of India) [neutral]
 - Strength & resilience — this single mother rose through the ranks - The New Indian Express (The New Indian Express) [neutral]
+- Raksha becomes Union min, gives credit to father-in-law - The Times of India (The Times of India) [neutral]
 - Who is Raksha Khadse, BJP's face of resilience, in Modi 3.0 ministry - India Today (India Today) [neutral]
-- Exclusive | Lok Sabha elections 2024: I have been working for development, says Raksha Nikhil Khadse - Mid-day (Mid-day) [neutral]
-- Who is Raksha Khadse? BJP’s face from North Maharashtra inducted in Modi’s council of ministers - ThePrint (ThePrint) [neutral]
+- A loyal BJP politician who is soft-spoken, non-controversial - The Times of India (The Times of India) [neutral]
+- Raver Election Result 2024 LIVE Updates Highlights: Khadse Raksha Nikhil of BJP Wins - News18 (News18) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Strength & resilience — this single mother rose through the ranks - The New Indian Express** (The New Indian Express)
+- ! **Raksha becomes Union min, gives credit to father-in-law - The Times of India** (The Times of India)
+- ! **Who is Raksha Khadse, BJP's face of resilience, in Modi 3.0 ministry - India Today** (India Today)
+- ! **A loyal BJP politician who is soft-spoken, non-controversial - The Times of India** (The Times of India)
+- ! **Raver Election Result 2024 LIVE Updates Highlights: Khadse Raksha Nikhil of BJP Wins - News18** (News18)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
 - [!] **mplads**: Extremely low utilization rate — verify data
 - [!] **parliament_activity**: Low confidence in parliament activity data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Maharashtra: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Raksha Nikhil Khadse has a below-average transparency score of 48.9/100, indicating significant room for improvement. No criminal cases declared. Low MPLADS fund utilization needs attention.
+Raksha Nikhil Khadse has a below-average transparency score of 46.6/100, indicating significant room for improvement. No criminal cases declared. Low MPLADS fund utilization needs attention.
 
 ---
 
-No criminal cases declared. Declared assets: Rs 182,117,790. MPLADS utilization: 3.9%. Low confidence data: Parliament activity. 2 warning(s) noted.
+No criminal cases declared. MPLADS utilization: 3.9%. Low confidence data: Assets, Parliament activity. 3 warning(s) noted.
 
 ---
 
@@ -140,7 +149,7 @@ No criminal cases declared. Declared assets: Rs 182,117,790. MPLADS utilization:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -238,12 +247,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

@@ -3,19 +3,17 @@
 **Constituency:** Andaman and Nicobar Islands, Andaman And Nicobar Islands
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 73
-**Education:** Graduate
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (37%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 54.3 / 100
+## Composite Transparency Score: 52.0 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 5.1 | 25% |
-| Asset Growth | 60.0 | 15% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 90.0 | 10% |
 | Questions & Debates | 40.0 | 10% |
@@ -38,14 +36,13 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 2.74 Crore
-- **Liabilities:** Rs 3.03 Lakh
-- **Net Worth:** Rs 2.71 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 24% of Lok Sabha MPs
 
 ---
 
@@ -76,30 +73,42 @@
 - **Total Articles:** 10
 - **Positive:** 1 | **Negative:** 0 | **Neutral:** 9
 
-- MP Bishnu Pada Ray Writes to BJP State President Anil Tiwari to Push for Central University in A&N - Nicobar Times (Nicobar Times) [neutral]
-- MP seeks urgent intervention of Prime Minister and Home Minister on students’ agitation for central university in A&N Islands - ANDAMAN SHEEKHA (ANDAMAN SHEEKHA) [neutral]
-- MP seeks Prime Minister’s intervention and High-Level probe into delay, irregularities and substandard PMAY (Urban) Housing Project at Prothrapur - Andaman Chronicle (Andaman Chronicle) [neutral]
-- MP Bishnu Pada Ray raises demand in Lok Sabha for fair Compensation and Rehabilitation package for affected families under GNI Project - ANDAMAN SHEEKHA (ANDAMAN SHEEKHA) [neutral]
-- MP Urges Lt. Governor to Recommend Establishment of Central University in A&N Islands - Andaman Chronicle (Andaman Chronicle) [neutral]
+- MP Bishnu Pada Ray Seeks Strict Compliance with Land Acquisition Law Before R&R Committee Meeting for Great Nicobar International Airport Project – ANDAMAN SHEEKHA - ANDAMAN SHEEKHA (ANDAMAN SHEEKHA) [neutral]
+- MP Bishnu Pada Ray Calls on New Chief Secretary Gyanesh Bharti, IAS - andamanchronicle.net (andamanchronicle.net) [neutral]
+- MP Seeks One-Year Fixed Tenure for Government Employees Posted in Nicobar District - ANDAMAN SHEEKHA (ANDAMAN SHEEKHA) [neutral]
+- MP Bishnu Pada Ray Urges Compliance With Mandatory Land Acquisition Procedures Before Great Nicobar Airport - nicobartimes.com (nicobartimes.com) [neutral]
+- Member of Parliament Reviews Progress of NH-4 Works; NHIDCL Assures Completion within Agreed Timelines - andamanchronicle.net (andamanchronicle.net) [positive]
+
+---
+
+## News & Allegations
+
+- ! **MP Bishnu Pada Ray Seeks Strict Compliance with Land Acquisition Law Before R&R Committee Meeting for Great Nicobar International Airport Project – ANDAMAN SHEEKHA - ANDAMAN SHEEKHA** (ANDAMAN SHEEKHA)
+- ! **MP Bishnu Pada Ray Calls on New Chief Secretary Gyanesh Bharti, IAS - andamanchronicle.net** (andamanchronicle.net)
+- ! **MP Seeks One-Year Fixed Tenure for Government Employees Posted in Nicobar District - ANDAMAN SHEEKHA** (ANDAMAN SHEEKHA)
+- ! **MP Bishnu Pada Ray Urges Compliance With Mandatory Land Acquisition Procedures Before Great Nicobar Airport - nicobartimes.com** (nicobartimes.com)
+- ! **Member of Parliament Reviews Progress of NH-4 Works; NHIDCL Assures Completion within Agreed Timelines - andamanchronicle.net** (andamanchronicle.net)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
 - [!] **mplads**: Extremely low utilization rate — verify data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Andaman And Nicobar Islands: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Bishnu Pada Ray shows moderate transparency with a score of 54.3/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
+Bishnu Pada Ray shows moderate transparency with a score of 52.0/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
 
 ---
 
-No criminal cases declared. Declared assets: Rs 27,439,170. MPLADS utilization: 6.4%. Parliament attendance: 90.0%. Questions asked: 11. Debates participated: 4. 1 warning(s) noted.
+No criminal cases declared. MPLADS utilization: 6.4%. Parliament attendance: 90.0%. Questions asked: 11. Debates participated: 4. Low confidence data: Assets. 2 warning(s) noted.
 
 ---
 
@@ -139,7 +148,7 @@ No criminal cases declared. Declared assets: Rs 27,439,170. MPLADS utilization: 
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -237,12 +246,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

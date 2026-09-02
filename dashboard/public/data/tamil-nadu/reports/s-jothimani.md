@@ -4,31 +4,31 @@
 **Party:** Indian National Congress
 **House:** Lok Sabha (18th Parliament, 2024-present)
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Third-party (C)
+**Data Confidence:** Low (34%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 60.1 / 100
+## Composite Transparency Score: 51.4 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 20.6 | 25% |
-| Asset Growth | 60.0 | 15% |
-| Criminal Record | 90.0 | 15% |
+| Asset Growth | 45.0 | 15% |
+| Criminal Record | 45.0 | 15% |
 | Parliament Attendance | 95.0 | 10% |
 | Questions & Debates | 80.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
-| Public Accessibility | 15.0 | 5% |
+| Public Accessibility | 65.0 | 5% |
 | Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
 ## Criminal Record
 
-- **Total Cases:** 1
+- **Total Cases:** 0
 - **Serious Cases:** 0
 - **Convictions:** 0
-- **Pending Cases:** 1
+- **Pending Cases:** 0
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
@@ -36,14 +36,13 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 1.54 Crore
-- **Liabilities:** Rs 14.55 Lakh
-- **Net Worth:** Rs 1.39 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 13% of Lok Sabha MPs
 
 ---
 
@@ -67,6 +66,18 @@
 
 ---
 
+## Public Accessibility
+
+- **Platforms:** 2
+
+
+| Platform | Handle | Verified | Active |
+|----------|--------|----------|--------|
+| Twitter | [@http://www.twitter.com/jothims](https://x.com/http://www.twitter.com/jothims) | No | Yes |
+| Facebook | [@http://www.facebook.com/jothiiyc](https://facebook.com/http://www.facebook.com/jothiiyc) | No | Yes |
+
+---
+
 ## In The News
 
 *Mixed/neutral coverage (10 articles)*
@@ -74,29 +85,42 @@
 - **Total Articles:** 10
 - **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
 
-- BJP Leader Faces Police Case Over Alleged Obscene Remarks Against Congress MP S Jothimani - NDTV (NDTV) [neutral]
-- Karur police book BJP district president for making derogatory remarks against Congress MP Jothimani - The Hindu (The Hindu) [neutral]
-- 2026 TN elections | Pre-selected list betrays Rahul’s vision: Karur MP Jothimani - DT Next (DT Next) [neutral]
-- Congress MP Jothimani calls out BJP leader for ‘repulsive’ comments - The New Indian Express (The New Indian Express) [neutral]
-- Party heading for destruction: MP Jothimani takes on TN Congress leadership - The Federal (The Federal) [neutral]
+- 'Don't Just Open The Rulebook': Congress MP Jothimani On Jobs For Karur Victims' Kin - NDTV (NDTV) [neutral]
+- Congress MP Jothimani alleges ‘irregularities’ in party’s candidate selection for Tamil Nadu polls - ThePrint (ThePrint) [neutral]
+- Karur visit: CM Vijay broke down in tears, says MP Jothimani - The Federal (The Federal) [neutral]
+- Don't take advantage of our silence, Congress MP Jothimani warns DMK - DT Next (DT Next) [neutral]
+- Former Karur Congress chief takes exception to Jothimani’s remarks on seat sharing - The Hindu (The Hindu) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **'Don't Just Open The Rulebook': Congress MP Jothimani On Jobs For Karur Victims' Kin - NDTV** (NDTV)
+- ! **Congress MP Jothimani alleges ‘irregularities’ in party’s candidate selection for Tamil Nadu polls - ThePrint** (ThePrint)
+- ! **Karur visit: CM Vijay broke down in tears, says MP Jothimani - The Federal** (The Federal)
+- ! **Don't take advantage of our silence, Congress MP Jothimani warns DMK - DT Next** (DT Next)
+- ! **Former Karur Congress chief takes exception to Jothimani’s remarks on seat sharing - The Hindu** (The Hindu)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
+- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Tamil Nadu: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-S Jothimani shows moderate transparency with a score of 60.1/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+S Jothimani shows moderate transparency with a score of 51.4/100. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Declared assets: Rs 15,352,373. MPLADS utilization: 25.7%. Parliament attendance: 95.0%. Questions asked: 41. Debates participated: 15.
+No criminal cases declared. MPLADS utilization: 25.7%. Parliament attendance: 95.0%. Questions asked: 41. Debates participated: 15. Low confidence data: Criminal record, Assets. 2 warning(s) noted.
 
 ---
 
@@ -136,7 +160,7 @@ Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Declared assets:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -234,10 +258,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

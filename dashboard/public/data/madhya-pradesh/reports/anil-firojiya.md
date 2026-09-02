@@ -3,19 +3,17 @@
 **Constituency:** Ujjain, Madhya Pradesh
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 52
-**Education:** 12th Pass
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (37%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 61.1 / 100
+## Composite Transparency Score: 60.3 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 36.7 | 25% |
-| Asset Growth | 50.0 | 15% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 90.0 | 10% |
 | Questions & Debates | 60.0 | 10% |
@@ -38,14 +36,13 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 8.82 Crore
-- **Liabilities:** Rs 3.03 Crore
-- **Net Worth:** Rs 5.78 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 54% of Lok Sabha MPs
 
 ---
 
@@ -76,29 +73,41 @@
 - **Total Articles:** 10
 - **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
 
-- Ujjain MP Anil Firojiya reduces 32kg after Nitin Gadkari challenged him of 'shedding flab' - The Times of India (The Times of India) [neutral]
-- Ujjain MP Anil Firojiya says he lost 32 kg after Nitin Gadkari challenged him to 'shed flab' - The Economic Times (The Economic Times) [neutral]
-- Ujjain BJP MP Anil Firojiya Rode Without Helmet, Then Paid Rs 250 Fine On His Own - NDTV (NDTV) [neutral]
-- Ujjain MP Anil Firojiya sheds weight for funds for constituency - Awaz The Voice (Awaz The Voice) [neutral]
-- BJP MP urges PM Modi for permanent deployment of CAPF at Ujjain Mahakaleshwar temple - ANI News (ANI News) [neutral]
+- Row Erupts Over Load Testing Of Ujjain Overbridge As Owaisi Takes Jibe, BJP MP Hits Back - ETV Bharat (ETV Bharat) [neutral]
+- ​A Somber Homecoming: CM Mohan Yadav pays tribute as Ujjain student’s remains arrive from Canada - The Assam Tribune (The Assam Tribune) [neutral]
+- Anil Firojiya , BJP candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details. - The Hindu (The Hindu) [neutral]
+- Ujjain: BJP MP Anil Firojiya takes up Nitin Gadkari's challenge; demands Rs 15,000 crore for shedding fla - The Times of India (The Times of India) [neutral]
+- Ujjain MP Anil Firojiya sheds weight for funds for constituency - awazthevoice.in (awazthevoice.in) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Row Erupts Over Load Testing Of Ujjain Overbridge As Owaisi Takes Jibe, BJP MP Hits Back - ETV Bharat** (ETV Bharat)
+- ! **​A Somber Homecoming: CM Mohan Yadav pays tribute as Ujjain student’s remains arrive from Canada - The Assam Tribune** (The Assam Tribune)
+- ! **Anil Firojiya , BJP candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details. - The Hindu** (The Hindu)
+- ! **Ujjain: BJP MP Anil Firojiya takes up Nitin Gadkari's challenge; demands Rs 15,000 crore for shedding fla - The Times of India** (The Times of India)
+- ! **Ujjain MP Anil Firojiya sheds weight for funds for constituency - awazthevoice.in** (awazthevoice.in)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Madhya Pradesh: 8 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Anil Firojiya shows moderate transparency with a score of 61.1/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Anil Firojiya shows moderate transparency with a score of 60.3/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-No criminal cases declared. Declared assets: Rs 88,159,766. MPLADS utilization: 45.9%. Parliament attendance: 90.0%. Questions asked: 25. Debates participated: 5.
+No criminal cases declared. MPLADS utilization: 45.9%. Parliament attendance: 90.0%. Questions asked: 25. Debates participated: 5. Low confidence data: Assets. 1 warning(s) noted.
 
 ---
 
@@ -138,7 +147,7 @@ No criminal cases declared. Declared assets: Rs 88,159,766. MPLADS utilization: 
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -236,12 +245,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

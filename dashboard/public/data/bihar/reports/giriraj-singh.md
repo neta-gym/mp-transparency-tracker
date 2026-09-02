@@ -3,24 +3,22 @@
 **Constituency:** Begusarai, Bihar
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 71
-**Education:** Graduate
 **Report Date:** 2026-09-02
-**Data Confidence:** Low (43%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (39%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 45.7 / 100
+## Composite Transparency Score: 43.9 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 17.1 | 25% |
-| Asset Growth | 60.0 | 15% |
-| Criminal Record | 70.0 | 15% |
+| Asset Growth | 45.0 | 15% |
+| Criminal Record | 60.0 | 15% |
 | Parliament Attendance | 50.0 | 10% |
 | Questions & Debates | 50.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
-| Public Accessibility | 15.0 | 5% |
+| Public Accessibility | 65.0 | 5% |
 | Legislative Effectiveness | 40.0 | 10% |
 
 ---
@@ -28,24 +26,29 @@
 ## Criminal Record
 
 - **Total Cases:** 3
-- **Serious Cases:** 0
+- **Serious Cases:** 1
 - **Convictions:** 0
 - **Pending Cases:** 3
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
+### Cases Detail
+
+1. P.S. Danapur Case No.54/18,  Dist. Patna | Sec.3(1), 9, g/r/s/ SC/ST Act (Sections: 419, 420, 467, 468, 469, 471, 474, 120B) [pending] **SERIOUS**
+2. Nalsi P.S. Case No.575/15 (Sections: N/A) [pending] 
+3. P.S. Begusarai Case No.221/19, (Sections: 188, 298, 153A, 153B, 295A, 171C, 505(2)) [pending] 
+
 ---
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 14.32 Crore
-- **Liabilities:** Rs 90.00 Lakh
-- **Net Worth:** Rs 13.42 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 65% of Lok Sabha MPs
 
 ---
 
@@ -69,37 +72,61 @@
 
 ---
 
+## Public Accessibility
+
+- **Platforms:** 2
+
+
+| Platform | Handle | Verified | Active |
+|----------|--------|----------|--------|
+| Twitter | [@https://x.com/girirajsinghbjp?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor](https://x.com/https://x.com/girirajsinghbjp?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) | No | Yes |
+| Facebook | [@https://www.facebook.com/girirajsinghbjp/?locale=hi_IN](https://facebook.com/https://www.facebook.com/girirajsinghbjp/?locale=hi_IN) | No | Yes |
+
+---
+
 ## In The News
 
 *Mixed/neutral coverage (10 articles)*
 
 - **Total Articles:** 10
-- **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
+- **Positive:** 1 | **Negative:** 1 | **Neutral:** 8
 
+- Bihar’s Begusarai court continues relief to Giriraj Singh in 2019 poll-related case - tennews.in (tennews.in) [positive]
+- Giriraj Singh takes charge as Textiles Minister - Press Trust of India (Press Trust of India) [neutral]
+- Giriraj gets bail in poll code violation case - The Times of India (The Times of India) [neutral]
 - Giriraj Singh buys electric car after PM Modi’s appeal to cut fuel use - Cityairnews (Cityairnews) [neutral]
-- Giriraj Singh buys electric car after PM Modi’s appeal to cut fuel use - thehawk.in (thehawk.in) [neutral]
-- Giriraj Singh's 'pig rearing' remark sparks Opposition's minority targeting charge - India Today (India Today) [neutral]
-- Mamata ‘suppressing Hindus like Aurangzeb’: Giriraj Singh escalates blistering attack - Mathrubhumi English (Mathrubhumi English) [neutral]
-- From today, Giriraj's name is Suar (pig) Singh- Pappu Yadav: Union Minister had said, 'I'll raise pigs so t... - Bhaskar English (Bhaskar English) [neutral]
+- Don't want votes of....: Union Minister's remarks against Muslims spark row - India Today (India Today) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Bihar’s Begusarai court continues relief to Giriraj Singh in 2019 poll-related case - tennews.in** (tennews.in)
+- ! **Giriraj Singh takes charge as Textiles Minister - Press Trust of India** (Press Trust of India)
+- ! **Giriraj gets bail in poll code violation case - The Times of India** (The Times of India)
+- ! **Giriraj Singh buys electric car after PM Modi’s appeal to cut fuel use - Cityairnews** (Cityairnews)
+- ! **Don't want votes of....: Union Minister's remarks against Muslims spark row - India Today** (India Today)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
 - [!] **parliament_activity**: Low confidence in parliament activity data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Bihar: 8 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Giriraj Singh has a below-average transparency score of 45.7/100, indicating significant room for improvement. Minor criminal cases on record. Low MPLADS fund utilization needs attention.
+Giriraj Singh has a below-average transparency score of 43.9/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention.
 
 ---
 
-Has 3 criminal case(s) (0 serious), 3 pending, 0 conviction(s). Declared assets: Rs 143,169,297. MPLADS utilization: 21.4%. Low confidence data: Parliament activity. 1 warning(s) noted.
+Has 3 criminal case(s) (1 serious), 3 pending, 0 conviction(s). MPLADS utilization: 21.4%. Low confidence data: Assets, Parliament activity. 2 warning(s) noted.
 
 ---
 
@@ -139,7 +166,7 @@ Has 3 criminal case(s) (0 serious), 3 pending, 0 conviction(s). Declared assets:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -237,12 +264,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

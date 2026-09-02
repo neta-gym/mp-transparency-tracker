@@ -3,24 +3,22 @@
 **Constituency:** Dewas, Madhya Pradesh
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 40
-**Education:** Graduate Professional
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (46%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 50.5 / 100
+## Composite Transparency Score: 52.2 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 15.0 | 25% |
-| Asset Growth | 50.0 | 15% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 80.0 | 15% |
 | Parliament Attendance | 95.0 | 10% |
 | Questions & Debates | 30.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
-| Public Accessibility | 15.0 | 5% |
+| Public Accessibility | 65.0 | 5% |
 | Legislative Effectiveness | 40.0 | 10% |
 
 ---
@@ -34,18 +32,22 @@
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
+### Cases Detail
+
+1. 226/2019, Shajapur Kotwali, District Shajapur | Section 126 Representation of People Act (Sections: 188) [pending] 
+2. 855/2019, City Kotwali Thana, District Dewas | Section 3 Prevention of Public Property Act 1984 (Sections: 353, 427, 506, 34) [pending] 
+
 ---
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 38.17 Lakh
-- **Liabilities:** Rs 27.12 Lakh
-- **Net Worth:** Rs 11.05 Lakh
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 4% of Lok Sabha MPs
 
 ---
 
@@ -69,6 +71,18 @@
 
 ---
 
+## Public Accessibility
+
+- **Platforms:** 2
+
+
+| Platform | Handle | Verified | Active |
+|----------|--------|----------|--------|
+| Twitter | [@http://www.twitter.com/MahendraForBJP](https://x.com/http://www.twitter.com/MahendraForBJP) | No | Yes |
+| Facebook | [@http://www.facebook.com/MahendraForBJP](https://facebook.com/http://www.facebook.com/MahendraForBJP) | No | Yes |
+
+---
+
 ## In The News
 
 *Mixed/neutral coverage (10 articles)*
@@ -76,29 +90,41 @@
 - **Total Articles:** 10
 - **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
 
-- Dewas Election Result 2024 - Parliamentary Constituency Map and Winning MP - Maps of India (Maps of India) [neutral]
-- Dewas election results 2024 live updates: BJP's Mahendra Singh Solanky wins - The Times of India (The Times of India) [neutral]
-- Dewas Election Result 2024 LIVE Updates Highlights: Mahendra Singh Solanky of BJP Wins - News18 (News18) [neutral]
-- Elections 2019: Folk Singer Vs Former Judge in Madhya Pradesh’s Dewas - newsclick.in (newsclick.in) [neutral]
-- Dewas lok sabha election results 2024: Dewas Winning Candidates List and Vote Share - India Today (India Today) [neutral]
+- Dewas factory where blast killed 5 linked to politician’s aide: Explosives stored far beyond limit to compl... - Bhaskar English (Bhaskar English) [neutral]
+- Elections 2019: Folk Singer Vs Former Judge in Madhya Pradesh’s Dewas - NewsClick (NewsClick) [neutral]
+- In Dewas, It’s Congress’ Prahlad Singh Tipaniya Versus Modi - Swarajya (Swarajya) [neutral]
+- Shujalpur Constituency Election Results 2023: Shujalpur Assembly Seat Details, MLA Candidates & Winner - timesofindia.indiatimes.com (timesofindia.indiatimes.com) [neutral]
+- MP district planning committee meeting turns verbal battleground between minister and BJP leader - The New Indian Express (The New Indian Express) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Dewas factory where blast killed 5 linked to politician’s aide: Explosives stored far beyond limit to compl... - Bhaskar English** (Bhaskar English)
+- ! **Elections 2019: Folk Singer Vs Former Judge in Madhya Pradesh’s Dewas - NewsClick** (NewsClick)
+- ! **In Dewas, It’s Congress’ Prahlad Singh Tipaniya Versus Modi - Swarajya** (Swarajya)
+- ! **Shujalpur Constituency Election Results 2023: Shujalpur Assembly Seat Details, MLA Candidates & Winner - timesofindia.indiatimes.com** (timesofindia.indiatimes.com)
+- ! **MP district planning committee meeting turns verbal battleground between minister and BJP leader - The New Indian Express** (The New Indian Express)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Madhya Pradesh: 8 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Mahendra Singh Solanky shows moderate transparency with a score of 50.5/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance.
+Mahendra Singh Solanky shows moderate transparency with a score of 52.2/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance.
 
 ---
 
-Has 2 criminal case(s) (0 serious), 2 pending, 0 conviction(s). Declared assets: Rs 3,817,399. MPLADS utilization: 18.7%. Parliament attendance: 95.0%. Questions asked: 20.
+Has 2 criminal case(s) (0 serious), 2 pending, 0 conviction(s). MPLADS utilization: 18.7%. Parliament attendance: 95.0%. Questions asked: 20. Low confidence data: Assets. 1 warning(s) noted.
 
 ---
 
@@ -138,7 +164,7 @@ Has 2 criminal case(s) (0 serious), 2 pending, 0 conviction(s). Declared assets:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -236,12 +262,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

@@ -4,17 +4,17 @@
 **Party:** Samajwadi Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Third-party (C)
+**Data Confidence:** Low (27%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 51.1 / 100
+## Composite Transparency Score: 43.3 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 17.8 | 25% |
-| Asset Growth | 50.0 | 15% |
-| Criminal Record | 80.0 | 15% |
+| Asset Growth | 45.0 | 15% |
+| Criminal Record | 45.0 | 15% |
 | Parliament Attendance | 95.0 | 10% |
 | Questions & Debates | 30.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
@@ -25,10 +25,10 @@
 
 ## Criminal Record
 
-- **Total Cases:** 2
+- **Total Cases:** 0
 - **Serious Cases:** 0
 - **Convictions:** 0
-- **Pending Cases:** 2
+- **Pending Cases:** 0
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
@@ -36,14 +36,13 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 2.84 Crore
-- **Liabilities:** Rs 0
-- **Net Worth:** Rs 2.84 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 25% of Lok Sabha MPs
 
 ---
 
@@ -74,29 +73,42 @@
 - **Total Articles:** 10
 - **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
 
-- 'Difficult to control pollution if...': SP MP RK Chaudhary defends remarks on 'Holika Dahan'; BJP hits out - India TV News (India TV News) [neutral]
-- SP Says Ambedkar Day Event Cancelled Under BJP Govt Pressure - Outlook India (Outlook India) [neutral]
+- Another ‘Mandir-Masjid’ dispute stirs political battle in UP - The Times of India (The Times of India) [neutral]
 - Plea Against Election Of SP's Mohanlalganj MP For Allegedly Seeking Votes On Religious, Caste Lines:... - Live Law (Live Law) [neutral]
-- Mohanlalganj election results 2024: R K Chaudhary of SP wins - The Times of India (The Times of India) [neutral]
-- Mohanlalganj (SC) lok sabha election results 2024: Mohanlalganj (SC) Winning Candidates List and Vote Share - India Today (India Today) [neutral]
+- Akhilesh Yadav not granted approval to observe 'Ambedkar Parinirvan Diwas': SP says, 'Police didn't give pe... - Bhaskar English (Bhaskar English) [neutral]
+- R.K. Chaudhary , SP candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details. - The Hindu (The Hindu) [neutral]
+- 2024 LS polls: Candidates in U.P.’s Mohanlalganj go all out on last day of campaign | Hindustan Times - Hindustan Times (Hindustan Times) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Another ‘Mandir-Masjid’ dispute stirs political battle in UP - The Times of India** (The Times of India)
+- ! **Plea Against Election Of SP's Mohanlalganj MP For Allegedly Seeking Votes On Religious, Caste Lines:... - Live Law** (Live Law)
+- ! **Akhilesh Yadav not granted approval to observe 'Ambedkar Parinirvan Diwas': SP says, 'Police didn't give pe... - Bhaskar English** (Bhaskar English)
+- ! **R.K. Chaudhary , SP candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details. - The Hindu** (The Hindu)
+- ! **2024 LS polls: Candidates in U.P.’s Mohanlalganj go all out on last day of campaign | Hindustan Times - Hindustan Times** (Hindustan Times)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
+- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Uttar Pradesh: 8 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-R K Chaudhary shows moderate transparency with a score of 51.1/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance.
+R K Chaudhary has a below-average transparency score of 43.3/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Data confidence is low — scores should be interpreted with caution.
 
 ---
 
-Has 2 criminal case(s) (0 serious), 2 pending, 0 conviction(s). Declared assets: Rs 28,384,459. MPLADS utilization: 22.2%. Parliament attendance: 95.0%. Questions asked: 1. Debates participated: 2.
+No criminal cases declared. MPLADS utilization: 22.2%. Parliament attendance: 95.0%. Questions asked: 1. Debates participated: 2. Low confidence data: Criminal record, Assets. 2 warning(s) noted.
 
 ---
 
@@ -136,7 +148,7 @@ Has 2 criminal case(s) (0 serious), 2 pending, 0 conviction(s). Declared assets:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -234,10 +246,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

@@ -3,24 +3,22 @@
 **Constituency:** Siwan, Bihar
 **Party:** Janata Dal (United)
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 61
-**Education:** Literate
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (44%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 64.4 / 100
+## Composite Transparency Score: 65.7 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 58.3 | 25% |
-| Asset Growth | 60.0 | 15% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 100.0 | 10% |
 | Questions & Debates | 20.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
-| Public Accessibility | 15.0 | 5% |
+| Public Accessibility | 85.0 | 5% |
 | Legislative Effectiveness | 40.0 | 10% |
 
 ---
@@ -38,14 +36,13 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 4.41 Crore
-- **Liabilities:** Rs 3.60 Lakh
-- **Net Worth:** Rs 4.38 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 36% of Lok Sabha MPs
 
 ---
 
@@ -69,6 +66,19 @@
 
 ---
 
+## Public Accessibility
+
+- **Platforms:** 3
+
+
+| Platform | Handle | Verified | Active |
+|----------|--------|----------|--------|
+| Twitter | [@https://x.com/i/flow/login?redirect_after_login=%2FVLakshmiKush](https://x.com/https://x.com/i/flow/login?redirect_after_login=%2FVLakshmiKush) | No | Yes |
+| Facebook | [@https://www.facebook.com/VijayaLakshmiKush/](https://facebook.com/https://www.facebook.com/VijayaLakshmiKush/) | No | Yes |
+| Instagram | [@https://www.instagram.com/VLakshmiKush/](https://instagram.com/https://www.instagram.com/VLakshmiKush/) | No | Yes |
+
+---
+
 ## In The News
 
 *Mixed/neutral coverage (10 articles)*
@@ -76,29 +86,41 @@
 - **Total Articles:** 10
 - **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
 
-- Bihar: JD(U) MP and MLA receive death threat calls, extortion demand of Rs 10 lakh - India TV News (India TV News) [neutral]
-- Blast In Siwan Village During CM Nitish Kumar’s Visit, One Dead - Ommcom News (Ommcom News) [neutral]
-- Kushwaha relents as JD(U) fields Vijaya from Siwan - The Times of India (The Times of India) [neutral]
-- Siwan lok sabha election results 2024: Siwan Winning Candidates List and Vote Share - India Today (India Today) [neutral]
-- Why RJD has fallen back again on the Shahabuddin factor in Bihar’s Siwan - The Indian Express (The Indian Express) [neutral]
+- Vijaylakshmi Devi , JD(U) candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details. - The Hindu (The Hindu) [neutral]
+- Lok Sabha polls 2024: JD(U) releases list of all 16 LS candidates, drops two sitting MPs - The Indian Express (The Indian Express) [neutral]
+- Hena makes Siwan contest tough for JD(U) & RJD - The Times of India (The Times of India) [neutral]
+- Parliament Of India : Lok Sabha Member Of Parliament - D - Sarkaritel.com (Sarkaritel.com) [neutral]
+- Shahabuddin’s son enters Bihar poll fray - Is late Bahubali’s clout still relevant in Siwan? - Livemint (Livemint) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Vijaylakshmi Devi , JD(U) candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details. - The Hindu** (The Hindu)
+- ! **Lok Sabha polls 2024: JD(U) releases list of all 16 LS candidates, drops two sitting MPs - The Indian Express** (The Indian Express)
+- ! **Hena makes Siwan contest tough for JD(U) & RJD - The Times of India** (The Times of India)
+- ! **Parliament Of India : Lok Sabha Member Of Parliament - D - Sarkaritel.com** (Sarkaritel.com)
+- ! **Shahabuddin’s son enters Bihar poll fray - Is late Bahubali’s clout still relevant in Siwan? - Livemint** (Livemint)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Bihar: 8 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Vijaylakshmi Devi shows moderate transparency with a score of 64.4/100. No criminal cases declared. High parliament attendance. Limited participation in parliamentary proceedings.
+Vijaylakshmi Devi shows moderate transparency with a score of 65.7/100. No criminal cases declared. High parliament attendance. Limited participation in parliamentary proceedings.
 
 ---
 
-No criminal cases declared. Declared assets: Rs 44,130,032. MPLADS utilization: 62.2%. Parliament attendance: 100.0%. Questions asked: 10.
+No criminal cases declared. MPLADS utilization: 62.2%. Parliament attendance: 100.0%. Questions asked: 10. Low confidence data: Assets. 1 warning(s) noted.
 
 ---
 
@@ -138,7 +160,7 @@ No criminal cases declared. Declared assets: Rs 44,130,032. MPLADS utilization: 
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -236,12 +258,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

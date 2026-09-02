@@ -4,31 +4,31 @@
 **Party:** Samajwadi Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Third-party (C)
+**Data Confidence:** Low (34%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 55.9 / 100
+## Composite Transparency Score: 53.1 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 34.3 | 25% |
-| Asset Growth | 60.0 | 15% |
-| Criminal Record | 60.0 | 15% |
+| Asset Growth | 45.0 | 15% |
+| Criminal Record | 45.0 | 15% |
 | Parliament Attendance | 95.0 | 10% |
 | Questions & Debates | 70.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
-| Public Accessibility | 15.0 | 5% |
+| Public Accessibility | 65.0 | 5% |
 | Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
 ## Criminal Record
 
-- **Total Cases:** 4
+- **Total Cases:** 0
 - **Serious Cases:** 0
 - **Convictions:** 0
-- **Pending Cases:** 4
+- **Pending Cases:** 0
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
@@ -36,14 +36,13 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 9.97 Crore
-- **Liabilities:** Rs 9.61 Lakh
-- **Net Worth:** Rs 9.88 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 58% of Lok Sabha MPs
 
 ---
 
@@ -67,36 +66,61 @@
 
 ---
 
+## Public Accessibility
+
+- **Platforms:** 2
+
+
+| Platform | Handle | Verified | Active |
+|----------|--------|----------|--------|
+| Twitter | [@https://x.com/BhadauriyaAnand?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor](https://x.com/https://x.com/BhadauriyaAnand?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) | No | Yes |
+| Facebook | [@https://www.facebook.com/anandbhadauriyamlc/?locale=hi_IN](https://facebook.com/https://www.facebook.com/anandbhadauriyamlc/?locale=hi_IN) | No | Yes |
+
+---
+
 ## In The News
 
 *Mixed/neutral coverage (10 articles)*
 
 - **Total Articles:** 10
-- **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
+- **Positive:** 0 | **Negative:** 1 | **Neutral:** 9
 
-- 8th Pay Commission: Govt explains if 58% DA be merged with basic pay - Business Standard (Business Standard) [neutral]
-- Dhaurahra election results 2024 live updates: SP's Anand Bhadauriya wins against BJP's Rekha Verma - The Times of India (The Times of India) [neutral]
 - Anand Bhadauriya, once trampled by officer's shoe becomes MP now | Tap to know more | Inshorts - Inshorts (Inshorts) [neutral]
 - Anand Bhadauriya , SP candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details. - The Hindu (The Hindu) [neutral]
-- MP Imran Pratapgarhi’s Electoral Meetings Will Commence From The Day After Eid - HW News English (HW News English) [neutral]
+- 8th Pay Commission: Govt explains if 58% DA be merged with basic pay - Business Standard (Business Standard) [neutral]
+- 21-year-old SP office demolished in Sitapur: Bulldozer action begins at 4 AM; lease was granted during Mula... - Bhaskar English (Bhaskar English) [neutral]
+- Parliament Of India : LoK Sabha Member Of Parliament - B - Sarkaritel.com (Sarkaritel.com) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Anand Bhadauriya, once trampled by officer's shoe becomes MP now | Tap to know more | Inshorts - Inshorts** (Inshorts)
+- ! **Anand Bhadauriya , SP candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details. - The Hindu** (The Hindu)
+- ! **8th Pay Commission: Govt explains if 58% DA be merged with basic pay - Business Standard** (Business Standard)
+- ! **21-year-old SP office demolished in Sitapur: Bulldozer action begins at 4 AM; lease was granted during Mula... - Bhaskar English** (Bhaskar English)
+- ! **Parliament Of India : LoK Sabha Member Of Parliament - B - Sarkaritel.com** (Sarkaritel.com)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
+- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Uttar Pradesh: 8 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Anand Bhadauria shows moderate transparency with a score of 55.9/100. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Anand Bhadauria shows moderate transparency with a score of 53.1/100. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-Has 4 criminal case(s) (0 serious), 4 pending, 0 conviction(s). Declared assets: Rs 99,723,807. MPLADS utilization: 42.9%. Parliament attendance: 95.0%. Questions asked: 43. Debates participated: 13.
+No criminal cases declared. MPLADS utilization: 42.9%. Parliament attendance: 95.0%. Questions asked: 43. Debates participated: 13. Low confidence data: Criminal record, Assets. 2 warning(s) noted.
 
 ---
 
@@ -136,7 +160,7 @@ Has 4 criminal case(s) (0 serious), 4 pending, 0 conviction(s). Declared assets:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -234,10 +258,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

@@ -3,24 +3,22 @@
 **Constituency:** Davanagere, Karnataka
 **Party:** Indian National Congress
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 48
-**Education:** Graduate
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (44%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 58.3 / 100
+## Composite Transparency Score: 60.3 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 18.9 | 25% |
-| Asset Growth | 55.0 | 15% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 90.0 | 10% |
 | Questions & Debates | 60.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
-| Public Accessibility | 15.0 | 5% |
+| Public Accessibility | 85.0 | 5% |
 | Legislative Effectiveness | 40.0 | 10% |
 
 ---
@@ -38,14 +36,13 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 241.28 Crore
-- **Liabilities:** Rs 24.71 Crore
-- **Net Worth:** Rs 216.57 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 96% of Lok Sabha MPs
 
 ---
 
@@ -69,6 +66,19 @@
 
 ---
 
+## Public Accessibility
+
+- **Platforms:** 3
+
+
+| Platform | Handle | Verified | Active |
+|----------|--------|----------|--------|
+| Twitter | [@https://twitter.com/DrPrabhaSSM](https://x.com/https://twitter.com/DrPrabhaSSM) | No | Yes |
+| Facebook | [@https://www.facebook.com/SSMDVG?mibextid=ZbWKwL](https://facebook.com/https://www.facebook.com/SSMDVG?mibextid=ZbWKwL) | No | Yes |
+| Instagram | [@https://www.instagram.com/drprabhamallikarjunss/](https://instagram.com/https://www.instagram.com/drprabhamallikarjunss/) | No | Yes |
+
+---
+
 ## In The News
 
 *Mixed/neutral coverage (10 articles)*
@@ -76,30 +86,41 @@
 - **Total Articles:** 10
 - **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
 
-- Samarth Shamanur scrapes through
-in Davanagere South - The New Indian Express (The New Indian Express) [neutral]
-- Davangere: Set priorities, cut social media time to realise your dreams, MP tells students at The Hindu Education Plus Career Counselling Session - The Hindu (The Hindu) [neutral]
+- Congress MP Prabha Mallikarjun’s speech in Hindi sets off debate on lingo politics - The New Indian Express (The New Indian Express) [neutral]
 - Davanagere: MP Prabha Mallikarjun urges EC to review PM Modi’s speech during elections - Udayavani (Udayavani) [neutral]
-- Karnataka MP Prabha Mallikarjun urges Centre to reconsider LPG price hike, says it will burden middle and poor households - ANI News (ANI News) [neutral]
-- Prabha Mallikarjun accuses NDA govt of branding opposition as anti-women - The Times of India (The Times of India) [neutral]
+- Davangere: Set priorities, cut social media time to realise your dreams, MP tells students at The Hindu Education Plus Career Counselling Session - The Hindu (The Hindu) [neutral]
+- Karnataka: Congress in a fix as internal rift over bypoll tickets intensifies - Deccan Herald (Deccan Herald) [neutral]
+- MP felicitates SSLC toppers - The Hindu (The Hindu) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Congress MP Prabha Mallikarjun’s speech in Hindi sets off debate on lingo politics - The New Indian Express** (The New Indian Express)
+- ! **Davanagere: MP Prabha Mallikarjun urges EC to review PM Modi’s speech during elections - Udayavani** (Udayavani)
+- ! **Davangere: Set priorities, cut social media time to realise your dreams, MP tells students at The Hindu Education Plus Career Counselling Session - The Hindu** (The Hindu)
+- ! **Karnataka: Congress in a fix as internal rift over bypoll tickets intensifies - Deccan Herald** (Deccan Herald)
+- ! **MP felicitates SSLC toppers - The Hindu** (The Hindu)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Karnataka: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Prabha Mallikarjun shows moderate transparency with a score of 58.3/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Prabha Mallikarjun shows moderate transparency with a score of 60.3/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-No criminal cases declared. Declared assets: Rs 2,412,803,910. MPLADS utilization: 23.7%. Parliament attendance: 90.0%. Questions asked: 17. Debates participated: 8.
+No criminal cases declared. MPLADS utilization: 23.7%. Parliament attendance: 90.0%. Questions asked: 17. Debates participated: 8. Low confidence data: Assets. 1 warning(s) noted.
 
 ---
 
@@ -139,7 +160,7 @@ No criminal cases declared. Declared assets: Rs 2,412,803,910. MPLADS utilizatio
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -237,12 +258,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

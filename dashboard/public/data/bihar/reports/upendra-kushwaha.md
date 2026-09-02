@@ -117,7 +117,7 @@ Has 7 criminal case(s) (1 serious), 7 pending, 0 conviction(s). Low confidence d
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,

@@ -3,24 +3,22 @@
 **Constituency:** Kanpur, Uttar Pradesh
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 56
-**Education:** Post Graduate
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (44%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 58.6 / 100
+## Composite Transparency Score: 60.6 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 27.8 | 25% |
-| Asset Growth | 55.0 | 15% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 100.0 | 10% |
 | Questions & Debates | 30.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
-| Public Accessibility | 15.0 | 5% |
+| Public Accessibility | 85.0 | 5% |
 | Legislative Effectiveness | 40.0 | 10% |
 
 ---
@@ -38,14 +36,13 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 5.29 Crore
-- **Liabilities:** Rs 61.49 Lakh
-- **Net Worth:** Rs 4.68 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 41% of Lok Sabha MPs
 
 ---
 
@@ -69,6 +66,19 @@
 
 ---
 
+## Public Accessibility
+
+- **Platforms:** 3
+
+
+| Platform | Handle | Verified | Active |
+|----------|--------|----------|--------|
+| Twitter | [@https://x.com/irameshawasthi?t=H89W_zncWQUG-dsUCqFpXw&s=09](https://x.com/https://x.com/irameshawasthi?t=H89W_zncWQUG-dsUCqFpXw&s=09) | No | Yes |
+| Facebook | [@https://www.facebook.com/share/1Cq2oWRw4n/](https://facebook.com/https://www.facebook.com/share/1Cq2oWRw4n/) | No | Yes |
+| Instagram | [@https://www.instagram.com/irameshawasthi?igsh=YmF5anh3YjJ0cjRl](https://instagram.com/https://www.instagram.com/irameshawasthi?igsh=YmF5anh3YjJ0cjRl) | No | Yes |
+
+---
+
 ## In The News
 
 *Mixed/neutral coverage (10 articles)*
@@ -76,29 +86,41 @@
 - **Total Articles:** 10
 - **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
 
-- MP Ramesh Awasthi Receives Grand Welcome in Kanpur After Bengal Victory; Played Key Role in Bardhaman Region Success - Republic World (Republic World) [neutral]
 - MP performs bhoomi pujan for Jareeb chowki ROB project in Kanpur worth Rs320 crore - The Times of India (The Times of India) [neutral]
-- PM Modi expected to meet kin of Pahalgam attack victim Shubham Dwivedi during Kanpur visit - MSN (MSN) [neutral]
-- MP: Double-engine govt has fast-tracked Kanpur’s growth - The Times of India (The Times of India) [neutral]
 - IT raids Congress ex-MLA’s factories in Chhatarpur: Team from Indore-Gwalior in 30-vehicle conducts illegal... - Bhaskar English (Bhaskar English) [neutral]
+- BJP MP Ramesh Awasthi welcomed in Kanpur after Delhi polls - The Times of India (The Times of India) [neutral]
+- 'Operation Sindoor Cup' match between Army XI, Parliament XI to be played in Kanpur - ANI News (ANI News) [neutral]
+- Prime Minister Modi to meet family of Pahalgam terror attack victim in Kanpur Chakeri airport - The New Indian Express (The New Indian Express) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **MP performs bhoomi pujan for Jareeb chowki ROB project in Kanpur worth Rs320 crore - The Times of India** (The Times of India)
+- ! **IT raids Congress ex-MLA’s factories in Chhatarpur: Team from Indore-Gwalior in 30-vehicle conducts illegal... - Bhaskar English** (Bhaskar English)
+- ! **BJP MP Ramesh Awasthi welcomed in Kanpur after Delhi polls - The Times of India** (The Times of India)
+- ! **'Operation Sindoor Cup' match between Army XI, Parliament XI to be played in Kanpur - ANI News** (ANI News)
+- ! **Prime Minister Modi to meet family of Pahalgam terror attack victim in Kanpur Chakeri airport - The New Indian Express** (The New Indian Express)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Uttar Pradesh: 8 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Ramesh Awasthi shows moderate transparency with a score of 58.6/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
+Ramesh Awasthi shows moderate transparency with a score of 60.6/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
 
 ---
 
-No criminal cases declared. Declared assets: Rs 52,936,608. MPLADS utilization: 34.8%. Parliament attendance: 100.0%. Debates participated: 6.
+No criminal cases declared. MPLADS utilization: 34.8%. Parliament attendance: 100.0%. Debates participated: 6. Low confidence data: Assets. 1 warning(s) noted.
 
 ---
 
@@ -138,7 +160,7 @@ No criminal cases declared. Declared assets: Rs 52,936,608. MPLADS utilization: 
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -236,12 +258,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

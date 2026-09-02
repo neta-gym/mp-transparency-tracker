@@ -3,20 +3,18 @@
 **Constituency:** Dum Dum, West Bengal
 **Party:** All India Trinamool Congress
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 76
-**Education:** Post Graduate
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (39%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 56.8 / 100
+## Composite Transparency Score: 54.0 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 7.6 | 25% |
-| Asset Growth | 50.0 | 15% |
-| Criminal Record | 90.0 | 15% |
+| Asset Growth | 45.0 | 15% |
+| Criminal Record | 80.0 | 15% |
 | Parliament Attendance | 100.0 | 10% |
 | Questions & Debates | 80.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
@@ -28,24 +26,27 @@
 ## Criminal Record
 
 - **Total Cases:** 1
-- **Serious Cases:** 0
+- **Serious Cases:** 1
 - **Convictions:** 0
 - **Pending Cases:** 1
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
+### Cases Detail
+
+1. RC0102017A0010, Dated- 16/04/17, CBI/ACB/Kolkata, Dist. Kolkata | Section 7, 13(2), 13(1)(a) & 13(1)(d) of PC Act 1988 (Sections: 120B) [pending] **SERIOUS**
+
 ---
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 5.12 Crore
-- **Liabilities:** Rs 0
-- **Net Worth:** Rs 5.12 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 40% of Lok Sabha MPs
 
 ---
 
@@ -76,30 +77,42 @@
 - **Total Articles:** 10
 - **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
 
-- Veteran TMC MP Saugata Roy In Hospital With Low BP, Diarrhoea - ETV Bharat (ETV Bharat) [neutral]
-- Bengal MPS Show Uneven MPLADS Delivery - The Sunday Guardian (The Sunday Guardian) [neutral]
-- Dum Dum election results 2024 live updates: TMC's Sougata Ray wins - The Times of India (The Times of India) [neutral]
-- Dum Dum Election Result 2024: Sougata Ray wins in the battle of veterans - CNBC TV18 (CNBC TV18) [neutral]
-- TMC MP Sougata Roy hospitalised in Kolkata after uneasiness, under observation - Telegraph India (Telegraph India) [neutral]
+- Didi to blame for split: Dum Dum MP Saugata Roy rules out end of Mamata's political career - Telegraph India (Telegraph India) [neutral]
+- Trinamool Congress appoints Saugata Roy as Lok Sabha deputy leader after Satabdi Roy joins rebel camp - timesofindia.indiatimes.com (timesofindia.indiatimes.com) [neutral]
+- West Bengal: TMC MP Sougata Roy faces protests, eggs thrown at his car - The Economic Times (The Economic Times) [neutral]
+- Trinamool names Saugata Roy Lok Sabha deputy leader amid rebellion - indiatoday.in (indiatoday.in) [neutral]
+- ‘Chor Chor’ slogans raised against MP Sougata Roy: Egg thrown at vehicle during protests outside Nimta poli... - Bhaskar English (Bhaskar English) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Didi to blame for split: Dum Dum MP Saugata Roy rules out end of Mamata's political career - Telegraph India** (Telegraph India)
+- ! **Trinamool Congress appoints Saugata Roy as Lok Sabha deputy leader after Satabdi Roy joins rebel camp - timesofindia.indiatimes.com** (timesofindia.indiatimes.com)
+- ! **West Bengal: TMC MP Sougata Roy faces protests, eggs thrown at his car - The Economic Times** (The Economic Times)
+- ! **Trinamool names Saugata Roy Lok Sabha deputy leader amid rebellion - indiatoday.in** (indiatoday.in)
+- ! **‘Chor Chor’ slogans raised against MP Sougata Roy: Egg thrown at vehicle during protests outside Nimta poli... - Bhaskar English** (Bhaskar English)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
 - [!] **mplads**: Extremely low utilization rate — verify data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for West Bengal: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Sougata Ray shows moderate transparency with a score of 56.8/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Sougata Ray shows moderate transparency with a score of 54.0/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Declared assets: Rs 51,230,026. MPLADS utilization: 9.5%. Parliament attendance: 100.0%. Questions asked: 48. Debates participated: 20. 1 warning(s) noted.
+Has 1 criminal case(s) (1 serious), 1 pending, 0 conviction(s). MPLADS utilization: 9.5%. Parliament attendance: 100.0%. Questions asked: 48. Debates participated: 20. Low confidence data: Assets. 2 warning(s) noted.
 
 ---
 
@@ -139,7 +152,7 @@ Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Declared assets:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -237,12 +250,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

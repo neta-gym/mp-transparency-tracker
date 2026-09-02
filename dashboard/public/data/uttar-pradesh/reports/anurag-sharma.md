@@ -3,24 +3,22 @@
 **Constituency:** Jhansi, Uttar Pradesh
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 59
-**Education:** Post Graduate
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (44%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 62.9 / 100
+## Composite Transparency Score: 63.2 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 33.3 | 25% |
-| Asset Growth | 60.0 | 15% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 90.0 | 10% |
 | Questions & Debates | 70.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
-| Public Accessibility | 15.0 | 5% |
+| Public Accessibility | 65.0 | 5% |
 | Legislative Effectiveness | 40.0 | 10% |
 
 ---
@@ -38,14 +36,14 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 212.08 Crore
-- **Liabilities:** Rs 1.49 Crore
-- **Net Worth:** Rs 210.58 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 96% of Lok Sabha MPs
+- **Wealth Percentile:** Wealthier than 70% of Lok Sabha MPs
 
 ---
 
@@ -69,6 +67,18 @@
 
 ---
 
+## Public Accessibility
+
+- **Platforms:** 2
+
+
+| Platform | Handle | Verified | Active |
+|----------|--------|----------|--------|
+| Facebook | [@https://www.facebook.com/anuragjhansi/](https://facebook.com/https://www.facebook.com/anuragjhansi/) | No | Yes |
+| Instagram | [@https://www.instagram.com/anuragjhansi/?hl=en](https://instagram.com/https://www.instagram.com/anuragjhansi/?hl=en) | No | Yes |
+
+---
+
 ## In The News
 
 *Mixed/neutral coverage (10 articles)*
@@ -76,29 +86,41 @@
 - **Total Articles:** 10
 - **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
 
-- Jhansi MP reiterates UP’s one trillion economy goal - The Times of India (The Times of India) [neutral]
+- Thousands join kanwar yatra from Orchha to Jhansi amid aerial petal shower - The Times of India (The Times of India) [neutral]
 - Uma Bharti Wants To Contest 2029 Polls From Jhansi, But There's A Rider - NDTV (NDTV) [neutral]
-- Jhansi MP Anurag Sharma Takes Budelkhand To Global Stage - Zee News (Zee News) [neutral]
-- Political Profile of Anurag Sharma, Bjp Party, Jhansi, and Net Worth - India TV News (India TV News) [neutral]
-- Ministry of Cooperation: Consultative committee constituted, all new faces except Jhansi MP - Indian Cooperative (Indian Cooperative) [neutral]
+- Jhansi MP reiterates UP’s one trillion economy goal - The Times of India (The Times of India) [neutral]
+- UP Crop Insurance Scam: Fraudsters Claim Insurance on BJP MP’s Land, Multiple Policies Issued on Single Record - The420.in (The420.in) [neutral]
+- Anurag Sharma , BJP candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details. - The Hindu (The Hindu) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Thousands join kanwar yatra from Orchha to Jhansi amid aerial petal shower - The Times of India** (The Times of India)
+- ! **Uma Bharti Wants To Contest 2029 Polls From Jhansi, But There's A Rider - NDTV** (NDTV)
+- ! **Jhansi MP reiterates UP’s one trillion economy goal - The Times of India** (The Times of India)
+- ! **UP Crop Insurance Scam: Fraudsters Claim Insurance on BJP MP’s Land, Multiple Policies Issued on Single Record - The420.in** (The420.in)
+- ! **Anurag Sharma , BJP candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details. - The Hindu** (The Hindu)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Uttar Pradesh: 8 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Anurag Sharma shows moderate transparency with a score of 62.9/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Anurag Sharma shows moderate transparency with a score of 63.2/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-No criminal cases declared. Declared assets: Rs 2,120,765,800. MPLADS utilization: 41.6%. Parliament attendance: 90.0%. Questions asked: 49. Debates participated: 10.
+No criminal cases declared. MPLADS utilization: 41.6%. Parliament attendance: 90.0%. Questions asked: 49. Debates participated: 10. Low confidence data: Assets. 1 warning(s) noted.
 
 ---
 
@@ -138,7 +160,7 @@ No criminal cases declared. Declared assets: Rs 2,120,765,800. MPLADS utilizatio
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -236,12 +258,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

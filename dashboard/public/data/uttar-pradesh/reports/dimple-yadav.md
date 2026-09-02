@@ -4,17 +4,17 @@
 **Party:** Samajwadi Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Third-party (C)
+**Data Confidence:** Low (27%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 52.7 / 100
+## Composite Transparency Score: 39.5 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 22.3 | 25% |
-| Asset Growth | 60.0 | 15% |
-| Criminal Record | 100.0 | 15% |
+| Asset Growth | 45.0 | 15% |
+| Criminal Record | 45.0 | 15% |
 | Parliament Attendance | 70.0 | 10% |
 | Questions & Debates | 20.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
@@ -36,14 +36,13 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 42.03 Crore
-- **Liabilities:** Rs 99.86 Lakh
-- **Net Worth:** Rs 41.03 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 83% of Lok Sabha MPs
 
 ---
 
@@ -72,31 +71,44 @@
 *Mixed/neutral coverage (10 articles)*
 
 - **Total Articles:** 10
-- **Positive:** 0 | **Negative:** 2 | **Neutral:** 8
+- **Positive:** 0 | **Negative:** 1 | **Neutral:** 9
 
-- "Amounts to treason": SP MP Dimple Yadav slams Raghav Chadha for joining BJP - ANI News (ANI News) [neutral]
-- Women who move forward with hard work and confidence are the real strength of the society: SP MP Dimple Yadav - The Statesman (The Statesman) [neutral]
-- UP: SP MP Dimple Yadav writes to Mainpuri DM, objects to delay in SIR notices - The News Mill (The News Mill) [neutral]
-- ‘Beti’, ‘Bahu’, to MP, leader: The evolution of Dimple Yadav - The Indian Express (The Indian Express) [neutral]
-- Maulana Sajid Rashidi's objectionable remark against Samajwadi Party MP Dimple Yadav sparks controversy - The New Indian Express (The New Indian Express) [negative]
+- Why Dimple Yadav could be Akhilesh's biggest weapon against BJP in 2027 UP polls - India Today (India Today) [neutral]
+- Young SP MPs Were Ready To Join CJP Protest: Dimple Yadav - Deccan Chronicle (Deccan Chronicle) [neutral]
+- UNITED NEWS OF INDIA - uniindia.com (uniindia.com) [neutral]
+- ‘Not just an MP now… but a leader’: Dimple Yadav’s moment at Jantar Mantar - The Indian Express (The Indian Express) [neutral]
+- Dimple Yadav bows before Shankaracharya, seeks apology: Says SP chief stands with him; nature will avenge t... - Bhaskar English (Bhaskar English) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Why Dimple Yadav could be Akhilesh's biggest weapon against BJP in 2027 UP polls - India Today** (India Today)
+- ! **Young SP MPs Were Ready To Join CJP Protest: Dimple Yadav - Deccan Chronicle** (Deccan Chronicle)
+- ! **UNITED NEWS OF INDIA - uniindia.com** (uniindia.com)
+- ! **‘Not just an MP now… but a leader’: Dimple Yadav’s moment at Jantar Mantar - The Indian Express** (The Indian Express)
+- ! **Dimple Yadav bows before Shankaracharya, seeks apology: Says SP chief stands with him; nature will avenge t... - Bhaskar English** (Bhaskar English)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
+- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Uttar Pradesh: 8 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Dimple Yadav shows moderate transparency with a score of 52.7/100. No criminal cases declared. Low MPLADS fund utilization needs attention. Limited participation in parliamentary proceedings.
+Dimple Yadav has a below-average transparency score of 39.5/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. Limited participation in parliamentary proceedings. Data confidence is low — scores should be interpreted with caution.
 
 ---
 
-No criminal cases declared. Declared assets: Rs 420,262,015. MPLADS utilization: 27.9%. Parliament attendance: 70.0%. Debates participated: 2.
+No criminal cases declared. MPLADS utilization: 27.9%. Parliament attendance: 70.0%. Debates participated: 2. Low confidence data: Criminal record, Assets. 2 warning(s) noted.
 
 ---
 
@@ -136,7 +148,7 @@ No criminal cases declared. Declared assets: Rs 420,262,015. MPLADS utilization:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -234,10 +246,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

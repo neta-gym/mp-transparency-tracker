@@ -3,20 +3,17 @@
 **Constituency:** Hisar, Haryana
 **Party:** Indian National Congress
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 69
-**Education:** 12th Pass
-**Profession:** Agriculture
 **Report Date:** 2026-09-02
-**Data Confidence:** Low (49%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (37%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 55.4 / 100
+## Composite Transparency Score: 53.9 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 27.0 | 25% |
-| Asset Growth | 55.0 | 15% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 100.0 | 10% |
 | Questions & Debates | 0.0 | 10% |
@@ -39,14 +36,13 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 2.06 Crore
-- **Immovable Assets:** Rs 4.75 Crore
-- **Total Assets:** Rs 6.81 Crore
-- **Liabilities:** Rs 1.32 Crore
-- **Net Worth:** Rs 5.49 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 47% of Lok Sabha MPs
 
 ---
 
@@ -77,29 +73,41 @@
 - **Total Articles:** 10
 - **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
 
-- Rohtak: Congress Hisar MP hits out at Brijendra’s Sadbhav Yatra - MSN (MSN) [neutral]
-- In Hisar win, JP beats 3 Chautalas - The Times of India (The Times of India) [neutral]
-- Congress’s Hisar MP Jai Parkash gets women panel's notice - The Tribune (The Tribune) [neutral]
+- Rohtak: Congress Hisar MP hits out at Brijendra’s Sadbhav Yatra | Hindustan Times - Hindustan Times (Hindustan Times) [neutral]
+- Congress MP slams INLD, JJP amid cross-voting row - The Tribune (The Tribune) [neutral]
+- In Hisar win, JP beats 3 Chautalas - timesofindia.indiatimes.com (timesofindia.indiatimes.com) [neutral]
 - BJP’s Ranjit Singh, son of Devi Lal, loses to Jai Parkash of Congress by 60,000 votes in Hisar - ThePrint (ThePrint) [neutral]
-- MP report card: Curtailing debate in House undermines spirit of democracy: Jai Parkash | Hindustan Times - Hindustan Times (Hindustan Times) [neutral]
+- Hisar lok sabha election results 2024: Hisar Winning Candidates List and Vote Share - India Today (India Today) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Rohtak: Congress Hisar MP hits out at Brijendra’s Sadbhav Yatra | Hindustan Times - Hindustan Times** (Hindustan Times)
+- ! **Congress MP slams INLD, JJP amid cross-voting row - The Tribune** (The Tribune)
+- ! **In Hisar win, JP beats 3 Chautalas - timesofindia.indiatimes.com** (timesofindia.indiatimes.com)
+- ! **BJP’s Ranjit Singh, son of Devi Lal, loses to Jai Parkash of Congress by 60,000 votes in Hisar - ThePrint** (ThePrint)
+- ! **Hisar lok sabha election results 2024: Hisar Winning Candidates List and Vote Share - India Today** (India Today)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Haryana: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Jai Parkash shows moderate transparency with a score of 55.4/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Limited participation in parliamentary proceedings.
+Jai Parkash shows moderate transparency with a score of 53.9/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Limited participation in parliamentary proceedings.
 
 ---
 
-No criminal cases declared. Declared assets: Rs 68,053,567. MPLADS utilization: 33.8%. Parliament attendance: 100.0%.
+No criminal cases declared. MPLADS utilization: 33.8%. Parliament attendance: 100.0%. Low confidence data: Assets. 1 warning(s) noted.
 
 ---
 
@@ -139,7 +147,7 @@ No criminal cases declared. Declared assets: Rs 68,053,567. MPLADS utilization: 
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -237,12 +245,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, mplads, myneta*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

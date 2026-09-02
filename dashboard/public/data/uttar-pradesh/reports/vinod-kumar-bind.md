@@ -3,19 +3,17 @@
 **Constituency:** Bhadohi, Uttar Pradesh
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 50
-**Education:** Graduate Professional
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (37%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 59.6 / 100
+## Composite Transparency Score: 58.1 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 31.8 | 25% |
-| Asset Growth | 55.0 | 15% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 75.0 | 10% |
 | Questions & Debates | 70.0 | 10% |
@@ -38,14 +36,13 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 10.58 Crore
-- **Liabilities:** Rs 2.93 Crore
-- **Net Worth:** Rs 7.65 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 59% of Lok Sabha MPs
 
 ---
 
@@ -78,27 +75,39 @@
 
 - Bhadohi election results 2024 live updates: BJP's Vinod Kumar Bind wins with over 4.59 lakh votes - The Times of India (The Times of India) [neutral]
 - Dr. Vinod Kumar Bind , BJP candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details. - The Hindu (The Hindu) [neutral]
-- Bhadohi Election Result: भदोही से BJP के विनोद कुमार बिंद ने दर्ज की जीत, TMC उम्मीदवार को 44072 वोटों से हराया - AajTak (AajTak) [neutral]
-- BJP Fields NISHAD Party MLA On Lotus Symbol From UP's Bhadohi - Swarajyamag (Swarajyamag) [neutral]
-- BJP's Vinod Kumar Bind against TMC's Lalitesh Pati Tripathi in Bhadohi known for carpet industry - ANI News (ANI News) [neutral]
+- BJP Fields NISHAD Party MLA On Lotus Symbol From UP's Bhadohi - Swarajya (Swarajya) [neutral]
+- Will TMC be able to gain a footprint in UP’s Bhadohi? - The New Indian Express (The New Indian Express) [neutral]
+- AlTC candidate Lalitesh Pati Tripathi moves HC challenging the BJP winner - The Statesman (The Statesman) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Bhadohi election results 2024 live updates: BJP's Vinod Kumar Bind wins with over 4.59 lakh votes - The Times of India** (The Times of India)
+- ! **Dr. Vinod Kumar Bind , BJP candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details. - The Hindu** (The Hindu)
+- ! **BJP Fields NISHAD Party MLA On Lotus Symbol From UP's Bhadohi - Swarajya** (Swarajya)
+- ! **Will TMC be able to gain a footprint in UP’s Bhadohi? - The New Indian Express** (The New Indian Express)
+- ! **AlTC candidate Lalitesh Pati Tripathi moves HC challenging the BJP winner - The Statesman** (The Statesman)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Uttar Pradesh: 8 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Vinod Kumar Bind shows moderate transparency with a score of 59.6/100. No criminal cases declared. Low MPLADS fund utilization needs attention. Active in questions and debates.
+Vinod Kumar Bind shows moderate transparency with a score of 58.1/100. No criminal cases declared. Low MPLADS fund utilization needs attention. Active in questions and debates.
 
 ---
 
-No criminal cases declared. Declared assets: Rs 105,766,111. MPLADS utilization: 39.8%. Parliament attendance: 75.0%. Questions asked: 39. Debates participated: 7.
+No criminal cases declared. MPLADS utilization: 39.8%. Parliament attendance: 75.0%. Questions asked: 39. Debates participated: 7. Low confidence data: Assets. 1 warning(s) noted.
 
 ---
 
@@ -138,7 +147,7 @@ No criminal cases declared. Declared assets: Rs 105,766,111. MPLADS utilization:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -236,12 +245,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

@@ -3,24 +3,22 @@
 **Constituency:** Basti, Uttar Pradesh
 **Party:** Samajwadi Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 70
-**Education:** Others
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (46%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 58.9 / 100
+## Composite Transparency Score: 56.2 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 64.7 | 25% |
-| Asset Growth | 60.0 | 15% |
-| Criminal Record | 60.0 | 15% |
+| Asset Growth | 45.0 | 15% |
+| Criminal Record | 40.0 | 15% |
 | Parliament Attendance | 95.0 | 10% |
 | Questions & Debates | 40.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
-| Public Accessibility | 15.0 | 5% |
+| Public Accessibility | 85.0 | 5% |
 | Legislative Effectiveness | 40.0 | 10% |
 
 ---
@@ -29,23 +27,29 @@
 
 - **Total Cases:** 4
 - **Serious Cases:** 0
-- **Convictions:** 0
-- **Pending Cases:** 4
+- **Convictions:** 1
+- **Pending Cases:** 3
 - **Disposed Cases:** 0
 - **Data Source:** myneta
+
+### Cases Detail
+
+1. 46/2014, P.S. Kaptanganj, Basti (Sections: 147, 148, 149, 353, 188, 504, 506) [pending] 
+2. 601/2020, P.S. Kotwali Basti | Sec. 51(B) Disaster Management Act 2005 (Sections: 143) [pending] 
+3. 592/2020, P.S. Kotwali Basti | Sec. 51(B) Disaster Management Act 2005 (Sections: 143) [pending] 
+4. No description (Sections: 188) [convicted] 
 
 ---
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 9.82 Crore
-- **Liabilities:** Rs 37.45 Lakh
-- **Net Worth:** Rs 9.44 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 58% of Lok Sabha MPs
 
 ---
 
@@ -69,6 +73,19 @@
 
 ---
 
+## Public Accessibility
+
+- **Platforms:** 3
+
+
+| Platform | Handle | Verified | Active |
+|----------|--------|----------|--------|
+| Twitter | [@https://x.com/i/flow/login?redirect_after_login=%2Frpcoffice](https://x.com/https://x.com/i/flow/login?redirect_after_login=%2Frpcoffice) | No | Yes |
+| Facebook | [@@RAMPRASADBST](https://facebook.com/@RAMPRASADBST) | No | Yes |
+| Instagram | [@https://www.instagram.com/ramprasadbst/](https://instagram.com/https://www.instagram.com/ramprasadbst/) | No | Yes |
+
+---
+
 ## In The News
 
 *Mixed/neutral coverage (10 articles)*
@@ -76,29 +93,41 @@
 - **Total Articles:** 10
 - **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
 
+- Harish Dwivedi’s elevation as BJP National General Secretary: The real battle begins now - Tehelka (Tehelka) [neutral]
+- ‘No crisis, all 37 MPs with Akhilesh’: Samajwadi Party’s OBC MPs deny split rumours, accuse BJP allies of falsehood | Hindustan Times - Hindustan Times (Hindustan Times) [neutral]
 - Eye on Kurmi vote bank, BJP opens back-channel talks with SP ex-MP - The Times of India (The Times of India) [neutral]
-- Samajwadi Party confident against BJP in 'at least 20' Lok Sabha seats in Uttar Pradesh - Dailyhunt (Dailyhunt) [neutral]
 - Ram Prasad Chaudhary , SP candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details. - The Hindu (The Hindu) [neutral]
-- UP leaders actively participate in Maharashtra civic polls: About 30 lakh UP-origin voters impact results; ... - Bhaskar English (Bhaskar English) [neutral]
-- Basti lok sabha election results 2024: Basti Winning Candidates List and Vote Share - India Today (India Today) [neutral]
+- Ram Prasad Chaudhary - The Times of India (The Times of India) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Harish Dwivedi’s elevation as BJP National General Secretary: The real battle begins now - Tehelka** (Tehelka)
+- ! **‘No crisis, all 37 MPs with Akhilesh’: Samajwadi Party’s OBC MPs deny split rumours, accuse BJP allies of falsehood | Hindustan Times - Hindustan Times** (Hindustan Times)
+- ! **Eye on Kurmi vote bank, BJP opens back-channel talks with SP ex-MP - The Times of India** (The Times of India)
+- ! **Ram Prasad Chaudhary , SP candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details. - The Hindu** (The Hindu)
+- ! **Ram Prasad Chaudhary - The Times of India** (The Times of India)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Uttar Pradesh: 8 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Ram Prasad Chaudhary shows moderate transparency with a score of 58.9/100. Significant criminal cases are a concern. High parliament attendance.
+Ram Prasad Chaudhary shows moderate transparency with a score of 56.2/100. Significant criminal cases are a concern. High parliament attendance.
 
 ---
 
-Has 4 criminal case(s) (0 serious), 4 pending, 0 conviction(s). Declared assets: Rs 98,152,477. MPLADS utilization: 66.5%. Parliament attendance: 95.0%. Questions asked: 7. Debates participated: 4.
+Has 4 criminal case(s) (0 serious), 3 pending, 1 conviction(s). MPLADS utilization: 66.5%. Parliament attendance: 95.0%. Questions asked: 7. Debates participated: 4. Low confidence data: Assets. 1 warning(s) noted.
 
 ---
 
@@ -138,7 +167,7 @@ Has 4 criminal case(s) (0 serious), 4 pending, 0 conviction(s). Declared assets:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -236,12 +265,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

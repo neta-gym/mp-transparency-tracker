@@ -3,19 +3,17 @@
 **Constituency:** Muzaffarpur, Bihar
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 46
-**Education:** Post Graduate
 **Report Date:** 2026-09-02
-**Data Confidence:** Low (43%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (30%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 59.8 / 100
+## Composite Transparency Score: 58.3 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 61.6 | 25% |
-| Asset Growth | 55.0 | 15% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 50.0 | 10% |
 | Questions & Debates | 50.0 | 10% |
@@ -38,14 +36,13 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 20.53 Crore
-- **Liabilities:** Rs 5.46 Crore
-- **Net Worth:** Rs 15.07 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 72% of Lok Sabha MPs
 
 ---
 
@@ -77,29 +74,41 @@
 - **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
 
 - Jal Mahotsav 2026 marks the beginning with Nationwide Observance of Jal Arpan Diwas, coinciding with International Women’s Day, observed as “Sujalam Shakti Diwas” across the country. - PIB (PIB) [neutral]
-- Delhi Confidential | Not ‘in the name of God’: BJP’s Raj Bhushan Choudhary takes a different oath in Lok Sabha - The Indian Express (The Indian Express) [neutral]
 - Muzaffarpur Election Result 2025 Live: BJP's Ranjan Kumar wins by a clear margin - The Times of India (The Times of India) [neutral]
 - Voice of Medical Profession in Parliament: Dr Raj Bhushan Chaudhary, MoS Jal Shakti in Modi Cabinet 3.0 - Medical Dialogues (Medical Dialogues) [neutral]
-- Raj Bushan Chaudhary Latest News, Updates in Hindi | राजभूषण चौधरी के समाचार और अपडेट - AajTak (AajTak) [neutral]
+- Delhi Confidential | Not ‘in the name of God’: BJP’s Raj Bhushan Choudhary takes a different oath in Lok Sabha - The Indian Express (The Indian Express) [neutral]
+- Bihar: Decoding Why MoS Status for EBCs and Cabinet Berths for Dalits in the New NDA Govt - TheWire.in (TheWire.in) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Jal Mahotsav 2026 marks the beginning with Nationwide Observance of Jal Arpan Diwas, coinciding with International Women’s Day, observed as “Sujalam Shakti Diwas” across the country. - PIB** (PIB)
+- ! **Muzaffarpur Election Result 2025 Live: BJP's Ranjan Kumar wins by a clear margin - The Times of India** (The Times of India)
+- ! **Voice of Medical Profession in Parliament: Dr Raj Bhushan Chaudhary, MoS Jal Shakti in Modi Cabinet 3.0 - Medical Dialogues** (Medical Dialogues)
+- ! **Delhi Confidential | Not ‘in the name of God’: BJP’s Raj Bhushan Choudhary takes a different oath in Lok Sabha - The Indian Express** (The Indian Express)
+- ! **Bihar: Decoding Why MoS Status for EBCs and Cabinet Berths for Dalits in the New NDA Govt - TheWire.in** (TheWire.in)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
 - [!] **parliament_activity**: Low confidence in parliament activity data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Bihar: 8 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Raj Bhushan Choudhary shows moderate transparency with a score of 59.8/100. No criminal cases declared.
+Raj Bhushan Choudhary shows moderate transparency with a score of 58.3/100. No criminal cases declared.
 
 ---
 
-No criminal cases declared. Declared assets: Rs 205,295,066. MPLADS utilization: 64.4%. Low confidence data: Parliament activity. 1 warning(s) noted.
+No criminal cases declared. MPLADS utilization: 64.4%. Low confidence data: Assets, Parliament activity. 2 warning(s) noted.
 
 ---
 
@@ -139,7 +148,7 @@ No criminal cases declared. Declared assets: Rs 205,295,066. MPLADS utilization:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -237,12 +246,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

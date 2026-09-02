@@ -3,24 +3,22 @@
 **Constituency:** Saran, Bihar
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 62
-**Education:** Post Graduate
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (44%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 67.8 / 100
+## Composite Transparency Score: 69.0 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 35.0 | 25% |
-| Asset Growth | 60.0 | 15% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 100.0 | 10% |
 | Questions & Debates | 70.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
-| Public Accessibility | 15.0 | 5% |
+| Public Accessibility | 85.0 | 5% |
 | Legislative Effectiveness | 70.0 | 10% |
 
 ---
@@ -38,14 +36,13 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 8.37 Crore
-- **Liabilities:** Rs 6.57 Lakh
-- **Net Worth:** Rs 8.31 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 53% of Lok Sabha MPs
 
 ---
 
@@ -77,6 +74,19 @@
 
 ---
 
+## Public Accessibility
+
+- **Platforms:** 3
+
+
+| Platform | Handle | Verified | Active |
+|----------|--------|----------|--------|
+| Twitter | [@Http://www.twitter.com/rajivprataprudy](https://x.com/Http://www.twitter.com/rajivprataprudy) | No | Yes |
+| Facebook | [@Http://www.facebook.com/RPRudyOfficial](https://facebook.com/Http://www.facebook.com/RPRudyOfficial) | No | Yes |
+| Instagram | [@Http://www.instagram.com/rajivprataprudyofficial/?hl=en](https://instagram.com/Http://www.instagram.com/rajivprataprudyofficial/?hl=en) | No | Yes |
+
+---
+
 ## In The News
 
 *Mixed/neutral coverage (10 articles)*
@@ -85,28 +95,40 @@
 - **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
 
 - Turbulence near Patna, BJP MP Rajiv Pratap Rudy pilots flight to safety in Lucknow | Hindustan Times - Hindustan Times (Hindustan Times) [neutral]
+- Sitting BJP MP Rajiv Pratap Rudy wins against RJD’s Rohini Acharya in the Saran Lok Sabha elections in 2024 - The Indian Express (The Indian Express) [neutral]
 - Rudy hails decision to approve Sonepur international airport - The Times of India (The Times of India) [neutral]
-- Insta friendship, instant death, and lingering questions in a Bihar village - The Indian Express (The Indian Express) [neutral]
-- Bihar govt approves construction of Sonepur greenfield airport; Rs 1,302 crore for land acquisition - The New Indian Express (The New Indian Express) [neutral]
-- Bihar Government to Build Rs 1,302 Crore Greenfield Airport in Sonpur, Promising Jobs and Better Connectivity - Patna Press (Patna Press) [neutral]
+- Rajiv Pratap Rudy Wins BJP vs BJP Battle in Constitution Club Elections - TheWire.in (TheWire.in) [neutral]
+- Saran Lok Sabha Election Results 2024 | BJP's Pratap Rudy Wins By Over 13000 Votes - ETV Bharat (ETV Bharat) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Turbulence near Patna, BJP MP Rajiv Pratap Rudy pilots flight to safety in Lucknow | Hindustan Times - Hindustan Times** (Hindustan Times)
+- ! **Sitting BJP MP Rajiv Pratap Rudy wins against RJD’s Rohini Acharya in the Saran Lok Sabha elections in 2024 - The Indian Express** (The Indian Express)
+- ! **Rudy hails decision to approve Sonepur international airport - The Times of India** (The Times of India)
+- ! **Rajiv Pratap Rudy Wins BJP vs BJP Battle in Constitution Club Elections - TheWire.in** (TheWire.in)
+- ! **Saran Lok Sabha Election Results 2024 | BJP's Pratap Rudy Wins By Over 13000 Votes - ETV Bharat** (ETV Bharat)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Bihar: 8 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Rajiv Pratap Rudy shows moderate transparency with a score of 67.8/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Rajiv Pratap Rudy shows moderate transparency with a score of 69.0/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-No criminal cases declared. Declared assets: Rs 83,711,219. Parliament attendance: 100.0%. Questions asked: 36. Debates participated: 6.
+No criminal cases declared. Parliament attendance: 100.0%. Questions asked: 36. Debates participated: 6. Low confidence data: Assets. 1 warning(s) noted.
 
 ---
 
@@ -146,7 +168,7 @@ No criminal cases declared. Declared assets: Rs 83,711,219. Parliament attendanc
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -244,12 +266,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

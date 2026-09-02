@@ -3,24 +3,22 @@
 **Constituency:** Nilgiris, Tamil Nadu
 **Party:** Dravida Munnetra Kazhagam
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 60
-**Education:** Graduate Professional
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (46%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 47.5 / 100
+## Composite Transparency Score: 43.8 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 31.5 | 25% |
-| Asset Growth | 60.0 | 15% |
-| Criminal Record | 30.0 | 15% |
+| Asset Growth | 45.0 | 15% |
+| Criminal Record | 10.0 | 15% |
 | Parliament Attendance | 90.0 | 10% |
 | Questions & Debates | 60.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
-| Public Accessibility | 15.0 | 5% |
+| Public Accessibility | 65.0 | 5% |
 | Legislative Effectiveness | 40.0 | 10% |
 
 ---
@@ -28,24 +26,33 @@
 ## Criminal Record
 
 - **Total Cases:** 7
-- **Serious Cases:** 0
+- **Serious Cases:** 2
 - **Convictions:** 0
 - **Pending Cases:** 7
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
+### Cases Detail
+
+1. U/s 3 and 4 of PMLA (Sections: N/A) [pending] 
+2. RC MAI 2015 A 0037 dated 18.08.2015-CBI/ACB/Chenai | U/s 13 (2) r/w 13 (1) (e) of Prevention of Corruption Act 1988 under section 13 (2) r/w 13(1) e of prevention of Corruption Act, 1988 (Sections: 109) [pending] **SERIOUS**
+3. ECIR No/ECIR/CEZO-11/01/2019 dated 11.01.2019, Deputy Director of Enforcement Chennai Zone | U/s 3 and 4 of PMLA (Sections: N/A) [pending] 
+4. 811/2018 dated 07.12.2018, Perambalur Police Station (Sections: 503, 504, 505(1)(b), 506(1)) [pending] 
+5. 126/2018 dated 05.04.2018, Ariyalur Police Station (Sections: 143, 188, 341) [pending] 
+6. ECIR/31/DZ/2010 dated 09.03.2010, PS. Directorate of Enforcement, Delhi Zone, New Delhi | U/s. 4 of PMLA (Sections: N/A) [pending] 
+7. RC-DAI-2009-A-0045 dated 21.10.2009, P.S. CBI, ACB, New Delhi | Sec. 7 or in the alternatives 11, 12 and 13(1)(d) of PC Act (Sections: 120B, 420, 409, 468, 471, 193) [pending] **SERIOUS**
+
 ---
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 6.94 Crore
-- **Liabilities:** Rs 19.00 Lakh
-- **Net Worth:** Rs 6.75 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 48% of Lok Sabha MPs
 
 ---
 
@@ -69,6 +76,18 @@
 
 ---
 
+## Public Accessibility
+
+- **Platforms:** 2
+
+
+| Platform | Handle | Verified | Active |
+|----------|--------|----------|--------|
+| Twitter | [@https://x.com/dmk_raja](https://x.com/https://x.com/dmk_raja) | No | Yes |
+| Facebook | [@https://www.facebook.com/arajadmk/](https://facebook.com/https://www.facebook.com/arajadmk/) | No | Yes |
+
+---
+
 ## In The News
 
 *Mixed/neutral coverage (10 articles)*
@@ -76,29 +95,41 @@
 - **Total Articles:** 10
 - **Positive:** 1 | **Negative:** 1 | **Neutral:** 8
 
+- Tamil Nadu Doctor Lodges Complaint Against DMK's A Raja Over 'Derogatory' Remarks Against CM Vijay - ETV Bharat (ETV Bharat) [negative]
 - Tamil Nadu’s first dog park inaugurated in Nilgiris - The Hindu (The Hindu) [positive]
-- Army, Forest Dept rescue tourist from 150-foot gorge in Nilgiris; MP Raja coordinates operation - ThePrint (ThePrint) [neutral]
-- ‘Fabricated, manipulated content’: A Raja sends notice to YouTuber Maridhas - The News Minute (The News Minute) [neutral]
-- Language row rages: Remove Hindi banners from Ooty railway station, A Raja writes to Ashwini Vaishnaw; ci - The Times of India (The Times of India) [neutral]
 - Sanction Given For NH-181 Road Improvement, Gadkari Tells MP Raja - Deccan Chronicle (Deccan Chronicle) [neutral]
+- Tamil Nadu election results 2024| A. Raja wins third term as the Nilgiris MP - The Hindu (The Hindu) [neutral]
+- ED seizes ‘benami’ properties linked to DMK MP A Raja - The News Minute (The News Minute) [neutral]
+
+---
+
+## News & Allegations
+
+- !! **Tamil Nadu Doctor Lodges Complaint Against DMK's A Raja Over 'Derogatory' Remarks Against CM Vijay - ETV Bharat** (ETV Bharat)
+- ! **Tamil Nadu’s first dog park inaugurated in Nilgiris - The Hindu** (The Hindu)
+- ! **Sanction Given For NH-181 Road Improvement, Gadkari Tells MP Raja - Deccan Chronicle** (Deccan Chronicle)
+- ! **Tamil Nadu election results 2024| A. Raja wins third term as the Nilgiris MP - The Hindu** (The Hindu)
+- ! **ED seizes ‘benami’ properties linked to DMK MP A Raja - The News Minute** (The News Minute)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Tamil Nadu: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Raja A has a below-average transparency score of 47.5/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Raja A has a below-average transparency score of 43.8/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-Has 7 criminal case(s) (0 serious), 7 pending, 0 conviction(s). Declared assets: Rs 69,362,170. MPLADS utilization: 39.3%. Parliament attendance: 90.0%. Questions asked: 42. Debates participated: 3.
+Has 7 criminal case(s) (2 serious), 7 pending, 0 conviction(s). MPLADS utilization: 39.3%. Parliament attendance: 90.0%. Questions asked: 42. Debates participated: 3. Low confidence data: Assets. 1 warning(s) noted.
 
 ---
 
@@ -138,7 +169,7 @@ Has 7 criminal case(s) (0 serious), 7 pending, 0 conviction(s). Declared assets:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -236,12 +267,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

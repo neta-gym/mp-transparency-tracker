@@ -3,57 +3,52 @@
 **Constituency:** Wayanad, Kerala
 **Party:** Indian National Congress
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 52
-**Education:** Graduate
-**Profession:** General Secretary - Indian National Congress
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (46%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 45.7 / 100
+## Composite Transparency Score: 47.7 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 19.9 | 25% |
-| Asset Growth | 55.0 | 15% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 60.0 | 15% |
 | Parliament Attendance | 85.0 | 10% |
 | Questions & Debates | 20.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
-| Public Accessibility | 15.0 | 5% |
+| Public Accessibility | 85.0 | 5% |
 | Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
 ## Criminal Record
 
-- **Total Cases:** 4
-- **Serious Cases:** 0
+- **Total Cases:** 3
+- **Serious Cases:** 1
 - **Convictions:** 0
-- **Pending Cases:** 4
+- **Pending Cases:** 3
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
 ### Cases Detail
 
-1. Details and present status of appeal (Sections: N/A) 
-2. No description (Sections: 0384/2023, PS Sayogitaganj Indore, Madhya Pradesh, Dated- 12/08/2023) 
-3. No description (Sections: 155/2020, PS Gautam Buddha Nagar, Uttar Pradesh, Dated- 01/10/2020) 
-4. No description (Sections: 04/RBL/2019-20, Forest Officer- Raebareli, Uttar Pradesh, Dated- 02/05/2019) 
+1. 0384/2023, PS Sayogitaganj Indore, Madhya Pradesh, Dated- 12/08/2023 (Sections: 420, 469) [pending] **SERIOUS**
+2. 155/2020, PS Gautam Buddha Nagar, Uttar Pradesh, Dated- 01/10/2020 (Sections: 188, 269, 270) [pending] 
+3. 04/RBL/2019-20, Forest Officer- Raebareli, Uttar Pradesh, Dated- 02/05/2019 | Section 9 & 51 of The Wildlife (Protection) Act 1972 (Sections: N/A) [pending] 
 
 ---
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 42.16 Crore
-- **Immovable Assets:** Rs 35.39 Crore
-- **Total Assets:** Rs 77.55 Crore
-- **Liabilities:** Rs 12.10 Crore
-- **Net Worth:** Rs 65.44 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 90% of Lok Sabha MPs
 
 ---
 
@@ -77,36 +72,61 @@
 
 ---
 
+## Public Accessibility
+
+- **Platforms:** 3
+
+
+| Platform | Handle | Verified | Active |
+|----------|--------|----------|--------|
+| Twitter | [@https://x.com/priyankagandhi?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor](https://x.com/https://x.com/priyankagandhi?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) | No | Yes |
+| Facebook | [@https://www.facebook.com/priyankagandhivadra/](https://facebook.com/https://www.facebook.com/priyankagandhivadra/) | No | Yes |
+| Instagram | [@https://www.instagram.com/priyankagandhivadra/?hl=en](https://instagram.com/https://www.instagram.com/priyankagandhivadra/?hl=en) | No | Yes |
+
+---
+
 ## In The News
 
 *Mixed/neutral coverage (10 articles)*
 
 - **Total Articles:** 10
-- **Positive:** 0 | **Negative:** 1 | **Neutral:** 9
+- **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
 
-- 'Wayanad will become next Amethi': Case registered over posters targeting Rahul Gandhi, Priyanka Vadra - India TV News (India TV News) [neutral]
-- Smt. Priyanka Gandhi Vadra, MP (Lok Sabha) and General Secretary, AICC, addressed the public in Wayanad | Kerala - inc.in (inc.in) [neutral]
-- Posters targeting Rahul Gandhi, Priyanka Vadra, Mallikarjun Kharge found in Wayanad; police register case - The Times of India (The Times of India) [neutral]
-- Police Register Case Over Posters Targeting Rahul, Priyanka and Kharge in Wayanad - Deccan Chronicle (Deccan Chronicle) [neutral]
-- Stage overrun as massive crowd threatens to derail security protocol in Kerala - The New Indian Express (The New Indian Express) [neutral]
+- Smt. Priyanka Gandhi Vadra - inc.in (inc.in) [neutral]
+- Wayanad debris slip: Priyanka Gandhi to visit Kalladi, meet injured victims on July 25 - The Hindu (The Hindu) [neutral]
+- In Photos: Rahul Gandhi stages sit-in with pellet gun victim at Delhi police station - The Indian Express (The Indian Express) [neutral]
+- Priyanka Gandhi condoles deaths in Wayanad landslide, urges UDF workers to provide support - ANI News (ANI News) [neutral]
+- Rahul, Priyanka Gandhi express grief over Wayanad landslide - ThePrint (ThePrint) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Smt. Priyanka Gandhi Vadra - inc.in** (inc.in)
+- ! **Wayanad debris slip: Priyanka Gandhi to visit Kalladi, meet injured victims on July 25 - The Hindu** (The Hindu)
+- ! **In Photos: Rahul Gandhi stages sit-in with pellet gun victim at Delhi police station - The Indian Express** (The Indian Express)
+- ! **Priyanka Gandhi condoles deaths in Wayanad landslide, urges UDF workers to provide support - ANI News** (ANI News)
+- ! **Rahul, Priyanka Gandhi express grief over Wayanad landslide - ThePrint** (ThePrint)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Kerala: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Priyanka Gandhi Vadra has a below-average transparency score of 45.7/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Limited participation in parliamentary proceedings.
+Priyanka Gandhi Vadra has a below-average transparency score of 47.7/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Limited participation in parliamentary proceedings.
 
 ---
 
-Has 4 criminal case(s) (0 serious), 4 pending, 0 conviction(s). Declared assets: Rs 775,477,352. MPLADS utilization: 24.9%. Parliament attendance: 85.0%. Debates participated: 3.
+Has 3 criminal case(s) (1 serious), 3 pending, 0 conviction(s). MPLADS utilization: 24.9%. Parliament attendance: 85.0%. Debates participated: 3. Low confidence data: Assets. 1 warning(s) noted.
 
 ---
 
@@ -146,7 +166,7 @@ Has 4 criminal case(s) (0 serious), 4 pending, 0 conviction(s). Declared assets:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -244,12 +264,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, mplads, myneta*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

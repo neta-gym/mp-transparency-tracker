@@ -3,19 +3,17 @@
 **Constituency:** Dharmapuri, Tamil Nadu
 **Party:** Dravida Munnetra Kazhagam
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 55
-**Education:** Graduate Professional
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (39%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 55.5 / 100
+## Composite Transparency Score: 54.0 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 23.7 | 25% |
-| Asset Growth | 55.0 | 15% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 90.0 | 15% |
 | Parliament Attendance | 85.0 | 10% |
 | Questions & Debates | 50.0 | 10% |
@@ -34,18 +32,21 @@
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
+### Cases Detail
+
+1. P1 Police Station Dharmapuri District (Sections: 143, 341) [pending] 
+
 ---
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 8.66 Crore
-- **Liabilities:** Rs 2.13 Crore
-- **Net Worth:** Rs 6.53 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 54% of Lok Sabha MPs
 
 ---
 
@@ -76,29 +77,41 @@
 - **Total Articles:** 10
 - **Positive:** 0 | **Negative:** 1 | **Neutral:** 9
 
-- G.K. Mani accused of conspiring to ensure Sowmiya Anbumani’s defeat in Lok Sabha elections in Dharmapuri - The Hindu (The Hindu) [negative]
+- Will Dharmapuri vote for change ? - The New Indian Express (The New Indian Express) [neutral]
+- GK Mani is Stalin’s right hand: Anbumani - The Times of India (The Times of India) [neutral]
+- Dharmapuri Election Result 2026 Tamil Nadu: PMK's Sowmiya Anbumani wins Dharmapuri by over 20,000 votes - CNBC TV18 (CNBC TV18) [neutral]
 - TV debate sparks AIADMK-DMK clash in Dharmapuri - The New Indian Express (The New Indian Express) [neutral]
-- Farmers urge railways to reroute proposed Morappur-Dharmapuri line to protect agricultural land - The Times of India (The Times of India) [neutral]
-- CM Stalin dares PM Modi to repeat ‘hate speeches against TN’ in state - The New Indian Express (The New Indian Express) [neutral]
-- CM Stalin dares PM Modi to repeat ‘divisive’ remarks made against ‘Tamil Nadu’ during Bihar campaign - The Hindu (The Hindu) [neutral]
+- DMK leader alleges caste slur, files plaint against fellow worker - DT Next (DT Next) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Will Dharmapuri vote for change ? - The New Indian Express** (The New Indian Express)
+- ! **GK Mani is Stalin’s right hand: Anbumani - The Times of India** (The Times of India)
+- ! **Dharmapuri Election Result 2026 Tamil Nadu: PMK's Sowmiya Anbumani wins Dharmapuri by over 20,000 votes - CNBC TV18** (CNBC TV18)
+- ! **TV debate sparks AIADMK-DMK clash in Dharmapuri - The New Indian Express** (The New Indian Express)
+- ! **DMK leader alleges caste slur, files plaint against fellow worker - DT Next** (DT Next)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Tamil Nadu: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Mani A shows moderate transparency with a score of 55.5/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance.
+Mani A shows moderate transparency with a score of 54.0/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance.
 
 ---
 
-Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Declared assets: Rs 86,564,403. MPLADS utilization: 29.7%. Parliament attendance: 85.0%. Questions asked: 20. Debates participated: 3.
+Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). MPLADS utilization: 29.7%. Parliament attendance: 85.0%. Questions asked: 20. Debates participated: 3. Low confidence data: Assets. 1 warning(s) noted.
 
 ---
 
@@ -138,7 +151,7 @@ Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Declared assets:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -236,12 +249,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

@@ -4,17 +4,17 @@
 **Party:** Samajwadi Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Third-party (C)
+**Data Confidence:** Low (27%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 57.8 / 100
+## Composite Transparency Score: 48.5 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 28.8 | 25% |
-| Asset Growth | 60.0 | 15% |
-| Criminal Record | 80.0 | 15% |
+| Asset Growth | 45.0 | 15% |
+| Criminal Record | 45.0 | 15% |
 | Parliament Attendance | 95.0 | 10% |
 | Questions & Debates | 60.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
@@ -25,10 +25,10 @@
 
 ## Criminal Record
 
-- **Total Cases:** 2
+- **Total Cases:** 0
 - **Serious Cases:** 0
 - **Convictions:** 0
-- **Pending Cases:** 2
+- **Pending Cases:** 0
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
@@ -36,14 +36,13 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 2.50 Crore
-- **Liabilities:** Rs 6.25 Lakh
-- **Net Worth:** Rs 2.43 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 22% of Lok Sabha MPs
 
 ---
 
@@ -72,31 +71,44 @@
 *Mixed/neutral coverage (10 articles)*
 
 - **Total Articles:** 10
-- **Positive:** 0 | **Negative:** 3 | **Neutral:** 7
+- **Positive:** 0 | **Negative:** 1 | **Neutral:** 9
 
-- ‘Shouldn’t officers be beaten with shoes?’: SP MP fumes over being ignored at railway event | India News - Hindustan Times (Hindustan Times) [neutral]
-- ‘Will they not be beaten up with shoes?’: Ballia MP furious over not being made chief guest - ThePrint (ThePrint) [neutral]
-- Case Against Samajwadi Party Candidate In UP For "Spreading Hatred" - NDTV (NDTV) [neutral]
-- ‘Half of UP boys would be unmarried if…’: SP MP invokes UP-Bihar’s ‘roti- beti’ ties; asks for vote as ‘d - The Times of India (The Times of India) [neutral]
-- 'If my defeat is ensured...': Samajwadi Party’s Ballia candidate booked for threatening poll official - The New Indian Express (The New Indian Express) [negative]
+- Samajwadi Party MP Sanatan Pandey refutes ‘split’ rumours, hits back at UP minister Rajbhar - Deccan Herald (Deccan Herald) [neutral]
+- "They only want power by splitting parties": SP's Sanatan Pandey dismisses defection rumors, calls BJP 'opportunistic' - ANI News (ANI News) [neutral]
+- ‘Will serve SP till my last breath’: Sanatan Pandey hits back at OP Rajbhar’s ‘Ballia rebel’ claim - tennews.in (tennews.in) [neutral]
+- 'Toot hokar rahegi': Samajwadi Party rebellion will be led by a Brahmin MP from Ballia, claims OP Rajbhar - The Times of India (The Times of India) [neutral]
+- Sanatan Pandey denies defection rumors, critiques BJP's strategies - The News Mill (The News Mill) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Samajwadi Party MP Sanatan Pandey refutes ‘split’ rumours, hits back at UP minister Rajbhar - Deccan Herald** (Deccan Herald)
+- ! **"They only want power by splitting parties": SP's Sanatan Pandey dismisses defection rumors, calls BJP 'opportunistic' - ANI News** (ANI News)
+- ! **‘Will serve SP till my last breath’: Sanatan Pandey hits back at OP Rajbhar’s ‘Ballia rebel’ claim - tennews.in** (tennews.in)
+- ! **'Toot hokar rahegi': Samajwadi Party rebellion will be led by a Brahmin MP from Ballia, claims OP Rajbhar - The Times of India** (The Times of India)
+- ! **Sanatan Pandey denies defection rumors, critiques BJP's strategies - The News Mill** (The News Mill)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
+- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Uttar Pradesh: 8 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Sanatan Pandey shows moderate transparency with a score of 57.8/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Sanatan Pandey has a below-average transparency score of 48.5/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates. Data confidence is low — scores should be interpreted with caution.
 
 ---
 
-Has 2 criminal case(s) (0 serious), 2 pending, 0 conviction(s). Declared assets: Rs 24,950,786. MPLADS utilization: 36.0%. Parliament attendance: 95.0%. Questions asked: 16. Debates participated: 6.
+No criminal cases declared. MPLADS utilization: 36.0%. Parliament attendance: 95.0%. Questions asked: 16. Debates participated: 6. Low confidence data: Criminal record, Assets. 2 warning(s) noted.
 
 ---
 
@@ -136,7 +148,7 @@ Has 2 criminal case(s) (0 serious), 2 pending, 0 conviction(s). Declared assets:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -234,10 +246,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

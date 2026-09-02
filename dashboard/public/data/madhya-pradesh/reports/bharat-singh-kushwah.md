@@ -3,19 +3,17 @@
 **Constituency:** Gwalior, Madhya Pradesh
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 53
-**Education:** 12th Pass
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (37%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 52.4 / 100
+## Composite Transparency Score: 50.9 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 3.2 | 25% |
-| Asset Growth | 55.0 | 15% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 85.0 | 10% |
 | Questions & Debates | 40.0 | 10% |
@@ -38,14 +36,13 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 2.88 Crore
-- **Liabilities:** Rs 62.76 Lakh
-- **Net Worth:** Rs 2.25 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 25% of Lok Sabha MPs
 
 ---
 
@@ -76,30 +73,42 @@
 - **Total Articles:** 10
 - **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
 
+- MP Kushwah backs natural chemical-free farming: Says lower costs, higher profits to empower farmers - Bhaskar English (Bhaskar English) [neutral]
+- Gwalior election results 2024 live updates: BJP's Bharat Singh Kushwah wins - timesofindia.indiatimes.com (timesofindia.indiatimes.com) [neutral]
+- Bharat Singh Kushwah , BJP candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details. - The Hindu (The Hindu) [neutral]
+- Union Home and Cooperation Minister Shri Amit Shah lays foundation stone of the new terminal building of Rajmata Vijayaraje Scindia Gwalior Airport - PIB (PIB) [neutral]
 - BJP leader blocks his own MP’s car: Lies down, shouts at the MP over public issues, and hurls abuses in pro... - Bhaskar English (Bhaskar English) [neutral]
-- Gwalior election results 2024 live updates: BJP's Bharat Singh Kushwah wins - The Times of India (The Times of India) [neutral]
-- Political Profile of Bharat Singh Kushwah, Bjp Party, Gwalior, and Net Worth - India TV News (India TV News) [neutral]
-- Gwalior Election Result: बीजेपी ने लगातार 5वीं बार जीता ग्वालियर, कांग्रेस के प्रवीण पाठक की हार - AajTak (AajTak) [neutral]
-- A Grand Unveiling: Vice President Shri Jagdeep Dhankhar Inaugurates GSI Geoscience Museum in Gwalior - PIB (PIB) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **MP Kushwah backs natural chemical-free farming: Says lower costs, higher profits to empower farmers - Bhaskar English** (Bhaskar English)
+- ! **Gwalior election results 2024 live updates: BJP's Bharat Singh Kushwah wins - timesofindia.indiatimes.com** (timesofindia.indiatimes.com)
+- ! **Bharat Singh Kushwah , BJP candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details. - The Hindu** (The Hindu)
+- ! **Union Home and Cooperation Minister Shri Amit Shah lays foundation stone of the new terminal building of Rajmata Vijayaraje Scindia Gwalior Airport - PIB** (PIB)
+- ! **BJP leader blocks his own MP’s car: Lies down, shouts at the MP over public issues, and hurls abuses in pro... - Bhaskar English** (Bhaskar English)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
 - [!] **mplads**: Extremely low utilization rate — verify data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Madhya Pradesh: 8 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Bharat Singh Kushwah shows moderate transparency with a score of 52.4/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
+Bharat Singh Kushwah shows moderate transparency with a score of 50.9/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
 
 ---
 
-No criminal cases declared. Declared assets: Rs 28,809,530. MPLADS utilization: 4.0%. Parliament attendance: 85.0%. Questions asked: 12. Debates participated: 1. 1 warning(s) noted.
+No criminal cases declared. MPLADS utilization: 4.0%. Parliament attendance: 85.0%. Questions asked: 12. Debates participated: 1. Low confidence data: Assets. 2 warning(s) noted.
 
 ---
 
@@ -139,7 +148,7 @@ No criminal cases declared. Declared assets: Rs 28,809,530. MPLADS utilization: 
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -237,12 +246,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

@@ -4,17 +4,17 @@
 **Party:** Independent
 **House:** Lok Sabha (18th Parliament, 2024-present)
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Third-party (C)
+**Data Confidence:** Low (27%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 50.3 / 100
+## Composite Transparency Score: 37.1 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 46.7 | 25% |
-| Asset Growth | 60.0 | 15% |
-| Criminal Record | 100.0 | 15% |
+| Asset Growth | 45.0 | 15% |
+| Criminal Record | 45.0 | 15% |
 | Parliament Attendance | 35.0 | 10% |
 | Questions & Debates | 0.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
@@ -36,14 +36,13 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 1.08 Crore
-- **Liabilities:** Rs 5.75 Lakh
-- **Net Worth:** Rs 1.02 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 9% of Lok Sabha MPs
 
 ---
 
@@ -74,29 +73,42 @@
 - **Total Articles:** 10
 - **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
 
+- MP Sarabjit Singh Khalsa admitted in Jalandhar hospital after suddenly falling ill - Babushahi.com (Babushahi.com) [neutral]
+- Amritpal Singh’s party names Satwant Singh as first candidate for 2027 Punjab polls - The New Indian Express (The New Indian Express) [neutral]
+- Faridkot MP Sarabjeet Khalsa announces Rs 1 crore grant for Jaswant Khalra memorial - The Tribune (The Tribune) [neutral]
 - Manpreet Ayali shares stage with Faridkot MP Sarabjeet Khalsa at Waris Punjab De event - Babushahi.com (Babushahi.com) [neutral]
-- After Amritpal’s 1%, Sarabjeet Singh Khalsa logs lowest 37% LS attendance among Punjab MPs; Amar tops at 98% - The Tribune (The Tribune) [neutral]
-- Sarabjeet Singh Khalsa - The Times of India (The Times of India) [neutral]
-- System needs overhaul, every MP should get ample time to speak, says Sarabjeet Singh Khalsa | Hindustan Times - Hindustan Times (Hindustan Times) [neutral]
-- In Punjab’s Faridkot, Indira Gandhi’s assassin’s son leads by massive margin - The Indian Express (The Indian Express) [neutral]
+- Demand for release of Amritpal gains momentum - The Times of India (The Times of India) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **MP Sarabjit Singh Khalsa admitted in Jalandhar hospital after suddenly falling ill - Babushahi.com** (Babushahi.com)
+- ! **Amritpal Singh’s party names Satwant Singh as first candidate for 2027 Punjab polls - The New Indian Express** (The New Indian Express)
+- ! **Faridkot MP Sarabjeet Khalsa announces Rs 1 crore grant for Jaswant Khalra memorial - The Tribune** (The Tribune)
+- ! **Manpreet Ayali shares stage with Faridkot MP Sarabjeet Khalsa at Waris Punjab De event - Babushahi.com** (Babushahi.com)
+- ! **Demand for release of Amritpal gains momentum - The Times of India** (The Times of India)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
+- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Punjab: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Sarabjeet Singh Khalsa shows moderate transparency with a score of 50.3/100. No criminal cases declared. Low parliament attendance is notable. Limited participation in parliamentary proceedings.
+Sarabjeet Singh Khalsa has a below-average transparency score of 37.1/100, indicating significant room for improvement. Significant criminal cases are a concern. Low parliament attendance is notable. Limited participation in parliamentary proceedings. Data confidence is low — scores should be interpreted with caution.
 
 ---
 
-No criminal cases declared. Declared assets: Rs 10,808,400. MPLADS utilization: 54.5%. Parliament attendance: 35.0%.
+No criminal cases declared. MPLADS utilization: 54.5%. Parliament attendance: 35.0%. Low confidence data: Criminal record, Assets. 2 warning(s) noted.
 
 ---
 
@@ -136,7 +148,7 @@ No criminal cases declared. Declared assets: Rs 10,808,400. MPLADS utilization: 
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -234,10 +246,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

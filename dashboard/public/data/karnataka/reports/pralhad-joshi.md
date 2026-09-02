@@ -3,24 +3,22 @@
 **Constituency:** Dharwad, Karnataka
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 61
-**Education:** Graduate
 **Report Date:** 2026-09-02
-**Data Confidence:** Low (42%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (37%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 48.5 / 100
+## Composite Transparency Score: 50.3 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 8.8 | 25% |
-| Asset Growth | 50.0 | 15% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 50.0 | 10% |
 | Questions & Debates | 50.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
-| Public Accessibility | 15.0 | 5% |
+| Public Accessibility | 65.0 | 5% |
 | Legislative Effectiveness | 40.0 | 10% |
 
 ---
@@ -40,12 +38,11 @@
 
 - **Movable Assets:** N/A
 - **Immovable Assets:** N/A
-- **Total Assets:** Rs 21.10 Crore
-- **Liabilities:** Rs 8.01 Crore
-- **Net Worth:** Rs 13.08 Crore
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 73% of Lok Sabha MPs
 
 ---
 
@@ -69,6 +66,18 @@
 
 ---
 
+## Public Accessibility
+
+- **Platforms:** 2
+
+
+| Platform | Handle | Verified | Active |
+|----------|--------|----------|--------|
+| Twitter | [@http://Joshipralhad](https://x.com/http://Joshipralhad) | No | Yes |
+| Facebook | [@http://Pralhad Joshi](https://facebook.com/http://Pralhad Joshi) | No | Yes |
+
+---
+
 ## In The News
 
 *Mixed/neutral coverage (10 articles)*
@@ -76,30 +85,42 @@
 - **Total Articles:** 10
 - **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
 
-- "How Can He Do It": Union Minister Loses Cool At Karnataka Cop Over Lathicharge At Ganesh Procession - NDTV (NDTV) [neutral]
-- Prasar Bharati withdraws Karnataka’s Dharwad Akashvani shift plan after Union Minister Joshi’s appeal - Social News XYZ (Social News XYZ) [neutral]
-- Dharwad Lok Sabha Constituency: Electoral battle between Pralhad Joshi of BJP and Vinod Asooti of Congress - The Indian Express (The Indian Express) [neutral]
-- Dharwad Lok Sabha election 2024: Union minister Pralhad Joshi eyes fifth term against Congress' Vinod Asuti - India TV News (India TV News) [neutral]
-- Karnataka Lok Sabha Election: Pralhad Joshi vs Vinod Asooti in Dharwad | Education, Birthplace, And Net Worth - India.Com (India.Com) [neutral]
+- Who Is Pralhad Joshi? BJP Veteran Given Charge Of Education Ministry After Dharmendra Pradhan's Exit - Brut (Brut) [neutral]
+- Know your minister: Pralhad Joshi's net worth, education, and criminal record - Livemint (Livemint) [neutral]
+- Prahlad Joshi wins from Dharwad, Karnataka - GujaratSamachar English (GujaratSamachar English) [neutral]
+- Who is Pralhad Joshi? 5-time MP who takes charge of education ministry after Dharmendra Pradhan's exit - The Times of India (The Times of India) [neutral]
+- Who is Pralhad Joshi? BA graduate, 5-time MP from Dharwad, is now India's new Education Minister - Moneycontrol.com (Moneycontrol.com) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Who Is Pralhad Joshi? BJP Veteran Given Charge Of Education Ministry After Dharmendra Pradhan's Exit - Brut** (Brut)
+- ! **Know your minister: Pralhad Joshi's net worth, education, and criminal record - Livemint** (Livemint)
+- ! **Prahlad Joshi wins from Dharwad, Karnataka - GujaratSamachar English** (GujaratSamachar English)
+- ! **Who is Pralhad Joshi? 5-time MP who takes charge of education ministry after Dharmendra Pradhan's exit - The Times of India** (The Times of India)
+- ! **Who is Pralhad Joshi? BA graduate, 5-time MP from Dharwad, is now India's new Education Minister - Moneycontrol.com** (Moneycontrol.com)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
 - [!] **parliament_activity**: Low confidence in parliament activity data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Karnataka: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Pralhad Joshi has a below-average transparency score of 48.5/100, indicating significant room for improvement. No criminal cases declared. Low MPLADS fund utilization needs attention.
+Pralhad Joshi shows moderate transparency with a score of 50.3/100. No criminal cases declared. Low MPLADS fund utilization needs attention.
 
 ---
 
-No criminal cases declared. Declared assets: Rs 210,960,953. MPLADS utilization: 11.0%. Low confidence data: Parliament activity. 1 warning(s) noted.
+No criminal cases declared. MPLADS utilization: 11.0%. Low confidence data: Assets, Parliament activity. 2 warning(s) noted.
 
 ---
 
@@ -139,7 +160,7 @@ No criminal cases declared. Declared assets: Rs 210,960,953. MPLADS utilization:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -237,12 +258,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

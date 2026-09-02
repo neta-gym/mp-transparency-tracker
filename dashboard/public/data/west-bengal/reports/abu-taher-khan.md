@@ -3,20 +3,18 @@
 **Constituency:** Murshidabad, West Bengal
 **Party:** All India Trinamool Congress
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 62
-**Education:** 10th Pass
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (39%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 50.8 / 100
+## Composite Transparency Score: 48.0 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 17.7 | 25% |
-| Asset Growth | 50.0 | 15% |
-| Criminal Record | 70.0 | 15% |
+| Asset Growth | 45.0 | 15% |
+| Criminal Record | 60.0 | 15% |
 | Parliament Attendance | 100.0 | 10% |
 | Questions & Debates | 40.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
@@ -28,24 +26,29 @@
 ## Criminal Record
 
 - **Total Cases:** 3
-- **Serious Cases:** 0
+- **Serious Cases:** 1
 - **Convictions:** 0
 - **Pending Cases:** 3
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
+### Cases Detail
+
+1. 101/18, P.S. Nowda, Msd. | Section 25, 27 Arms Act (Sections: 341, 326, 307, 114, 34) [pending] **SERIOUS**
+2. G.R. 133/09, Nowda, Msd. (Sections: 147, 148, 149, 448, 323, 427, 506, 34) [pending] 
+3. 13/2000, PS Nowda Msd | Status- Evidence Stage (Sections: 323, 435, 34) [pending] 
+
 ---
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 3.85 Crore
-- **Liabilities:** Rs 0
-- **Net Worth:** Rs 3.85 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 32% of Lok Sabha MPs
 
 ---
 
@@ -76,29 +79,41 @@
 - **Total Articles:** 10
 - **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
 
-- "Hope he does good work for Bengal": TMC MP Abu Taher congratulates Suvendu Adhikari on becoming West Bengal CM - ANI News (ANI News) [neutral]
-- Poll violence in West Bengal: Crude bombs hurled in Murshidabad, several injured - The Times of India (The Times of India) [neutral]
-- Lok Sabha 2024: Know your MP — Abu Taher Khan, Murshidabad - Citizen Matters (Citizen Matters) [neutral]
-- TMC leaders claim aggressive Ravneet Singh Bittu pushed Abu Taher in Lok Sabha - The Hindu (The Hindu) [neutral]
-- Lok Sabha MP Abu Taher Khan’s speech on The Waqf (Amendment) Bill, 2025, as Reported by Joint Committee and The Mussalman Wakf (Repeal) Bill, 2024 - AITC (AITC) [neutral]
+- Murshidabad MPs Abu Taher Khan, Khalilur Rahaman take SIR grouse to CM amid concerns about loss of support base - telegraphindia.com (telegraphindia.com) [neutral]
+- 2 Murshidabad MPs Meet Suvendu Over Loudspeaker Removal, Allege ‘Muslims Targeted’ - Deccan Chronicle (Deccan Chronicle) [neutral]
+- Two NCPI MPs meet Bengal CM Suvendu Adhikari amid speculation over political equations - The New Indian Express (The New Indian Express) [neutral]
+- TMC-turned-NCPI MP cites Muslim interests, says will not remain in NDA nor join BJP | India News - Hindustan Times (Hindustan Times) [neutral]
+- 2 NCPI MPs ‘want to rejoin TMC’, another ‘in talks’ - The Times of India (The Times of India) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Murshidabad MPs Abu Taher Khan, Khalilur Rahaman take SIR grouse to CM amid concerns about loss of support base - telegraphindia.com** (telegraphindia.com)
+- ! **2 Murshidabad MPs Meet Suvendu Over Loudspeaker Removal, Allege ‘Muslims Targeted’ - Deccan Chronicle** (Deccan Chronicle)
+- ! **Two NCPI MPs meet Bengal CM Suvendu Adhikari amid speculation over political equations - The New Indian Express** (The New Indian Express)
+- ! **TMC-turned-NCPI MP cites Muslim interests, says will not remain in NDA nor join BJP | India News - Hindustan Times** (Hindustan Times)
+- ! **2 NCPI MPs ‘want to rejoin TMC’, another ‘in talks’ - The Times of India** (The Times of India)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for West Bengal: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Abu Taher Khan shows moderate transparency with a score of 50.8/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance.
+Abu Taher Khan has a below-average transparency score of 48.0/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance.
 
 ---
 
-Has 3 criminal case(s) (0 serious), 3 pending, 0 conviction(s). Declared assets: Rs 38,476,131. MPLADS utilization: 22.1%. Parliament attendance: 100.0%. Questions asked: 12. Debates participated: 1.
+Has 3 criminal case(s) (1 serious), 3 pending, 0 conviction(s). MPLADS utilization: 22.1%. Parliament attendance: 100.0%. Questions asked: 12. Debates participated: 1. Low confidence data: Assets. 1 warning(s) noted.
 
 ---
 
@@ -138,7 +153,7 @@ Has 3 criminal case(s) (0 serious), 3 pending, 0 conviction(s). Declared assets:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -236,12 +251,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

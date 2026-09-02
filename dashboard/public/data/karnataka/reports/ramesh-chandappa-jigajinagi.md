@@ -3,19 +3,17 @@
 **Constituency:** Bijapur, Karnataka
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 71
-**Education:** Graduate
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (37%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 52.2 / 100
+## Composite Transparency Score: 50.7 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 3.3 | 25% |
-| Asset Growth | 55.0 | 15% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 90.0 | 10% |
 | Questions & Debates | 30.0 | 10% |
@@ -38,14 +36,13 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 51.63 Crore
-- **Liabilities:** Rs 6.81 Crore
-- **Net Worth:** Rs 44.82 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 85% of Lok Sabha MPs
 
 ---
 
@@ -76,30 +73,42 @@
 - **Total Articles:** 10
 - **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
 
-- Vijayapura MP Ramesh Jigajinagi hints he may not contest Lok Sabha polls - The Hindu (The Hindu) [neutral]
+- ‘Why should a Dalit person be concerned with RSS?’: Karnataka BJP MP on Priyank Kharge - The South First (The South First) [neutral]
 - Assets of BJP MP Ramesh Jigajinagi grew 100 times in 20 years - The Hindu (The Hindu) [neutral]
-- Portfolio of Modi government ministers: Ramesh Chandappa Jigajinagi has given drinking water and sanitation department - financialexpress.com (financialexpress.com) [neutral]
-- From Modest Beginnings to Millions: The Astonishing Wealth Surge of BJP's Dalit MP — Ramesh Jigajinagi - The Mooknayak English (The Mooknayak English) [neutral]
-- Bijapur Election Result 2024 LIVE Updates Highlights: Ramesh Jigajinagi of BJP Wins - News18 (News18) [neutral]
+- Vijayapura MP Ramesh Jigajinagi hints he may not contest Lok Sabha polls in Karnataka - inkl (inkl) [neutral]
+- PM’s ministers are in ‘Q’, but not for money - Bangalore Mirror (Bangalore Mirror) [neutral]
+- Ramesh Jigajinagi elevation shows BJP's Karnataka poll focus - Livemint (Livemint) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **‘Why should a Dalit person be concerned with RSS?’: Karnataka BJP MP on Priyank Kharge - The South First** (The South First)
+- ! **Assets of BJP MP Ramesh Jigajinagi grew 100 times in 20 years - The Hindu** (The Hindu)
+- ! **Vijayapura MP Ramesh Jigajinagi hints he may not contest Lok Sabha polls in Karnataka - inkl** (inkl)
+- ! **PM’s ministers are in ‘Q’, but not for money - Bangalore Mirror** (Bangalore Mirror)
+- ! **Ramesh Jigajinagi elevation shows BJP's Karnataka poll focus - Livemint** (Livemint)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
 - [!] **mplads**: Extremely low utilization rate — verify data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Karnataka: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Ramesh Chandappa Jigajinagi shows moderate transparency with a score of 52.2/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
+Ramesh Chandappa Jigajinagi shows moderate transparency with a score of 50.7/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
 
 ---
 
-No criminal cases declared. Declared assets: Rs 516,315,994. MPLADS utilization: 4.1%. Parliament attendance: 90.0%. Questions asked: 4. Debates participated: 1. 1 warning(s) noted.
+No criminal cases declared. MPLADS utilization: 4.1%. Parliament attendance: 90.0%. Questions asked: 4. Debates participated: 1. Low confidence data: Assets. 2 warning(s) noted.
 
 ---
 
@@ -139,7 +148,7 @@ No criminal cases declared. Declared assets: Rs 516,315,994. MPLADS utilization:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -237,12 +246,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

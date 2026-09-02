@@ -3,20 +3,18 @@
 **Constituency:** Ramtek, Maharashtra
 **Party:** Indian National Congress
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 46
-**Education:** 12th Pass
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (39%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 51.4 / 100
+## Composite Transparency Score: 48.7 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 0.8 | 25% |
-| Asset Growth | 50.0 | 15% |
-| Criminal Record | 80.0 | 15% |
+| Asset Growth | 45.0 | 15% |
+| Criminal Record | 70.0 | 15% |
 | Parliament Attendance | 100.0 | 10% |
 | Questions & Debates | 60.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
@@ -28,24 +26,28 @@
 ## Criminal Record
 
 - **Total Cases:** 2
-- **Serious Cases:** 0
+- **Serious Cases:** 1
 - **Convictions:** 0
 - **Pending Cases:** 2
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
+### Cases Detail
+
+1. Crime No.388/2022, P.S.-Sadar | ON Bail (Sections: 420, 465, 466, 467, 468, 471, 120B) [pending] **SERIOUS**
+2. 3583/2023, Fojdari Case NO.5/2022, P.S.-Gittikhadan | Section-145 Crpc,  Order Date-29/12/2023 (Sections: N/A) [pending] 
+
 ---
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 4.29 Crore
-- **Liabilities:** Rs 1.62 Crore
-- **Net Worth:** Rs 2.67 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 34% of Lok Sabha MPs
 
 ---
 
@@ -71,35 +73,45 @@
 
 ## In The News
 
-*Mixed/neutral coverage (6 articles)*
+*Mixed/neutral coverage (4 articles)*
 
-- **Total Articles:** 6
-- **Positive:** 0 | **Negative:** 0 | **Neutral:** 6
+- **Total Articles:** 4
+- **Positive:** 0 | **Negative:** 0 | **Neutral:** 4
 
 - Ramtek’s women & farmers booted out Mahayuti: Barve - The Times of India (The Times of India) [neutral]
-- Ramtek Election Result 2024 LIVE Updates Highlights: Shyamkumar Daulat Barve of INC Wins - News18 (News18) [neutral]
 - Ramtek (SC) seat: Congress candidate loses validity of caste certificate, husband likely to be official candidate - The Indian Express (The Indian Express) [neutral]
 - Maharashtra Lok Sabha 2024 Winner Candidates List: Check who's leading your constituency here - CNBC TV18 (CNBC TV18) [neutral]
 - Ramtek Election Result 2024 - Parliamentary Constituency Map and Winning MP - Maps of India (Maps of India) [neutral]
 
 ---
 
+## News & Allegations
+
+- ! **Ramtek’s women & farmers booted out Mahayuti: Barve - The Times of India** (The Times of India)
+- ! **Ramtek (SC) seat: Congress candidate loses validity of caste certificate, husband likely to be official candidate - The Indian Express** (The Indian Express)
+- ! **Maharashtra Lok Sabha 2024 Winner Candidates List: Check who's leading your constituency here - CNBC TV18** (CNBC TV18)
+- ! **Ramtek Election Result 2024 - Parliamentary Constituency Map and Winning MP - Maps of India** (Maps of India)
+
+---
+
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
 - [!] **mplads**: Extremely low utilization rate — verify data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Maharashtra: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Shyamkumar Daulat Barve shows moderate transparency with a score of 51.4/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Shyamkumar Daulat Barve has a below-average transparency score of 48.7/100, indicating significant room for improvement. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-Has 2 criminal case(s) (0 serious), 2 pending, 0 conviction(s). Declared assets: Rs 42,894,953. MPLADS utilization: 1.0%. Parliament attendance: 100.0%. Questions asked: 43. Debates participated: 3. 1 warning(s) noted.
+Has 2 criminal case(s) (1 serious), 2 pending, 0 conviction(s). MPLADS utilization: 1.0%. Parliament attendance: 100.0%. Questions asked: 43. Debates participated: 3. Low confidence data: Assets. 2 warning(s) noted.
 
 ---
 
@@ -139,7 +151,7 @@ Has 2 criminal case(s) (0 serious), 2 pending, 0 conviction(s). Declared assets:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -237,12 +249,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

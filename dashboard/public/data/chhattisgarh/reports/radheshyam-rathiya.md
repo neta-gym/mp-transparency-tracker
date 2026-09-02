@@ -4,17 +4,17 @@
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Third-party (C)
+**Data Confidence:** Low (27%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 60.7 / 100
+## Composite Transparency Score: 47.4 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 39.6 | 25% |
-| Asset Growth | 60.0 | 15% |
-| Criminal Record | 100.0 | 15% |
+| Asset Growth | 45.0 | 15% |
+| Criminal Record | 45.0 | 15% |
 | Parliament Attendance | 80.0 | 10% |
 | Questions & Debates | 50.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
@@ -36,14 +36,13 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 1.07 Crore
-- **Liabilities:** Rs 1.25 Lakh
-- **Net Worth:** Rs 1.05 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 9% of Lok Sabha MPs
 
 ---
 
@@ -69,34 +68,47 @@
 
 ## In The News
 
-*Mixed/neutral coverage (8 articles)*
+*Mixed/neutral coverage (7 articles)*
 
-- **Total Articles:** 8
-- **Positive:** 0 | **Negative:** 0 | **Neutral:** 8
+- **Total Articles:** 7
+- **Positive:** 0 | **Negative:** 0 | **Neutral:** 7
 
-- Raigarh (ST) Chhattisgarh Bharatiya Janata Party - The Times of India (The Times of India) [neutral]
-- Raigarh lok sabha election results 2024: Raigarh Winning Candidates List and Vote Share - India Today (India Today) [neutral]
+- Raigarh - Bharatiya Janata Party (Bharatiya Janata Party) [neutral]
+- Chhattisgarh key seats: BJP fields Rathiya from CM Sai’s home turf Raigarh - ThePrint (ThePrint) [neutral]
 - After sister's win 33 years ago, Gond royal in Chhattisgarh aims to reclaim lost bastion - The Hindu (The Hindu) [neutral]
-- Chhattisgarh begins Ready-to-Eat food initiative with women SHGs, CM Sai launches program in Raigarh - Editorji (Editorji) [neutral]
-- Radheshyam Rathia: Age, Biography, Education, Wife, Caste, Net Worth & More - Oneindia (Oneindia) [neutral]
+- Parliament Of India : Lok Sabha Member Of Parliament - R - Sarkaritel.com (Sarkaritel.com) [neutral]
+- LS Polls 2024: BJP Fields Cong Turncoat Chintamani Maharaj In C’garh, Drops 4 Sitting MPs - ABP Live English (ABP Live English) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Raigarh - Bharatiya Janata Party** (Bharatiya Janata Party)
+- ! **Chhattisgarh key seats: BJP fields Rathiya from CM Sai’s home turf Raigarh - ThePrint** (ThePrint)
+- ! **After sister's win 33 years ago, Gond royal in Chhattisgarh aims to reclaim lost bastion - The Hindu** (The Hindu)
+- ! **Parliament Of India : Lok Sabha Member Of Parliament - R - Sarkaritel.com** (Sarkaritel.com)
+- ! **LS Polls 2024: BJP Fields Cong Turncoat Chintamani Maharaj In C’garh, Drops 4 Sitting MPs - ABP Live English** (ABP Live English)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
+- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Chhattisgarh: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Radheshyam Rathiya shows moderate transparency with a score of 60.7/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
+Radheshyam Rathiya has a below-average transparency score of 47.4/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Data confidence is low — scores should be interpreted with caution.
 
 ---
 
-No criminal cases declared. Declared assets: Rs 10,650,781. MPLADS utilization: 49.5%. Parliament attendance: 80.0%. Questions asked: 17. Debates participated: 3.
+No criminal cases declared. MPLADS utilization: 49.5%. Parliament attendance: 80.0%. Questions asked: 17. Debates participated: 3. Low confidence data: Criminal record, Assets. 2 warning(s) noted.
 
 ---
 
@@ -136,7 +148,7 @@ No criminal cases declared. Declared assets: Rs 10,650,781. MPLADS utilization: 
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -234,10 +246,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

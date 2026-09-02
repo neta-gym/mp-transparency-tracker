@@ -3,24 +3,22 @@
 **Constituency:** Bhind, Madhya Pradesh
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 50
-**Education:** Post Graduate
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (44%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 55.5 / 100
+## Composite Transparency Score: 56.5 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 13.7 | 25% |
-| Asset Growth | 55.0 | 15% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 85.0 | 10% |
 | Questions & Debates | 50.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
-| Public Accessibility | 15.0 | 5% |
+| Public Accessibility | 65.0 | 5% |
 | Legislative Effectiveness | 40.0 | 10% |
 
 ---
@@ -38,14 +36,13 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 9.68 Crore
-- **Liabilities:** Rs 1.14 Crore
-- **Net Worth:** Rs 8.54 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 57% of Lok Sabha MPs
 
 ---
 
@@ -69,6 +66,18 @@
 
 ---
 
+## Public Accessibility
+
+- **Platforms:** 2
+
+
+| Platform | Handle | Verified | Active |
+|----------|--------|----------|--------|
+| Twitter | [@http://www.twitter.com/@Rayshandhya](https://x.com/http://www.twitter.com/@Rayshandhya) | No | Yes |
+| Facebook | [@http://www.facebook.com/sandhyasumanray](https://facebook.com/http://www.facebook.com/sandhyasumanray) | No | Yes |
+
+---
+
 ## In The News
 
 *Mixed/neutral coverage (10 articles)*
@@ -76,29 +85,41 @@
 - **Total Articles:** 10
 - **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
 
+- Sandhya Rai likely to enter Modi cabinet: Move seen to appeal UP Jatav vote bank; Tarun Chugh also set for ... - Bhaskar English (Bhaskar English) [neutral]
 - 50 villages in Bhind face displacement crisis: Sand mafia alters Sindh River’s course, widening its banks - Bhaskar English (Bhaskar English) [neutral]
-- Bhind Election Result 2024 - Parliamentary Constituency Map and Winning MP - Maps of India (Maps of India) [neutral]
-- How Sandhya Ray Became The First Female MP From Bhind in Madhya Pradesh - Feminism in India (Feminism in India) [neutral]
-- Bhind (SC) Madhya Pradesh Bharatiya Janata Party - The Times of India (The Times of India) [neutral]
-- Bhind Lok Sabha Election 2024: BJP fields Sandhya Ray against Congress' Phool Singh Baraiya - India TV News (India TV News) [neutral]
+- Bhind (SC) Madhya Pradesh Bharatiya Janata Party - timesofindia.indiatimes.com (timesofindia.indiatimes.com) [neutral]
+- 6 BJP women candidates elected as Lok Sabha members from MP for the first time in history - The Statesman (The Statesman) [neutral]
+- Parliament Of India : Lok Sabha Member Of Parliament - R - sarkaritel.com (sarkaritel.com) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Sandhya Rai likely to enter Modi cabinet: Move seen to appeal UP Jatav vote bank; Tarun Chugh also set for ... - Bhaskar English** (Bhaskar English)
+- ! **50 villages in Bhind face displacement crisis: Sand mafia alters Sindh River’s course, widening its banks - Bhaskar English** (Bhaskar English)
+- ! **Bhind (SC) Madhya Pradesh Bharatiya Janata Party - timesofindia.indiatimes.com** (timesofindia.indiatimes.com)
+- ! **6 BJP women candidates elected as Lok Sabha members from MP for the first time in history - The Statesman** (The Statesman)
+- ! **Parliament Of India : Lok Sabha Member Of Parliament - R - sarkaritel.com** (sarkaritel.com)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Madhya Pradesh: 8 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Sandhya Ray shows moderate transparency with a score of 55.5/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
+Sandhya Ray shows moderate transparency with a score of 56.5/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
 
 ---
 
-No criminal cases declared. Declared assets: Rs 96,772,861. MPLADS utilization: 17.1%. Parliament attendance: 85.0%. Questions asked: 22. Debates participated: 4.
+No criminal cases declared. MPLADS utilization: 17.1%. Parliament attendance: 85.0%. Questions asked: 22. Debates participated: 4. Low confidence data: Assets. 1 warning(s) noted.
 
 ---
 
@@ -138,7 +159,7 @@ No criminal cases declared. Declared assets: Rs 96,772,861. MPLADS utilization: 
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -236,12 +257,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

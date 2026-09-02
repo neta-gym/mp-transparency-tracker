@@ -4,17 +4,17 @@
 **Party:** Independent
 **House:** Lok Sabha (18th Parliament, 2024-present)
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Third-party (C)
+**Data Confidence:** Low (27%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 41.2 / 100
+## Composite Transparency Score: 46.7 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 6.0 | 25% |
-| Asset Growth | 55.0 | 15% |
-| Criminal Record | 10.0 | 15% |
+| Asset Growth | 45.0 | 15% |
+| Criminal Record | 45.0 | 15% |
 | Parliament Attendance | 100.0 | 10% |
 | Questions & Debates | 80.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
@@ -25,10 +25,10 @@
 
 ## Criminal Record
 
-- **Total Cases:** 9
+- **Total Cases:** 0
 - **Serious Cases:** 0
 - **Convictions:** 0
-- **Pending Cases:** 9
+- **Pending Cases:** 0
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
@@ -36,14 +36,13 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 29.91 Crore
-- **Liabilities:** Rs 8.27 Crore
-- **Net Worth:** Rs 21.64 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 78% of Lok Sabha MPs
 
 ---
 
@@ -69,35 +68,48 @@
 
 ## In The News
 
-*Mixed/neutral coverage (9 articles)*
+*Mixed/neutral coverage (7 articles)*
 
-- **Total Articles:** 9
-- **Positive:** 0 | **Negative:** 0 | **Neutral:** 9
+- **Total Articles:** 7
+- **Positive:** 0 | **Negative:** 0 | **Neutral:** 7
 
 - Sangli election results 2024 live updates: Independent Vishal Prakashbapu Patil wins - The Times of India (The Times of India) [neutral]
-- Political Profile of Vishal (dada) Prakashbapu Patil, Ind Party, Sangli, and Net Worth - India TV News (India TV News) [neutral]
 - Independent MP Elect Vishal Patil Extends Unconditional Support to Congress - TheWire.in (TheWire.in) [neutral]
-- Sangli Election Result 2024 LIVE Updates Highlights: Independent Candidate Vishal (Dada) Prakashbapu Patil - News18 (News18) [neutral]
-- Parliament of India : Lok Sabha Member of Parliament – P - Sarkaritel.com (Sarkaritel.com) [neutral]
+- Independents who are close to Lok Sabha electoral victory - The Hindu (The Hindu) [neutral]
+- Parliament Of India : Lok Sabha Member Of Parliament – P - Sarkaritel.com (Sarkaritel.com) [neutral]
+- Lok Sabha elections 2024: Here are the 7 Independents who have won - opindia.com (opindia.com) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Sangli election results 2024 live updates: Independent Vishal Prakashbapu Patil wins - The Times of India** (The Times of India)
+- ! **Independent MP Elect Vishal Patil Extends Unconditional Support to Congress - TheWire.in** (TheWire.in)
+- ! **Independents who are close to Lok Sabha electoral victory - The Hindu** (The Hindu)
+- ! **Parliament Of India : Lok Sabha Member Of Parliament – P - Sarkaritel.com** (Sarkaritel.com)
+- ! **Lok Sabha elections 2024: Here are the 7 Independents who have won - opindia.com** (opindia.com)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
+- [!] **assets**: Low confidence in asset data
 - [!] **mplads**: Extremely low utilization rate — verify data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Maharashtra: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Vishaldada Prakashbapu Patil has a below-average transparency score of 41.2/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Vishaldada Prakashbapu Patil has a below-average transparency score of 46.7/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates. Data confidence is low — scores should be interpreted with caution.
 
 ---
 
-Has 9 criminal case(s) (0 serious), 9 pending, 0 conviction(s). Declared assets: Rs 299,065,726. MPLADS utilization: 7.5%. Parliament attendance: 100.0%. Questions asked: 43. Debates participated: 25. 1 warning(s) noted.
+No criminal cases declared. MPLADS utilization: 7.5%. Parliament attendance: 100.0%. Questions asked: 43. Debates participated: 25. Low confidence data: Criminal record, Assets. 3 warning(s) noted.
 
 ---
 
@@ -137,7 +149,7 @@ Has 9 criminal case(s) (0 serious), 9 pending, 0 conviction(s). Declared assets:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -235,10 +247,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

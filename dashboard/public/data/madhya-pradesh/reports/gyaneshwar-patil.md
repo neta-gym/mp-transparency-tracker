@@ -3,19 +3,17 @@
 **Constituency:** Khandwa, Madhya Pradesh
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 55
-**Education:** 12th Pass
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (39%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 61.6 / 100
+## Composite Transparency Score: 59.3 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 45.5 | 25% |
-| Asset Growth | 60.0 | 15% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 90.0 | 15% |
 | Parliament Attendance | 85.0 | 10% |
 | Questions & Debates | 60.0 | 10% |
@@ -34,18 +32,21 @@
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
+### Cases Detail
+
+1. 7/2020 P.S Thana City  Kotwali District Burhanpur M.P. (Sections: 188) [pending] 
+
 ---
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 7.22 Crore
-- **Liabilities:** Rs 54.46 Lakh
-- **Net Worth:** Rs 6.68 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 50% of Lok Sabha MPs
 
 ---
 
@@ -76,29 +77,41 @@
 - **Total Articles:** 10
 - **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
 
-- Younger brother of Khandwa MP dies by suicide - The Times of India (The Times of India) [neutral]
-- Body of younger brother of Khandwa MP found in village well in Madhya Pradesh - ThePrint (ThePrint) [neutral]
-- Public must act to ensure water is clean: BJP MP - The Times of India (The Times of India) [neutral]
-- Vehicle carrying pilgrims from MP rams into truck in Andhra: 4 dead, five injured; were en route from Puri ... - Bhaskar English (Bhaskar English) [neutral]
+- BJP MP Says Clean Water 'People's Responsibility' Amid Row Over Indore Deaths - NDTV (NDTV) [neutral]
 - MP High Court Issues Notice On Congress Leader's Plea Challenging Election Of BJP's Khandwa MP Gyaneshwar ... - Live Law (Live Law) [neutral]
+- Will take work done by government to lowest strata of society: BJP's Gyaneshwar Patil - ANI News (ANI News) [neutral]
+- Vehicle carrying pilgrims from MP rams into truck in Andhra: 4 dead, five injured; were en route from Puri ... - Bhaskar English (Bhaskar English) [neutral]
+- Khandwa MP Gyaneshwar Patil’s Brother Found Dead In Well In Burhanpur - freepressjournal.in (freepressjournal.in) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **BJP MP Says Clean Water 'People's Responsibility' Amid Row Over Indore Deaths - NDTV** (NDTV)
+- ! **MP High Court Issues Notice On Congress Leader's Plea Challenging Election Of BJP's Khandwa MP Gyaneshwar ... - Live Law** (Live Law)
+- ! **Will take work done by government to lowest strata of society: BJP's Gyaneshwar Patil - ANI News** (ANI News)
+- ! **Vehicle carrying pilgrims from MP rams into truck in Andhra: 4 dead, five injured; were en route from Puri ... - Bhaskar English** (Bhaskar English)
+- ! **Khandwa MP Gyaneshwar Patil’s Brother Found Dead In Well In Burhanpur - freepressjournal.in** (freepressjournal.in)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Madhya Pradesh: 8 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Gyaneshwar Patil shows moderate transparency with a score of 61.6/100. Minor criminal cases on record. High parliament attendance. Active in questions and debates.
+Gyaneshwar Patil shows moderate transparency with a score of 59.3/100. Minor criminal cases on record. High parliament attendance. Active in questions and debates.
 
 ---
 
-Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Declared assets: Rs 72,237,099. MPLADS utilization: 53.7%. Parliament attendance: 85.0%. Questions asked: 48. Debates participated: 2.
+Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). MPLADS utilization: 53.7%. Parliament attendance: 85.0%. Questions asked: 48. Debates participated: 2. Low confidence data: Assets. 1 warning(s) noted.
 
 ---
 
@@ -138,7 +151,7 @@ Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Declared assets:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -236,12 +249,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

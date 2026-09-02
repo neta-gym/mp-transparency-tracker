@@ -3,19 +3,17 @@
 **Constituency:** Nandyal, Andhra Pradesh
 **Party:** Telugu Desam Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 40
-**Education:** Post Graduate
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (39%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 52.5 / 100
+## Composite Transparency Score: 51.0 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 17.4 | 25% |
-| Asset Growth | 55.0 | 15% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 80.0 | 15% |
 | Parliament Attendance | 80.0 | 10% |
 | Questions & Debates | 60.0 | 10% |
@@ -34,18 +32,22 @@
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
+### Cases Detail
+
+1. 40/2021 Muchumarri Police Station, Muchumarri Village, Circle of Nandikotkur Rural Police Station | Section 3(1)(r), 3(1), (s), 3(2)(va), SC/ST POA Act. (Sections: 147, 323, 506, 149) [pending] 
+2. 251/2020 of Kothapalle Police Station, Kothapalle Mandal | Section 151 Cr.P.C. (Sections: N/A) [pending] 
+
 ---
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 14.76 Crore
-- **Liabilities:** Rs 3.20 Crore
-- **Net Worth:** Rs 11.56 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 66% of Lok Sabha MPs
 
 ---
 
@@ -76,29 +78,41 @@
 - **Total Articles:** 10
 - **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
 
-- MP Shabari appeals to Chief Minister to release funds for land acquisition - The Hindu (The Hindu) [neutral]
+- Nandyal MP highlights government’s timely distribution of pension to beneficiaries - The Hindu (The Hindu) [neutral]
 - TDP MP Byreddy Shabari﻿ appointed party’s first woman general secretary - The News Minute (The News Minute) [neutral]
-- Nandyal MP assures TDP support towards Dalits, Christians - The Hindu (The Hindu) [neutral]
 - Nandyal MP Terms Transgender Bill a Historic Step - Deccan Chronicle (Deccan Chronicle) [neutral]
-- Andhra Pradesh Women Are Ready To Lead India: TDP MP Byreddy Shabari - ETV Bharat (ETV Bharat) [neutral]
+- MP thanks Centre for new ESIC office in Nandyal, calls for swift appointment of staff - The Hindu (The Hindu) [neutral]
+- Lokesh established himself as a supporter of women’s cause, says MP Shabari - The Hindu (The Hindu) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Nandyal MP highlights government’s timely distribution of pension to beneficiaries - The Hindu** (The Hindu)
+- ! **TDP MP Byreddy Shabari﻿ appointed party’s first woman general secretary - The News Minute** (The News Minute)
+- ! **Nandyal MP Terms Transgender Bill a Historic Step - Deccan Chronicle** (Deccan Chronicle)
+- ! **MP thanks Centre for new ESIC office in Nandyal, calls for swift appointment of staff - The Hindu** (The Hindu)
+- ! **Lokesh established himself as a supporter of women’s cause, says MP Shabari - The Hindu** (The Hindu)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Andhra Pradesh: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Byreddy Shabari shows moderate transparency with a score of 52.5/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Byreddy Shabari shows moderate transparency with a score of 51.0/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-Has 2 criminal case(s) (0 serious), 2 pending, 0 conviction(s). Declared assets: Rs 147,631,050. MPLADS utilization: 21.7%. Parliament attendance: 80.0%. Questions asked: 47. Debates participated: 3.
+Has 2 criminal case(s) (0 serious), 2 pending, 0 conviction(s). MPLADS utilization: 21.7%. Parliament attendance: 80.0%. Questions asked: 47. Debates participated: 3. Low confidence data: Assets. 1 warning(s) noted.
 
 ---
 
@@ -138,7 +152,7 @@ Has 2 criminal case(s) (0 serious), 2 pending, 0 conviction(s). Declared assets:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -236,12 +250,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

@@ -3,24 +3,22 @@
 **Constituency:** Bansgaon, Uttar Pradesh
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 47
-**Education:** Graduate
 **Report Date:** 2026-09-02
-**Data Confidence:** Low (42%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (39%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 30.6 / 100
+## Composite Transparency Score: 27.8 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 1.7 | 25% |
-| Asset Growth | 60.0 | 15% |
-| Criminal Record | 10.0 | 15% |
+| Asset Growth | 45.0 | 15% |
+| Criminal Record | 0.0 | 15% |
 | Parliament Attendance | 50.0 | 10% |
 | Questions & Debates | 50.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
-| Public Accessibility | 15.0 | 5% |
+| Public Accessibility | 45.0 | 5% |
 | Legislative Effectiveness | 40.0 | 10% |
 
 ---
@@ -28,11 +26,23 @@
 ## Criminal Record
 
 - **Total Cases:** 9
-- **Serious Cases:** 0
-- **Convictions:** 0
-- **Pending Cases:** 9
+- **Serious Cases:** 4
+- **Convictions:** 2
+- **Pending Cases:** 7
 - **Disposed Cases:** 0
 - **Data Source:** myneta
+
+### Cases Detail
+
+1. Police Station Gulriha CC. No.- 001/2011 | Section 7 CLA  Act (Sections: 147, 148, 149, 323, 332, 341, 353, 394, 427, 504, 506) [pending] 
+2. Police Satation Cantt CC.No.- 1041/2018, (Sections: 120B, 419, 420, 467, 468, 471) [pending] **SERIOUS**
+3. Police Satation Cantt CC. No. - 292/2014 (Sections: 171F, 188) [pending] 
+4. Police Station Gulriha CC. No.- 1032/2008 | Sectoin 26 Child Labor Prohibition Act (Sections: 304A, 420, 506) [pending] **SERIOUS**
+5. Police Satation Cantt CC. No. -  149/2016 | Sectioin 7 CLA Act (Sections: 147, 148, 149, 323, 342, 427, 447, 504, 506) [pending] 
+6. Police Satation Cantt CC. No. - 286/2020 (Sections: 147, 323, 352, 395, 504, 506) [pending] **SERIOUS**
+7. Police Satation Cantt CC. No. - 059/2016 (Sections: 342, 364, 365, 419, 420, 467, 468, 471, 504, 506) [pending] **SERIOUS**
+8. Sectioin 7 CLA Act, Gulriha Police Station (Sections: 147, 341, 435, 511) [convicted] 
+9. Section -147, 174 Railway Act, Police Station RPF (Sections: N/A) [convicted] 
 
 ---
 
@@ -40,12 +50,11 @@
 
 - **Movable Assets:** N/A
 - **Immovable Assets:** N/A
-- **Total Assets:** Rs 36.18 Crore
-- **Liabilities:** Rs 3.53 Crore
-- **Net Worth:** Rs 32.65 Crore
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 80% of Lok Sabha MPs
 
 ---
 
@@ -69,6 +78,17 @@
 
 ---
 
+## Public Accessibility
+
+- **Platforms:** 1
+
+
+| Platform | Handle | Verified | Active |
+|----------|--------|----------|--------|
+| Facebook | [@http://www.facebook.com/Kamlesh Paswan](https://facebook.com/http://www.facebook.com/Kamlesh Paswan) | No | Yes |
+
+---
+
 ## In The News
 
 *Mixed/neutral coverage (10 articles)*
@@ -78,29 +98,41 @@
 
 - Four-time Lok Sabha MP Kamlesh Paswan takes oath as Minister of State - India Today (India Today) [neutral]
 - PM Modi 3.0 council of ministers: Who is Kamlesh Paswan - The Times of India (The Times of India) [neutral]
-- Bansgaon Lok Sabha Election Results 2019 UP: BJP's Kamlesh Paswan wins by 1,53,468 votes - DNA India (DNA India) [neutral]
-- Political Profile of Kamlesh Paswan, Bjp Party, Bansgaon, and Net Worth - India TV News (India TV News) [neutral]
+- Kamlesh Paswan receives grand welcome on arrival at his Bansgaon constituency after become MoS - ANI News (ANI News) [neutral]
+- Bansgaon Lok Sabha Election 2024: BJP Aims For Historic Fourth Term For Kamlesh Paswan - News18 (News18) [neutral]
 - Riots Case| 'Will Cast A Stigma On His Political Career': Allahabad HC Grants Bail To BJP MP Kamlesh... - Live Law (Live Law) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Four-time Lok Sabha MP Kamlesh Paswan takes oath as Minister of State - India Today** (India Today)
+- ! **PM Modi 3.0 council of ministers: Who is Kamlesh Paswan - The Times of India** (The Times of India)
+- ! **Kamlesh Paswan receives grand welcome on arrival at his Bansgaon constituency after become MoS - ANI News** (ANI News)
+- ! **Bansgaon Lok Sabha Election 2024: BJP Aims For Historic Fourth Term For Kamlesh Paswan - News18** (News18)
+- ! **Riots Case| 'Will Cast A Stigma On His Political Career': Allahabad HC Grants Bail To BJP MP Kamlesh... - Live Law** (Live Law)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
 - [!] **mplads**: Extremely low utilization rate — verify data
 - [!] **parliament_activity**: Low confidence in parliament activity data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Uttar Pradesh: 8 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Kamlesh Paswan has a below-average transparency score of 30.6/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention.
+Kamlesh Paswan has a below-average transparency score of 27.8/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention.
 
 ---
 
-Has 9 criminal case(s) (0 serious), 9 pending, 0 conviction(s). Declared assets: Rs 361,830,259. MPLADS utilization: 2.2%. Low confidence data: Parliament activity. 2 warning(s) noted.
+Has 9 criminal case(s) (4 serious), 7 pending, 2 conviction(s). MPLADS utilization: 2.2%. Low confidence data: Assets, Parliament activity. 3 warning(s) noted.
 
 ---
 
@@ -140,7 +172,7 @@ Has 9 criminal case(s) (0 serious), 9 pending, 0 conviction(s). Declared assets:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -238,12 +270,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

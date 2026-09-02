@@ -4,11 +4,11 @@
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
 **Report Date:** 2026-09-02
-**Data Confidence:** Low (14%) | **Evidence Grade:** Secondary (D)
+**Data Confidence:** Low (21%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 51.5 / 100
+## Composite Transparency Score: 54.0 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -18,7 +18,7 @@
 | Parliament Attendance | 100.0 | 10% |
 | Questions & Debates | 60.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
-| Public Accessibility | 15.0 | 5% |
+| Public Accessibility | 65.0 | 5% |
 | Legislative Effectiveness | 40.0 | 10% |
 
 ---
@@ -66,6 +66,18 @@
 
 ---
 
+## Public Accessibility
+
+- **Platforms:** 2
+
+
+| Platform | Handle | Verified | Active |
+|----------|--------|----------|--------|
+| Facebook | [@facebook.com/cmrameshoffl](https://facebook.com/facebook.com/cmrameshoffl) | No | Yes |
+| Instagram | [@instagram.com/cmramesh_mp](https://instagram.com/instagram.com/cmramesh_mp) | No | Yes |
+
+---
+
 ## In The News
 
 *Mixed/neutral coverage (10 articles)*
@@ -73,11 +85,21 @@
 - **Total Articles:** 10
 - **Positive:** 3 | **Negative:** 0 | **Neutral:** 7
 
-- Payyavula attacks Jagan over alleged criminal and factional politics legacy - The New Indian Express (The New Indian Express) [neutral]
+- ‘Addamla Cheyana’ Song from “Chakkora – Lunar Love Bird” - industryhit.com (industryhit.com) [neutral]
 - Anakapalli MP-elect C.M. Ramesh promises to work for the development of Visakhapatnam - The Hindu (The Hindu) [positive]
 - Anakapalle MP candidate CM Ramesh says exit polls predicts victory of NDA in Andhra Pradesh and Country - The Times of India (The Times of India) [neutral]
-- Andhra Pradesh BJP MP Ramesh’s entry makes Anakapalle contest intense - The New Indian Express (The New Indian Express) [neutral]
+- BJP MP Ramesh refutes KTR’s charges; alleges BRS sought BJP help to shield Kavitha - The New Indian Express (The New Indian Express) [neutral]
 - GVMC Allocates ₹ 1.32 Crore For Development Works In Anakapalle - Deccan Chronicle (Deccan Chronicle) [positive]
+
+---
+
+## News & Allegations
+
+- ! **‘Addamla Cheyana’ Song from “Chakkora – Lunar Love Bird” - industryhit.com** (industryhit.com)
+- ! **Anakapalli MP-elect C.M. Ramesh promises to work for the development of Visakhapatnam - The Hindu** (The Hindu)
+- ! **Anakapalle MP candidate CM Ramesh says exit polls predicts victory of NDA in Andhra Pradesh and Country - The Times of India** (The Times of India)
+- ! **BJP MP Ramesh refutes KTR’s charges; alleges BRS sought BJP help to shield Kavitha - The New Indian Express** (The New Indian Express)
+- ! **GVMC Allocates ₹ 1.32 Crore For Development Works In Anakapalle - Deccan Chronicle** (Deccan Chronicle)
 
 ---
 
@@ -95,7 +117,7 @@
 
 ## Qualitative Assessment
 
-C M Ramesh shows moderate transparency with a score of 51.5/100. Significant criminal cases are a concern. High parliament attendance. Active in questions and debates. Data confidence is low — scores should be interpreted with caution.
+C M Ramesh shows moderate transparency with a score of 54.0/100. Significant criminal cases are a concern. High parliament attendance. Active in questions and debates. Data confidence is low — scores should be interpreted with caution.
 
 ---
 
@@ -139,7 +161,7 @@ No criminal cases declared. Parliament attendance: 100.0%. Questions asked: 34. 
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -241,5 +263,5 @@ Time limit: PIO must respond within 30 days of receipt.
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

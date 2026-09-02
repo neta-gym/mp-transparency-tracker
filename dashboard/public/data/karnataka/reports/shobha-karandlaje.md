@@ -3,19 +3,17 @@
 **Constituency:** Bangalore North, Karnataka
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 57
-**Education:** Post Graduate
 **Report Date:** 2026-09-02
-**Data Confidence:** Low (43%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (31%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 41.2 / 100
+## Composite Transparency Score: 39.7 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 18.7 | 25% |
-| Asset Growth | 55.0 | 15% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 50.0 | 15% |
 | Parliament Attendance | 50.0 | 10% |
 | Questions & Debates | 50.0 | 10% |
@@ -34,18 +32,30 @@
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
+### Cases Detail
+
+1. CR No. 45/2024
+of Cottenpet Police Station Bangalore | Sec. 123(3), 123(3A), 125 of RP Act (Sections: N/A) [pending] 
+2. CR No. 24/2024 
+of Madhurai City Cyber Crime Police Station (Sections: 153, 153A, 505, (1) (B), 505 (2)) [pending] 
+3. CR No.The Complainant has filed private complaint  before the court hence there is no FIR number (Sections: 499, 500) [pending] 
+4. CR No. 33/2020
+Kuttipuram Police Station Malappuram
+District, Kerala State (Sections: 153A, 34) [pending] 
+5. Complaint filed by ED under PML Act before the Hon;ble Designated
+Court Culminated into Spl C.No.124/2014 | Sec 45 (1) of PMLA Act read with section 200 of Crpc for offence under section 3 and 4 prevention of Money Laundering Act. (Sections: N/A) [pending] 
+
 ---
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 13.89 Crore
-- **Liabilities:** Rs 4.06 Crore
-- **Net Worth:** Rs 9.83 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 64% of Lok Sabha MPs
 
 ---
 
@@ -74,32 +84,44 @@
 *Mixed/neutral coverage (10 articles)*
 
 - **Total Articles:** 10
-- **Positive:** 0 | **Negative:** 1 | **Neutral:** 9
+- **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
 
-- Karnataka BJP chief Vijayendra praises 33% reservation for women - The New Indian Express (The New Indian Express) [neutral]
-- Shobha Karandlaje smells a scam in GBA's Rs 613-crore plan to rent 46 sweeping machines for Bengaluru - Dailyhunt (Dailyhunt) [negative]
-- Tejasvi Surya’s remarks not intended to hurt people: Union Minister - The Hans India (The Hans India) [neutral]
-- "Participate in the Olympic Games to be hosted by India in 2036": Sushri Shobha Karandlaje - PIB (PIB) [neutral]
-- Shobha Karandlaje and Bangalore North Set a New Standard Sansad Khel Mahotsav 2025 Concludes with Grand Success - ANI News (ANI News) [neutral]
+- MoS Shobha writes to Shah over Karnataka’s PRC, claims it aims to protect illegal immigrants - The New Indian Express (The New Indian Express) [neutral]
+- Karnataka HC Quashes Sowmya Reddy's Defamation Case Against Shobha Karandlaje - Deccan Chronicle (Deccan Chronicle) [neutral]
+- Karnataka: Shobha Karandlaje urges Amit Shah to halt PRC of Congress govt; Cites illegal Bangladeshi immigration - organiser.org (organiser.org) [neutral]
+- Minister Shobha Karandlaje demands ECI probe into SIR ‘scam’ - The New Indian Express (The New Indian Express) [neutral]
+- Shobha Karandlaje hails Karnataka High Court ruling on Hebbal land - Deccan Herald (Deccan Herald) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **MoS Shobha writes to Shah over Karnataka’s PRC, claims it aims to protect illegal immigrants - The New Indian Express** (The New Indian Express)
+- ! **Karnataka HC Quashes Sowmya Reddy's Defamation Case Against Shobha Karandlaje - Deccan Chronicle** (Deccan Chronicle)
+- ! **Karnataka: Shobha Karandlaje urges Amit Shah to halt PRC of Congress govt; Cites illegal Bangladeshi immigration - organiser.org** (organiser.org)
+- ! **Minister Shobha Karandlaje demands ECI probe into SIR ‘scam’ - The New Indian Express** (The New Indian Express)
+- ! **Shobha Karandlaje hails Karnataka High Court ruling on Hebbal land - Deccan Herald** (Deccan Herald)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
 - [!] **parliament_activity**: Low confidence in parliament activity data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Karnataka: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Shobha Karandlaje has a below-average transparency score of 41.2/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention.
+Shobha Karandlaje has a below-average transparency score of 39.7/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention.
 
 ---
 
-Has 5 criminal case(s) (0 serious), 5 pending, 0 conviction(s). Declared assets: Rs 138,866,909. MPLADS utilization: 23.4%. Low confidence data: Parliament activity. 1 warning(s) noted.
+Has 5 criminal case(s) (0 serious), 5 pending, 0 conviction(s). MPLADS utilization: 23.4%. Low confidence data: Assets, Parliament activity. 2 warning(s) noted.
 
 ---
 
@@ -139,7 +161,7 @@ Has 5 criminal case(s) (0 serious), 5 pending, 0 conviction(s). Declared assets:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -237,12 +259,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

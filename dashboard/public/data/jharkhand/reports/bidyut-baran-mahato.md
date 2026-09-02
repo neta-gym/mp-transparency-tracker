@@ -3,19 +3,17 @@
 **Constituency:** Jamshedpur, Jharkhand
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 61
-**Education:** 12th Pass
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (39%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 64.0 / 100
+## Composite Transparency Score: 62.5 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 40.0 | 25% |
-| Asset Growth | 55.0 | 15% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 90.0 | 15% |
 | Parliament Attendance | 100.0 | 10% |
 | Questions & Debates | 80.0 | 10% |
@@ -34,18 +32,21 @@
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
+### Cases Detail
+
+1. 03/22, Dated 06.01.2022, Sakchi Police Station, Jamshedpur, East Singhbhum (Sections: 188, 269, 270, 290) [pending] 
+
 ---
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 3.83 Crore
-- **Liabilities:** Rs 48.49 Lakh
-- **Net Worth:** Rs 3.35 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 31% of Lok Sabha MPs
 
 ---
 
@@ -76,29 +77,41 @@
 - **Total Articles:** 10
 - **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
 
-- Jamshedpur MP Urges Railway Minister to Tackle Chakradharpur Division Congestion - The Avenue Mail (The Avenue Mail) [neutral]
-- Jamshedpur MP Seeks Rs 4,820 Million Plan For Tatanagar Platforms - Construction World India (Construction World India) [neutral]
-- Jamshedpur MP Urges Union Minister to Reopen Higher Pension Portal for Tata Steel Retirees - The Avenue Mail (The Avenue Mail) [neutral]
-- Jamshedpur Airport Demand: Business Leaders Urge Union Aviation Minister & CM for Air Connectivity - The Times of India (The Times of India) [neutral]
-- BJP Jamshedpur Holds Strategy Meeting for Upcoming Programs - The Avenue Mail (The Avenue Mail) [neutral]
+- PM-VBRY benefits reach Jamshedpur - The Avenue Mail (The Avenue Mail) [neutral]
+- Jamshedpur MP Seeks Rs 4,820 Million Plan For Tatanagar Platforms - Construction World (Construction World) [neutral]
+- Jamshedpur BJP delegation flags crime, seeks review of cases against workers - The Avenue Mail (The Avenue Mail) [neutral]
+- MoS restarts Kendadih copper mines, launches concentrator plant expansion | Hindustan Times - Hindustan Times (Hindustan Times) [neutral]
+- BJP Jamshedpur Hosts Exhibition Showcasing India’s Digital and Cultural Transformation - The Avenue Mail (The Avenue Mail) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **PM-VBRY benefits reach Jamshedpur - The Avenue Mail** (The Avenue Mail)
+- ! **Jamshedpur MP Seeks Rs 4,820 Million Plan For Tatanagar Platforms - Construction World** (Construction World)
+- ! **Jamshedpur BJP delegation flags crime, seeks review of cases against workers - The Avenue Mail** (The Avenue Mail)
+- ! **MoS restarts Kendadih copper mines, launches concentrator plant expansion | Hindustan Times - Hindustan Times** (Hindustan Times)
+- ! **BJP Jamshedpur Hosts Exhibition Showcasing India’s Digital and Cultural Transformation - The Avenue Mail** (The Avenue Mail)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Jharkhand: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Bidyut Baran Mahato shows moderate transparency with a score of 64.0/100. Minor criminal cases on record. High parliament attendance. Active in questions and debates.
+Bidyut Baran Mahato shows moderate transparency with a score of 62.5/100. Minor criminal cases on record. High parliament attendance. Active in questions and debates.
 
 ---
 
-Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Declared assets: Rs 38,345,063. MPLADS utilization: 50.0%. Parliament attendance: 100.0%. Questions asked: 71. Debates participated: 14.
+Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). MPLADS utilization: 50.0%. Parliament attendance: 100.0%. Questions asked: 71. Debates participated: 14. Low confidence data: Assets. 1 warning(s) noted.
 
 ---
 
@@ -138,7 +151,7 @@ Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Declared assets:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -236,12 +249,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

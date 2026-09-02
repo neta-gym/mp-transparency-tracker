@@ -44,7 +44,7 @@
 - **Net Worth:** Rs 456.94 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 98% of Lok Sabha MPs
+- **Wealth Percentile:** Wealthier than 96% of Lok Sabha MPs
 
 ---
 
@@ -116,7 +116,7 @@ Has 3 criminal case(s) (1 serious), 2 pending, 1 conviction(s). Declared assets:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,

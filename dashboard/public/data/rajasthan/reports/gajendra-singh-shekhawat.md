@@ -3,19 +3,17 @@
 **Constituency:** Jodhpur, Rajasthan
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 56
-**Education:** Post Graduate
 **Report Date:** 2026-09-02
-**Data Confidence:** Low (43%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (30%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 47.6 / 100
+## Composite Transparency Score: 46.1 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 0.3 | 25% |
-| Asset Growth | 55.0 | 15% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 50.0 | 10% |
 | Questions & Debates | 50.0 | 10% |
@@ -38,14 +36,13 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 19.30 Crore
-- **Liabilities:** Rs 1.99 Crore
-- **Net Worth:** Rs 17.32 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 71% of Lok Sabha MPs
 
 ---
 
@@ -74,33 +71,45 @@
 *Mixed/neutral coverage (10 articles)*
 
 - **Total Articles:** 10
-- **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
+- **Positive:** 2 | **Negative:** 0 | **Neutral:** 8
 
-- Bengal victory: Gajendra Shekhawat records 93 pc strike rate as BJP wins 26 of 28 seats in north - Cityairnews (Cityairnews) [neutral]
-- Jodhpur election results 2024 live updates: BJP's Gajendra Singh Shekhawat wins - The Times of India (The Times of India) [neutral]
-- Jodhpur Lok Sabha constituency: Electoral battle between BJP’s Gajendra Singh Shekhawat and Karan Singh Uchiyarda from Congress - The Indian Express (The Indian Express) [neutral]
-- Jodhpur Lok Sabha Elections 2024: Gajendra Singh Shekhawat eyes hat-trick, Congress fields Karan Uchiyarda - India TV News (India TV News) [neutral]
-- Jodhpur MP Gajendra Singh Shekhawat to be in Council of Ministers for 3rd time - Zee Business (Zee Business) [neutral]
+- UNITED NEWS OF INDIA - uniindia.com (uniindia.com) [neutral]
+- PM Modi inaugurates new Jodhpur airport terminal, launches Modified UDAN scheme - BusinessLine (BusinessLine) [positive]
+- Report card of 25 Rajasthan MPs: Receives ₹5 cr annually; most spend only a fraction; one spends nothing - Bhaskar English (Bhaskar English) [neutral]
+- PM Modi inaugurates new Jodhpur airport terminal, launches Rs 28,840 crore Modified UDAN Scheme - newindianexpress.com (newindianexpress.com) [positive]
+- Jodhpur election results 2024 live updates: BJP's Gajendra Singh Shekhawat wins - timesofindia.indiatimes.com (timesofindia.indiatimes.com) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **UNITED NEWS OF INDIA - uniindia.com** (uniindia.com)
+- ! **PM Modi inaugurates new Jodhpur airport terminal, launches Modified UDAN scheme - BusinessLine** (BusinessLine)
+- ! **Report card of 25 Rajasthan MPs: Receives ₹5 cr annually; most spend only a fraction; one spends nothing - Bhaskar English** (Bhaskar English)
+- ! **PM Modi inaugurates new Jodhpur airport terminal, launches Rs 28,840 crore Modified UDAN Scheme - newindianexpress.com** (newindianexpress.com)
+- ! **Jodhpur election results 2024 live updates: BJP's Gajendra Singh Shekhawat wins - timesofindia.indiatimes.com** (timesofindia.indiatimes.com)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
 - [!] **mplads**: Extremely low utilization rate — verify data
 - [!] **parliament_activity**: Low confidence in parliament activity data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Rajasthan: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Gajendra Singh Shekhawat has a below-average transparency score of 47.6/100, indicating significant room for improvement. No criminal cases declared. Low MPLADS fund utilization needs attention.
+Gajendra Singh Shekhawat has a below-average transparency score of 46.1/100, indicating significant room for improvement. No criminal cases declared. Low MPLADS fund utilization needs attention.
 
 ---
 
-No criminal cases declared. Declared assets: Rs 193,027,658. MPLADS utilization: 0.3%. Low confidence data: Parliament activity. 2 warning(s) noted.
+No criminal cases declared. MPLADS utilization: 0.3%. Low confidence data: Assets, Parliament activity. 3 warning(s) noted.
 
 ---
 
@@ -140,7 +149,7 @@ No criminal cases declared. Declared assets: Rs 193,027,658. MPLADS utilization:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -238,12 +247,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

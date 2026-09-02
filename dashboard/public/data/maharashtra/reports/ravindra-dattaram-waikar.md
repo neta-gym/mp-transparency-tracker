@@ -3,24 +3,22 @@
 **Constituency:** Mumbai North West, Maharashtra
 **Party:** Shiv Sena
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 65
-**Education:** Graduate
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (46%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 57.0 / 100
+## Composite Transparency Score: 56.3 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 21.3 | 25% |
-| Asset Growth | 60.0 | 15% |
-| Criminal Record | 70.0 | 15% |
+| Asset Growth | 45.0 | 15% |
+| Criminal Record | 60.0 | 15% |
 | Parliament Attendance | 100.0 | 10% |
 | Questions & Debates | 80.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
-| Public Accessibility | 15.0 | 5% |
+| Public Accessibility | 85.0 | 5% |
 | Legislative Effectiveness | 40.0 | 10% |
 
 ---
@@ -28,24 +26,29 @@
 ## Criminal Record
 
 - **Total Cases:** 3
-- **Serious Cases:** 0
+- **Serious Cases:** 1
 - **Convictions:** 0
 - **Pending Cases:** 3
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
+### Cases Detail
+
+1. 228/2023 Azad Maidan Police Station, Thane (Sections: 406, 420, 120B) [pending] **SERIOUS**
+2. 07/2010 Juhu Police Station, Thane | Sec. 37(1)(3), 135 Mumbai Police Act, Charges Framed year 2011 (Sections: N/A) [pending] 
+3. 253/2005 Dadar Police Station, Thane | Sec. 135 Mumbai Police Act, Sec. 3(1) Prevention of Damage to Public Property Act 1984 (Sections: 143, 144, 145, 147, 149, 353, 341, 427) [pending] 
+
 ---
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 54.50 Crore
-- **Liabilities:** Rs 4.48 Crore
-- **Net Worth:** Rs 50.02 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 86% of Lok Sabha MPs
 
 ---
 
@@ -69,6 +72,19 @@
 
 ---
 
+## Public Accessibility
+
+- **Platforms:** 3
+
+
+| Platform | Handle | Verified | Active |
+|----------|--------|----------|--------|
+| Twitter | [@https://twitter.com/RavindraWaikar](https://x.com/https://twitter.com/RavindraWaikar) | No | Yes |
+| Facebook | [@https://www.facebook.com/ravindra.waikar.1](https://facebook.com/https://www.facebook.com/ravindra.waikar.1) | No | Yes |
+| Instagram | [@https://www.instagram.com/RavindraWaikar](https://instagram.com/https://www.instagram.com/RavindraWaikar) | No | Yes |
+
+---
+
 ## In The News
 
 *Mixed/neutral coverage (10 articles)*
@@ -76,29 +92,41 @@
 - **Total Articles:** 10
 - **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
 
-- Mumbai North West election results 2024 live updates: Ravindra Dattaram Waikar of Shiva Sena wins - The Times of India (The Times of India) [neutral]
-- EVM ‘hacking’ row: Who is Ravindra Waikar, Shiv Sena MP from Mumbai North West? | India News - Hindustan Times (Hindustan Times) [neutral]
-- Mumbai, meet your new MPs - Citizen Matters (Citizen Matters) [neutral]
+- Ravindra Dattaram Waikar - The Times of India (The Times of India) [neutral]
 - Shiv Sena Mumbai North candidate Ravindra Waikar wins by just 48 votes - India Today (India Today) [neutral]
-- Ravindra Dattaram Waikar - The Hindu (The Hindu) [neutral]
+- Who is Ravindra Waikar? Shiv Sena MP at the centre of 'EVM hacking' row - Moneycontrol.com (Moneycontrol.com) [neutral]
+- Mumbai North-West Election Result 2024 LIVE Updates Highlights: Ravindra Dattaram Waikar of SS Wins - News18 (News18) [neutral]
+- Mumbai, meet your new MPs - Citizen Matters (Citizen Matters) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Ravindra Dattaram Waikar - The Times of India** (The Times of India)
+- ! **Shiv Sena Mumbai North candidate Ravindra Waikar wins by just 48 votes - India Today** (India Today)
+- ! **Who is Ravindra Waikar? Shiv Sena MP at the centre of 'EVM hacking' row - Moneycontrol.com** (Moneycontrol.com)
+- ! **Mumbai North-West Election Result 2024 LIVE Updates Highlights: Ravindra Dattaram Waikar of SS Wins - News18** (News18)
+- ! **Mumbai, meet your new MPs - Citizen Matters** (Citizen Matters)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Maharashtra: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Ravindra Dattaram Waikar shows moderate transparency with a score of 57.0/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Ravindra Dattaram Waikar shows moderate transparency with a score of 56.3/100. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-Has 3 criminal case(s) (0 serious), 3 pending, 0 conviction(s). Declared assets: Rs 545,049,854. MPLADS utilization: 26.7%. Parliament attendance: 100.0%. Questions asked: 55. Debates participated: 14.
+Has 3 criminal case(s) (1 serious), 3 pending, 0 conviction(s). MPLADS utilization: 26.7%. Parliament attendance: 100.0%. Questions asked: 55. Debates participated: 14. Low confidence data: Assets. 1 warning(s) noted.
 
 ---
 
@@ -138,7 +166,7 @@ Has 3 criminal case(s) (0 serious), 3 pending, 0 conviction(s). Declared assets:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -236,12 +264,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

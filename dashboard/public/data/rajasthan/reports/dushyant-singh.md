@@ -4,17 +4,17 @@
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Third-party (C)
+**Data Confidence:** Low (27%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 58.5 / 100
+## Composite Transparency Score: 46.0 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 2.7 | 25% |
-| Asset Growth | 55.0 | 15% |
-| Criminal Record | 100.0 | 15% |
+| Asset Growth | 45.0 | 15% |
+| Criminal Record | 45.0 | 15% |
 | Parliament Attendance | 100.0 | 10% |
 | Questions & Debates | 80.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
@@ -36,14 +36,13 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 38.93 Crore
-- **Liabilities:** Rs 8.66 Crore
-- **Net Worth:** Rs 30.27 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 81% of Lok Sabha MPs
 
 ---
 
@@ -72,32 +71,45 @@
 *Mixed/neutral coverage (10 articles)*
 
 - **Total Articles:** 10
-- **Positive:** 1 | **Negative:** 1 | **Neutral:** 8
+- **Positive:** 1 | **Negative:** 0 | **Neutral:** 9
 
-- Jhalawar-Baran election results 2024 live updates: BJP's Dushyant Singh wins - The Times of India (The Times of India) [neutral]
-- Was Dushyant Singh a key factor in BJP’s Anta defeat?: Senior MLA Singhvi’s letter to Nadda exposes deep ri... - Bhaskar English (Bhaskar English) [neutral]
+- Jhalawar-Baran election results 2024 live updates: BJP's Dushyant Singh wins - timesofindia.indiatimes.com (timesofindia.indiatimes.com) [neutral]
+- Lok Sabha Elections 2019: BJP Jhalawar-Baran candidate Dushyant Singh strikes chord with voters | Hindustan Times - Hindustan Times (Hindustan Times) [neutral]
 - Jhalawar-Baran Lok Sabha Seat Result 2024: BJP's Dushyant Singh Wins by Over 3.7 Lakh Votes - ETV Bharat (ETV Bharat) [neutral]
-- BJP appoints Vasundhara Raje's son Dushyant Singh as poll incharge for Anta bye-election - The Hans India (The Hans India) [neutral]
-- Vasundhara Raje's son Dushyant wins Jhalawar-Baran seat in Rajasthan - India Today (India Today) [neutral]
+- BJP picks Vasundhara Raje's son Dushyant Singh to lead Anta by-election campaign - IBTimes India (IBTimes India) [neutral]
+- Eclipsed, Vasundhara, Gehlot Campaign For Sons - Rediff (Rediff) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Jhalawar-Baran election results 2024 live updates: BJP's Dushyant Singh wins - timesofindia.indiatimes.com** (timesofindia.indiatimes.com)
+- ! **Lok Sabha Elections 2019: BJP Jhalawar-Baran candidate Dushyant Singh strikes chord with voters | Hindustan Times - Hindustan Times** (Hindustan Times)
+- ! **Jhalawar-Baran Lok Sabha Seat Result 2024: BJP's Dushyant Singh Wins by Over 3.7 Lakh Votes - ETV Bharat** (ETV Bharat)
+- ! **BJP picks Vasundhara Raje's son Dushyant Singh to lead Anta by-election campaign - IBTimes India** (IBTimes India)
+- ! **Eclipsed, Vasundhara, Gehlot Campaign For Sons - Rediff** (Rediff)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
+- [!] **assets**: Low confidence in asset data
 - [!] **mplads**: Extremely low utilization rate — verify data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Rajasthan: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Dushyant Singh shows moderate transparency with a score of 58.5/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Dushyant Singh has a below-average transparency score of 46.0/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates. Data confidence is low — scores should be interpreted with caution.
 
 ---
 
-No criminal cases declared. Declared assets: Rs 389,308,540. MPLADS utilization: 3.4%. Parliament attendance: 100.0%. Questions asked: 52. Debates participated: 9. 1 warning(s) noted.
+No criminal cases declared. MPLADS utilization: 3.4%. Parliament attendance: 100.0%. Questions asked: 52. Debates participated: 9. Low confidence data: Criminal record, Assets. 3 warning(s) noted.
 
 ---
 
@@ -137,7 +149,7 @@ No criminal cases declared. Declared assets: Rs 389,308,540. MPLADS utilization:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -235,10 +247,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

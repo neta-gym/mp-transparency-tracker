@@ -3,19 +3,17 @@
 **Constituency:** Sonitpur, Assam
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 67
-**Education:** 12th Pass
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (37%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 56.3 / 100
+## Composite Transparency Score: 54.8 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 29.2 | 25% |
-| Asset Growth | 55.0 | 15% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 90.0 | 10% |
 | Questions & Debates | 20.0 | 10% |
@@ -38,14 +36,13 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 8.98 Crore
-- **Liabilities:** Rs 2.43 Crore
-- **Net Worth:** Rs 6.55 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 55% of Lok Sabha MPs
 
 ---
 
@@ -74,31 +71,43 @@
 *Mixed/neutral coverage (10 articles)*
 
 - **Total Articles:** 10
-- **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
+- **Positive:** 1 | **Negative:** 0 | **Neutral:** 9
 
-- Assam: DISHA meeting held in Sonitpur district - The Sentinel - of this Land, for its People (The Sentinel - of this Land, for its People) [neutral]
-- PM Modi to Hold Election Rally in Behali, Biswanath District in First Week of April - The Sentinel - of this Land, for its People (The Sentinel - of this Land, for its People) [neutral]
 - Sonitpur election results 2024 live updates: BJP's Ranjit Dutta wins - The Times of India (The Times of India) [neutral]
-- BJP Candidate Ranjit Dutta files nomination in Tezpur, backed by key political leaders - India Today NE (India Today NE) [neutral]
-- Lok Sabha Election results 2024: BJP’s Ranjit Dutta wins Sonitpur seat - newslivetv.com (newslivetv.com) [neutral]
+- Sonitpur lok sabha election results 2024: Sonitpur Winning Candidates List and Vote Share - India Today (India Today) [neutral]
+- Rs 1.75 Cr released for flood preparedness in three constituencies: Keshab Mahanta - The Assam Tribune (The Assam Tribune) [neutral]
+- PM Modi to Hold Election Rally in Behali, Biswanath District in First Week of April - The Sentinel - of this Land, for its People (The Sentinel - of this Land, for its People) [neutral]
+- MP Ranjit Dutta chairs first DISHA meeting in Sonitpur, reviews key development schemes - The Sentinel - of this Land, for its People (The Sentinel - of this Land, for its People) [positive]
+
+---
+
+## News & Allegations
+
+- ! **Sonitpur election results 2024 live updates: BJP's Ranjit Dutta wins - The Times of India** (The Times of India)
+- ! **Sonitpur lok sabha election results 2024: Sonitpur Winning Candidates List and Vote Share - India Today** (India Today)
+- ! **Rs 1.75 Cr released for flood preparedness in three constituencies: Keshab Mahanta - The Assam Tribune** (The Assam Tribune)
+- ! **PM Modi to Hold Election Rally in Behali, Biswanath District in First Week of April - The Sentinel - of this Land, for its People** (The Sentinel - of this Land, for its People)
+- ! **MP Ranjit Dutta chairs first DISHA meeting in Sonitpur, reviews key development schemes - The Sentinel - of this Land, for its People** (The Sentinel - of this Land, for its People)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Assam: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Ranjit Dutta shows moderate transparency with a score of 56.3/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Limited participation in parliamentary proceedings.
+Ranjit Dutta shows moderate transparency with a score of 54.8/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Limited participation in parliamentary proceedings.
 
 ---
 
-No criminal cases declared. Declared assets: Rs 89,792,194. MPLADS utilization: 36.5%. Parliament attendance: 90.0%. Questions asked: 8.
+No criminal cases declared. MPLADS utilization: 36.5%. Parliament attendance: 90.0%. Questions asked: 8. Low confidence data: Assets. 1 warning(s) noted.
 
 ---
 
@@ -138,7 +147,7 @@ No criminal cases declared. Declared assets: Rs 89,792,194. MPLADS utilization: 
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -236,12 +245,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

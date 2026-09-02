@@ -3,19 +3,17 @@
 **Constituency:** Mayurbhanj, Odisha
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 63
-**Education:** Graduate
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (39%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 52.9 / 100
+## Composite Transparency Score: 52.1 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 11.8 | 25% |
-| Asset Growth | 50.0 | 15% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 90.0 | 15% |
 | Parliament Attendance | 75.0 | 10% |
 | Questions & Debates | 70.0 | 10% |
@@ -34,18 +32,21 @@
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
+### Cases Detail
+
+1. 92/2010 Rairangpur Town PS (Sections: 342, 186, 34) [pending] 
+
 ---
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 74.07 Lakh
-- **Liabilities:** Rs 0
-- **Net Worth:** Rs 74.07 Lakh
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 6% of Lok Sabha MPs
 
 ---
 
@@ -74,31 +75,43 @@
 *Mixed/neutral coverage (10 articles)*
 
 - **Total Articles:** 10
-- **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
+- **Positive:** 2 | **Negative:** 0 | **Neutral:** 8
 
 - ‘Non-Performer’ MLA Naba Majhi, a surprise choice for MP seat in Odisha - The New Indian Express (The New Indian Express) [neutral]
-- Droupadi Murmu's role in BJP picking Naba Charan Majhi for Mayurbhanj Lok Sabha seat - Telegraph India (Telegraph India) [neutral]
-- Mayurbhanj (ST) election results 2024 live updates: BJP's Naba Charan Majhi defeats BJD's Sudam Marndi by - The Times of India (The Times of India) [neutral]
+- Naba Charan Majhi , BJP candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details. - The Hindu (The Hindu) [neutral]
 - Conclave on PM Vishwakarma–National SC-ST Hub organised in Baripada, Mayurbhanj, Odisha - PIB (PIB) [neutral]
-- BJP’s Mayurbhanj MP Naba Charan Majhi To Take Oath In Santali Language - Ommcom News (Ommcom News) [neutral]
+- Mayurbhanj Election Result 2024 LIVE Updates Highlights: Naba Charan Majhi of BJP Wins - News18 (News18) [neutral]
+- BJP MP Naba Charan Majhi to take oath in Santali in Lok Sabha - odishanewslens.com (odishanewslens.com) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **‘Non-Performer’ MLA Naba Majhi, a surprise choice for MP seat in Odisha - The New Indian Express** (The New Indian Express)
+- ! **Naba Charan Majhi , BJP candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details. - The Hindu** (The Hindu)
+- ! **Conclave on PM Vishwakarma–National SC-ST Hub organised in Baripada, Mayurbhanj, Odisha - PIB** (PIB)
+- ! **Mayurbhanj Election Result 2024 LIVE Updates Highlights: Naba Charan Majhi of BJP Wins - News18** (News18)
+- ! **BJP MP Naba Charan Majhi to take oath in Santali in Lok Sabha - odishanewslens.com** (odishanewslens.com)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Odisha: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Naba Charan Majhi shows moderate transparency with a score of 52.9/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. Active in questions and debates.
+Naba Charan Majhi shows moderate transparency with a score of 52.1/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. Active in questions and debates.
 
 ---
 
-Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Declared assets: Rs 7,407,000. MPLADS utilization: 14.7%. Parliament attendance: 75.0%. Questions asked: 52. Debates participated: 1.
+Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). MPLADS utilization: 14.7%. Parliament attendance: 75.0%. Questions asked: 52. Debates participated: 1. Low confidence data: Assets. 1 warning(s) noted.
 
 ---
 
@@ -138,7 +151,7 @@ Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Declared assets:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -236,12 +249,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

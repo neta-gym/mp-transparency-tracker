@@ -3,24 +3,22 @@
 **Constituency:** Puri, Odisha
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 50
-**Education:** Post Graduate
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (46%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 53.1 / 100
+## Composite Transparency Score: 55.8 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 16.5 | 25% |
-| Asset Growth | 50.0 | 15% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 90.0 | 15% |
 | Parliament Attendance | 90.0 | 10% |
 | Questions & Debates | 40.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
-| Public Accessibility | 15.0 | 5% |
+| Public Accessibility | 85.0 | 5% |
 | Legislative Effectiveness | 40.0 | 10% |
 
 ---
@@ -34,18 +32,21 @@
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
+### Cases Detail
+
+1. The I.I.C. Sea Beach Police Station, Puri | Section 123(3) & 127A of R.P. Act. 1951 (Sections: 188) [pending] 
+
 ---
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 1.98 Crore
-- **Liabilities:** Rs 0
-- **Net Worth:** Rs 1.98 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 17% of Lok Sabha MPs
 
 ---
 
@@ -69,6 +70,19 @@
 
 ---
 
+## Public Accessibility
+
+- **Platforms:** 3
+
+
+| Platform | Handle | Verified | Active |
+|----------|--------|----------|--------|
+| Twitter | [@https://x.com/sambitswaraj?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor](https://x.com/https://x.com/sambitswaraj?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) | No | Yes |
+| Facebook | [@https://www.facebook.com/sambitswaraj/](https://facebook.com/https://www.facebook.com/sambitswaraj/) | No | Yes |
+| Instagram | [@https://www.instagram.com/sambitswaraj/?hl=en](https://instagram.com/https://www.instagram.com/sambitswaraj/?hl=en) | No | Yes |
+
+---
+
 ## In The News
 
 *Mixed/neutral coverage (10 articles)*
@@ -76,29 +90,41 @@
 - **Total Articles:** 10
 - **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
 
-- Mahua Moitra effect? Naveen Patnaik drops 4-time MP Pinaki Mishra, announces Arup Patnaik as candidate for Puri Lok Sabha seat against BJP's Sambit Patra - Dailyhunt (Dailyhunt) [neutral]
-- Odisha hotel, restaurant association proposes mega tourism, airport projects in state - ET Hospitality (ET Hospitality) [neutral]
-- Member of Parliament from Puri Sambit Patra recites Durga Aarti in LokSabha, moment goes viral - The Times of India (The Times of India) [neutral]
-- Video | Sambit Patra Visits Jagannath Temple For Rath Yatra 2025 Celebrations - NDTV (NDTV) [neutral]
-- Sambit Patra attacks BJD supremo Naveen Patnaik over 'betrayer’ and ‘candidate theft’ remarks - The New Indian Express (The New Indian Express) [neutral]
+- Two Odisha Leaders in Nitin Nabin’s BJP Team; Baijayant Panda Retained, Sambit Patra Gets Northeast Charge - Pragativadi (Pragativadi) [neutral]
+- UNITED NEWS OF INDIA - uniindia.com (uniindia.com) [neutral]
+- Video | Odisha News | BJP MP Dr Sambit Patra Inspects Satyabadi Overbridge Construction Work In Puri - NDTV (NDTV) [neutral]
+- Sambit Patra thanks West Bengal government for dropping 'Dham' from Digha Jagannath temple name - aninews.in (aninews.in) [neutral]
+- BJP’s Sambit Patra offers prayers in Puri on Devshayani Ekadashi - thenewsmill.com (thenewsmill.com) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Two Odisha Leaders in Nitin Nabin’s BJP Team; Baijayant Panda Retained, Sambit Patra Gets Northeast Charge - Pragativadi** (Pragativadi)
+- ! **UNITED NEWS OF INDIA - uniindia.com** (uniindia.com)
+- ! **Video | Odisha News | BJP MP Dr Sambit Patra Inspects Satyabadi Overbridge Construction Work In Puri - NDTV** (NDTV)
+- ! **Sambit Patra thanks West Bengal government for dropping 'Dham' from Digha Jagannath temple name - aninews.in** (aninews.in)
+- ! **BJP’s Sambit Patra offers prayers in Puri on Devshayani Ekadashi - thenewsmill.com** (thenewsmill.com)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Odisha: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Sambit Patra shows moderate transparency with a score of 53.1/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance.
+Sambit Patra shows moderate transparency with a score of 55.8/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance.
 
 ---
 
-Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Declared assets: Rs 19,806,997. MPLADS utilization: 20.7%. Parliament attendance: 90.0%. Questions asked: 3. Debates participated: 7.
+Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). MPLADS utilization: 20.7%. Parliament attendance: 90.0%. Questions asked: 3. Debates participated: 7. Low confidence data: Assets. 1 warning(s) noted.
 
 ---
 
@@ -138,7 +164,7 @@ Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Declared assets:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -236,12 +262,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

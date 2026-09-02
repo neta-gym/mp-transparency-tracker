@@ -4,31 +4,31 @@
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Third-party (C)
+**Data Confidence:** Low (34%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 49.2 / 100
+## Composite Transparency Score: 48.5 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 35.0 | 25% |
-| Asset Growth | 60.0 | 15% |
-| Criminal Record | 50.0 | 15% |
+| Asset Growth | 45.0 | 15% |
+| Criminal Record | 45.0 | 15% |
 | Parliament Attendance | 70.0 | 10% |
 | Questions & Debates | 60.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
-| Public Accessibility | 15.0 | 5% |
+| Public Accessibility | 65.0 | 5% |
 | Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
 ## Criminal Record
 
-- **Total Cases:** 5
+- **Total Cases:** 0
 - **Serious Cases:** 0
 - **Convictions:** 0
-- **Pending Cases:** 5
+- **Pending Cases:** 0
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
@@ -36,14 +36,13 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 29.05 Crore
-- **Liabilities:** Rs 13,525
-- **Net Worth:** Rs 29.05 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 77% of Lok Sabha MPs
 
 ---
 
@@ -67,6 +66,18 @@
 
 ---
 
+## Public Accessibility
+
+- **Platforms:** 2
+
+
+| Platform | Handle | Verified | Active |
+|----------|--------|----------|--------|
+| Twitter | [@http://www.twitter.com/Sanjayjaiswalmp](https://x.com/http://www.twitter.com/Sanjayjaiswalmp) | No | Yes |
+| Facebook | [@http://www.facebook.com/Jaiswalsanjaybjp/](https://facebook.com/http://www.facebook.com/Jaiswalsanjaybjp/) | No | Yes |
+
+---
+
 ## In The News
 
 *Mixed/neutral coverage (10 articles)*
@@ -74,29 +85,42 @@
 - **Total Articles:** 10
 - **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
 
-- "Mamata Banerjee is biggest coal smuggler...": BJP's Sanjay Jaiswal slams West Bengal CM - ANI News (ANI News) [neutral]
+- Bihar: Youth held in connection with extortion call to BJP MP Sanjay Jaiswal - ANI News (ANI News) [neutral]
 - ‘Ab Bengal ki baari’: Bihar BJP MP thanks Opposition for making SIR an election issue, ‘helps us actually’ | India News - Hindustan Times (Hindustan Times) [neutral]
-- Memorial will immortalise sacrifice of Ram Temple Kar Sevaks: BJP MP Sanjay Jaiswal - The Hans India (The Hans India) [neutral]
-- BJP MP Sanjay Jaiswal gets Rs 10-crore extortion call, threatening to kill son - India TV News (India TV News) [neutral]
-- BJP MP Sanjay Jaiswal Receives Rs 10-Crore Ransom Threat, Son Targeted - Patna Press (Patna Press) [neutral]
+- BJP MP Jaiswal files Rs 125cr defamation suit against PK - The Times of India (The Times of India) [neutral]
+- West Champaran Lok Sabha Polls: Congress Banks On Muslim, Yadav Votes In BJP’s Stronghold In Bihar - News18 (News18) [neutral]
+- Paschim Champaran: Three-time BJP MP Dr Sanjay Jaiswal to take on Congress' Madan Mohan Tiwari - ANI News (ANI News) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Bihar: Youth held in connection with extortion call to BJP MP Sanjay Jaiswal - ANI News** (ANI News)
+- ! **‘Ab Bengal ki baari’: Bihar BJP MP thanks Opposition for making SIR an election issue, ‘helps us actually’ | India News - Hindustan Times** (Hindustan Times)
+- ! **BJP MP Jaiswal files Rs 125cr defamation suit against PK - The Times of India** (The Times of India)
+- ! **West Champaran Lok Sabha Polls: Congress Banks On Muslim, Yadav Votes In BJP’s Stronghold In Bihar - News18** (News18)
+- ! **Paschim Champaran: Three-time BJP MP Dr Sanjay Jaiswal to take on Congress' Madan Mohan Tiwari - ANI News** (ANI News)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
+- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Bihar: 8 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Sanjay Jaiswal has a below-average transparency score of 49.2/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. Active in questions and debates.
+Sanjay Jaiswal has a below-average transparency score of 48.5/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. Active in questions and debates.
 
 ---
 
-Has 5 criminal case(s) (0 serious), 5 pending, 0 conviction(s). Declared assets: Rs 290,535,126. Parliament attendance: 70.0%. Questions asked: 26. Debates participated: 7.
+No criminal cases declared. Parliament attendance: 70.0%. Questions asked: 26. Debates participated: 7. Low confidence data: Criminal record, Assets. 2 warning(s) noted.
 
 ---
 
@@ -136,7 +160,7 @@ Has 5 criminal case(s) (0 serious), 5 pending, 0 conviction(s). Declared assets:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -234,10 +258,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

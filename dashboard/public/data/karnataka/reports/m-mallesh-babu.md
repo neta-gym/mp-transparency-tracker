@@ -3,20 +3,18 @@
 **Constituency:** Kolar, Karnataka
 **Party:** Janata Dal (Secular)
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 49
-**Education:** Post Graduate
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (39%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 55.8 / 100
+## Composite Transparency Score: 52.3 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 19.1 | 25% |
-| Asset Growth | 55.0 | 15% |
-| Criminal Record | 90.0 | 15% |
+| Asset Growth | 45.0 | 15% |
+| Criminal Record | 80.0 | 15% |
 | Parliament Attendance | 100.0 | 10% |
 | Questions & Debates | 40.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
@@ -28,24 +26,27 @@
 ## Criminal Record
 
 - **Total Cases:** 1
-- **Serious Cases:** 0
+- **Serious Cases:** 1
 - **Convictions:** 0
 - **Pending Cases:** 1
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
+### Cases Detail
+
+1. Crime NO. 0221/2018 Bangarapete Police Station | Sec. 3,6,7, of Religious Institutions (Prevention of Misuse) Act1988 (Sections: 171H, 149) [pending] **SERIOUS**
+
 ---
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 23.86 Crore
-- **Liabilities:** Rs 3.45 Crore
-- **Net Worth:** Rs 20.41 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 74% of Lok Sabha MPs
 
 ---
 
@@ -76,29 +77,41 @@
 - **Total Articles:** 10
 - **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
 
-- HDK, Kolar MP meet AP CM Naidu, discuss Krishna waters - The New Indian Express (The New Indian Express) [neutral]
-- Bengaluru Kolar Rail Update: JD(S) MP Seeks Direct Train - Deccan Herald (Deccan Herald) [neutral]
-- Almatti dam height row: Andhra CM objects to Karnataka’s plan, complains to Centre - The Federal (The Federal) [neutral]
-- Rajnath Singh to inaugurate H125 helicopter unit in Kolar's Vemgal on Feb 17 - Deccan Herald (Deccan Herald) [neutral]
-- Parliament of India : LoK Sabha Member of Parliament – B - Sarkaritel.com (Sarkaritel.com) [neutral]
+- Demand for MSP Bandh in Kolar against mango price crash - The New Indian Express (The New Indian Express) [neutral]
+- Mango growers stage protests across Kolar district, demand MSP - The Siasat Daily (The Siasat Daily) [neutral]
+- JD(S) leader M Mallesh Babu demands direct train service between Bengaluru and Kolar - Deccan Herald (Deccan Herald) [neutral]
+- My focus is on Kolar tourism and manufacturing units: Mallesh Babu - NEWSTRAIL (NEWSTRAIL) [neutral]
+- Kolar Lok Sabha constituency: Unkept promises rankle in this land of gold mine - The Hindu (The Hindu) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Demand for MSP Bandh in Kolar against mango price crash - The New Indian Express** (The New Indian Express)
+- ! **Mango growers stage protests across Kolar district, demand MSP - The Siasat Daily** (The Siasat Daily)
+- ! **JD(S) leader M Mallesh Babu demands direct train service between Bengaluru and Kolar - Deccan Herald** (Deccan Herald)
+- ! **My focus is on Kolar tourism and manufacturing units: Mallesh Babu - NEWSTRAIL** (NEWSTRAIL)
+- ! **Kolar Lok Sabha constituency: Unkept promises rankle in this land of gold mine - The Hindu** (The Hindu)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Karnataka: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-M Mallesh Babu shows moderate transparency with a score of 55.8/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance.
+M Mallesh Babu shows moderate transparency with a score of 52.3/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance.
 
 ---
 
-Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Declared assets: Rs 238,631,536. MPLADS utilization: 23.9%. Parliament attendance: 100.0%. Questions asked: 6. Debates participated: 4.
+Has 1 criminal case(s) (1 serious), 1 pending, 0 conviction(s). MPLADS utilization: 23.9%. Parliament attendance: 100.0%. Questions asked: 6. Debates participated: 4. Low confidence data: Assets. 1 warning(s) noted.
 
 ---
 
@@ -138,7 +151,7 @@ Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Declared assets:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -236,12 +249,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

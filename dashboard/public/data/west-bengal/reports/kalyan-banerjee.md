@@ -3,19 +3,17 @@
 **Constituency:** Sreerampur, West Bengal
 **Party:** All India Trinamool Congress
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 67
-**Education:** Graduate Professional
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (37%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 62.1 / 100
+## Composite Transparency Score: 59.8 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 42.9 | 25% |
-| Asset Growth | 60.0 | 15% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 85.0 | 10% |
 | Questions & Debates | 50.0 | 10% |
@@ -38,14 +36,13 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 30.55 Crore
-- **Liabilities:** Rs 13.60 Lakh
-- **Net Worth:** Rs 30.41 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 78% of Lok Sabha MPs
 
 ---
 
@@ -76,29 +73,41 @@
 - **Total Articles:** 10
 - **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
 
-- Union minister Sukanta leads motorcycle rally in Sreerampur after TMC MP Kalyan's challenge - MSN (MSN) [neutral]
-- When Didi doned the black gown: Law firm partners, Serampore MP brains behind Mamata Banerjee’s legal for - The Times of India (The Times of India) [neutral]
+- ‘We were called ‘chor’ because of him’: TMC MP targets Abhishek Banerjee - The Indian Express (The Indian Express) [neutral]
+- TMC MP Kakoli Ghosh Accuses Kalyan Banerjee of Abuse, Misogyny - deccanchronicle.com (deccanchronicle.com) [neutral]
 - Bengal upholds true spirit of communal harmony: Serampore MP - The Statesman (The Statesman) [neutral]
-- Serampore MP urges party unity ahead of 2026 polls - The Statesman (The Statesman) [neutral]
-- Sukanta Majumdar rides into Sreerampur after Kalyan Banerjee’s fiery ‘come if you dare’ challenge - Telegraph India (Telegraph India) [neutral]
+- On the campaign trail with… Kalyan Banerjee - AITC in Parliament (AITC in Parliament) [neutral]
+- When Didi doned the black gown: Law firm partners, Serampore MP brains behind Mamata Banerjee’s legal for - The Times of India (The Times of India) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **‘We were called ‘chor’ because of him’: TMC MP targets Abhishek Banerjee - The Indian Express** (The Indian Express)
+- ! **TMC MP Kakoli Ghosh Accuses Kalyan Banerjee of Abuse, Misogyny - deccanchronicle.com** (deccanchronicle.com)
+- ! **Bengal upholds true spirit of communal harmony: Serampore MP - The Statesman** (The Statesman)
+- ! **On the campaign trail with… Kalyan Banerjee - AITC in Parliament** (AITC in Parliament)
+- ! **When Didi doned the black gown: Law firm partners, Serampore MP brains behind Mamata Banerjee’s legal for - The Times of India** (The Times of India)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for West Bengal: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Kalyan Banerjee shows moderate transparency with a score of 62.1/100. No criminal cases declared. High parliament attendance.
+Kalyan Banerjee shows moderate transparency with a score of 59.8/100. No criminal cases declared. High parliament attendance.
 
 ---
 
-No criminal cases declared. Declared assets: Rs 305,479,471. MPLADS utilization: 51.9%. Parliament attendance: 85.0%. Questions asked: 11. Debates participated: 12.
+No criminal cases declared. MPLADS utilization: 51.9%. Parliament attendance: 85.0%. Questions asked: 11. Debates participated: 12. Low confidence data: Assets. 1 warning(s) noted.
 
 ---
 
@@ -138,7 +147,7 @@ No criminal cases declared. Declared assets: Rs 305,479,471. MPLADS utilization:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -236,12 +245,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

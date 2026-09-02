@@ -3,19 +3,17 @@
 **Constituency:** Sidhi, Madhya Pradesh
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 66
-**Education:** Post Graduate
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (39%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 67.7 / 100
+## Composite Transparency Score: 66.2 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 63.3 | 25% |
-| Asset Growth | 55.0 | 15% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 90.0 | 15% |
 | Parliament Attendance | 100.0 | 10% |
 | Questions & Debates | 70.0 | 10% |
@@ -34,18 +32,21 @@
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
+### Cases Detail
+
+1. 0815/Thana Kotwali Sidhi (MP) (Sections: 188) [pending] 
+
 ---
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 14.40 Crore
-- **Liabilities:** Rs 1.84 Crore
-- **Net Worth:** Rs 12.56 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 65% of Lok Sabha MPs
 
 ---
 
@@ -74,31 +75,43 @@
 *Mixed/neutral coverage (10 articles)*
 
 - **Total Articles:** 10
-- **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
+- **Positive:** 0 | **Negative:** 1 | **Neutral:** 9
 
 - BJP MP loses temper with woman in Sidhi: Yells to silence her, scolds youth filming incident - Bhaskar English (Bhaskar English) [neutral]
-- 'Sidhi urination case conspirator are now MP and MLA': Former BJP MLA Kedarnath Shukla says, 'Party organis... - Bhaskar English (Bhaskar English) [neutral]
-- Leela Sahu को 'उठवा लेंगे' वाले बयान पर BJP सांसद ने दी सफाई, बोले- पूरा वीडियो देखें, मैंने कहीं कुछ गलत नहीं कहा - AajTak (AajTak) [neutral]
-- Madhya Pradesh: Pregnant woman demands road for village, MP says she will be shifted before delivery - India TV News (India TV News) [neutral]
-- ‘Will get them picked-up before delivery': BJP MP’s bizarre response to pregnant women demanding road; op - The Times of India (The Times of India) [neutral]
+- CM interacts with girls taking part in GEM at NTPC Vindhyachal - thehitavada.com (thehitavada.com) [neutral]
+- Dr. Rajesh Mishra , BJP candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details. - The Hindu (The Hindu) [neutral]
+- Sidhi election results 2024 live updates: BJP's Rajesh Mishra wins - The Times of India (The Times of India) [neutral]
+- BJP MP's bizarre response to pregnant women's demand for road: ‘Will Be Done Before Delivery’ | India News - Hindustan Times (Hindustan Times) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **BJP MP loses temper with woman in Sidhi: Yells to silence her, scolds youth filming incident - Bhaskar English** (Bhaskar English)
+- ! **CM interacts with girls taking part in GEM at NTPC Vindhyachal - thehitavada.com** (thehitavada.com)
+- ! **Dr. Rajesh Mishra , BJP candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details. - The Hindu** (The Hindu)
+- ! **Sidhi election results 2024 live updates: BJP's Rajesh Mishra wins - The Times of India** (The Times of India)
+- ! **BJP MP's bizarre response to pregnant women's demand for road: ‘Will Be Done Before Delivery’ | India News - Hindustan Times** (Hindustan Times)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Madhya Pradesh: 8 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Rajesh Mishra shows moderate transparency with a score of 67.7/100. Minor criminal cases on record. High parliament attendance. Active in questions and debates.
+Rajesh Mishra shows moderate transparency with a score of 66.2/100. Minor criminal cases on record. High parliament attendance. Active in questions and debates.
 
 ---
 
-Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Declared assets: Rs 144,008,066. MPLADS utilization: 65.6%. Parliament attendance: 100.0%. Questions asked: 38. Debates participated: 8.
+Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). MPLADS utilization: 65.6%. Parliament attendance: 100.0%. Questions asked: 38. Debates participated: 8. Low confidence data: Assets. 1 warning(s) noted.
 
 ---
 
@@ -138,7 +151,7 @@ Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Declared assets:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -236,12 +249,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

@@ -4,17 +4,17 @@
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Third-party (C)
+**Data Confidence:** Low (27%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 53.6 / 100
+## Composite Transparency Score: 43.1 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 4.0 | 25% |
-| Asset Growth | 55.0 | 15% |
-| Criminal Record | 90.0 | 15% |
+| Asset Growth | 45.0 | 15% |
+| Criminal Record | 45.0 | 15% |
 | Parliament Attendance | 85.0 | 10% |
 | Questions & Debates | 70.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
@@ -25,10 +25,10 @@
 
 ## Criminal Record
 
-- **Total Cases:** 1
+- **Total Cases:** 0
 - **Serious Cases:** 0
 - **Convictions:** 0
-- **Pending Cases:** 1
+- **Pending Cases:** 0
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
@@ -36,14 +36,13 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 62.50 Crore
-- **Liabilities:** Rs 6.99 Crore
-- **Net Worth:** Rs 55.52 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 88% of Lok Sabha MPs
 
 ---
 
@@ -74,30 +73,43 @@
 - **Total Articles:** 10
 - **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
 
+- MP Smt. Daggubati Purandeswari Visits ICAR–DFR Regional Station, Applauds Floriculture Research Efforts - Indian Council Of Agricultural Research (Indian Council Of Agricultural Research) [neutral]
 - MP D. Purandeswari calls for alternative road access for East Godavari farmers from upcoming railway boundary wall - The Hindu (The Hindu) [neutral]
 - Rajamahendravaram MP Urges Curb on Hormone Injections to Buffaloes - Deccan Chronicle (Deccan Chronicle) [neutral]
-- Purandeswari frontrunner for Lok Sabha Speaker post - The Times of India (The Times of India) [neutral]
-- Intense battle likely between Daggubati Purandeswari, Guduri Srinivas for Rajamahendravaram LS seat - The New Indian Express (The New Indian Express) [neutral]
-- Govt giving priority to infra development: Purandeswari - The Hans India (The Hans India) [neutral]
+- Andhra Pradesh BJP chief Daggubati Purandeswari among probable Lok Sabha Speaker picks - timesofindia.indiatimes.com (timesofindia.indiatimes.com) [neutral]
+- Intense battle likely between Daggubati Purandeswari, Guduri Srinivas for Rajamahendravaram LS seat - newindianexpress.com (newindianexpress.com) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **MP Smt. Daggubati Purandeswari Visits ICAR–DFR Regional Station, Applauds Floriculture Research Efforts - Indian Council Of Agricultural Research** (Indian Council Of Agricultural Research)
+- ! **MP D. Purandeswari calls for alternative road access for East Godavari farmers from upcoming railway boundary wall - The Hindu** (The Hindu)
+- ! **Rajamahendravaram MP Urges Curb on Hormone Injections to Buffaloes - Deccan Chronicle** (Deccan Chronicle)
+- ! **Andhra Pradesh BJP chief Daggubati Purandeswari among probable Lok Sabha Speaker picks - timesofindia.indiatimes.com** (timesofindia.indiatimes.com)
+- ! **Intense battle likely between Daggubati Purandeswari, Guduri Srinivas for Rajamahendravaram LS seat - newindianexpress.com** (newindianexpress.com)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
+- [!] **assets**: Low confidence in asset data
 - [!] **mplads**: Extremely low utilization rate — verify data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Andhra Pradesh: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-D. Purandeswari shows moderate transparency with a score of 53.6/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+D. Purandeswari has a below-average transparency score of 43.1/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates. Data confidence is low — scores should be interpreted with caution.
 
 ---
 
-Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Declared assets: Rs 625,041,146. MPLADS utilization: 5.0%. Parliament attendance: 85.0%. Questions asked: 41. Debates participated: 6. 1 warning(s) noted.
+No criminal cases declared. MPLADS utilization: 5.0%. Parliament attendance: 85.0%. Questions asked: 41. Debates participated: 6. Low confidence data: Criminal record, Assets. 3 warning(s) noted.
 
 ---
 
@@ -137,7 +149,7 @@ Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Declared assets:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -235,10 +247,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

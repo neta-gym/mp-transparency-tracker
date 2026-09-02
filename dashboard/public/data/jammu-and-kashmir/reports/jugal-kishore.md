@@ -4,17 +4,17 @@
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Third-party (C)
+**Data Confidence:** Low (27%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 58.4 / 100
+## Composite Transparency Score: 45.9 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 10.7 | 25% |
-| Asset Growth | 55.0 | 15% |
-| Criminal Record | 100.0 | 15% |
+| Asset Growth | 45.0 | 15% |
+| Criminal Record | 45.0 | 15% |
 | Parliament Attendance | 95.0 | 10% |
 | Questions & Debates | 70.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
@@ -36,14 +36,13 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 7.64 Crore
-- **Liabilities:** Rs 80.14 Lakh
-- **Net Worth:** Rs 6.84 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 51% of Lok Sabha MPs
 
 ---
 
@@ -74,29 +73,42 @@
 - **Total Articles:** 10
 - **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
 
-- MP Jugal chairs DISHA meeting at Jammu - Daily Excelsior (Daily Excelsior) [neutral]
-- Art 370 abrogation played vital role in J&K’s development: Jugal Kishore - Daily Excelsior (Daily Excelsior) [neutral]
-- 'We also want statehood to be restored', says BJP MP from Jammu - Greater Kashmir (Greater Kashmir) [neutral]
-- Split vs. Statehood: Sajad Lone Endorses Sham Lal’s Demand, Jugal Kishore Stands Firm on Unity - Republic World (Republic World) [neutral]
-- Political, bureaucratic links to 31 stone crushers surface in J&K Assembly disclosure - The Statesman (The Statesman) [neutral]
+- MP Jugal Kishore, other party leaders listen to 137th episode of PM Modi’s ‘Mann Ki Baat’ - The Earth News (The Earth News) [neutral]
+- BJP MP Flags Off Train At JK's Samba, 6 Train Stoppages Restored - ETV Bharat (ETV Bharat) [neutral]
+- Jammu Railway Division restores stoppage of 6 trains at Samba station - Greater Kashmir (Greater Kashmir) [neutral]
+- MP Jugal Kishore Sharma chairs DISHA meeting at Jammu - thekashmirhorizon.com (thekashmirhorizon.com) [neutral]
+- BJP holds Pragati Path Yatra at IIM, Sankalp Sammelan at Jammu - Daily Excelsior (Daily Excelsior) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **MP Jugal Kishore, other party leaders listen to 137th episode of PM Modi’s ‘Mann Ki Baat’ - The Earth News** (The Earth News)
+- ! **BJP MP Flags Off Train At JK's Samba, 6 Train Stoppages Restored - ETV Bharat** (ETV Bharat)
+- ! **Jammu Railway Division restores stoppage of 6 trains at Samba station - Greater Kashmir** (Greater Kashmir)
+- ! **MP Jugal Kishore Sharma chairs DISHA meeting at Jammu - thekashmirhorizon.com** (thekashmirhorizon.com)
+- ! **BJP holds Pragati Path Yatra at IIM, Sankalp Sammelan at Jammu - Daily Excelsior** (Daily Excelsior)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
+- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Jammu And Kashmir: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Jugal Kishore shows moderate transparency with a score of 58.4/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Jugal Kishore has a below-average transparency score of 45.9/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates. Data confidence is low — scores should be interpreted with caution.
 
 ---
 
-No criminal cases declared. Declared assets: Rs 76,378,942. MPLADS utilization: 13.3%. Parliament attendance: 95.0%. Questions asked: 40. Debates participated: 8.
+No criminal cases declared. MPLADS utilization: 13.3%. Parliament attendance: 95.0%. Questions asked: 40. Debates participated: 8. Low confidence data: Criminal record, Assets. 2 warning(s) noted.
 
 ---
 
@@ -136,7 +148,7 @@ No criminal cases declared. Declared assets: Rs 76,378,942. MPLADS utilization: 
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -234,10 +246,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

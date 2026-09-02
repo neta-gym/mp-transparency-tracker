@@ -3,19 +3,17 @@
 **Constituency:** Ratlam, Madhya Pradesh
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 39
-**Education:** Post Graduate
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (37%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 55.8 / 100
+## Composite Transparency Score: 53.6 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 24.2 | 25% |
-| Asset Growth | 60.0 | 15% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 75.0 | 10% |
 | Questions & Debates | 40.0 | 10% |
@@ -38,14 +36,13 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 5.25 Crore
-- **Liabilities:** Rs 1.87 Lakh
-- **Net Worth:** Rs 5.23 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 41% of Lok Sabha MPs
 
 ---
 
@@ -71,34 +68,46 @@
 
 ## In The News
 
-*Mixed/neutral coverage (10 articles)*
+*Mixed/neutral coverage (9 articles)*
 
-- **Total Articles:** 10
-- **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
+- **Total Articles:** 9
+- **Positive:** 0 | **Negative:** 0 | **Neutral:** 9
 
-- Anita Nagarsingh Chouhan - The Times of India (The Times of India) [neutral]
-- Rumblings in Madhya Pradesh BJP govt as minister threatens to quit after losing Forest charge to Congress turncoat - The Indian Express (The Indian Express) [neutral]
-- Ratlam Election Result 2024 Live Updates:BJP's Anita Nagarsingh Chouhan Has Won This Lok Sabha Seat - The Quint (The Quint) [neutral]
-- Parliament of India : Lok Sabha Member of Parliament – C - Sarkaritel.com (Sarkaritel.com) [neutral]
+- Rumblings in Madhya Pradesh BJP govt as minister threatens to quit after losing Forest charge to Congress turncoat - indianexpress.com (indianexpress.com) [neutral]
 - Ratlam election results 2024 live updates: BJP's Anita Nagarsingh wins - The Times of India (The Times of India) [neutral]
+- Parliament Of India : Lok Sabha Member Of Parliament - C - Sarkaritel.com (Sarkaritel.com) [neutral]
+- Madhya Pradesh: Stripped of forest portfolio, minister likely to quit - The New Indian Express (The New Indian Express) [neutral]
+- Nepal General Election - news18.com (news18.com) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Rumblings in Madhya Pradesh BJP govt as minister threatens to quit after losing Forest charge to Congress turncoat - indianexpress.com** (indianexpress.com)
+- ! **Ratlam election results 2024 live updates: BJP's Anita Nagarsingh wins - The Times of India** (The Times of India)
+- ! **Parliament Of India : Lok Sabha Member Of Parliament - C - Sarkaritel.com** (Sarkaritel.com)
+- ! **Madhya Pradesh: Stripped of forest portfolio, minister likely to quit - The New Indian Express** (The New Indian Express)
+- ! **Nepal General Election - news18.com** (news18.com)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Madhya Pradesh: 8 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Anita Nagarsingh Chouhan shows moderate transparency with a score of 55.8/100. No criminal cases declared. Low MPLADS fund utilization needs attention.
+Anita Nagarsingh Chouhan shows moderate transparency with a score of 53.6/100. No criminal cases declared. Low MPLADS fund utilization needs attention.
 
 ---
 
-No criminal cases declared. Declared assets: Rs 52,459,353. MPLADS utilization: 30.3%. Parliament attendance: 75.0%. Questions asked: 1. Debates participated: 8.
+No criminal cases declared. MPLADS utilization: 30.3%. Parliament attendance: 75.0%. Questions asked: 1. Debates participated: 8. Low confidence data: Assets. 1 warning(s) noted.
 
 ---
 
@@ -138,7 +147,7 @@ No criminal cases declared. Declared assets: Rs 52,459,353. MPLADS utilization: 
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -236,12 +245,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

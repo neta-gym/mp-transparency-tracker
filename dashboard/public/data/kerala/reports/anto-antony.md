@@ -3,20 +3,18 @@
 **Constituency:** Pathanamthitta, Kerala
 **Party:** Indian National Congress
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 67
-**Education:** Graduate
 **Report Date:** 2026-09-02
-**Data Confidence:** Low (49%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (39%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 45.0 / 100
+## Composite Transparency Score: 35.7 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 11.0 | 25% |
-| Asset Growth | 40.0 | 15% |
-| Criminal Record | 50.0 | 15% |
+| Asset Growth | 45.0 | 15% |
+| Criminal Record | 0.0 | 15% |
 | Parliament Attendance | 80.0 | 10% |
 | Questions & Debates | 80.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
@@ -29,10 +27,18 @@
 
 - **Total Cases:** 5
 - **Serious Cases:** 0
-- **Convictions:** 0
-- **Pending Cases:** 5
+- **Convictions:** 5
+- **Pending Cases:** 0
 - **Disposed Cases:** 0
 - **Data Source:** myneta
+
+### Cases Detail
+
+1. 118(e) KP Act 4(2),3(e), KEDO2020 (Sections: 143, 149, 188, 269) [convicted] 
+2. 118(e) KP Act 4(2),3(e), KEDO2020 (Sections: 143, 147, 149, 188, 269) [convicted] 
+3. 118(e) KP Act 4(2),(a),5 KEDO2020 (Sections: 143, 149, 188, 269) [convicted] 
+4. 118(e) KP Act 4(2),(a),5 KEDO2020 (Sections: 143, 145, 147, 149, 188, 269, 283, 297) [convicted] 
+5. 118(e) KP Act 4(2),(a),5 KEDO2020 (Sections: 143, 147, 149, 188, 269) [convicted] 
 
 ---
 
@@ -40,12 +46,11 @@
 
 - **Movable Assets:** N/A
 - **Immovable Assets:** N/A
-- **Total Assets:** Rs 1.25 Crore
-- **Liabilities:** Rs 1.57 Crore
-- **Net Worth:** Rs -3,201,209
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 10% of Lok Sabha MPs
 
 ---
 
@@ -74,31 +79,43 @@
 *Mixed/neutral coverage (10 articles)*
 
 - **Total Articles:** 10
-- **Positive:** 0 | **Negative:** 1 | **Neutral:** 9
+- **Positive:** 0 | **Negative:** 2 | **Neutral:** 8
 
-- Pathanamthitta MP Anto Antony serves legal notice on CPI(M) leader - The Hindu (The Hindu) [neutral]
+- Rahul Gandhi to campaign in Kerala on March 30, boost UDF prospects across five constituencies - The New Indian Express (The New Indian Express) [neutral]
+- Controversy over election funding of Anto Antony rages - The Hindu (The Hindu) [negative]
 - Anto Antony failed to return 2cr loan, alleges financier - The Times of India (The Times of India) [neutral]
-- NM Raju claims Anto Antony pocketed ₹2 crore; MP denies accusation - Onmanorama (Onmanorama) [neutral]
-- Anto Antony sends legal notice to Udayabhanu, calls allegations baseless - The New Indian Express (The New Indian Express) [neutral]
-- Allegations against Anto Antony for receiving crores from money lending firm where Tantri lost 2.5 crores - Kerala Kaumudi (Kerala Kaumudi) [neutral]
+- Congress MP Anto Antony’s Pulwama remark sparks controversy, BJP demands his arrest - The News Minute (The News Minute) [neutral]
+- Anto Antony admits of receiving money; amount given to election fund by N M Raju - Kerala Kaumudi (Kerala Kaumudi) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Rahul Gandhi to campaign in Kerala on March 30, boost UDF prospects across five constituencies - The New Indian Express** (The New Indian Express)
+- !! **Controversy over election funding of Anto Antony rages - The Hindu** (The Hindu)
+- ! **Anto Antony failed to return 2cr loan, alleges financier - The Times of India** (The Times of India)
+- ! **Congress MP Anto Antony’s Pulwama remark sparks controversy, BJP demands his arrest - The News Minute** (The News Minute)
+- ! **Anto Antony admits of receiving money; amount given to election fund by N M Raju - Kerala Kaumudi** (Kerala Kaumudi)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Kerala: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Anto Antony has a below-average transparency score of 45.0/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Anto Antony has a below-average transparency score of 35.7/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-Has 5 criminal case(s) (0 serious), 5 pending, 0 conviction(s). Declared assets: Rs 12,471,856. MPLADS utilization: 13.8%. Parliament attendance: 80.0%. Questions asked: 61. Debates participated: 10.
+Has 5 criminal case(s) (0 serious), 0 pending, 5 conviction(s). MPLADS utilization: 13.8%. Parliament attendance: 80.0%. Questions asked: 61. Debates participated: 10. Low confidence data: Assets. 1 warning(s) noted.
 
 ---
 
@@ -138,7 +155,7 @@ Has 5 criminal case(s) (0 serious), 5 pending, 0 conviction(s). Declared assets:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -236,12 +253,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

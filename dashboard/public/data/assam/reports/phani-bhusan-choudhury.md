@@ -3,20 +3,18 @@
 **Constituency:** Barpeta, Assam
 **Party:** Asom Gana Parishad
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 72
-**Education:** Graduate
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (39%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 53.3 / 100
+## Composite Transparency Score: 49.0 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 17.7 | 25% |
-| Asset Growth | 60.0 | 15% |
-| Criminal Record | 90.0 | 15% |
+| Asset Growth | 45.0 | 15% |
+| Criminal Record | 80.0 | 15% |
 | Parliament Attendance | 80.0 | 10% |
 | Questions & Debates | 40.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
@@ -28,24 +26,27 @@
 ## Criminal Record
 
 - **Total Cases:** 1
-- **Serious Cases:** 0
+- **Serious Cases:** 1
 - **Convictions:** 0
 - **Pending Cases:** 1
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
+### Cases Detail
+
+1. Bongaigaon P. S. Case No. 360/2020 | Returned in FR vide Bongaigaon PS FR No. 118, Dated 31.03.2022 (Sections: 120B, 420) [pending] **SERIOUS**
+
 ---
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 3.28 Crore
-- **Liabilities:** Rs 15.65 Lakh
-- **Net Worth:** Rs 3.12 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 27% of Lok Sabha MPs
 
 ---
 
@@ -76,29 +77,41 @@
 - **Total Articles:** 10
 - **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
 
-- NDA rift surfaces in Bongaigaon as Asom Gana Parishad (AGP) leader alleges BJP sabotage - The Sentinel - of this Land, for its People (The Sentinel - of this Land, for its People) [neutral]
+- Assam MP Phani Bhusan Choudhury takes bus ride in Bongaigaon, wins praise for simplicity - India Today NE (India Today NE) [neutral]
 - Only four women in fray across Bongaigaon, Chirang as gender gap persists - The Assam Tribune (The Assam Tribune) [neutral]
 - Barpeta election results 2024 live updates: AGP's Phani Bhusan Choudhury wins - The Times of India (The Times of India) [neutral]
-- Assam: Phani Bhusan Choudhury resigns as AGP MLA after historic 8th term - India Today NE (India Today NE) [neutral]
-- Politics should not be done over Zubeen Garg’s death: MP Phani Bhusan Choudhury - The Sentinel - of this Land, for its People (The Sentinel - of this Land, for its People) [neutral]
+- Assam’s longest MLA Phani Bhusan Choudhury begins Lok Sabha journey - ThePrint (ThePrint) [neutral]
+- Lok Sabha MP And AGP Leader Phani Bhusan Choudhury Hospitalised In Guwahati - guwahati Plus News (guwahati Plus News) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Assam MP Phani Bhusan Choudhury takes bus ride in Bongaigaon, wins praise for simplicity - India Today NE** (India Today NE)
+- ! **Only four women in fray across Bongaigaon, Chirang as gender gap persists - The Assam Tribune** (The Assam Tribune)
+- ! **Barpeta election results 2024 live updates: AGP's Phani Bhusan Choudhury wins - The Times of India** (The Times of India)
+- ! **Assam’s longest MLA Phani Bhusan Choudhury begins Lok Sabha journey - ThePrint** (ThePrint)
+- ! **Lok Sabha MP And AGP Leader Phani Bhusan Choudhury Hospitalised In Guwahati - guwahati Plus News** (guwahati Plus News)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Assam: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Phani Bhusan Choudhury shows moderate transparency with a score of 53.3/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance.
+Phani Bhusan Choudhury has a below-average transparency score of 49.0/100, indicating significant room for improvement. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance.
 
 ---
 
-Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Declared assets: Rs 32,806,601. MPLADS utilization: 22.1%. Parliament attendance: 80.0%. Questions asked: 8. Debates participated: 3.
+Has 1 criminal case(s) (1 serious), 1 pending, 0 conviction(s). MPLADS utilization: 22.1%. Parliament attendance: 80.0%. Questions asked: 8. Debates participated: 3. Low confidence data: Assets. 1 warning(s) noted.
 
 ---
 
@@ -138,7 +151,7 @@ Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Declared assets:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -236,12 +249,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

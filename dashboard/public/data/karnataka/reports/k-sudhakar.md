@@ -3,19 +3,17 @@
 **Constituency:** Chikkballapur, Karnataka
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 50
-**Education:** Graduate Professional
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (39%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 56.1 / 100
+## Composite Transparency Score: 55.4 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 13.2 | 25% |
-| Asset Growth | 50.0 | 15% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 90.0 | 15% |
 | Parliament Attendance | 95.0 | 10% |
 | Questions & Debates | 70.0 | 10% |
@@ -34,18 +32,21 @@
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
+### Cases Detail
+
+1. No description (Sections: 499, 500, 501, 34) [pending] 
+
 ---
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 33.42 Crore
-- **Liabilities:** Rs 20.34 Crore
-- **Net Worth:** Rs 13.07 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 79% of Lok Sabha MPs
 
 ---
 
@@ -76,29 +77,41 @@
 - **Total Articles:** 10
 - **Positive:** 0 | **Negative:** 2 | **Neutral:** 8
 
-- Empowering Women With Self-Reliance Is the Biggest Guarantee: Chikkaballapur MP Dr K Sudhakar - Asianet Newsable (Asianet Newsable) [neutral]
-- Empowering women with self-reliance is the biggest guarantee: Chikkaballapur MP Dr K Sudhakar - MSN (MSN) [neutral]
-- Chikkaballapur water: Sudhakar seeks third-stage treatment supply boost - Deccan Herald (Deccan Herald) [neutral]
+- Will work for whoever BJP fields in Chikkaballapur in Assembly poll: MP K Sudhakar - Deccan Herald (Deccan Herald) [neutral]
+- Now, it’s MLA vs MP of saffron party over Kempegowda Jayanti event - Deccan Herald (Deccan Herald) [neutral]
 - Chikkaballapur MP seeks triple-stage treated water under KC, HN Valley projects for drought-hit Bayaluseeme - The New Indian Express (The New Indian Express) [neutral]
-- Karnataka BJP MP Sudhakar warns of padayatra over water quality in Chikkaballapur, Kolar regions - Deccan Herald (Deccan Herald) [neutral]
+- Karnataka BJP MP Sudhakar demands supply of third stage treated water to Chikkaballapur - Deccan Herald (Deccan Herald) [neutral]
+- Chickballapur MP Sudhakar booked for abetment to suicide - thehindu.com (thehindu.com) [negative]
+
+---
+
+## News & Allegations
+
+- ! **Will work for whoever BJP fields in Chikkaballapur in Assembly poll: MP K Sudhakar - Deccan Herald** (Deccan Herald)
+- ! **Now, it’s MLA vs MP of saffron party over Kempegowda Jayanti event - Deccan Herald** (Deccan Herald)
+- ! **Chikkaballapur MP seeks triple-stage treated water under KC, HN Valley projects for drought-hit Bayaluseeme - The New Indian Express** (The New Indian Express)
+- ! **Karnataka BJP MP Sudhakar demands supply of third stage treated water to Chikkaballapur - Deccan Herald** (Deccan Herald)
+- !! **Chickballapur MP Sudhakar booked for abetment to suicide - thehindu.com** (thehindu.com)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Karnataka: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-K Sudhakar shows moderate transparency with a score of 56.1/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+K Sudhakar shows moderate transparency with a score of 55.4/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Declared assets: Rs 334,163,156. MPLADS utilization: 16.5%. Parliament attendance: 95.0%. Questions asked: 49. Debates participated: 11.
+Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). MPLADS utilization: 16.5%. Parliament attendance: 95.0%. Questions asked: 49. Debates participated: 11. Low confidence data: Assets. 1 warning(s) noted.
 
 ---
 
@@ -138,7 +151,7 @@ Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Declared assets:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -236,12 +249,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

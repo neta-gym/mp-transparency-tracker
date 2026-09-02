@@ -3,19 +3,17 @@
 **Constituency:** Hoshangabad, Madhya Pradesh
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 48
-**Education:** Post Graduate
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (37%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 57.1 / 100
+## Composite Transparency Score: 56.3 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 12.9 | 25% |
-| Asset Growth | 50.0 | 15% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 95.0 | 10% |
 | Questions & Debates | 60.0 | 10% |
@@ -38,14 +36,13 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 93.49 Lakh
-- **Liabilities:** Rs 0
-- **Net Worth:** Rs 93.49 Lakh
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 8% of Lok Sabha MPs
 
 ---
 
@@ -76,29 +73,41 @@
 - **Total Articles:** 10
 - **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
 
-- Hoshangabad election results 2024 live updates: BJP's Darshan Singh Choudhary wins - The Times of India (The Times of India) [neutral]
+- Hoshangabad election results 2024 live updates: BJP's Darshan Singh Choudhary wins - timesofindia.indiatimes.com (timesofindia.indiatimes.com) [neutral]
 - Hoshangabad Election Result 2024 Live Updates:BJP's Darshan Singh Choudhary Has Won This Lok Sabha Seat - The Quint (The Quint) [neutral]
-- 'पत्रकारों की सुरक्षा, कल्याण के लिए नीति बनाए सरकार', लोकसभा में BJP सांसद की डिमांड - AajTak (AajTak) [neutral]
 - Illegal sand mining threatens Narmada, warns Hoshangabad MP: 'Dams, hydropower altering river's natural for... - Bhaskar English (Bhaskar English) [neutral]
-- Hoshangabad Election Result 2024 LIVE Updates Highlights: Darshan Singh Choudhary of BJP Wins - News18 (News18) [neutral]
+- Will take work done by government to lowest strata of society: BJP's Gyaneshwar Patil - ANI News (ANI News) [neutral]
+- Hoshangabad lok sabha election results 2024: Hoshangabad Winning Candidates List and Vote Share - India Today (India Today) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Hoshangabad election results 2024 live updates: BJP's Darshan Singh Choudhary wins - timesofindia.indiatimes.com** (timesofindia.indiatimes.com)
+- ! **Hoshangabad Election Result 2024 Live Updates:BJP's Darshan Singh Choudhary Has Won This Lok Sabha Seat - The Quint** (The Quint)
+- ! **Illegal sand mining threatens Narmada, warns Hoshangabad MP: 'Dams, hydropower altering river's natural for... - Bhaskar English** (Bhaskar English)
+- ! **Will take work done by government to lowest strata of society: BJP's Gyaneshwar Patil - ANI News** (ANI News)
+- ! **Hoshangabad lok sabha election results 2024: Hoshangabad Winning Candidates List and Vote Share - India Today** (India Today)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Madhya Pradesh: 8 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Darshan Singh Choudhary shows moderate transparency with a score of 57.1/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Darshan Singh Choudhary shows moderate transparency with a score of 56.3/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-No criminal cases declared. Declared assets: Rs 9,349,061. MPLADS utilization: 16.1%. Parliament attendance: 95.0%. Questions asked: 27. Debates participated: 8.
+No criminal cases declared. MPLADS utilization: 16.1%. Parliament attendance: 95.0%. Questions asked: 27. Debates participated: 8. Low confidence data: Assets. 1 warning(s) noted.
 
 ---
 
@@ -138,7 +147,7 @@ No criminal cases declared. Declared assets: Rs 9,349,061. MPLADS utilization: 1
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -236,12 +245,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

@@ -3,19 +3,17 @@
 **Constituency:** Bastar, Chhattisgarh
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 48
-**Education:** 8th Pass
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (37%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 59.1 / 100
+## Composite Transparency Score: 56.9 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 29.4 | 25% |
-| Asset Growth | 60.0 | 15% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 90.0 | 10% |
 | Questions & Debates | 40.0 | 10% |
@@ -38,14 +36,13 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 39.67 Lakh
-- **Liabilities:** Rs 34,980
-- **Net Worth:** Rs 39.32 Lakh
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 4% of Lok Sabha MPs
 
 ---
 
@@ -74,31 +71,43 @@
 *Mixed/neutral coverage (10 articles)*
 
 - **Total Articles:** 10
-- **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
+- **Positive:** 2 | **Negative:** 0 | **Neutral:** 8
 
-- Chhattisgarh Deputy CM Sharma reviews preparations for Union Home Minister’s visit - News Riveting (News Riveting) [neutral]
 - Nutritional Diet Essential to Prevent Diseases” – MP Mahesh Kashyap - PIB (PIB) [neutral]
-- Union Home Minister invited to Bastar’s 600-year-old Dussehra festival - The Statesman (The Statesman) [neutral]
-- No effigy, no fireworks: 75-day world's longest festival Bastar Dussehra shuns Ravana, celebrates divine - The Times of India (The Times of India) [neutral]
 - 'वो इलाका जहां देवता भी दंडित किए जाते हैं', नवनिर्वाचित सांसद महेश कश्यप ने बताई वजह - AajTak (AajTak) [neutral]
+- Bastar Lok Sabha Constituency: BJP's Mahesh Kashyap to take on Congress' Kawasi Lakhma - aninews.in (aninews.in) [neutral]
+- Lok Sabha polls: Development a poll issue in Bastar where Naxal shadow looms large - The Indian Express (The Indian Express) [positive]
+- Union Home Minister invited to Bastar’s 600-year-old Dussehra festival - The Statesman (The Statesman) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Nutritional Diet Essential to Prevent Diseases” – MP Mahesh Kashyap - PIB** (PIB)
+- ! **'वो इलाका जहां देवता भी दंडित किए जाते हैं', नवनिर्वाचित सांसद महेश कश्यप ने बताई वजह - AajTak** (AajTak)
+- ! **Bastar Lok Sabha Constituency: BJP's Mahesh Kashyap to take on Congress' Kawasi Lakhma - aninews.in** (aninews.in)
+- ! **Lok Sabha polls: Development a poll issue in Bastar where Naxal shadow looms large - The Indian Express** (The Indian Express)
+- ! **Union Home Minister invited to Bastar’s 600-year-old Dussehra festival - The Statesman** (The Statesman)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Chhattisgarh: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Mahesh Kashyap shows moderate transparency with a score of 59.1/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
+Mahesh Kashyap shows moderate transparency with a score of 56.9/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
 
 ---
 
-No criminal cases declared. Declared assets: Rs 3,967,309. MPLADS utilization: 36.7%. Parliament attendance: 90.0%. Questions asked: 14. Debates participated: 3.
+No criminal cases declared. MPLADS utilization: 36.7%. Parliament attendance: 90.0%. Questions asked: 14. Debates participated: 3. Low confidence data: Assets. 1 warning(s) noted.
 
 ---
 
@@ -138,7 +147,7 @@ No criminal cases declared. Declared assets: Rs 3,967,309. MPLADS utilization: 3
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -236,12 +245,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

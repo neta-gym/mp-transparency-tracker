@@ -3,19 +3,17 @@
 **Constituency:** Raichur, Karnataka
 **Party:** Indian National Congress
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 60
-**Education:** Graduate Professional
 **Report Date:** 2026-09-02
-**Data Confidence:** Low (49%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (37%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 54.9 / 100
+## Composite Transparency Score: 53.4 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 11.9 | 25% |
-| Asset Growth | 55.0 | 15% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 90.0 | 10% |
 | Questions & Debates | 40.0 | 10% |
@@ -40,12 +38,11 @@
 
 - **Movable Assets:** N/A
 - **Immovable Assets:** N/A
-- **Total Assets:** Rs 33.41 Crore
-- **Liabilities:** Rs 5.04 Crore
-- **Net Worth:** Rs 28.37 Crore
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 79% of Lok Sabha MPs
 
 ---
 
@@ -74,31 +71,43 @@
 *Mixed/neutral coverage (10 articles)*
 
 - **Total Articles:** 10
-- **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
+- **Positive:** 1 | **Negative:** 0 | **Neutral:** 9
 
-- Raichur MP welcomes Centre’s response to SCs, STs quota Act proposal - The Hindu (The Hindu) [neutral]
-- Karnataka short-changed in railway allocations, says Congress MP Kumar Naik - The Economic Times (The Economic Times) [neutral]
-- ‘Route Bengaluru–Mumbai Vande Bharat Sleeper through Raichur, Yadgir, and Mantralayam’—Karnataka MP writes to Ashwini Vaishnaw - financialexpress.com (financialexpress.com) [neutral]
-- Centre’s move on women’s quota, delimitation aimed at political gains, says MP G. Kumar Naik - The Hindu (The Hindu) [neutral]
-- Cotton procurement, farmer outreach rise in Karnataka: Giriraj Singh - The New Indian Express (The New Indian Express) [neutral]
+- Raichur MP Kumar Naik seeks outcome-based monitoring of minority development scheme - The Hindu (The Hindu) [positive]
+- Raichur MP G Kumar Naik flags sharp decline in central funds for Karnataka's public libraries - Deccan Herald (Deccan Herald) [neutral]
+- Market concentration could hit consumers, jobs & MSMEs, Raichur MP cautions Centre - The Times of India (The Times of India) [neutral]
+- Karnataka short-changed in railway allocations, says Congress MP Kumar Naik - economictimes.com (economictimes.com) [neutral]
+- G. Kumar Naik chairs DISHA meeting in Raichur - The Hindu (The Hindu) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Raichur MP Kumar Naik seeks outcome-based monitoring of minority development scheme - The Hindu** (The Hindu)
+- ! **Raichur MP G Kumar Naik flags sharp decline in central funds for Karnataka's public libraries - Deccan Herald** (Deccan Herald)
+- ! **Market concentration could hit consumers, jobs & MSMEs, Raichur MP cautions Centre - The Times of India** (The Times of India)
+- ! **Karnataka short-changed in railway allocations, says Congress MP Kumar Naik - economictimes.com** (economictimes.com)
+- ! **G. Kumar Naik chairs DISHA meeting in Raichur - The Hindu** (The Hindu)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Karnataka: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-G Kumar Naik shows moderate transparency with a score of 54.9/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
+G Kumar Naik shows moderate transparency with a score of 53.4/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
 
 ---
 
-No criminal cases declared. Declared assets: Rs 334,128,505. MPLADS utilization: 14.9%. Parliament attendance: 90.0%. Questions asked: 11. Debates participated: 2.
+No criminal cases declared. MPLADS utilization: 14.9%. Parliament attendance: 90.0%. Questions asked: 11. Debates participated: 2. Low confidence data: Assets. 1 warning(s) noted.
 
 ---
 
@@ -138,7 +147,7 @@ No criminal cases declared. Declared assets: Rs 334,128,505. MPLADS utilization:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -236,12 +245,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

@@ -7,21 +7,21 @@
 **Education:** Doctorate
 **Profession:** Politician
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Medium (56%) | **Evidence Grade:** Third-party (C)
 
 ---
 
-## Composite Transparency Score: 63.7 / 100
+## Composite Transparency Score: 72.4 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 58.4 | 25% |
-| Asset Growth | 50.0 | 15% |
+| Asset Growth | 85.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 85.0 | 10% |
 | Questions & Debates | 50.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
-| Public Accessibility | 15.0 | 5% |
+| Public Accessibility | 85.0 | 5% |
 | Legislative Effectiveness | 40.0 | 10% |
 
 ---
@@ -39,14 +39,14 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
+- **Movable Assets:** Rs 47.09 Lakh
+- **Immovable Assets:** Rs 1.01 Crore
 - **Total Assets:** Rs 1.48 Crore
 - **Liabilities:** Rs 50.00 Lakh
 - **Net Worth:** Rs 98.46 Lakh
-- **Previous Total Assets:** N/A
-- **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 13% of Lok Sabha MPs
+- **Previous Total Assets:** Rs 47881.74 Crore
+- **Asset Growth:** -100.0%
+- **Wealth Percentile:** Wealthier than 14% of Lok Sabha MPs
 
 ---
 
@@ -70,6 +70,20 @@
 
 ---
 
+## Public Accessibility
+
+- **Platforms:** 4
+
+
+| Platform | Handle | Verified | Active |
+|----------|--------|----------|--------|
+| Twitter | [@share](https://twitter.com/share) | No | Yes |
+| Facebook | [@sharer](https://www.facebook.com/sharer) | No | Yes |
+| Instagram | [@adrspeaks](https://www.instagram.com/adrspeaks) | No | Yes |
+| Youtube | [@adrspeaks](https://www.youtube.com/user/adrspeaks) | No | Yes |
+
+---
+
 ## In The News
 
 *Mixed/neutral coverage (10 articles)*
@@ -77,11 +91,21 @@
 - **Total Articles:** 10
 - **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
 
-- Indra Hang Subba meets Vice President, raises key Sikkim issues - Sikkim Express (Sikkim Express) [neutral]
-- Insider: Sikkim Salutes Modi - Open Magazine (Open Magazine) [neutral]
-- Sikkim MP Indra Hang Subba Calls on Raksha Mantri, Flags Border Connectivity and Infrastructure Concerns - The Sikkim Chronicle (The Sikkim Chronicle) [neutral]
-- Sikkim MP Indra Hang Subba Meets Amit Shah to Discuss Long-Pending Tribal Reservation Issues - Northeast Today (Northeast Today) [neutral]
-- Lok Sabha MP submits memorandum to Meghwal, seeks separate bar council for Sikkim - The Hindu (The Hindu) [neutral]
+- Sikkim MP Indra Hang Subba Meets BRO Chief Engineer To Discuss North Sikkim Connectivity - Northeast Today (Northeast Today) [neutral]
+- MP Indra Hang raises need for expeditious completion of ongoing railway projects in Sikkim - Sikkimexpress (Sikkimexpress) [neutral]
+- Sikkim MP pushes for faster rail connectivity, urges early completion of sevoke-Rangpo line - India Today NE (India Today NE) [neutral]
+- Sikkim MP Subba meets PM Modi; submits Memorandum demanding ST status for 12 communities, assembly seat reservation - ANI News (ANI News) [neutral]
+- Sikkim MP meets Prime Minister Narendra Modi on pending projects - Telegraph India (Telegraph India) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Sikkim MP Indra Hang Subba Meets BRO Chief Engineer To Discuss North Sikkim Connectivity - Northeast Today** (Northeast Today)
+- ! **MP Indra Hang raises need for expeditious completion of ongoing railway projects in Sikkim - Sikkimexpress** (Sikkimexpress)
+- ! **Sikkim MP pushes for faster rail connectivity, urges early completion of sevoke-Rangpo line - India Today NE** (India Today NE)
+- ! **Sikkim MP Subba meets PM Modi; submits Memorandum demanding ST status for 12 communities, assembly seat reservation - ANI News** (ANI News)
+- ! **Sikkim MP meets Prime Minister Narendra Modi on pending projects - Telegraph India** (Telegraph India)
 
 ---
 
@@ -95,7 +119,7 @@
 
 ## Qualitative Assessment
 
-Indra Hang Subba shows moderate transparency with a score of 63.7/100. No criminal cases declared. High parliament attendance.
+Indra Hang Subba demonstrates strong transparency with an overall score of 72.4/100. No criminal cases declared. High parliament attendance.
 
 ---
 
@@ -139,7 +163,7 @@ No criminal cases declared. Declared assets: Rs 14,845,772. MPLADS utilization: 
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -238,11 +262,12 @@ Time limit: PIO must respond within 30 days of receipt.
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
 | Assets | myneta | Official (B) |
+| Committees | sansad | LLM/Estimated (E) |
 | Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: myneta, prs, social_media, news, mplads*
+*Sources consulted: myneta, prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

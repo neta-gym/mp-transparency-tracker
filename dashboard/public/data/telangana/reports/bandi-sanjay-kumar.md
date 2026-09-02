@@ -3,19 +3,17 @@
 **Constituency:** Karimnagar, Telangana
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 52
-**Education:** Post Graduate
 **Report Date:** 2026-09-02
-**Data Confidence:** Low (43%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (31%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 32.7 / 100
+## Composite Transparency Score: 31.2 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 26.2 | 25% |
-| Asset Growth | 55.0 | 15% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 0.0 | 15% |
 | Parliament Attendance | 50.0 | 10% |
 | Questions & Debates | 50.0 | 10% |
@@ -28,24 +26,68 @@
 ## Criminal Record
 
 - **Total Cases:** 42
-- **Serious Cases:** 0
+- **Serious Cases:** 1
 - **Convictions:** 0
 - **Pending Cases:** 42
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
+### Cases Detail
+
+1. Cr. No. 361 of 2024 Madipally P.S. (Sections: 332, 353, 354, 143, 149) [pending] 
+2. Cr. No.360 of 2024 Madipally P.S. (Sections: 332, 353, 143, 149) [pending] 
+3. Cr. No.681 of 2023 II Town PS, Karimanagar (Sections: 153, 188, 171F) [pending] 
+4. Cr. No. 340 of 2023 Abdullapurment P.S (Sections: 504, 509) [pending] 
+5. Cr. No.250 of 2023 of P.S KPHB (Sections: 153, 504, 505(2), 509, 354) [pending] 
+6. Cr. No. 234 of 2023 PS. Pet Basheerabad (Sections: 354A, 504, 509) [pending] 
+7. Cr. No.211 of 2023 P.S Banjara Hills (Sections: 354A, 504, 509) [pending] 
+8. Cr. No. 167 of 2023 PS III Town Karinagar (Sections: 147, 452, 342, 353, 149) [pending] 
+9. Cr. No.159 of 2023 P.S Cyber Crimes Rachakonda | Section 67 IT Act (Sections: 504, 505, 509) [pending] 
+10. Cr. No.67 of 2023 P.S Nakerkal (Sections: 504, 505(1)(b), 509) [pending] 
+11. Cr. No.60 of 2023 P.S Kamalapur | Section 4A, 6 R/W 8 of TS Public Examination Prevention of Malpractices Act 1997, Section 66 D IT Act (Sections: 120B, 420, 447, 505(1)(b)) [pending] **SERIOUS**
+12. Cr. No.47 of 2023 P.S Halia (Sections: 504, 505(1)(b), 509) [pending] 
+13. Cr. No.40 of 2023 Jogipet (Sections: 505(2), 506) [pending] 
+14. Cr. No. 36 of 2023 PS Dharoor (Sections: 504, 506(1)(2), 509) [pending] 
+15. Cr. No.12 of 2023 Devanpally P.S | Section 3 DPPA (Sections: 353, 188, 323, 427, 341, 506, 143, 147, 148, 149) [pending] 
+16. Cr. No.594  of 2022 P.S Hayathnagar (Sections: 505(2)) [pending] 
+17. Cr. No.312 of 2022 Yadagirigutta | Section 7 of Religious Institutions (Prevention of Misuse) Act 1988 (Sections: 504) [pending] 
+18. Cr. No.106 of 2022 P.S Marriguda (Sections: 188, 171C, 177F) [pending] 
+19. Cr. No.140 of 2022 P.S Nagole (Sections: 504, 509) [pending] 
+20. Cr. No. 69 of 2022 P.S Pet Basheerabad (Sections: 504, 506) [pending] 
+21. Cr. No. 2 of 2022  of Karimnagar II Town P.S | Section 51(B) DMA, Section 3 PDPPA (Sections: 147, 188, 341, 332, 149) [pending] 
+22. Cr. No.1 of 2022  of Karimnagar II Town P.S | Section 51(B) DMA (Sections: 147, 188, 341, 149) [pending] 
+23. Cr. No. 398 of 2021 P.S Miryalaguda Rural | Section 51(B) of DM Act (Sections: 341, 143, 147, 188, 149) [pending] 
+24. Cr. No. 370 of 2021 Huzurabad (Sections: 188, 171C, 505(2)) [pending] 
+25. Cr. No. 341 of 2021 P.S Miryalaguda I Town | Section 51(B) of DM Act (Sections: 341, 143, 147, 188, 149) [pending] 
+26. Cr. No. 294 of 2021 P.S Suryapet  II Town (Sections: 143, 147, 148, 188, 171A, 149) [pending] 
+27. Cr. No. 283 of 2021 P.S Nalgonda (R) (Sections: 143, 188, 149) [pending] 
+28. Cr. No.  213 of 2021 P.S Chivemla (Sections: 341, 188, 34) [pending] 
+29. Cr. No.  206  of 2021 P.S Vemulapally (Sections: 143, 147, 188, 149) [pending] 
+30. Cr. No.  205 of 2021 P.s Vemulapally (Sections: 332, 188, 143, 147, 149) [pending] 
+31. Cr. No. 189 of 2021 P.S Atmakur (S) (Sections: 143, 324, 149) [pending] 
+32. Cr. No188 of 2021 P.S Atmakur (Sections: 188) [pending] 
+33. Cr. No. 175 of 2021  P.S Nereducherla (Sections: 341, 427) [pending] 
+34. Cr. No. 174 of 2021 P.S Nereducherla (Sections: 341, 427) [pending] 
+35. Cr. No173 of 2021 P.S Nereducherla (Sections: 143, 147, 188, 149) [pending] 
+36. Cr. No.167 of 2021 P.S Penpahad (Sections: 188, 34) [pending] 
+37. Cr. No. 20/2021, P.S Mattampalli | Section 7(1)(a) CLA 1932 (Sections: 143, 144, 147, 148, 332, 333, 149) [pending] 
+38. Cr. No.963 of 2020 P.S KBHP Colony (Sections: 505(1)(b)) [pending] 
+39. Cr. No.160 of 2020 P.S Market (Sections: 505, 171) [pending] 
+40. Cr. No. 63 of 2020 P.S Peddavoora (Sections: 188, 271, 34) [pending] 
+41. Cr. No. 55 of 2019 P.S Mallial (Sections: 188, 171H) [pending] 
+42. Cr. No. 31 of 2019 P.S Boinpally (Sections: 188) [pending] 
+
 ---
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 1.13 Crore
-- **Liabilities:** Rs 13.40 Lakh
-- **Net Worth:** Rs 99.35 Lakh
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 9% of Lok Sabha MPs
 
 ---
 
@@ -74,32 +116,44 @@
 *Mixed/neutral coverage (10 articles)*
 
 - **Total Articles:** 10
-- **Positive:** 0 | **Negative:** 1 | **Neutral:** 9
+- **Positive:** 0 | **Negative:** 2 | **Neutral:** 8
 
+- Bandi Sanjay says 94% MPLADS funds already committed - The Hindu (The Hindu) [neutral]
+- Bandi Sanjay announces free power for 2K Karimnagar Ganesh pandals - The Siasat Daily (The Siasat Daily) [neutral]
 - Union Minister Bandi Sanjay says ‘all are equal before law’ after his son surrenders in POCSO case - WION (WION) [neutral]
-- Honeytrap and Extortion Attempt against Bandi Sanjay’s Son - Deccan Chronicle (Deccan Chronicle) [neutral]
-- Bandi Bageerath case explained: What happened, who is involved, where it stands - The Siasat Daily (The Siasat Daily) [neutral]
-- Union Minister Bandi Sanjay’s son booked for sexual assault of 17-yr-old - The News Minute (The News Minute) [negative]
-- Bandi Sanjay accuses rival parties of plotting to block BJP from Karimnagar Mayor post - The Hindu (The Hindu) [neutral]
+- "If Guilty, Must Face Punishment": Union Minister Bandi Sanjay On Sexual Assault Case Against Son - NDTV (NDTV) [neutral]
+- Bandi Sanjay Flays TG Decision to Challenge VB-G RAM G in SC - Deccan Chronicle (Deccan Chronicle) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Bandi Sanjay says 94% MPLADS funds already committed - The Hindu** (The Hindu)
+- ! **Bandi Sanjay announces free power for 2K Karimnagar Ganesh pandals - The Siasat Daily** (The Siasat Daily)
+- ! **Union Minister Bandi Sanjay says ‘all are equal before law’ after his son surrenders in POCSO case - WION** (WION)
+- ! **"If Guilty, Must Face Punishment": Union Minister Bandi Sanjay On Sexual Assault Case Against Son - NDTV** (NDTV)
+- ! **Bandi Sanjay Flays TG Decision to Challenge VB-G RAM G in SC - Deccan Chronicle** (Deccan Chronicle)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
 - [!] **parliament_activity**: Low confidence in parliament activity data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Telangana: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Bandi Sanjay Kumar has a below-average transparency score of 32.7/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention.
+Bandi Sanjay Kumar has a below-average transparency score of 31.2/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention.
 
 ---
 
-Has 42 criminal case(s) (0 serious), 42 pending, 0 conviction(s). Declared assets: Rs 11,275,000. MPLADS utilization: 32.7%. Low confidence data: Parliament activity. 1 warning(s) noted.
+Has 42 criminal case(s) (1 serious), 42 pending, 0 conviction(s). MPLADS utilization: 32.7%. Low confidence data: Assets, Parliament activity. 2 warning(s) noted.
 
 ---
 
@@ -139,7 +193,7 @@ Has 42 criminal case(s) (0 serious), 42 pending, 0 conviction(s). Declared asset
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -237,12 +291,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

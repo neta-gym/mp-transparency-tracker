@@ -3,19 +3,17 @@
 **Constituency:** Hardwar, Uttarakhand
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 63
-**Education:** Post Graduate
 **Report Date:** 2026-09-02
-**Data Confidence:** Low (49%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (37%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 53.6 / 100
+## Composite Transparency Score: 52.1 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 1.9 | 25% |
-| Asset Growth | 55.0 | 15% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 95.0 | 10% |
 | Questions & Debates | 40.0 | 10% |
@@ -40,12 +38,11 @@
 
 - **Movable Assets:** N/A
 - **Immovable Assets:** N/A
-- **Total Assets:** Rs 6.76 Crore
-- **Liabilities:** Rs 75.00 Lakh
-- **Net Worth:** Rs 6.01 Crore
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 47% of Lok Sabha MPs
 
 ---
 
@@ -74,32 +71,44 @@
 *Mixed/neutral coverage (10 articles)*
 
 - **Total Articles:** 10
-- **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
+- **Positive:** 0 | **Negative:** 1 | **Neutral:** 9
 
-- Trivendra Singh Rawat Latest News, Updates in Hindi | त्रिवेंद्र सिंह रावत के समाचार और अपडेट - AajTak (AajTak) [neutral]
-- Trivendra Singh Rawat - The Times of India (The Times of India) [neutral]
-- Parliament of India : Lok Sabha Member of Parliament – R - Sarkaritel.com (Sarkaritel.com) [neutral]
-- Haridwar election results 2024 live updates: BJP’s Trivendra Singh Rawat wins against CONG’s Virendra Raw - The Times of India (The Times of India) [neutral]
-- Gadkari, Anurag Thakur, Piyush Goyal, Khattar Among Big Guns In BJP's 2nd List of Lok Sabha Candidates - News18 (News18) [neutral]
+- Trivendra Singh Rawat Latest News, Updates in Hindi | त्रिवेंद्र सिंह रावत के समाचार और अपडेट - Aaj Tak News (Aaj Tak News) [neutral]
+- Parliament Of India : Lok Sabha Member Of Parliament - R - Sarkaritel.com (Sarkaritel.com) [neutral]
+- Zero tolerance for corruption in Uttarakhand, says Rajya Sabha MP Anil Baluni - The Hindu (The Hindu) [negative]
+- BJP LS candidates second list out, Anurag Thakur and Gadkari among the big guns - Prag News (Prag News) [neutral]
+- Uttarakhand CM offers prayers at Tapkeshwar Mahadev Temple for better health of people ahead of polls - ANI News (ANI News) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Trivendra Singh Rawat Latest News, Updates in Hindi | त्रिवेंद्र सिंह रावत के समाचार और अपडेट - Aaj Tak News** (Aaj Tak News)
+- ! **Parliament Of India : Lok Sabha Member Of Parliament - R - Sarkaritel.com** (Sarkaritel.com)
+- !! **Zero tolerance for corruption in Uttarakhand, says Rajya Sabha MP Anil Baluni - The Hindu** (The Hindu)
+- ! **BJP LS candidates second list out, Anurag Thakur and Gadkari among the big guns - Prag News** (Prag News)
+- ! **Uttarakhand CM offers prayers at Tapkeshwar Mahadev Temple for better health of people ahead of polls - ANI News** (ANI News)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
 - [!] **mplads**: Extremely low utilization rate — verify data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Uttarakhand: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Trivendra Singh Rawat shows moderate transparency with a score of 53.6/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
+Trivendra Singh Rawat shows moderate transparency with a score of 52.1/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
 
 ---
 
-No criminal cases declared. Declared assets: Rs 67,552,039. MPLADS utilization: 2.4%. Parliament attendance: 95.0%. Questions asked: 6. Debates participated: 1. 1 warning(s) noted.
+No criminal cases declared. MPLADS utilization: 2.4%. Parliament attendance: 95.0%. Questions asked: 6. Debates participated: 1. Low confidence data: Assets. 2 warning(s) noted.
 
 ---
 
@@ -139,7 +148,7 @@ No criminal cases declared. Declared assets: Rs 67,552,039. MPLADS utilization: 
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -237,12 +246,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

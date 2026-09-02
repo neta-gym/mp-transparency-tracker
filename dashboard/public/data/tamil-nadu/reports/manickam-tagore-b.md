@@ -3,24 +3,22 @@
 **Constituency:** Virudhunagar, Tamil Nadu
 **Party:** Indian National Congress
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 49
-**Education:** Graduate Professional
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (46%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 64.8 / 100
+## Composite Transparency Score: 65.8 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 39.2 | 25% |
-| Asset Growth | 55.0 | 15% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 90.0 | 15% |
 | Parliament Attendance | 100.0 | 10% |
 | Questions & Debates | 90.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
-| Public Accessibility | 15.0 | 5% |
+| Public Accessibility | 65.0 | 5% |
 | Legislative Effectiveness | 40.0 | 10% |
 
 ---
@@ -34,18 +32,21 @@
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
+### Cases Detail
+
+1. 143/11, Tirunagar Police Station, Madurai District, Tamilnadu (Sections: 143, 188, 294b, 353, 341) [pending] 
+
 ---
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 6.17 Crore
-- **Liabilities:** Rs 87.98 Lakh
-- **Net Worth:** Rs 5.29 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 45% of Lok Sabha MPs
 
 ---
 
@@ -69,6 +70,18 @@
 
 ---
 
+## Public Accessibility
+
+- **Platforms:** 2
+
+
+| Platform | Handle | Verified | Active |
+|----------|--------|----------|--------|
+| Twitter | [@http://www.twitter.com/manickamtagore](https://x.com/http://www.twitter.com/manickamtagore) | No | Yes |
+| Facebook | [@http://www.facebook.com/manickamtagore](https://facebook.com/http://www.facebook.com/manickamtagore) | No | Yes |
+
+---
+
 ## In The News
 
 *Mixed/neutral coverage (10 articles)*
@@ -76,29 +89,41 @@
 - **Total Articles:** 10
 - **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
 
-- Tamil Nadu election 2026: Should Congress stand with ‘those rejected by people’, asks MP Manickam Tagore - The Hindu (The Hindu) [neutral]
-- Will seek Madurai North seat from DMK: MP Manickam Tagore - The New Indian Express (The New Indian Express) [neutral]
-- We bore the blame for your mistakes, Congress MP Manickam Tagore tells DMK - The Hindu (The Hindu) [neutral]
-- Congress MP stands firm on demand for sharing power in Tamil Nadu after Assembly poll - The Hindu (The Hindu) [neutral]
-- Virudhunagar election results 2024 live updates: INC's B Manickam Tagore wins against BJP's Radikaa R - The Times of India (The Times of India) [neutral]
+- Making Rahul Gandhi PM in 2029 should be our objective, says B. Manickam Tagore - The Hindu (The Hindu) [neutral]
+- Manickam Tagore Appointed As Tamil Nadu Pradesh Congress Committee President - ETV Bharat (ETV Bharat) [neutral]
+- Manickam Tagore appointed new TNCC chief - The Times of India (The Times of India) [neutral]
+- DMK-baiter Tagore replaces Selvaperunthagai as TN Congress president - The New Indian Express (The New Indian Express) [neutral]
+- Plea for afternoon passenger train from Madurai to Sengottai daily: Virudhunagar MP Manickam Tagore writes to Union Railways Minister - Lotus Times | Madurai (Lotus Times | Madurai) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Making Rahul Gandhi PM in 2029 should be our objective, says B. Manickam Tagore - The Hindu** (The Hindu)
+- ! **Manickam Tagore Appointed As Tamil Nadu Pradesh Congress Committee President - ETV Bharat** (ETV Bharat)
+- ! **Manickam Tagore appointed new TNCC chief - The Times of India** (The Times of India)
+- ! **DMK-baiter Tagore replaces Selvaperunthagai as TN Congress president - The New Indian Express** (The New Indian Express)
+- ! **Plea for afternoon passenger train from Madurai to Sengottai daily: Virudhunagar MP Manickam Tagore writes to Union Railways Minister - Lotus Times | Madurai** (Lotus Times | Madurai)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Tamil Nadu: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Manickam Tagore B shows moderate transparency with a score of 64.8/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Manickam Tagore B shows moderate transparency with a score of 65.8/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Declared assets: Rs 61,719,802. MPLADS utilization: 49.0%. Parliament attendance: 100.0%. Questions asked: 56. Debates participated: 18.
+Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). MPLADS utilization: 49.0%. Parliament attendance: 100.0%. Questions asked: 56. Debates participated: 18. Low confidence data: Assets. 1 warning(s) noted.
 
 ---
 
@@ -138,7 +163,7 @@ Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Declared assets:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -236,12 +261,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

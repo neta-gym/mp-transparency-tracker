@@ -3,10 +3,8 @@
 **Constituency:** Nagapattinam, Tamil Nadu
 **Party:** Communist Party of India
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 62
-**Education:** Post Graduate
 **Report Date:** 2026-09-02
-**Data Confidence:** Low (49%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (46%) | **Evidence Grade:** Secondary (D)
 
 ---
 
@@ -15,12 +13,12 @@
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 19.1 | 25% |
-| Asset Growth | 55.0 | 15% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 90.0 | 15% |
 | Parliament Attendance | 100.0 | 10% |
 | Questions & Debates | 70.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
-| Public Accessibility | 15.0 | 5% |
+| Public Accessibility | 45.0 | 5% |
 | Legislative Effectiveness | 40.0 | 10% |
 
 ---
@@ -34,18 +32,21 @@
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
+### Cases Detail
+
+1. RPF/ Thanjavur Crime No 33/2017 | Section 147, 174(a) R. Act 1989 (Sections: N/A) [pending] 
+
 ---
 
 ## Asset Declaration
 
 - **Movable Assets:** N/A
 - **Immovable Assets:** N/A
-- **Total Assets:** Rs 1.11 Crore
-- **Liabilities:** Rs 28.54 Lakh
-- **Net Worth:** Rs 82.08 Lakh
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 9% of Lok Sabha MPs
 
 ---
 
@@ -69,25 +70,48 @@
 
 ---
 
+## Public Accessibility
+
+- **Platforms:** 1
+
+
+| Platform | Handle | Verified | Active |
+|----------|--------|----------|--------|
+| Twitter | [@https://x.com/i/flow/login?redirect_after_login=%2FVSELVARAJCPI](https://x.com/https://x.com/i/flow/login?redirect_after_login=%2FVSELVARAJCPI) | No | Yes |
+
+---
+
 ## In The News
 
 *Mixed/neutral coverage (10 articles)*
 
 - **Total Articles:** 10
-- **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
+- **Positive:** 0 | **Negative:** 1 | **Neutral:** 9
 
-- Roadwork yet to begin in SC hamlet near Nagapattinam, residents flag delay - The Hindu (The Hindu) [neutral]
-- CPI’s V Selvaraj wins Nagapattinam in debut general election with overwhelming margin - The New Indian Express (The New Indian Express) [neutral]
 - Nagapattinam MP seeks introduction of passenger services on the newly constructed Karaikal - Peralam BG line - The Hindu (The Hindu) [neutral]
+- CPI’s V Selvaraj wins Nagapattinam in debut general election with overwhelming margin - newindianexpress.com (newindianexpress.com) [neutral]
 - Tamil Nadu: Four-time CPI MP M Selvaraj passes away at 67 - The News Minute (The News Minute) [neutral]
 - Nagapattinam election results 2024 live updates: CPI's Selvaraj wins - The Times of India (The Times of India) [neutral]
+- Nagapattinam MP and veteran CPI leader, M. Selvaraj, no more - The Hindu (The Hindu) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Nagapattinam MP seeks introduction of passenger services on the newly constructed Karaikal - Peralam BG line - The Hindu** (The Hindu)
+- ! **CPI’s V Selvaraj wins Nagapattinam in debut general election with overwhelming margin - newindianexpress.com** (newindianexpress.com)
+- ! **Tamil Nadu: Four-time CPI MP M Selvaraj passes away at 67 - The News Minute** (The News Minute)
+- ! **Nagapattinam election results 2024 live updates: CPI's Selvaraj wins - The Times of India** (The Times of India)
+- ! **Nagapattinam MP and veteran CPI leader, M. Selvaraj, no more - The Hindu** (The Hindu)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Tamil Nadu: 7 relevant findings
 
 ---
@@ -98,7 +122,7 @@ Selvaraj V shows moderate transparency with a score of 58.8/100. Minor criminal 
 
 ---
 
-Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Declared assets: Rs 11,062,368. MPLADS utilization: 23.9%. Parliament attendance: 100.0%. Questions asked: 42. Debates participated: 6.
+Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). MPLADS utilization: 23.9%. Parliament attendance: 100.0%. Questions asked: 42. Debates participated: 6. Low confidence data: Assets. 1 warning(s) noted.
 
 ---
 
@@ -138,7 +162,7 @@ Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Declared assets:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -236,12 +260,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

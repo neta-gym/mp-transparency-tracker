@@ -4,31 +4,31 @@
 **Party:** Indian National Congress
 **House:** Lok Sabha (18th Parliament, 2024-present)
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Third-party (C)
+**Data Confidence:** Low (34%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 58.0 / 100
+## Composite Transparency Score: 54.3 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 31.4 | 25% |
-| Asset Growth | 60.0 | 15% |
-| Criminal Record | 70.0 | 15% |
+| Asset Growth | 45.0 | 15% |
+| Criminal Record | 45.0 | 15% |
 | Parliament Attendance | 100.0 | 10% |
 | Questions & Debates | 70.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
-| Public Accessibility | 15.0 | 5% |
+| Public Accessibility | 85.0 | 5% |
 | Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
 ## Criminal Record
 
-- **Total Cases:** 3
+- **Total Cases:** 0
 - **Serious Cases:** 0
 - **Convictions:** 0
-- **Pending Cases:** 3
+- **Pending Cases:** 0
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
@@ -36,14 +36,13 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 28.72 Crore
-- **Liabilities:** Rs 73.48 Lakh
-- **Net Worth:** Rs 27.99 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 77% of Lok Sabha MPs
 
 ---
 
@@ -67,6 +66,19 @@
 
 ---
 
+## Public Accessibility
+
+- **Platforms:** 3
+
+
+| Platform | Handle | Verified | Active |
+|----------|--------|----------|--------|
+| Twitter | [@https://x.com/kiran_chamala](https://x.com/https://x.com/kiran_chamala) | No | Yes |
+| Facebook | [@https://www.facebook.com/chamalakiran/](https://facebook.com/https://www.facebook.com/chamalakiran/) | No | Yes |
+| Instagram | [@https://www.instagram.com/chamalakirankumarreddy/](https://instagram.com/https://www.instagram.com/chamalakirankumarreddy/) | No | Yes |
+
+---
+
 ## In The News
 
 *Mixed/neutral coverage (10 articles)*
@@ -74,29 +86,42 @@
 - **Total Articles:** 10
 - **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
 
-- MP Chamala felicitates meritorious SSC students - The Hindu (The Hindu) [neutral]
-- Chamala rubbishes Jagadish’s claims on paddy procurement - The Hans India (The Hans India) [neutral]
-- `Fair share or political threat’: Bhongir MP Kiran Reddy criticizes PM for `turning Telangana visit into political rhetoric’ - NewsMeter (NewsMeter) [neutral]
-- Chamala accuses BJP of politicising women’s quota - The New Indian Express (The New Indian Express) [neutral]
-- Chamala Kiran Reddy lays foundation stone for temple - Dailyhunt (Dailyhunt) [neutral]
+- Lite byte | A tale of two responses - The New Indian Express (The New Indian Express) [neutral]
+- It’s anti-Telangana game-plan: TPCC's Chamala - The New Indian Express (The New Indian Express) [neutral]
+- MP Chamala bats for HYDRAA Commissioner Ranganath - The Hindu (The Hindu) [neutral]
+- Congress MP to file case against Telugu Scribe over Revanth smear - The Siasat Daily (The Siasat Daily) [neutral]
+- Bhongir MP Defends HYDRAA, Appeals to High Court To Consider Larger Public Interest - Deccan Chronicle (Deccan Chronicle) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Lite byte | A tale of two responses - The New Indian Express** (The New Indian Express)
+- ! **It’s anti-Telangana game-plan: TPCC's Chamala - The New Indian Express** (The New Indian Express)
+- ! **MP Chamala bats for HYDRAA Commissioner Ranganath - The Hindu** (The Hindu)
+- ! **Congress MP to file case against Telugu Scribe over Revanth smear - The Siasat Daily** (The Siasat Daily)
+- ! **Bhongir MP Defends HYDRAA, Appeals to High Court To Consider Larger Public Interest - Deccan Chronicle** (Deccan Chronicle)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
+- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Telangana: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Chamala Kiran Kumar Reddy shows moderate transparency with a score of 58.0/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Chamala Kiran Kumar Reddy shows moderate transparency with a score of 54.3/100. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-Has 3 criminal case(s) (0 serious), 3 pending, 0 conviction(s). Declared assets: Rs 287,211,468. MPLADS utilization: 39.3%. Parliament attendance: 100.0%. Questions asked: 36. Debates participated: 6.
+No criminal cases declared. MPLADS utilization: 39.3%. Parliament attendance: 100.0%. Questions asked: 36. Debates participated: 6. Low confidence data: Criminal record, Assets. 2 warning(s) noted.
 
 ---
 
@@ -136,7 +161,7 @@ Has 3 criminal case(s) (0 serious), 3 pending, 0 conviction(s). Declared assets:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -234,10 +259,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

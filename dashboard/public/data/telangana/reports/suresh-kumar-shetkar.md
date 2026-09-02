@@ -3,22 +3,20 @@
 **Constituency:** Zahirabad, Telangana
 **Party:** Indian National Congress
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 63
-**Education:** Graduate
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (39%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 53.0 / 100
+## Composite Transparency Score: 48.5 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 8.9 | 25% |
-| Asset Growth | 60.0 | 15% |
-| Criminal Record | 90.0 | 15% |
-| Parliament Attendance | 70.0 | 10% |
-| Questions & Debates | 70.0 | 10% |
+| Asset Growth | 45.0 | 15% |
+| Criminal Record | 80.0 | 15% |
+| Parliament Attendance | 75.0 | 10% |
+| Questions & Debates | 60.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
 | Public Accessibility | 15.0 | 5% |
 | Legislative Effectiveness | 40.0 | 10% |
@@ -28,24 +26,27 @@
 ## Criminal Record
 
 - **Total Cases:** 1
-- **Serious Cases:** 0
+- **Serious Cases:** 1
 - **Convictions:** 0
 - **Pending Cases:** 1
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
+### Cases Detail
+
+1. 107/2020, Narayankhed P.S | Section 156(3) Cr.P.C. (Sections: 406, 409, 420, 34) [pending] **SERIOUS**
+
 ---
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 10.77 Crore
-- **Liabilities:** Rs 64.47 Lakh
-- **Net Worth:** Rs 10.13 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 60% of Lok Sabha MPs
 
 ---
 
@@ -61,9 +62,9 @@
 
 ## Parliament Activity
 
-- **Attendance:** 70.0%
-- **Questions Asked:** 45
-- **Debates Participated:** 8
+- **Attendance:** 75.0%
+- **Questions Asked:** 36
+- **Debates Participated:** 3
 - **Private Bills:** 0
 - **Is Minister:** No
 
@@ -77,28 +78,40 @@
 - **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
 
 - Zahirabad election results 2024 live updates: Cong's Suresh Kumar Shetkar wins - The Times of India (The Times of India) [neutral]
-- Suresh Shetkar, Balram Naik among four Congress candidates named from Telangana - The News Minute (The News Minute) [neutral]
+- Internal squabbles delay Sangareddy DCC chief appointment - The New Indian Express (The New Indian Express) [neutral]
+- Suresh Kumar Shetkar , INC candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details. - The Hindu (The Hindu) [neutral]
 - Triangular Battle Brews in Zaheerabad Lok Sabha Seat: Advantage Congress - Deccan Chronicle (Deccan Chronicle) [neutral]
 - Zahirabad lok sabha election results 2024: Zahirabad Winning Candidates List and Vote Share - India Today (India Today) [neutral]
-- Congress’ 1st list of candidates for LS polls in Telangana released - The Siasat Daily (The Siasat Daily) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Zahirabad election results 2024 live updates: Cong's Suresh Kumar Shetkar wins - The Times of India** (The Times of India)
+- ! **Internal squabbles delay Sangareddy DCC chief appointment - The New Indian Express** (The New Indian Express)
+- ! **Suresh Kumar Shetkar , INC candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details. - The Hindu** (The Hindu)
+- ! **Triangular Battle Brews in Zaheerabad Lok Sabha Seat: Advantage Congress - Deccan Chronicle** (Deccan Chronicle)
+- ! **Zahirabad lok sabha election results 2024: Zahirabad Winning Candidates List and Vote Share - India Today** (India Today)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Telangana: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Suresh Kumar Shetkar shows moderate transparency with a score of 53.0/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. Active in questions and debates.
+Suresh Kumar Shetkar has a below-average transparency score of 48.5/100, indicating significant room for improvement. Minor criminal cases on record. Low MPLADS fund utilization needs attention. Active in questions and debates.
 
 ---
 
-Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Declared assets: Rs 107,711,726. MPLADS utilization: 11.2%. Parliament attendance: 70.0%. Questions asked: 45. Debates participated: 8.
+Has 1 criminal case(s) (1 serious), 1 pending, 0 conviction(s). MPLADS utilization: 11.2%. Parliament attendance: 75.0%. Questions asked: 36. Debates participated: 3. Low confidence data: Assets. 1 warning(s) noted.
 
 ---
 
@@ -138,7 +151,7 @@ Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Declared assets:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -236,12 +249,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

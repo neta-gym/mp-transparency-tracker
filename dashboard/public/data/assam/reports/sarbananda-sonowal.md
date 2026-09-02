@@ -3,24 +3,22 @@
 **Constituency:** Dibrugarh, Assam
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 62
-**Education:** Graduate Professional
 **Report Date:** 2026-09-02
-**Data Confidence:** Low (43%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (37%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 49.9 / 100
+## Composite Transparency Score: 50.1 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 8.1 | 25% |
-| Asset Growth | 60.0 | 15% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 50.0 | 10% |
 | Questions & Debates | 50.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
-| Public Accessibility | 15.0 | 5% |
+| Public Accessibility | 65.0 | 5% |
 | Legislative Effectiveness | 40.0 | 10% |
 
 ---
@@ -38,14 +36,13 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 4.76 Crore
-- **Liabilities:** Rs 25.78 Lakh
-- **Net Worth:** Rs 4.50 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 38% of Lok Sabha MPs
 
 ---
 
@@ -69,37 +66,61 @@
 
 ---
 
+## Public Accessibility
+
+- **Platforms:** 2
+
+
+| Platform | Handle | Verified | Active |
+|----------|--------|----------|--------|
+| Twitter | [@https://x.com/sarbanandsonwal/status/1402868329748910083](https://x.com/https://x.com/sarbanandsonwal/status/1402868329748910083) | No | Yes |
+| Facebook | [@https://www.facebook.com/SarbanandaSonowal/](https://facebook.com/https://www.facebook.com/SarbanandaSonowal/) | No | Yes |
+
+---
+
 ## In The News
 
 *Mixed/neutral coverage (10 articles)*
 
 - **Total Articles:** 10
-- **Positive:** 1 | **Negative:** 0 | **Neutral:** 9
+- **Positive:** 2 | **Negative:** 0 | **Neutral:** 8
 
-- Sarbananda Sonowal calls for stronger state BJP grassroots coordination post-election - The Sentinel - of this Land, for its People (The Sentinel - of this Land, for its People) [neutral]
-- 'PM Modi turned sports into mass movement', says Sarbananda Sonowal at Dibrugarh Khel Mahotsav - ANI News (ANI News) [neutral]
-- Union Minister Sarbananda Sonowal reviews organisational strength, strategy with BJP Mandal presidents in Tinsukia - lokmattimes.com (lokmattimes.com) [neutral]
-- Assam: BJP holds executive meeting in Dibrugarh, focus on Assembly Poll preparations - Northeast Now (English) (Northeast Now (English)) [neutral]
-- Workers are the backbone of nation-building: Sarbananda Sonowal in Dibrugarh - India Today NE (India Today NE) [neutral]
+- Sonowal calls for faster rollout of parking project to ease traffic congestion - timesofindia.indiatimes.com (timesofindia.indiatimes.com) [neutral]
+- Sarbananda Sonowal Assures Complete Central Support for Assam Flood Victims, Reviews Relief Operations in S... - NE India Broadcast (NE India Broadcast) [positive]
+- Sonowal reviews progress of state’s largest multi-sport stadium in Dibrugarh - timesofindia.indiatimes.com (timesofindia.indiatimes.com) [positive]
+- Digboi Refinery Capacity to Expand to 1 Million Tonnes under PM Narendra Modi ji's Vision of an Atmanirbhar Assam: Shri Sarbananda Sonowal - pib.gov.in (pib.gov.in) [neutral]
+- Election results 2024: Union minister Sarbananda Sonowal wins Dibrugarh seat by 2,79,321 vote margin | India News - Hindustan Times (Hindustan Times) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Sonowal calls for faster rollout of parking project to ease traffic congestion - timesofindia.indiatimes.com** (timesofindia.indiatimes.com)
+- ! **Sarbananda Sonowal Assures Complete Central Support for Assam Flood Victims, Reviews Relief Operations in S... - NE India Broadcast** (NE India Broadcast)
+- ! **Sonowal reviews progress of state’s largest multi-sport stadium in Dibrugarh - timesofindia.indiatimes.com** (timesofindia.indiatimes.com)
+- ! **Digboi Refinery Capacity to Expand to 1 Million Tonnes under PM Narendra Modi ji's Vision of an Atmanirbhar Assam: Shri Sarbananda Sonowal - pib.gov.in** (pib.gov.in)
+- ! **Election results 2024: Union minister Sarbananda Sonowal wins Dibrugarh seat by 2,79,321 vote margin | India News - Hindustan Times** (Hindustan Times)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
 - [!] **parliament_activity**: Low confidence in parliament activity data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Assam: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Sarbananda Sonowal has a below-average transparency score of 49.9/100, indicating significant room for improvement. No criminal cases declared. Low MPLADS fund utilization needs attention.
+Sarbananda Sonowal shows moderate transparency with a score of 50.1/100. No criminal cases declared. Low MPLADS fund utilization needs attention.
 
 ---
 
-No criminal cases declared. Declared assets: Rs 47,585,258. MPLADS utilization: 10.1%. Low confidence data: Parliament activity. 1 warning(s) noted.
+No criminal cases declared. MPLADS utilization: 10.1%. Low confidence data: Assets, Parliament activity. 2 warning(s) noted.
 
 ---
 
@@ -139,7 +160,7 @@ No criminal cases declared. Declared assets: Rs 47,585,258. MPLADS utilization: 
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -237,12 +258,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

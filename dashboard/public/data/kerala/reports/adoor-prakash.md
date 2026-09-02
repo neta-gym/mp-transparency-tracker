@@ -7,21 +7,21 @@
 **Education:** Graduate Professional
 **Profession:** Lawer
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Medium (57%) | **Evidence Grade:** Third-party (C)
 
 ---
 
-## Composite Transparency Score: 40.4 / 100
+## Composite Transparency Score: 48.4 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 11.8 | 25% |
-| Asset Growth | 55.0 | 15% |
+| Asset Growth | 85.0 | 15% |
 | Criminal Record | 0.0 | 15% |
 | Parliament Attendance | 100.0 | 10% |
 | Questions & Debates | 80.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
-| Public Accessibility | 15.0 | 5% |
+| Public Accessibility | 85.0 | 5% |
 | Legislative Effectiveness | 40.0 | 10% |
 
 ---
@@ -29,24 +29,53 @@
 ## Criminal Record
 
 - **Total Cases:** 13
-- **Serious Cases:** 0
-- **Convictions:** 0
-- **Pending Cases:** 13
+- **Serious Cases:** 2
+- **Convictions:** 3
+- **Pending Cases:** 10
 - **Disposed Cases:** 0
 - **Data Source:** myneta
+
+### Cases Detail
+
+1. Contonment
+Thiruvananthapuram
+253/2022 | Section 4(2)(e) 4(2)(f) KEDO, Section 77(B) KP Act (Sections: 143, 147, 149) [pending] 
+2. Contonment
+Thiruvananthapuram
+1329/2021 | Section 39,121 KP Act 4
+(2) (e ) (Sections: 143, 147, 149, 283) [pending] 
+3. Mangalapuram
+973/2020 | Section 118E of KP Act (Sections: 143, 147, 149, 188, 283, 269, 270, 271) [pending] 
+4. Nedumangad
+1799/2020 | Section 118 (e ) of KP
+Act & Sec 4(2) (a) 5 of
+KEDO Act (Sections: 143, 147, 149, 188, 269, 283) [pending] 
+5. Nedumangad
+2233/2020 | Section 118(e) KP Act
+Sec 4(2)(a), 5 of KEDO
+Act (Sections: 143, 147, 149, 188, 269, 283) [pending] 
+6. 1993/2018
+Varkale Police station (Sections: 143, 147, 149, 283) [pending] 
+7. 5/2016, C.R.M.P, 102/2016, Police Station VACB SIU 2 06-06-2016 | Section 13(1)d of the prevention of Corruption Act (Sections: N/A) [pending] **SERIOUS**
+8. Contonment Thiruvananthapuram | Section 151 CRPC, Final report submitted on 23/05/2008, Prieventive arrest on 23-05-2018 at in front of secretariat main gate (Sections: N/A) [pending] 
+9. VC/02/2008 VACB, Northern Range, Kozhikkode | Section 7, 15, 13(1) d of the Prevention of Corruption Act (Sections: N/A) [pending] **SERIOUS**
+10. Vigilance Special Bureau (Sections: N/A) [pending] 
+11. No description (Sections: 147, 143, 149, 283) [convicted] 
+12. Section 118E KP Net KEDO  Act (Sections: 188, 269) [convicted] 
+13. 11/2691, 2118 & KP Act of the KEDO (Sections: N/A) [convicted] 
 
 ---
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
+- **Movable Assets:** Rs 10.47 Crore
+- **Immovable Assets:** Rs 7.62 Crore
 - **Total Assets:** Rs 18.09 Crore
 - **Liabilities:** Rs 3.68 Crore
 - **Net Worth:** Rs 14.41 Crore
-- **Previous Total Assets:** N/A
-- **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 70% of Lok Sabha MPs
+- **Previous Total Assets:** Rs 14409861214.00 Crore
+- **Asset Growth:** -100.0%
+- **Wealth Percentile:** Wealthier than 67% of Lok Sabha MPs
 
 ---
 
@@ -70,18 +99,42 @@
 
 ---
 
+## Public Accessibility
+
+- **Platforms:** 4
+
+
+| Platform | Handle | Verified | Active |
+|----------|--------|----------|--------|
+| Twitter | [@share](https://twitter.com/share) | No | Yes |
+| Facebook | [@sharer](https://www.facebook.com/sharer) | No | Yes |
+| Instagram | [@adrspeaks](https://www.instagram.com/adrspeaks) | No | Yes |
+| Youtube | [@adrspeaks](https://www.youtube.com/user/adrspeaks) | No | Yes |
+
+---
+
 ## In The News
 
 *Mixed/neutral coverage (10 articles)*
 
 - **Total Articles:** 10
-- **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
+- **Positive:** 1 | **Negative:** 0 | **Neutral:** 9
 
+- Vizhinjam to Navaikulam Outer Ring Road project: Environmental clearance delayed - The New Indian Express (The New Indian Express) [neutral]
 - Kerala Assembly Elections 2026: Adoor Prakash’s stance adds to Congress confusion in Pathanamthitta - The Hindu (The Hindu) [neutral]
-- Congress high command bars MPs from contesting; K Sudhakaran, Adoor Prakash face setback - Mathrubhumi English (Mathrubhumi English) [neutral]
 - Congress delays final candidate list in Kerala as MPs knock on the Assembly door - The South First (The South First) [neutral]
 - Speculation rife over Congress MPs’ candidature, but not all in favour - The New Indian Express (The New Indian Express) [neutral]
-- Sabarimala Gold Heist: SIT Grills UDF Convener Adoor Prakash As Political War Of Words Escalates - ETV Bharat (ETV Bharat) [neutral]
+- Attingal election results 2024 live updates: Cong's Adoor Prakash emerges as winner - The Times of India (The Times of India) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Vizhinjam to Navaikulam Outer Ring Road project: Environmental clearance delayed - The New Indian Express** (The New Indian Express)
+- ! **Kerala Assembly Elections 2026: Adoor Prakash’s stance adds to Congress confusion in Pathanamthitta - The Hindu** (The Hindu)
+- ! **Congress delays final candidate list in Kerala as MPs knock on the Assembly door - The South First** (The South First)
+- ! **Speculation rife over Congress MPs’ candidature, but not all in favour - The New Indian Express** (The New Indian Express)
+- ! **Attingal election results 2024 live updates: Cong's Adoor Prakash emerges as winner - The Times of India** (The Times of India)
 
 ---
 
@@ -95,11 +148,11 @@
 
 ## Qualitative Assessment
 
-Adoor Prakash has a below-average transparency score of 40.4/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Adoor Prakash has a below-average transparency score of 48.4/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-Has 13 criminal case(s) (0 serious), 13 pending, 0 conviction(s). Declared assets: Rs 180,933,863. MPLADS utilization: 14.7%. Parliament attendance: 100.0%. Questions asked: 55. Debates participated: 13.
+Has 13 criminal case(s) (2 serious), 10 pending, 3 conviction(s). Declared assets: Rs 180,933,863. MPLADS utilization: 14.7%. Parliament attendance: 100.0%. Questions asked: 55. Debates participated: 13.
 
 ---
 
@@ -139,7 +192,7 @@ Has 13 criminal case(s) (0 serious), 13 pending, 0 conviction(s). Declared asset
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -238,11 +291,12 @@ Time limit: PIO must respond within 30 days of receipt.
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
 | Assets | myneta | Official (B) |
+| Committees | sansad | LLM/Estimated (E) |
 | Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: myneta, prs, social_media, news, mplads*
+*Sources consulted: myneta, prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

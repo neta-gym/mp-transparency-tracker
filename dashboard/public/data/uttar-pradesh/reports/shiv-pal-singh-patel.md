@@ -3,24 +3,22 @@
 **Constituency:** Pratapgarh, Uttar Pradesh
 **Party:** Samajwadi Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 68
-**Education:** Post Graduate
 **Report Date:** 2026-09-02
-**Data Confidence:** Low (49%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (44%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 56.1 / 100
+## Composite Transparency Score: 51.1 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 17.8 | 25% |
-| Asset Growth | 60.0 | 15% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 100.0 | 15% |
-| Parliament Attendance | 85.0 | 10% |
-| Questions & Debates | 40.0 | 10% |
+| Parliament Attendance | 70.0 | 10% |
+| Questions & Debates | 20.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
-| Public Accessibility | 15.0 | 5% |
+| Public Accessibility | 45.0 | 5% |
 | Legislative Effectiveness | 40.0 | 10% |
 
 ---
@@ -40,12 +38,11 @@
 
 - **Movable Assets:** N/A
 - **Immovable Assets:** N/A
-- **Total Assets:** Rs 46.64 Crore
-- **Liabilities:** Rs 10.00 Lakh
-- **Net Worth:** Rs 46.54 Crore
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 84% of Lok Sabha MPs
 
 ---
 
@@ -61,11 +58,22 @@
 
 ## Parliament Activity
 
-- **Attendance:** 85.0%
-- **Questions Asked:** 13
+- **Attendance:** 70.0%
+- **Questions Asked:** 0
 - **Debates Participated:** 3
 - **Private Bills:** 0
 - **Is Minister:** No
+
+---
+
+## Public Accessibility
+
+- **Platforms:** 1
+
+
+| Platform | Handle | Verified | Active |
+|----------|--------|----------|--------|
+| Facebook | [@https://www.facebook.com/DrSPSinghShivPalSinghPatel/](https://facebook.com/https://www.facebook.com/DrSPSinghShivPalSinghPatel/) | No | Yes |
 
 ---
 
@@ -76,29 +84,41 @@
 - **Total Articles:** 10
 - **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
 
-- Uttar Pradesh MP List With Constituencies, Role of MPs in Uttar Pradesh - PW (PW) [neutral]
-- Shiv Pal Singh Patel - The Times of India (The Times of India) [neutral]
 - Pratapgarh election results 2024: SP's Shiv Pal Singh wins - The Times of India (The Times of India) [neutral]
-- Dramatic Turnaround In Uttar Pradesh - thecitizen.in (thecitizen.in) [neutral]
-- Pratapgarh Election Result 2024 LIVE Updates Highlights: Shiv Pal Singh Patel (Dr S P Singh) of SP Wins - News18 (News18) [neutral]
+- Uttar Pradesh MP List With Constituencies, Role of MPs in Uttar Pradesh - PW (PW) [neutral]
+- ‘Raja Bhaiya’ factor tilting odds against BJP-led NDA in Kaushambi, Pratapgarh & now Mirzapur - ThePrint (ThePrint) [neutral]
+- Cong, SP wrest 3 out of 4 seats in Prayagraj region from BJP | Hindustan Times - Hindustan Times (Hindustan Times) [neutral]
+- प्रतापगढ़ Lok Sabha Elections 2024 - Jansatta (Jansatta) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Pratapgarh election results 2024: SP's Shiv Pal Singh wins - The Times of India** (The Times of India)
+- ! **Uttar Pradesh MP List With Constituencies, Role of MPs in Uttar Pradesh - PW** (PW)
+- ! **‘Raja Bhaiya’ factor tilting odds against BJP-led NDA in Kaushambi, Pratapgarh & now Mirzapur - ThePrint** (ThePrint)
+- ! **Cong, SP wrest 3 out of 4 seats in Prayagraj region from BJP | Hindustan Times - Hindustan Times** (Hindustan Times)
+- ! **प्रतापगढ़ Lok Sabha Elections 2024 - Jansatta** (Jansatta)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Uttar Pradesh: 8 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Shiv Pal Singh Patel shows moderate transparency with a score of 56.1/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
+Shiv Pal Singh Patel shows moderate transparency with a score of 51.1/100. No criminal cases declared. Low MPLADS fund utilization needs attention. Limited participation in parliamentary proceedings.
 
 ---
 
-No criminal cases declared. Declared assets: Rs 466,376,372. MPLADS utilization: 22.2%. Parliament attendance: 85.0%. Questions asked: 13. Debates participated: 3.
+No criminal cases declared. MPLADS utilization: 22.2%. Parliament attendance: 70.0%. Debates participated: 3. Low confidence data: Assets. 1 warning(s) noted.
 
 ---
 
@@ -138,7 +158,7 @@ No criminal cases declared. Declared assets: Rs 466,376,372. MPLADS utilization:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -236,12 +256,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

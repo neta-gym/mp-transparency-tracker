@@ -3,24 +3,22 @@
 **Constituency:** Medak, Telangana
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 59
-**Education:** Graduate Professional
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (46%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 37.9 / 100
+## Composite Transparency Score: 39.6 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 13.2 | 25% |
-| Asset Growth | 50.0 | 15% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 0.0 | 15% |
 | Parliament Attendance | 100.0 | 10% |
 | Questions & Debates | 60.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
-| Public Accessibility | 15.0 | 5% |
+| Public Accessibility | 65.0 | 5% |
 | Legislative Effectiveness | 40.0 | 10% |
 
 ---
@@ -28,24 +26,55 @@
 ## Criminal Record
 
 - **Total Cases:** 29
-- **Serious Cases:** 0
+- **Serious Cases:** 1
 - **Convictions:** 0
 - **Pending Cases:** 29
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
+### Cases Detail
+
+1. Cr.No-393/2020, PS-Begumpet, Hyderabad | Sec.171B r/w 171E and 123 of The Representation of the People Act, 1951. (Sections: N/A) [pending] 
+2. Cr.No-19/2008, Ps-Ramachandra Puram, Cyberabad | Sec. 151 of CRPC. (Sections: N/A) [pending] 
+3. Cr.No-240/2020, Ps-Dubbak Siddipet (Sections: 143, 188, 341, 34) [pending] 
+4. Cr.No-242/2020, Ps-Siddipet I Town, Siddipet | Sec. 51 DMA. (Sections: 143, 341, 188) [pending] 
+5. Cr.No-08/2023, Ps-Devanpally Kamareddy | Sec. 3 PDPPA (Sections: 323, 504, 149, 143, 147, 353, 324) [pending] 
+6. Cr.No-126/2021, Ps-Peddavoora, Nalgonda | Sec.57 DM Act. (Sections: 269, 188) [pending] 
+7. Cr.No-127/2021, Ps-Peddavoora, Nalgonda (Sections: 188) [pending] 
+8. Cr.No-193/2022, PS-Sangareddy Rural, Sangareddy (Sections: 341, 342, 504, 506, 149) [pending] 
+9. Cr.No-06/2022, PS-Toopran, Medak | Sec.151 of CRPC (Sections: N/A) [pending] 
+10. Cr.No-185/2023, PS-Siddipet II Town, Siddipet | Sec 3(r) of SCST Act, 2005. (Sections: N/A) [pending] 
+11. Cr.No-226/2023, PS-Dubbak, Siddipet (Sections: 341, 291, 186, 188, 149) [pending] 
+12. Cr.No-47/2012, PS-Mulgu, Siddipet | Sec. 151 of CRPC (Sections: N/A) [pending] 
+13. Cr.No-49/2018, Ps-Boompally Siddipet | Sec. 151 of CRPC (Sections: N/A) [pending] 
+14. Cr.No-35/2018, Ps-Siddipet I Town Siddipet | Sec. 151 of CRPC (Sections: N/A) [pending] 
+15. Cr.No-190/2017, Ps-Siddipet II Town Siddipet | Sec. 151 of CRPC (Sections: N/A) [pending] 
+16. Cr.No-332/2010, Ps-Patancheru, Sangareddy | Sec. 151 of CRPC (Sections: N/A) [pending] 
+17. Cr.No-52/2011, PS-Patancheru, Sangareddy | Sec. 151 of CRPC (Sections: N/A) [pending] 
+18. Cr.No-54/2011, Ps-Patancheru, Sangareddy | Sec. 151 of CRPC (Sections: N/A) [pending] 
+19. Cr.No-159/2011, Ps-Patancheru, Sangareddy | Sec. 151 of CRPC (Sections: N/A) [pending] 
+20. Cr.No-255/2011, Ps-Patancheru, Sangareddy | Sec. 151 of CRPC (Sections: N/A) [pending] 
+21. Cr.No-331/2011, PS-Patancheru, Sangareddy | Sec. 151 of CRPC (Sections: N/A) [pending] 
+22. Cr.No-328/2011, PS-Patancheru Sangareddy | Sec. 151 of CRPC (Sections: N/A) [pending] 
+23. Cr.No-425/2011, Ps-Patancheru, Sangareddy | Sec. 151 of CRPC (Sections: N/A) [pending] 
+24. Cr.No-20/2021, Ps-Mattampalli, Suryapet. | Sec. 7(1A) of PLA, 1932 (Sections: 143, 144, 147, 148, 332, 333, 149) [pending] 
+25. Cr.No-67/2020, PS-R.C Puram, Cyberabad | Sec. 67(A), 84(C), IT Act 2008 (Sections: 376, 328, 506) [pending] **SERIOUS**
+26. Cr.No-685/2019, Ps-Hayathnagar, Rachakonda (Sections: 188) [pending] 
+27. Cr.No-409/2023, Ps-Alwal, Hyderabad | Sec.151 of CRPC (Sections: N/A) [pending] 
+28. Cr.No-331/2023, Ps-Dubbak (Sections: 141, 143, 149, 188, 353) [pending] 
+29. Cr.No-104/2024, Ps-Sangareddy (Sections: 504) [pending] 
+
 ---
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 22.09 Crore
-- **Liabilities:** Rs 12.12 Crore
-- **Net Worth:** Rs 9.97 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 73% of Lok Sabha MPs
 
 ---
 
@@ -69,36 +98,60 @@
 
 ---
 
+## Public Accessibility
+
+- **Platforms:** 2
+
+
+| Platform | Handle | Verified | Active |
+|----------|--------|----------|--------|
+| Twitter | [@@RaghunandanraoM](https://x.com/@RaghunandanraoM) | No | Yes |
+| Facebook | [@https://www.facebook.com/raghunandanofficial/](https://facebook.com/https://www.facebook.com/raghunandanofficial/) | No | Yes |
+
+---
+
 ## In The News
 
-*Mixed/neutral coverage (9 articles)*
+*Mixed/neutral coverage (10 articles)*
 
-- **Total Articles:** 9
-- **Positive:** 0 | **Negative:** 0 | **Neutral:** 9
+- **Total Articles:** 10
+- **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
 
-- BJP launches wall writing campaign in Khammam ahead of PM Modi’s Telangana visit - The Hans India (The Hans India) [neutral]
 - Madhavaneni Raghunandan Rao - The Hindu (The Hindu) [neutral]
+- BJP MP Raghunandan Rao receives fresh threat calls - Deccan Herald (Deccan Herald) [neutral]
 - Submit status of pending criminal cases, HC tells Medak MP - Deccan Chronicle (Deccan Chronicle) [neutral]
-- Medak election results 2024 live updates: BJP's Madhavaneni Raghunandan Rao wins - The Times of India (The Times of India) [neutral]
-- Medak lok sabha election results 2024: Medak Winning Candidates List and Vote Share - India Today (India Today) [neutral]
+- Medak election results 2024 live updates: BJP's Madhavaneni Raghunandan Rao wins - timesofindia.indiatimes.com (timesofindia.indiatimes.com) [neutral]
+- Medak Election Result 2024 LIVE Updates Highlights: Madhavaneni Raghunandan Rao of BJP Wins - news18.com (news18.com) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Madhavaneni Raghunandan Rao - The Hindu** (The Hindu)
+- ! **BJP MP Raghunandan Rao receives fresh threat calls - Deccan Herald** (Deccan Herald)
+- ! **Submit status of pending criminal cases, HC tells Medak MP - Deccan Chronicle** (Deccan Chronicle)
+- ! **Medak election results 2024 live updates: BJP's Madhavaneni Raghunandan Rao wins - timesofindia.indiatimes.com** (timesofindia.indiatimes.com)
+- ! **Medak Election Result 2024 LIVE Updates Highlights: Madhavaneni Raghunandan Rao of BJP Wins - news18.com** (news18.com)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Telangana: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Madhavaneni Raghunandan Rao has a below-average transparency score of 37.9/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Madhavaneni Raghunandan Rao has a below-average transparency score of 39.6/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-Has 29 criminal case(s) (0 serious), 29 pending, 0 conviction(s). Declared assets: Rs 220,907,289. MPLADS utilization: 16.5%. Parliament attendance: 100.0%. Questions asked: 20. Debates participated: 5.
+Has 29 criminal case(s) (1 serious), 29 pending, 0 conviction(s). MPLADS utilization: 16.5%. Parliament attendance: 100.0%. Questions asked: 20. Debates participated: 5. Low confidence data: Assets. 1 warning(s) noted.
 
 ---
 
@@ -138,7 +191,7 @@ Has 29 criminal case(s) (0 serious), 29 pending, 0 conviction(s). Declared asset
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -236,12 +289,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

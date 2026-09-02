@@ -3,24 +3,22 @@
 **Constituency:** Amreli, Gujarat
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 54
-**Education:** 10th Pass
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (44%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 52.5 / 100
+## Composite Transparency Score: 53.3 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 27.7 | 25% |
-| Asset Growth | 50.0 | 15% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 85.0 | 10% |
 | Questions & Debates | 0.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
-| Public Accessibility | 15.0 | 5% |
+| Public Accessibility | 45.0 | 5% |
 | Legislative Effectiveness | 40.0 | 10% |
 
 ---
@@ -38,14 +36,13 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 83.79 Lakh
-- **Liabilities:** Rs 0
-- **Net Worth:** Rs 83.79 Lakh
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 7% of Lok Sabha MPs
 
 ---
 
@@ -69,36 +66,59 @@
 
 ---
 
+## Public Accessibility
+
+- **Platforms:** 1
+
+
+| Platform | Handle | Verified | Active |
+|----------|--------|----------|--------|
+| Facebook | [@https://www.facebook.com/bharatsutariya.bharatsutariya.79](https://facebook.com/https://www.facebook.com/bharatsutariya.bharatsutariya.79) | No | Yes |
+
+---
+
 ## In The News
 
-*Mixed/neutral coverage (6 articles)*
+*Mixed/neutral coverage (7 articles)*
 
-- **Total Articles:** 6
-- **Positive:** 0 | **Negative:** 0 | **Neutral:** 6
+- **Total Articles:** 7
+- **Positive:** 1 | **Negative:** 0 | **Neutral:** 6
 
 - Amreli Lok Sabha Constituency: BJP’s Bharatbhai Manubhai Sutariya to go against Congress’ Jenny Thummar - The Indian Express (The Indian Express) [neutral]
 - Amreli Election Result 2024 LIVE Updates Highlights: Bharatbhai Manubhai Sutariya of BJP Wins - News18 (News18) [neutral]
-- Lok Sabha Election Winner List 2024: Here is the full list of all 543 BJP, Congress, SP, TMC and other vic - The Economic Times (The Economic Times) [neutral]
+- Greater participation of women in law-making will strengthen their contribution to country: Gujarat CM - indiagazette.com (indiagazette.com) [positive]
 - Nepal General Election - News18 (News18) [neutral]
-- 2024 Gujarat Lok Sabha Election Results: Full list of winners on all 26 seats of Gujarat - The Indian Express (The Indian Express) [neutral]
+- Amreli constituency Gujarat Lok Sabha Elections 2024: Key Candidates, Voting Date, Result - Times Now (Times Now) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Amreli Lok Sabha Constituency: BJP’s Bharatbhai Manubhai Sutariya to go against Congress’ Jenny Thummar - The Indian Express** (The Indian Express)
+- ! **Amreli Election Result 2024 LIVE Updates Highlights: Bharatbhai Manubhai Sutariya of BJP Wins - News18** (News18)
+- ! **Greater participation of women in law-making will strengthen their contribution to country: Gujarat CM - indiagazette.com** (indiagazette.com)
+- ! **Nepal General Election - News18** (News18)
+- ! **Amreli constituency Gujarat Lok Sabha Elections 2024: Key Candidates, Voting Date, Result - Times Now** (Times Now)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Gujarat: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Bharatbhai Manubhai Sutariya shows moderate transparency with a score of 52.5/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Limited participation in parliamentary proceedings.
+Bharatbhai Manubhai Sutariya shows moderate transparency with a score of 53.3/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Limited participation in parliamentary proceedings.
 
 ---
 
-No criminal cases declared. Declared assets: Rs 8,378,748. MPLADS utilization: 34.6%. Parliament attendance: 85.0%.
+No criminal cases declared. MPLADS utilization: 34.6%. Parliament attendance: 85.0%. Low confidence data: Assets. 1 warning(s) noted.
 
 ---
 
@@ -138,7 +158,7 @@ No criminal cases declared. Declared assets: Rs 8,378,748. MPLADS utilization: 3
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -236,12 +256,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

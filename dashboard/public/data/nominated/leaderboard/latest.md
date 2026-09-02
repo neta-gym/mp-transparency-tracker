@@ -1,6 +1,6 @@
 # MP Transparency Leaderboard — Nominated
 
-*Generated: 2026-09-02 01:36 UTC | Methodology v3.1 | 12 MPs*
+*Generated: 2026-09-02 18:41 UTC | Methodology v3.1 | 12 MPs*
 
 | Rank | House | MP Name | Constituency | Party | Score | Confidence | Key Finding |
 |------|-------|---------|-------------|-------|-------|------------|-------------|

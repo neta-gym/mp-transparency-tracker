@@ -3,24 +3,22 @@
 **Constituency:** Shimoga, Karnataka
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 50
-**Education:** Graduate
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (46%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 56.7 / 100
+## Composite Transparency Score: 58.7 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 33.4 | 25% |
-| Asset Growth | 55.0 | 15% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 90.0 | 15% |
 | Parliament Attendance | 80.0 | 10% |
 | Questions & Debates | 50.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
-| Public Accessibility | 15.0 | 5% |
+| Public Accessibility | 85.0 | 5% |
 | Legislative Effectiveness | 40.0 | 10% |
 
 ---
@@ -34,18 +32,21 @@
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
+### Cases Detail
+
+1. Cr.No.0124/2024, Dated 23-03-2024, Chitradurga Rural Police Station, Chitradurga | Section 125 of Representation of the People Act and Section 7 of Religious Institutions (Prevention of Misuse) Act 1988 (Sections: 171F) [pending] 
+
 ---
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 73.71 Crore
-- **Liabilities:** Rs 13.61 Crore
-- **Net Worth:** Rs 60.10 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 89% of Lok Sabha MPs
 
 ---
 
@@ -69,6 +70,19 @@
 
 ---
 
+## Public Accessibility
+
+- **Platforms:** 3
+
+
+| Platform | Handle | Verified | Active |
+|----------|--------|----------|--------|
+| Twitter | [@https://www.x.com/byrbjp](https://x.com/https://www.x.com/byrbjp) | No | Yes |
+| Facebook | [@https://www.facebook.com/byrbjp](https://facebook.com/https://www.facebook.com/byrbjp) | No | Yes |
+| Instagram | [@https://www.instragram.com/byrbjp](https://instagram.com/https://www.instragram.com/byrbjp) | No | Yes |
+
+---
+
 ## In The News
 
 *Mixed/neutral coverage (10 articles)*
@@ -77,28 +91,40 @@
 - **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
 
 - Efforts on to handover Shivamogga Airport to AAI, says MP B.Y. Raghavendra - The Hindu (The Hindu) [neutral]
+- Shivamogga MP meets Governor over High Court Circuit Bench in Shivamogga - The Hindu (The Hindu) [neutral]
 - No proposal for nuclear power plant in Shivamogga's Besuru: MP B Y Raghavendra - Deccan Herald (Deccan Herald) [neutral]
-- Shivamogga MP urges people not to panic over nuclear power plant, says no such proposal - The Hindu (The Hindu) [neutral]
-- Centre sanctions funds for primary surveys of new railway lines: BY Raghavendra - The Times of India (The Times of India) [neutral]
-- Shivamogga MP holds meeting with officers on road, railway works - The Hindu (The Hindu) [neutral]
+- Areca trucks stopped by FDA in Maharashtra; traders meet MP in Shivamogga, seek help - The Hindu (The Hindu) [neutral]
+- Shivamogga MP writes to M.B. Patil to ensure Shivamogga-Bengaluru flight services are unaffected - The Hindu (The Hindu) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Efforts on to handover Shivamogga Airport to AAI, says MP B.Y. Raghavendra - The Hindu** (The Hindu)
+- ! **Shivamogga MP meets Governor over High Court Circuit Bench in Shivamogga - The Hindu** (The Hindu)
+- ! **No proposal for nuclear power plant in Shivamogga's Besuru: MP B Y Raghavendra - Deccan Herald** (Deccan Herald)
+- ! **Areca trucks stopped by FDA in Maharashtra; traders meet MP in Shivamogga, seek help - The Hindu** (The Hindu)
+- ! **Shivamogga MP writes to M.B. Patil to ensure Shivamogga-Bengaluru flight services are unaffected - The Hindu** (The Hindu)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Karnataka: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-B Y Raghavendra shows moderate transparency with a score of 56.7/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance.
+B Y Raghavendra shows moderate transparency with a score of 58.7/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance.
 
 ---
 
-Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Declared assets: Rs 737,145,310. MPLADS utilization: 41.7%. Parliament attendance: 80.0%. Questions asked: 21. Debates participated: 2.
+Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). MPLADS utilization: 41.7%. Parliament attendance: 80.0%. Questions asked: 21. Debates participated: 2. Low confidence data: Assets. 1 warning(s) noted.
 
 ---
 
@@ -138,7 +164,7 @@ Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Declared assets:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -236,12 +262,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

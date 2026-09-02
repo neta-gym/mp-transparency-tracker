@@ -4,31 +4,31 @@
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Third-party (C)
+**Data Confidence:** Low (34%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 60.2 / 100
+## Composite Transparency Score: 53.0 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 64.8 | 25% |
-| Asset Growth | 50.0 | 15% |
-| Criminal Record | 90.0 | 15% |
+| Asset Growth | 45.0 | 15% |
+| Criminal Record | 45.0 | 15% |
 | Parliament Attendance | 100.0 | 10% |
 | Questions & Debates | 0.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
-| Public Accessibility | 15.0 | 5% |
+| Public Accessibility | 65.0 | 5% |
 | Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
 ## Criminal Record
 
-- **Total Cases:** 1
+- **Total Cases:** 0
 - **Serious Cases:** 0
 - **Convictions:** 0
-- **Pending Cases:** 1
+- **Pending Cases:** 0
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
@@ -36,14 +36,13 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 4.14 Crore
-- **Liabilities:** Rs 1.71 Crore
-- **Net Worth:** Rs 2.43 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 33% of Lok Sabha MPs
 
 ---
 
@@ -67,6 +66,18 @@
 
 ---
 
+## Public Accessibility
+
+- **Platforms:** 2
+
+
+| Platform | Handle | Verified | Active |
+|----------|--------|----------|--------|
+| Twitter | [@https://x.com/anooppradhanbjp?lang=en](https://x.com/https://x.com/anooppradhanbjp?lang=en) | No | Yes |
+| Facebook | [@https://www.facebook.com/anooppradhanbjp/](https://facebook.com/https://www.facebook.com/anooppradhanbjp/) | No | Yes |
+
+---
+
 ## In The News
 
 *Mixed/neutral coverage (10 articles)*
@@ -76,27 +87,40 @@
 
 - Hathras Election Results 2024: BJP's Anoop Pradhan Balmiki won by over 2 lakh vote margin - The Times of India (The Times of India) [neutral]
 - Anoop Pradhan Balmiki , BJP candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details. - The Hindu (The Hindu) [neutral]
-- BJP Hathras MP Rajveer Diler dies of heart attack, PM Modi condoles demise - India TV News (India TV News) [neutral]
-- Hathras lok sabha election results 2024: Hathras Winning Candidates List and Vote Share - India Today (India Today) [neutral]
 - Prabuddh Varg Sammelan | Diler on dais, CM tries to pacify his supporters: ‘Has accepted party decision like a true soldier’ - The Indian Express (The Indian Express) [neutral]
+- Uttar Pradesh: Yadav family’s prestige at stake as 10 Lok Sabha seats go to polls in third phase today | Hindustan Times - Hindustan Times (Hindustan Times) [neutral]
+- Put Aligarh lock on the fate of Congress, SP-BSP: Yogi - The Statesman (The Statesman) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Hathras Election Results 2024: BJP's Anoop Pradhan Balmiki won by over 2 lakh vote margin - The Times of India** (The Times of India)
+- ! **Anoop Pradhan Balmiki , BJP candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details. - The Hindu** (The Hindu)
+- ! **Prabuddh Varg Sammelan | Diler on dais, CM tries to pacify his supporters: ‘Has accepted party decision like a true soldier’ - The Indian Express** (The Indian Express)
+- ! **Uttar Pradesh: Yadav family’s prestige at stake as 10 Lok Sabha seats go to polls in third phase today | Hindustan Times - Hindustan Times** (Hindustan Times)
+- ! **Put Aligarh lock on the fate of Congress, SP-BSP: Yogi - The Statesman** (The Statesman)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
+- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Uttar Pradesh: 8 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Anoop Pradhan Valmiki shows moderate transparency with a score of 60.2/100. Minor criminal cases on record. High parliament attendance. Limited participation in parliamentary proceedings.
+Anoop Pradhan Valmiki shows moderate transparency with a score of 53.0/100. Significant criminal cases are a concern. High parliament attendance. Limited participation in parliamentary proceedings.
 
 ---
 
-Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Declared assets: Rs 41,363,952. MPLADS utilization: 66.5%. Parliament attendance: 100.0%.
+No criminal cases declared. MPLADS utilization: 66.5%. Parliament attendance: 100.0%. Low confidence data: Criminal record, Assets. 2 warning(s) noted.
 
 ---
 
@@ -136,7 +160,7 @@ Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Declared assets:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -234,10 +258,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

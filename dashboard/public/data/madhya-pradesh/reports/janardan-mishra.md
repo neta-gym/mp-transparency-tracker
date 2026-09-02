@@ -3,19 +3,17 @@
 **Constituency:** Rewa, Madhya Pradesh
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 67
-**Education:** Graduate Professional
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (37%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 67.4 / 100
+## Composite Transparency Score: 65.9 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 51.9 | 25% |
-| Asset Growth | 55.0 | 15% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 100.0 | 10% |
 | Questions & Debates | 70.0 | 10% |
@@ -38,14 +36,13 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 5.09 Crore
-- **Liabilities:** Rs 1.05 Crore
-- **Net Worth:** Rs 4.04 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 40% of Lok Sabha MPs
 
 ---
 
@@ -74,31 +71,43 @@
 *Mixed/neutral coverage (10 articles)*
 
 - **Total Articles:** 10
-- **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
+- **Positive:** 0 | **Negative:** 1 | **Neutral:** 9
 
-- Rewa MP demands probe into IAS Santosh Verma’s promotion: Says, 'He changed his caste from SC to ST'; court... - Bhaskar English (Bhaskar English) [neutral]
-- एक कमरे में थे 1100 वोटर... वोट चोरी के आरोपों पर BJP सांसद का पलटवार, 2003 का मामला उठाकर कांग्रेस को लिया आड़े हाथ - AajTak (AajTak) [neutral]
-- BJP MP Janardan Mishra's Old Claim On 'Vote Theft' In Rewa Sparks Viral Debate - ABP News (ABP News) [neutral]
-- "Consume Liquor, Eat Gutkha": BJP MP's Tips On Water Conservation - NDTV (NDTV) [neutral]
-- Rewa Madhya Pradesh Bharatiya Janata Party - The Times of India (The Times of India) [neutral]
+- Will pure petrol come from your father's house? BJP MP jabs ethanol critics - India Today (India Today) [neutral]
+- ‘No pure petrol in country’: BJP MP Janardan Mishra adds fuel to ethanol fire with ‘baap ka ghar’ jibe - ThePrint (ThePrint) [neutral]
+- "Will Pure Petrol Come From Your Father's House": BJP MP's E20 Shocker - NDTV (NDTV) [neutral]
+- 'Kiske baap ke ghar se ethanol aaya', says Neha Rathore: Folk singer asks whose boys set up the factory on ... - Bhaskar English (Bhaskar English) [neutral]
+- 'Will pure petrol come from your father’s house?': BJP MP courts controversy over ethanol blending - The New Indian Express (The New Indian Express) [negative]
+
+---
+
+## News & Allegations
+
+- ! **Will pure petrol come from your father's house? BJP MP jabs ethanol critics - India Today** (India Today)
+- ! **‘No pure petrol in country’: BJP MP Janardan Mishra adds fuel to ethanol fire with ‘baap ka ghar’ jibe - ThePrint** (ThePrint)
+- ! **"Will Pure Petrol Come From Your Father's House": BJP MP's E20 Shocker - NDTV** (NDTV)
+- ! **'Kiske baap ke ghar se ethanol aaya', says Neha Rathore: Folk singer asks whose boys set up the factory on ... - Bhaskar English** (Bhaskar English)
+- !! **'Will pure petrol come from your father’s house?': BJP MP courts controversy over ethanol blending - The New Indian Express** (The New Indian Express)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Madhya Pradesh: 8 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Janardan Mishra shows moderate transparency with a score of 67.4/100. No criminal cases declared. High parliament attendance. Active in questions and debates.
+Janardan Mishra shows moderate transparency with a score of 65.9/100. No criminal cases declared. High parliament attendance. Active in questions and debates.
 
 ---
 
-No criminal cases declared. Declared assets: Rs 50,938,896. MPLADS utilization: 58.0%. Parliament attendance: 100.0%. Questions asked: 51. Debates participated: 4.
+No criminal cases declared. MPLADS utilization: 58.0%. Parliament attendance: 100.0%. Questions asked: 51. Debates participated: 4. Low confidence data: Assets. 1 warning(s) noted.
 
 ---
 
@@ -138,7 +147,7 @@ No criminal cases declared. Declared assets: Rs 50,938,896. MPLADS utilization: 
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -236,12 +245,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

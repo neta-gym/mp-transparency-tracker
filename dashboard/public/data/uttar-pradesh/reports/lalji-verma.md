@@ -3,19 +3,17 @@
 **Constituency:** Ambedkar Nagar, Uttar Pradesh
 **Party:** Samajwadi Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 68
-**Education:** Post Graduate
 **Report Date:** 2026-09-02
-**Data Confidence:** Low (49%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (39%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 58.9 / 100
+## Composite Transparency Score: 56.7 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 47.1 | 25% |
-| Asset Growth | 60.0 | 15% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 80.0 | 15% |
 | Parliament Attendance | 85.0 | 10% |
 | Questions & Debates | 50.0 | 10% |
@@ -34,18 +32,22 @@
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
+### Cases Detail
+
+1. Crime No 127/2023, PS Ibrahimpur District Ambedkar Nagar UP | Section 7 Criminal Law Amendment Act (Sections: 147, 148, 149, 188, 295A, 153A, 352, 504, 506) [pending] 
+2. Crime No 177/2024, PS Special Cell New Delhi | Section 66 C I.T. Act (Sections: 153, 153A, 465, 469, 171G) [pending] 
+
 ---
 
 ## Asset Declaration
 
 - **Movable Assets:** N/A
 - **Immovable Assets:** N/A
-- **Total Assets:** Rs 11.03 Crore
-- **Liabilities:** Rs 98.86 Lakh
-- **Net Worth:** Rs 10.04 Crore
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 60% of Lok Sabha MPs
 
 ---
 
@@ -76,29 +78,41 @@
 - **Total Articles:** 10
 - **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
 
-- 12 SP leaders seek tickets for their sons and daughters: Several meet Akhilesh Yadav, begin campaigning wit... - Bhaskar English (Bhaskar English) [neutral]
+- Why BJP Deferred Women's Bill For 9 Years, Asks SP MP Lalji Varma - ETV Bharat (ETV Bharat) [neutral]
+- ‘Sonrise’ gathers pace in Samajwadi Party as leaders push heirs for 2027 UP tickets - Moneycontrol.com (Moneycontrol.com) [neutral]
 - Ambedkar Nagar election results 2024 live updates: Lalji Verma of Samajwadi Party wins with over one lakh - The Times of India (The Times of India) [neutral]
-- UP Bypolls: SP Alleges Ambedkar Nagar Administration Of Intimidating Katehari Voters - ABP News (ABP News) [neutral]
-- Ambedkar Nagar Election Result: अंबेडकर नगर में सपा ने मारी बाजी, 137247 वोटों से बीजेपी के रितेश को हराया - AajTak (AajTak) [neutral]
 - In battle for Ambedkar Nagar bastion, BSP on back foot as it faces turncoats on BJP, SP sides - The Indian Express (The Indian Express) [neutral]
+- UP by-polls: SP mulls fielding family members of vacating MLAs to retain key seats - The New Indian Express (The New Indian Express) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Why BJP Deferred Women's Bill For 9 Years, Asks SP MP Lalji Varma - ETV Bharat** (ETV Bharat)
+- ! **‘Sonrise’ gathers pace in Samajwadi Party as leaders push heirs for 2027 UP tickets - Moneycontrol.com** (Moneycontrol.com)
+- ! **Ambedkar Nagar election results 2024 live updates: Lalji Verma of Samajwadi Party wins with over one lakh - The Times of India** (The Times of India)
+- ! **In battle for Ambedkar Nagar bastion, BSP on back foot as it faces turncoats on BJP, SP sides - The Indian Express** (The Indian Express)
+- ! **UP by-polls: SP mulls fielding family members of vacating MLAs to retain key seats - The New Indian Express** (The New Indian Express)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Uttar Pradesh: 8 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Lalji Verma shows moderate transparency with a score of 58.9/100. Minor criminal cases on record. High parliament attendance.
+Lalji Verma shows moderate transparency with a score of 56.7/100. Minor criminal cases on record. High parliament attendance.
 
 ---
 
-Has 2 criminal case(s) (0 serious), 2 pending, 0 conviction(s). Declared assets: Rs 110,272,584. MPLADS utilization: 54.8%. Parliament attendance: 85.0%. Questions asked: 4. Debates participated: 16.
+Has 2 criminal case(s) (0 serious), 2 pending, 0 conviction(s). MPLADS utilization: 54.8%. Parliament attendance: 85.0%. Questions asked: 4. Debates participated: 16. Low confidence data: Assets. 1 warning(s) noted.
 
 ---
 
@@ -138,7 +152,7 @@ Has 2 criminal case(s) (0 serious), 2 pending, 0 conviction(s). Declared assets:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -236,12 +250,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

@@ -3,19 +3,17 @@
 **Constituency:** Etah, Uttar Pradesh
 **Party:** Samajwadi Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 42
-**Education:** Post Graduate
 **Report Date:** 2026-09-02
-**Data Confidence:** Low (49%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (39%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 61.2 / 100
+## Composite Transparency Score: 58.9 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 42.0 | 25% |
-| Asset Growth | 60.0 | 15% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 90.0 | 15% |
 | Parliament Attendance | 100.0 | 10% |
 | Questions & Debates | 40.0 | 10% |
@@ -34,18 +32,21 @@
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
+### Cases Detail
+
+1. 0034/2022 Police Station Bidhuna, District Auraiya (Sections: 504, 507) [pending] 
+
 ---
 
 ## Asset Declaration
 
 - **Movable Assets:** N/A
 - **Immovable Assets:** N/A
-- **Total Assets:** Rs 3.41 Crore
-- **Liabilities:** Rs 4.42 Lakh
-- **Net Worth:** Rs 3.36 Crore
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 28% of Lok Sabha MPs
 
 ---
 
@@ -71,34 +72,46 @@
 
 ## In The News
 
-*Mixed/neutral coverage (10 articles)*
+*Mixed/neutral coverage (9 articles)*
 
-- **Total Articles:** 10
-- **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
+- **Total Articles:** 9
+- **Positive:** 0 | **Negative:** 0 | **Neutral:** 9
 
 - SP MP Akshay Yadav defends ‘dynasty politics’: Outlines party's strategy for 2028 MP polls - Bhaskar English (Bhaskar English) [neutral]
-- Etah election results 2024 live updates: SP's Devesh Shakya wins against BJP's Rajveer Singh - The Times of India (The Times of India) [neutral]
-- Etah lok sabha election results 2024: Etah Winning Candidates List and Vote Share - India Today (India Today) [neutral]
-- Uttar Pradesh district sends 7 MPs to the 18th Lok Sabha; All you need to know - The Economic Times (The Economic Times) [neutral]
+- BJP loses three seats in Braj region - The Times of India (The Times of India) [neutral]
 - SP, BJP locked in intense fight in six Yadav strongholds - The New Indian Express (The New Indian Express) [neutral]
+- Seven MPs in 18th Lok Sabha from one district – Etawah - The Times of India (The Times of India) [neutral]
+- Why Shakya voters matter in Brajbhoomi - The Times of India (The Times of India) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **SP MP Akshay Yadav defends ‘dynasty politics’: Outlines party's strategy for 2028 MP polls - Bhaskar English** (Bhaskar English)
+- ! **BJP loses three seats in Braj region - The Times of India** (The Times of India)
+- ! **SP, BJP locked in intense fight in six Yadav strongholds - The New Indian Express** (The New Indian Express)
+- ! **Seven MPs in 18th Lok Sabha from one district – Etawah - The Times of India** (The Times of India)
+- ! **Why Shakya voters matter in Brajbhoomi - The Times of India** (The Times of India)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Uttar Pradesh: 8 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Devesh Shakya shows moderate transparency with a score of 61.2/100. Minor criminal cases on record. High parliament attendance.
+Devesh Shakya shows moderate transparency with a score of 58.9/100. Minor criminal cases on record. High parliament attendance.
 
 ---
 
-Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Declared assets: Rs 34,061,340. MPLADS utilization: 51.4%. Parliament attendance: 100.0%. Questions asked: 4. Debates participated: 11.
+Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). MPLADS utilization: 51.4%. Parliament attendance: 100.0%. Questions asked: 4. Debates participated: 11. Low confidence data: Assets. 1 warning(s) noted.
 
 ---
 
@@ -138,7 +151,7 @@ Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Declared assets:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -236,12 +249,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

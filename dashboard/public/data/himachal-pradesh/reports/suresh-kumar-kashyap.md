@@ -3,19 +3,17 @@
 **Constituency:** Shimla, Himachal Pradesh
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 53
-**Education:** Post Graduate
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (37%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 62.5 / 100
+## Composite Transparency Score: 61.0 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 49.8 | 25% |
-| Asset Growth | 55.0 | 15% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 70.0 | 10% |
 | Questions & Debates | 70.0 | 10% |
@@ -38,14 +36,13 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 4.44 Crore
-- **Liabilities:** Rs 51.05 Lakh
-- **Net Worth:** Rs 3.93 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 36% of Lok Sabha MPs
 
 ---
 
@@ -76,29 +73,41 @@
 - **Total Articles:** 10
 - **Positive:** 1 | **Negative:** 0 | **Neutral:** 9
 
-- Delay in Baddi-Barotiwala-Nalagarh 4-lane project affecting industry, locals: Kashyap - The Times of India (The Times of India) [neutral]
-- Kashyap pushes for merger of cantonment civil areas with municipal bodies - The Times of India (The Times of India) [neutral]
+- 78th Foundation Day Celebrations Held at ICAR–CPRI, Shimla - PIB (PIB) [neutral]
+- ₹144 crore approved for 120 additional MBBS seats across 6 med colleges in Himachal: MP Kashyap | Hindustan Times - Hindustan Times (Hindustan Times) [neutral]
+- President Murmu arrives in Shimla on 5-day HP visit - The Times of India (The Times of India) [neutral]
 - BJP names Shimla MP Suresh Kumar Kashyap as its Himachal president - The Hindu (The Hindu) [neutral]
-- BJP names Shimla MP Suresh Kumar Kashyap as its Himachal Pradesh unit president - The New Indian Express (The New Indian Express) [neutral]
-- India’s street food is symbol of country’s diverse culture: Shimla MP | Hindustan Times - Hindustan Times (Hindustan Times) [neutral]
+- Shimla (SC) election results 2024 live updates: BJP's Suresh Kumar Kashyap wins with 5,19,748 votes - The Times of India (The Times of India) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **78th Foundation Day Celebrations Held at ICAR–CPRI, Shimla - PIB** (PIB)
+- ! **₹144 crore approved for 120 additional MBBS seats across 6 med colleges in Himachal: MP Kashyap | Hindustan Times - Hindustan Times** (Hindustan Times)
+- ! **President Murmu arrives in Shimla on 5-day HP visit - The Times of India** (The Times of India)
+- ! **BJP names Shimla MP Suresh Kumar Kashyap as its Himachal president - The Hindu** (The Hindu)
+- ! **Shimla (SC) election results 2024 live updates: BJP's Suresh Kumar Kashyap wins with 5,19,748 votes - The Times of India** (The Times of India)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Himachal Pradesh: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Suresh Kumar Kashyap shows moderate transparency with a score of 62.5/100. No criminal cases declared. Active in questions and debates.
+Suresh Kumar Kashyap shows moderate transparency with a score of 61.0/100. No criminal cases declared. Active in questions and debates.
 
 ---
 
-No criminal cases declared. Declared assets: Rs 44,442,736. MPLADS utilization: 56.5%. Parliament attendance: 70.0%. Questions asked: 45. Debates participated: 8.
+No criminal cases declared. MPLADS utilization: 56.5%. Parliament attendance: 70.0%. Questions asked: 45. Debates participated: 8. Low confidence data: Assets. 1 warning(s) noted.
 
 ---
 
@@ -138,7 +147,7 @@ No criminal cases declared. Declared assets: Rs 44,442,736. MPLADS utilization: 
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -236,12 +245,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

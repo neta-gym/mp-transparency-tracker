@@ -3,24 +3,22 @@
 **Constituency:** Krishnanagar, West Bengal
 **Party:** All India Trinamool Congress
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 49
-**Education:** Graduate
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (46%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 53.2 / 100
+## Composite Transparency Score: 53.0 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 18.6 | 25% |
-| Asset Growth | 50.0 | 15% |
-| Criminal Record | 90.0 | 15% |
+| Asset Growth | 45.0 | 15% |
+| Criminal Record | 80.0 | 15% |
 | Parliament Attendance | 95.0 | 10% |
 | Questions & Debates | 30.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
-| Public Accessibility | 15.0 | 5% |
+| Public Accessibility | 65.0 | 5% |
 | Legislative Effectiveness | 40.0 | 10% |
 
 ---
@@ -28,24 +26,27 @@
 ## Criminal Record
 
 - **Total Cases:** 1
-- **Serious Cases:** 0
+- **Serious Cases:** 1
 - **Convictions:** 0
 - **Pending Cases:** 1
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
+### Cases Detail
+
+1. RC 2182024A0010 Date 21.03.2024, PS CBI/AC-III District Delhi | Section 7,8&12 of PC Act. 1988 as Amendment in 2018 (Sections: 120B) [pending] **SERIOUS**
+
 ---
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 3.51 Crore
-- **Liabilities:** Rs 0
-- **Net Worth:** Rs 3.51 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 29% of Lok Sabha MPs
 
 ---
 
@@ -69,36 +70,60 @@
 
 ---
 
+## Public Accessibility
+
+- **Platforms:** 2
+
+
+| Platform | Handle | Verified | Active |
+|----------|--------|----------|--------|
+| Twitter | [@http://www.twitter.com/MahuaMoitra](https://x.com/http://www.twitter.com/MahuaMoitra) | No | Yes |
+| Facebook | [@https://www.facebook.com/MahuaMoitraOfficial/](https://facebook.com/https://www.facebook.com/MahuaMoitraOfficial/) | No | Yes |
+
+---
+
 ## In The News
 
 *Mixed/neutral coverage (10 articles)*
 
 - **Total Articles:** 10
-- **Positive:** 0 | **Negative:** 2 | **Neutral:** 8
+- **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
 
-- Trinamool MP Mahua Moitra Booked For Remarks On Operation Sindoor - ETV Bharat (ETV Bharat) [negative]
-- Mahua Moitra faces 'chor TMC chor', 'Jai Shree Ram' chants on IndiGo flight; files complaint - India TV News (India TV News) [negative]
-- Krishnanagar: Mahua Moitra Introduces TMC Candidate #Gallery - Social News XYZ (Social News XYZ) [neutral]
-- Calcutta HC Questions Bengal Police’s Action Over Social Media Post Against Trinamool Leader Mahua Moitra - Ommcom News (Ommcom News) [neutral]
-- TMC Infighting Peaks Before Mamata's Rally! MLA and Mahua Moitra Opponents Excluded from Krishnanagar Guest List - Dailyhunt (Dailyhunt) [neutral]
+- Calcutta HC defers hearing in TMC MP Mahua Moitra's challenge to arrest warrant against her - MillenniumPost (MillenniumPost) [neutral]
+- Arrest warrant issued against MP Mahua Moitra for non-compliance with court appearance order - News On AIR (News On AIR) [neutral]
+- Calcutta HC orders 2 cops to accompany Mahua Moitra: Grants 30-day security cover amid harassment allegations - Bhaskar English (Bhaskar English) [neutral]
+- Mahua faces 'go back' chants in constituency, TMC rebel MLA accuses her of inaction - indiatoday.in (indiatoday.in) [neutral]
+- ‘Lackadaisical Approach’: Court Issues Arrest Warrant Against Mahua Moitra in Hate Speech Case - LawBeat (LawBeat) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Calcutta HC defers hearing in TMC MP Mahua Moitra's challenge to arrest warrant against her - MillenniumPost** (MillenniumPost)
+- ! **Arrest warrant issued against MP Mahua Moitra for non-compliance with court appearance order - News On AIR** (News On AIR)
+- ! **Calcutta HC orders 2 cops to accompany Mahua Moitra: Grants 30-day security cover amid harassment allegations - Bhaskar English** (Bhaskar English)
+- ! **Mahua faces 'go back' chants in constituency, TMC rebel MLA accuses her of inaction - indiatoday.in** (indiatoday.in)
+- ! **‘Lackadaisical Approach’: Court Issues Arrest Warrant Against Mahua Moitra in Hate Speech Case - LawBeat** (LawBeat)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for West Bengal: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Mahua Moitra shows moderate transparency with a score of 53.2/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance.
+Mahua Moitra shows moderate transparency with a score of 53.0/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance.
 
 ---
 
-Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Declared assets: Rs 35,067,166. MPLADS utilization: 23.3%. Parliament attendance: 95.0%. Questions asked: 1. Debates participated: 3.
+Has 1 criminal case(s) (1 serious), 1 pending, 0 conviction(s). MPLADS utilization: 23.3%. Parliament attendance: 95.0%. Questions asked: 1. Debates participated: 3. Low confidence data: Assets. 1 warning(s) noted.
 
 ---
 
@@ -138,7 +163,7 @@ Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Declared assets:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -236,12 +261,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

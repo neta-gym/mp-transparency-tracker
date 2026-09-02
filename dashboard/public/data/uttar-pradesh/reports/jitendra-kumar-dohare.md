@@ -3,19 +3,17 @@
 **Constituency:** Etawah, Uttar Pradesh
 **Party:** Samajwadi Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 57
-**Education:** 12th Pass
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (37%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 60.1 / 100
+## Composite Transparency Score: 57.9 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 48.1 | 25% |
-| Asset Growth | 60.0 | 15% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 85.0 | 10% |
 | Questions & Debates | 20.0 | 10% |
@@ -38,14 +36,13 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 6.23 Crore
-- **Liabilities:** Rs 31.68 Lakh
-- **Net Worth:** Rs 5.91 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 45% of Lok Sabha MPs
 
 ---
 
@@ -71,34 +68,46 @@
 
 ## In The News
 
-*Mixed/neutral coverage (9 articles)*
+*Mixed/neutral coverage (10 articles)*
 
-- **Total Articles:** 9
-- **Positive:** 0 | **Negative:** 0 | **Neutral:** 9
+- **Total Articles:** 10
+- **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
 
 - Jitendra Kumar Dohare - The Times of India (The Times of India) [neutral]
-- Contest Gets Interesting In Etawah As BJP MP's Wife Files Nomination As Independent, BSP Candidate Is Former RLD MP - Swarajyamag (Swarajyamag) [neutral]
-- Etawah lok sabha election results 2024: Etawah Winning Candidates List and Vote Share - India Today (India Today) [neutral]
-- Etawah (SC) election results 2024 live updates: SP's Jitendra Kumar Dohare wins with 4.9 lakh votes - The Times of India (The Times of India) [neutral]
+- Contest Gets Interesting In Etawah As BJP MP's Wife Files Nomination As Independent, BSP Candidate Is Former RLD MP - Swarajya (Swarajya) [neutral]
 - Etawah Election Result 2024 LIVE Updates Highlights: Jitendra Kumar Dohare of SP Wins - News18 (News18) [neutral]
+- Etawah (SC) election results 2024 live updates: SP's Jitendra Kumar Dohare wins with 4.9 lakh votes - The Times of India (The Times of India) [neutral]
+- Etawah lok sabha election results 2024: Etawah Winning Candidates List and Vote Share - India Today (India Today) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Jitendra Kumar Dohare - The Times of India** (The Times of India)
+- ! **Contest Gets Interesting In Etawah As BJP MP's Wife Files Nomination As Independent, BSP Candidate Is Former RLD MP - Swarajya** (Swarajya)
+- ! **Etawah Election Result 2024 LIVE Updates Highlights: Jitendra Kumar Dohare of SP Wins - News18** (News18)
+- ! **Etawah (SC) election results 2024 live updates: SP's Jitendra Kumar Dohare wins with 4.9 lakh votes - The Times of India** (The Times of India)
+- ! **Etawah lok sabha election results 2024: Etawah Winning Candidates List and Vote Share - India Today** (India Today)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Uttar Pradesh: 8 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Jitendra Kumar Dohare shows moderate transparency with a score of 60.1/100. No criminal cases declared. High parliament attendance. Limited participation in parliamentary proceedings.
+Jitendra Kumar Dohare shows moderate transparency with a score of 57.9/100. No criminal cases declared. High parliament attendance. Limited participation in parliamentary proceedings.
 
 ---
 
-No criminal cases declared. Declared assets: Rs 62,250,170. MPLADS utilization: 55.4%. Parliament attendance: 85.0%. Debates participated: 3.
+No criminal cases declared. MPLADS utilization: 55.4%. Parliament attendance: 85.0%. Debates participated: 3. Low confidence data: Assets. 1 warning(s) noted.
 
 ---
 
@@ -138,7 +147,7 @@ No criminal cases declared. Declared assets: Rs 62,250,170. MPLADS utilization: 
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -236,12 +245,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

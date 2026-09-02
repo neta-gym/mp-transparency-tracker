@@ -3,20 +3,18 @@
 **Constituency:** Aurangabad, Maharashtra
 **Party:** Shiv Sena
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 62
-**Education:** 10th Pass
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (39%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 47.3 / 100
+## Composite Transparency Score: 37.8 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 24.0 | 25% |
-| Asset Growth | 55.0 | 15% |
-| Criminal Record | 60.0 | 15% |
+| Asset Growth | 45.0 | 15% |
+| Criminal Record | 20.0 | 15% |
 | Parliament Attendance | 70.0 | 10% |
 | Questions & Debates | 50.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
@@ -28,24 +26,30 @@
 ## Criminal Record
 
 - **Total Cases:** 4
-- **Serious Cases:** 0
-- **Convictions:** 0
-- **Pending Cases:** 4
+- **Serious Cases:** 2
+- **Convictions:** 1
+- **Pending Cases:** 3
 - **Disposed Cases:** 0
 - **Data Source:** myneta
+
+### Cases Detail
+
+1. 356/2000 Kranti Chowk Police Station Aurangabad | Section- 3 Prevention of Damage to Public Property Act (Sections: 332, 353, 149) [pending] 
+2. 192/2007 Kranti Chowk Police Station Aurangabad | Section -13(1)(5) Prevention of Corruption Act, 1988 (Sections: 420, 465, 468, 471, 120B, 34) [pending] **SERIOUS**
+3. 134/2021 Pachod Police Station | Section -51B Disaster Management Act 2005, Section - 2,3 Epidemic Diseases Act 1897 (Sections: 188, 269) [pending] 
+4. 395, 353, 332, 143, 149, 504, 506, 509 IPC (Sections: 353, 149) [convicted] **SERIOUS**
 
 ---
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 10.31 Crore
-- **Liabilities:** Rs 2.46 Crore
-- **Net Worth:** Rs 7.85 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 59% of Lok Sabha MPs
 
 ---
 
@@ -71,34 +75,46 @@
 
 ## In The News
 
-*Mixed/neutral coverage (10 articles)*
+*Mixed/neutral coverage (8 articles)*
 
-- **Total Articles:** 10
-- **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
+- **Total Articles:** 8
+- **Positive:** 0 | **Negative:** 1 | **Neutral:** 7
 
-- Bhumare’s Aurangabad win Mahayuti’s only one in M’wada - The Times of India (The Times of India) [neutral]
-- Aurangabad lok sabha election results 2024: Aurangabad Winning Candidates List and Vote Share - India Today (India Today) [neutral]
 - Aurangabad Election Results 2024: Bhumare Sandipanrao Asaram of Shiva Sena wins - The Times of India (The Times of India) [neutral]
+- Aurangabad lok sabha election results 2024: Aurangabad Winning Candidates List and Vote Share - India Today (India Today) [neutral]
 - Aurangabad LS Election Result 2024: Imtiaz Jaleel loses elections by 134,650 votes - ummid.com (ummid.com) [neutral]
-- No clear winner in Sena vs Sena battle. Over to assembly polls now - Newslaundry (Newslaundry) [neutral]
+- Khaire blames insiders for loss, to lodge complaint with Uddhav - The Times of India (The Times of India) [negative]
+- Aurangabad Election Results 2024: AIMIM Imtiaz Jaleel leads in Aurangabad - The Times of India (The Times of India) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Aurangabad Election Results 2024: Bhumare Sandipanrao Asaram of Shiva Sena wins - The Times of India** (The Times of India)
+- ! **Aurangabad lok sabha election results 2024: Aurangabad Winning Candidates List and Vote Share - India Today** (India Today)
+- ! **Aurangabad LS Election Result 2024: Imtiaz Jaleel loses elections by 134,650 votes - ummid.com** (ummid.com)
+- !! **Khaire blames insiders for loss, to lodge complaint with Uddhav - The Times of India** (The Times of India)
+- ! **Aurangabad Election Results 2024: AIMIM Imtiaz Jaleel leads in Aurangabad - The Times of India** (The Times of India)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Maharashtra: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Bhumare Sandipanrao Asaram has a below-average transparency score of 47.3/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention.
+Bhumare Sandipanrao Asaram has a below-average transparency score of 37.8/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention.
 
 ---
 
-Has 4 criminal case(s) (0 serious), 4 pending, 0 conviction(s). Declared assets: Rs 103,071,866. MPLADS utilization: 30.0%. Parliament attendance: 70.0%. Questions asked: 24. Debates participated: 1.
+Has 4 criminal case(s) (2 serious), 3 pending, 1 conviction(s). MPLADS utilization: 30.0%. Parliament attendance: 70.0%. Questions asked: 24. Debates participated: 1. Low confidence data: Assets. 1 warning(s) noted.
 
 ---
 
@@ -138,7 +154,7 @@ Has 4 criminal case(s) (0 serious), 4 pending, 0 conviction(s). Declared assets:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -236,12 +252,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

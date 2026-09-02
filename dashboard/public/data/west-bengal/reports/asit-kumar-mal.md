@@ -4,17 +4,17 @@
 **Party:** All India Trinamool Congress
 **House:** Lok Sabha (18th Parliament, 2024-present)
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Third-party (C)
+**Data Confidence:** Low (27%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 63.4 / 100
+## Composite Transparency Score: 50.2 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 53.4 | 25% |
-| Asset Growth | 60.0 | 15% |
-| Criminal Record | 100.0 | 15% |
+| Asset Growth | 45.0 | 15% |
+| Criminal Record | 45.0 | 15% |
 | Parliament Attendance | 100.0 | 10% |
 | Questions & Debates | 20.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
@@ -36,14 +36,13 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 1.13 Crore
-- **Liabilities:** Rs 4.64 Lakh
-- **Net Worth:** Rs 1.08 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 9% of Lok Sabha MPs
 
 ---
 
@@ -74,29 +73,42 @@
 - **Total Articles:** 10
 - **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
 
-- Bengal MPS Show Uneven MPLADS Delivery - The Sunday Guardian (The Sunday Guardian) [neutral]
-- Bolpur Constituency of West Bengal Lok Sabha Election 2024: Date of Voting, Result, Candidates List, Main - The Times of India (The Times of India) [neutral]
-- Bolpur Election Result 2024 LIVE Updates Highlights: Asit Kumar Mal of TMC Wins - News18 (News18) [neutral]
-- Lok Sabha MP Asit Kumar Mal’s Zero Hour mention on the demand for restarting the Burdwan-Malda local train, which was stopped during the COVID-19 pandemic - AITC (AITC) [neutral]
+- Former Bengal deputy speaker Asish Banerjee found dead at TMC office, suicide note recovered - India Today NE (India Today NE) [neutral]
+- Former West Bengal Assembly Deputy Speaker Asish Banerjee found dead in TMC office; suicide note recovered - prameyanews.com (prameyanews.com) [neutral]
+- West Bengal politics heat up amid claims of internal turmoi… - english.gujaratsamachar.com (english.gujaratsamachar.com) [neutral]
+- Bolpur (SC) election results 2024 live updates: TMC's Asit Kumar Mal wins - timesofindia.indiatimes.com (timesofindia.indiatimes.com) [neutral]
 - The poll maths of Bengal Laal Mati, minus Keshto Mondal - ETV Bharat (ETV Bharat) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Former Bengal deputy speaker Asish Banerjee found dead at TMC office, suicide note recovered - India Today NE** (India Today NE)
+- ! **Former West Bengal Assembly Deputy Speaker Asish Banerjee found dead in TMC office; suicide note recovered - prameyanews.com** (prameyanews.com)
+- ! **West Bengal politics heat up amid claims of internal turmoi… - english.gujaratsamachar.com** (english.gujaratsamachar.com)
+- ! **Bolpur (SC) election results 2024 live updates: TMC's Asit Kumar Mal wins - timesofindia.indiatimes.com** (timesofindia.indiatimes.com)
+- ! **The poll maths of Bengal Laal Mati, minus Keshto Mondal - ETV Bharat** (ETV Bharat)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
+- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for West Bengal: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Asit Kumar Mal shows moderate transparency with a score of 63.4/100. No criminal cases declared. High parliament attendance. Limited participation in parliamentary proceedings.
+Asit Kumar Mal shows moderate transparency with a score of 50.2/100. Significant criminal cases are a concern. High parliament attendance. Limited participation in parliamentary proceedings. Data confidence is low — scores should be interpreted with caution.
 
 ---
 
-No criminal cases declared. Declared assets: Rs 11,257,405. MPLADS utilization: 58.9%. Parliament attendance: 100.0%. Debates participated: 2.
+No criminal cases declared. MPLADS utilization: 58.9%. Parliament attendance: 100.0%. Debates participated: 2. Low confidence data: Criminal record, Assets. 2 warning(s) noted.
 
 ---
 
@@ -136,7 +148,7 @@ No criminal cases declared. Declared assets: Rs 11,257,405. MPLADS utilization: 
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -234,10 +246,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

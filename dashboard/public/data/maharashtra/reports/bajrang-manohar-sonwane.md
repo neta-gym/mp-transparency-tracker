@@ -3,19 +3,17 @@
 **Constituency:** Beed, Maharashtra
 **Party:** Nationalist Congress Party - Sharadchandra Pawar
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 53
-**Education:** Graduate
 **Report Date:** 2026-09-02
-**Data Confidence:** Low (49%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (37%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 58.5 / 100
+## Composite Transparency Score: 57.0 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 13.6 | 25% |
-| Asset Growth | 55.0 | 15% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 85.0 | 10% |
 | Questions & Debates | 80.0 | 10% |
@@ -40,12 +38,11 @@
 
 - **Movable Assets:** N/A
 - **Immovable Assets:** N/A
-- **Total Assets:** Rs 28.93 Crore
-- **Liabilities:** Rs 7.75 Crore
-- **Net Worth:** Rs 21.18 Crore
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 77% of Lok Sabha MPs
 
 ---
 
@@ -76,29 +73,41 @@
 - **Total Articles:** 10
 - **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
 
-- Silent march in Maharashtra’s Beed demands restoration of 5% quota for Muslims nullified by BJP-led government - IndiaTomorrow (IndiaTomorrow) [neutral]
-- Maharashtra: Political Leaders Demand Reservation for Muslims, Extend Support to Beed March - The Hindustan Gazette (The Hindustan Gazette) [neutral]
-- Election Result 2024: BJP's Pankaja Munde Loses Family Bastion Beed to NCP(SP)'s Sonwane by Over 6,000 Vote - News18 (News18) [neutral]
+- Beed election results 2024 live updates: Pankaja Gopinathrao Munde of BJP wins - The Times of India (The Times of India) [neutral]
 - Govt acknowledges TRP-led sensationalism, backs reforms for fair competition - bestmediainfo.com (bestmediainfo.com) [neutral]
 - Beed lok sabha election results 2024: Beed Winning Candidates List and Vote Share - India Today (India Today) [neutral]
+- Sharad Pawar-Led NCP MPs Meet PM Modi, Seek Bharat Ratna For Maharashtra Icons - NDTV Profit (NDTV Profit) [neutral]
+- Silent march in Maharashtra’s Beed demands restoration of 5% quota for Muslims nullified by BJP-led government - indiatomorrow.net (indiatomorrow.net) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Beed election results 2024 live updates: Pankaja Gopinathrao Munde of BJP wins - The Times of India** (The Times of India)
+- ! **Govt acknowledges TRP-led sensationalism, backs reforms for fair competition - bestmediainfo.com** (bestmediainfo.com)
+- ! **Beed lok sabha election results 2024: Beed Winning Candidates List and Vote Share - India Today** (India Today)
+- ! **Sharad Pawar-Led NCP MPs Meet PM Modi, Seek Bharat Ratna For Maharashtra Icons - NDTV Profit** (NDTV Profit)
+- ! **Silent march in Maharashtra’s Beed demands restoration of 5% quota for Muslims nullified by BJP-led government - indiatomorrow.net** (indiatomorrow.net)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Maharashtra: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Bajrang Manohar Sonwane shows moderate transparency with a score of 58.5/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Bajrang Manohar Sonwane shows moderate transparency with a score of 57.0/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-No criminal cases declared. Declared assets: Rs 289,278,459. MPLADS utilization: 16.9%. Parliament attendance: 85.0%. Questions asked: 64. Debates participated: 6.
+No criminal cases declared. MPLADS utilization: 16.9%. Parliament attendance: 85.0%. Questions asked: 64. Debates participated: 6. Low confidence data: Assets. 1 warning(s) noted.
 
 ---
 
@@ -138,7 +147,7 @@ No criminal cases declared. Declared assets: Rs 289,278,459. MPLADS utilization:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -236,12 +245,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

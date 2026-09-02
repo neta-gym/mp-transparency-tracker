@@ -7,7 +7,7 @@
 **Education:** Post Graduate
 **Profession:** Business(Abroad Education Consultant-Director-Genius Commercial & Education Institute Pvt. Ltd.)
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (56%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Medium (56%) | **Evidence Grade:** Third-party (C)
 
 ---
 
@@ -46,7 +46,7 @@
 - **Net Worth:** Rs 13.56 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 66% of Lok Sabha MPs
+- **Wealth Percentile:** Wealthier than 63% of Lok Sabha MPs
 
 ---
 
@@ -88,11 +88,11 @@
 - **Total Articles:** 10
 - **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
 
-- Delhi CM meets party workers, highlights govt’s achievements​ - The Hans India (The Hans India) [neutral]
-- CM Rekha Gupta launches Rs 400 crore projects in Matiala area in West Delhi - The Hans India (The Hans India) [neutral]
-- BJP’s Kamaljeet Sehrawat wins in West Delhi - The Indian Express (The Indian Express) [neutral]
-- Know Your Candidate: BJP’s Kamaljeet Sherawat Secures Tickets From West Delhi - Feminism in India (Feminism in India) [neutral]
+- 3 Delhi BJP MPs attend Sajjan Kumar condolence meeting, pulled up by Nitin Nabin - The Indian Express (The Indian Express) [neutral]
+- Nitin Nabin pulls up 3 BJP MPs over Sajjan Kumar condolence visit - The New Indian Express (The New Indian Express) [neutral]
+- BJP Reprimands 3 MPs for Attending 1984 Anti-Sikh Riot Convict Sajjan Kumar’s Prayer Meeting - Revoi.in (Revoi.in) [neutral]
 - BJP’s Kamaljeet Sehrawat is showing up everywhere—weddings to temples. Modi her senapati - ThePrint (ThePrint) [neutral]
+- Know Your Candidate: BJP’s Kamaljeet Sherawat Secures Tickets From West Delhi - Feminism in India (Feminism in India) [neutral]
 
 ---
 
@@ -102,6 +102,16 @@
 - **Population:** 2,800,000
 - **Literacy Rate:** 83.0%
 - **Urban:** 100%
+
+---
+
+## News & Allegations
+
+- ! **3 Delhi BJP MPs attend Sajjan Kumar condolence meeting, pulled up by Nitin Nabin - The Indian Express** (The Indian Express)
+- ! **Nitin Nabin pulls up 3 BJP MPs over Sajjan Kumar condolence visit - The New Indian Express** (The New Indian Express)
+- ! **BJP Reprimands 3 MPs for Attending 1984 Anti-Sikh Riot Convict Sajjan Kumar’s Prayer Meeting - Revoi.in** (Revoi.in)
+- ! **BJP’s Kamaljeet Sehrawat is showing up everywhere—weddings to temples. Modi her senapati - ThePrint** (ThePrint)
+- ! **Know Your Candidate: BJP’s Kamaljeet Sherawat Secures Tickets From West Delhi - Feminism in India** (Feminism in India)
 
 ---
 
@@ -160,7 +170,7 @@ No criminal cases declared. Declared assets: Rs 147,436,650. MPLADS utilization:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -259,11 +269,12 @@ Time limit: PIO must respond within 30 days of receipt.
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
 | Assets | myneta | Official (B) |
+| Committees | sansad | LLM/Estimated (E) |
 | Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: myneta, prs, social_media, news, mplads*
+*Sources consulted: myneta, prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

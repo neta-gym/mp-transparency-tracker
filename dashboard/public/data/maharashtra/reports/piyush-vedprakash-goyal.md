@@ -3,19 +3,17 @@
 **Constituency:** Mumbai North, Maharashtra
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 59
-**Education:** Graduate Professional
 **Report Date:** 2026-09-02
-**Data Confidence:** Low (43%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (30%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 49.8 / 100
+## Composite Transparency Score: 48.3 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 11.7 | 25% |
-| Asset Growth | 55.0 | 15% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 50.0 | 10% |
 | Questions & Debates | 50.0 | 10% |
@@ -38,14 +36,13 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 110.95 Crore
-- **Liabilities:** Rs 14.23 Crore
-- **Net Worth:** Rs 96.72 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 93% of Lok Sabha MPs
 
 ---
 
@@ -71,35 +68,47 @@
 
 ## In The News
 
-*Mixed/neutral coverage (7 articles)*
+*Mixed/neutral coverage (8 articles)*
 
-- **Total Articles:** 7
-- **Positive:** 1 | **Negative:** 0 | **Neutral:** 6
+- **Total Articles:** 8
+- **Positive:** 0 | **Negative:** 0 | **Neutral:** 8
 
-- Piyush Goyal, BJP's troubleshooter, prepares for Lok Sabha debut - India Today (India Today) [neutral]
-- Road to Mumbai North: Piyush Goyal’s election debut from BJP’s safest seat - Newslaundry (Newslaundry) [neutral]
-- Modi government 3.0: Piyush Goyal takes oath as Union minister after debut Lok Sabha victory - The Times of India (The Times of India) [neutral]
 - Piyush Goyal returns as Union minister in new avatar as 1st time LS member - Business Standard (Business Standard) [neutral]
-- "Inspiring memory continues to guide": Piyush Goyal remembers father, ex-Union Minister Vedprakash Goyal on 100th birth anniversary - ANI News (ANI News) [neutral]
+- Modi 3.0: Piyush Goyal, Nitin Gadkari among big names from Maharashtra in new Union Cabinet - Firstpost (Firstpost) [neutral]
+- Piyush Goyal heads to 'motherland' for a missed rite of passage - economictimes.com (economictimes.com) [neutral]
+- IN PHOTOS: Piyush Goyal, BJP's Mumbai North candidate for Lok Sabha elections 2024 visits Siddhivinayk Temple - Mid-Day (Mid-Day) [neutral]
+- Union Minister Piyush Goyal Launches Six Initiatives and Rs.100 Commemorative Coin for Make in India 10th Anniversary - AffairsCloud.com (AffairsCloud.com) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Piyush Goyal returns as Union minister in new avatar as 1st time LS member - Business Standard** (Business Standard)
+- ! **Modi 3.0: Piyush Goyal, Nitin Gadkari among big names from Maharashtra in new Union Cabinet - Firstpost** (Firstpost)
+- ! **Piyush Goyal heads to 'motherland' for a missed rite of passage - economictimes.com** (economictimes.com)
+- ! **IN PHOTOS: Piyush Goyal, BJP's Mumbai North candidate for Lok Sabha elections 2024 visits Siddhivinayk Temple - Mid-Day** (Mid-Day)
+- ! **Union Minister Piyush Goyal Launches Six Initiatives and Rs.100 Commemorative Coin for Make in India 10th Anniversary - AffairsCloud.com** (AffairsCloud.com)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
 - [!] **parliament_activity**: Low confidence in parliament activity data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Maharashtra: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Piyush Vedprakash Goyal has a below-average transparency score of 49.8/100, indicating significant room for improvement. No criminal cases declared. Low MPLADS fund utilization needs attention.
+Piyush Vedprakash Goyal has a below-average transparency score of 48.3/100, indicating significant room for improvement. No criminal cases declared. Low MPLADS fund utilization needs attention.
 
 ---
 
-No criminal cases declared. Declared assets: Rs 1,109,514,447. MPLADS utilization: 14.6%. Low confidence data: Parliament activity. 1 warning(s) noted.
+No criminal cases declared. MPLADS utilization: 14.6%. Low confidence data: Assets, Parliament activity. 2 warning(s) noted.
 
 ---
 
@@ -139,7 +148,7 @@ No criminal cases declared. Declared assets: Rs 1,109,514,447. MPLADS utilizatio
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -237,12 +246,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

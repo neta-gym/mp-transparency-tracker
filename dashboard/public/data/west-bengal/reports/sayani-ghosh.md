@@ -3,24 +3,22 @@
 **Constituency:** Jadavpur, West Bengal
 **Party:** All India Trinamool Congress
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 31
-**Education:** 12th Pass
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (46%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 56.9 / 100
+## Composite Transparency Score: 56.7 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 23.5 | 25% |
-| Asset Growth | 50.0 | 15% |
-| Criminal Record | 90.0 | 15% |
+| Asset Growth | 45.0 | 15% |
+| Criminal Record | 80.0 | 15% |
 | Parliament Attendance | 100.0 | 10% |
 | Questions & Debates | 50.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
-| Public Accessibility | 15.0 | 5% |
+| Public Accessibility | 65.0 | 5% |
 | Legislative Effectiveness | 40.0 | 10% |
 
 ---
@@ -28,24 +26,27 @@
 ## Criminal Record
 
 - **Total Cases:** 1
-- **Serious Cases:** 0
+- **Serious Cases:** 1
 - **Convictions:** 0
 - **Pending Cases:** 1
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
+### Cases Detail
+
+1. East Agartala P.S. Case No. 2021 Eag 156, Dated 20.11.2021, Agartala East, Tripura (Sections: 153, 153A, 506, 307, 120B) [pending] **SERIOUS**
+
 ---
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 91.89 Lakh
-- **Liabilities:** Rs 59.86 Lakh
-- **Net Worth:** Rs 32.04 Lakh
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 8% of Lok Sabha MPs
 
 ---
 
@@ -69,6 +70,18 @@
 
 ---
 
+## Public Accessibility
+
+- **Platforms:** 2
+
+
+| Platform | Handle | Verified | Active |
+|----------|--------|----------|--------|
+| Twitter | [@https://x.com/sayani06?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor](https://x.com/https://x.com/sayani06?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) | No | Yes |
+| Facebook | [@https://www.facebook.com/SaayoniGhoshOfficial/](https://facebook.com/https://www.facebook.com/SaayoniGhoshOfficial/) | No | Yes |
+
+---
+
 ## In The News
 
 *Mixed/neutral coverage (10 articles)*
@@ -76,29 +89,41 @@
 - **Total Articles:** 10
 - **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
 
-- 'My assets have been...': TMC's Sayani Ghosh clarifies on joint property with Abhishek Banerjee - MSN (MSN) [neutral]
-- Jadavpur election result 2026: BJP's Sarbori Mukherjee wins against TMC's Debabrata Majumdar - The Times of India (The Times of India) [neutral]
-- Who is Saayoni Ghosh? TMC MP who went viral for singing 'kaba madina' breaks silence on BJP's win in West Bengal - DNA India (DNA India) [neutral]
-- Saayoni Ghosh: A Spirited Political Force - Outlook India (Outlook India) [neutral]
-- Saayoni Ghosh: Biography, Life, Education, Net Worth and Career of West Bengal MP - Jagran Josh (Jagran Josh) [neutral]
+- TMC workers lock Saayoni Ghosh's Garfa office - The Times of India (The Times of India) [neutral]
+- 'Will speak when time is right': TMC MP Saayoni Ghosh amid speculation over joining rebel bloc - aninews.in (aninews.in) [neutral]
+- Et tu, Saayoni Ghosh? Mamata-Abhishek protégé deals Trinamool its worst blow - The Indian Express (The Indian Express) [neutral]
+- Blow after blow to Trinamool Congress, Kaaba-fame Saayoni Ghosh likely to join rebel group as Mamata Banerjee - India.com (India.com) [neutral]
+- ‘Will speak when time is right’: Saayoni Ghosh reaches Delhi amid TMC turmoil - The Times of India (The Times of India) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **TMC workers lock Saayoni Ghosh's Garfa office - The Times of India** (The Times of India)
+- ! **'Will speak when time is right': TMC MP Saayoni Ghosh amid speculation over joining rebel bloc - aninews.in** (aninews.in)
+- ! **Et tu, Saayoni Ghosh? Mamata-Abhishek protégé deals Trinamool its worst blow - The Indian Express** (The Indian Express)
+- ! **Blow after blow to Trinamool Congress, Kaaba-fame Saayoni Ghosh likely to join rebel group as Mamata Banerjee - India.com** (India.com)
+- ! **‘Will speak when time is right’: Saayoni Ghosh reaches Delhi amid TMC turmoil - The Times of India** (The Times of India)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for West Bengal: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Sayani Ghosh shows moderate transparency with a score of 56.9/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance.
+Sayani Ghosh shows moderate transparency with a score of 56.7/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance.
 
 ---
 
-Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Declared assets: Rs 9,189,462. MPLADS utilization: 29.3%. Parliament attendance: 100.0%. Questions asked: 23. Debates participated: 4.
+Has 1 criminal case(s) (1 serious), 1 pending, 0 conviction(s). MPLADS utilization: 29.3%. Parliament attendance: 100.0%. Questions asked: 23. Debates participated: 4. Low confidence data: Assets. 1 warning(s) noted.
 
 ---
 
@@ -138,7 +163,7 @@ Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Declared assets:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -236,12 +261,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

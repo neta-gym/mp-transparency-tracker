@@ -3,19 +3,17 @@
 **Constituency:** Akbarpur, Uttar Pradesh
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 70
-**Education:** 10th Pass
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (39%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 31.4 / 100
+## Composite Transparency Score: 29.9 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 24.5 | 25% |
-| Asset Growth | 55.0 | 15% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 0.0 | 15% |
 | Parliament Attendance | 50.0 | 10% |
 | Questions & Debates | 40.0 | 10% |
@@ -28,24 +26,39 @@
 ## Criminal Record
 
 - **Total Cases:** 13
-- **Serious Cases:** 0
+- **Serious Cases:** 3
 - **Convictions:** 0
 - **Pending Cases:** 13
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
+### Cases Detail
+
+1. CC.No.375/2014, P.S. Kalyanpur, Kanpur Nagar, U.P, Date-10/04/2024 | Section-126(2) R.P. Act (Sections: 188) [pending] 
+2. CC.No.07/2006, P.S.-Mangalpur, Kanpur Dehat, U.P., Date-10/04/2024 (Sections: 406, 394, 506, 120B) [pending] **SERIOUS**
+3. CC.No.3/2006, P.S.-Mangalpur, Kanpur Dehat, U.P., Date-10/04/2024 (Sections: 504, 506) [pending] 
+4. CC.No.300/2005, P.S.-Rura, Kanpur Dehat, U.P., Date-10/4/2024 (Sections: 323, 504) [pending] 
+5. CC.No.298/2005, P.S. Rura, Kanpur Dehat, U.P. , Date-10/4/2024 (Sections: 323, 504, 506) [pending] 
+6. CC.No.158/2005, P.S.Derapur, Kanpur Dehat, U.P., Date-10/04/2024 (Sections: 323, 504, 506) [pending] 
+7. CC.No.8A/2002, P.S.-Mangalpur, Kanpur Dehat, U.P., Date-10/4/2024 (Sections: 147, 148, 149, 307) [pending] **SERIOUS**
+8. CC.No.221/1996, P.S.Mangalpur, Kanpur Dehat, U.P.,, Date-10/4/2024 | Section-30A Arms Act (Sections: N/A) [pending] 
+9. CC.No.261/1994, P.S. Mangalpur, Kanpur Dehat, U.P., Date-10/4/2024 (Sections: 147, 148, 149, 307, 336) [pending] **SERIOUS**
+10. CC.No.11/1994, P.S.-Rasulabad, Kanpur Dehat, U.P., Date-10/4/2024 (Sections: 353, 153A) [pending] 
+11. CC.No.298/1993, P.S.Mangalpur, Kanpur Dehat, U.P., , Date-10/4/2024 (Sections: 147, 323, 504, 506, 427) [pending] 
+12. CC.No.65A/1991, P.S.-Mangalpur, Kanpur Dehat, U.P., date-10/4/2024 (Sections: 323, 504, 506) [pending] 
+13. CC.No.264/1990, P.S.-Mangalpur, Kanpur Dehat, U.P., Date-10/4/2024 | NSA Act (Sections: N/A) [pending] 
+
 ---
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 4.78 Crore
-- **Liabilities:** Rs 99.02 Lakh
-- **Net Worth:** Rs 3.79 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 38% of Lok Sabha MPs
 
 ---
 
@@ -76,29 +89,41 @@
 - **Total Articles:** 8
 - **Positive:** 0 | **Negative:** 0 | **Neutral:** 8
 
+- Fortuner driver threatens traffic cop after Kanpur road accident: Man claims, 'MP Bhole Singh is my uncle, ... - Bhaskar English (Bhaskar English) [neutral]
 - After consecutive terms from 2014, 102 MPs’ assets up 110%: Report - The Times of India (The Times of India) [neutral]
-- Re-elected MPs across parties show 110% rise in assets between 2014 and 2024: ADR - The Statesman (The Statesman) [neutral]
-- Akbarpur Election Result 2024 LIVE Updates Highlights: Devendra Singh alias Bhole Singh of BJP Wins - News18 (News18) [neutral]
-- Lok Sabha Election 2024 Full Winners List - financialexpress.com (financialexpress.com) [neutral]
-- Midhun Reddy records third-highest asset growth in a decade among re-elected MPs - The Times of India (The Times of India) [neutral]
+- Re-Elected Indian MPs See Average Assets Double in a Decade with BJP MPs Leading in Volume: ADR Report - IndiaTomorrow (IndiaTomorrow) [neutral]
+- Akbarpur election results 2024: BJP's Devendra Singh wins with over 5 lakh votes - The Times of India (The Times of India) [neutral]
+- Akbarpur lok sabha election results 2024: Akbarpur Winning Candidates List and Vote Share - India Today (India Today) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Fortuner driver threatens traffic cop after Kanpur road accident: Man claims, 'MP Bhole Singh is my uncle, ... - Bhaskar English** (Bhaskar English)
+- ! **After consecutive terms from 2014, 102 MPs’ assets up 110%: Report - The Times of India** (The Times of India)
+- ! **Re-Elected Indian MPs See Average Assets Double in a Decade with BJP MPs Leading in Volume: ADR Report - IndiaTomorrow** (IndiaTomorrow)
+- ! **Akbarpur election results 2024: BJP's Devendra Singh wins with over 5 lakh votes - The Times of India** (The Times of India)
+- ! **Akbarpur lok sabha election results 2024: Akbarpur Winning Candidates List and Vote Share - India Today** (India Today)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Uttar Pradesh: 8 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Devendra Singh Alias Bhole Singh has a below-average transparency score of 31.4/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention.
+Devendra Singh Alias Bhole Singh has a below-average transparency score of 29.9/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention.
 
 ---
 
-Has 13 criminal case(s) (0 serious), 13 pending, 0 conviction(s). Declared assets: Rs 47,828,524. MPLADS utilization: 30.7%. Parliament attendance: 50.0%. Questions asked: 10. Debates participated: 3.
+Has 13 criminal case(s) (3 serious), 13 pending, 0 conviction(s). MPLADS utilization: 30.7%. Parliament attendance: 50.0%. Questions asked: 10. Debates participated: 3. Low confidence data: Assets. 1 warning(s) noted.
 
 ---
 
@@ -138,7 +163,7 @@ Has 13 criminal case(s) (0 serious), 13 pending, 0 conviction(s). Declared asset
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -236,12 +261,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

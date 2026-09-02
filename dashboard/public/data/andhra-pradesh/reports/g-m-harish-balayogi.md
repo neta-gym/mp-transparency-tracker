@@ -4,11 +4,11 @@
 **Party:** Telugu Desam Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
 **Report Date:** 2026-09-02
-**Data Confidence:** Low (14%) | **Evidence Grade:** Secondary (D)
+**Data Confidence:** Low (21%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 51.8 / 100
+## Composite Transparency Score: 55.2 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -18,7 +18,7 @@
 | Parliament Attendance | 95.0 | 10% |
 | Questions & Debates | 70.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
-| Public Accessibility | 15.0 | 5% |
+| Public Accessibility | 85.0 | 5% |
 | Legislative Effectiveness | 40.0 | 10% |
 
 ---
@@ -66,18 +66,41 @@
 
 ---
 
+## Public Accessibility
+
+- **Platforms:** 3
+
+
+| Platform | Handle | Verified | Active |
+|----------|--------|----------|--------|
+| Twitter | [@https://x.com/harishbalayogi](https://x.com/https://x.com/harishbalayogi) | No | Yes |
+| Facebook | [@https://www.facebook.com/HarishBalayogi/](https://facebook.com/https://www.facebook.com/HarishBalayogi/) | No | Yes |
+| Instagram | [@https://www.instagram.com/harishbalayogi/](https://instagram.com/https://www.instagram.com/harishbalayogi/) | No | Yes |
+
+---
+
 ## In The News
 
-*Mixed/neutral coverage (10 articles)*
+*Mixed/neutral coverage (9 articles)*
 
-- **Total Articles:** 10
-- **Positive:** 2 | **Negative:** 0 | **Neutral:** 8
+- **Total Articles:** 9
+- **Positive:** 2 | **Negative:** 0 | **Neutral:** 7
 
-- Amalapuram MP takes part in discussions on simultaneous polls - The Hindu (The Hindu) [neutral]
 - Aiming to fulfil father Balayogi’s ‘dreams’, TDP MP G M Harish: Rail line to people’s welfare - The Indian Express (The Indian Express) [positive]
 - Amalapuram (SC) election results 2024: G M Harish (Balayogi) of TDP triumphs in Amalapura constituency, d - The Times of India (The Times of India) [neutral]
+- G M Harish (Balayogi) , TDP candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details. - The Hindu (The Hindu) [neutral]
 - Three-time MP and Balayogi's son among TDP favourites for Speaker's post - The New Indian Express (The New Indian Express) [neutral]
-- Amalapuram (SC) lok sabha election results 2024: Amalapuram (SC) Winning Candidates List and Vote Share - indiatoday.in (indiatoday.in) [neutral]
+- Aiming to fulfil father Balayogi’s ‘ dreams’, says TDP member G M Harish - PressReader (PressReader) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Aiming to fulfil father Balayogi’s ‘dreams’, TDP MP G M Harish: Rail line to people’s welfare - The Indian Express** (The Indian Express)
+- ! **Amalapuram (SC) election results 2024: G M Harish (Balayogi) of TDP triumphs in Amalapura constituency, d - The Times of India** (The Times of India)
+- ! **G M Harish (Balayogi) , TDP candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details. - The Hindu** (The Hindu)
+- ! **Three-time MP and Balayogi's son among TDP favourites for Speaker's post - The New Indian Express** (The New Indian Express)
+- ! **Aiming to fulfil father Balayogi’s ‘ dreams’, says TDP member G M Harish - PressReader** (PressReader)
 
 ---
 
@@ -95,7 +118,7 @@
 
 ## Qualitative Assessment
 
-G M Harish Balayogi shows moderate transparency with a score of 51.8/100. Significant criminal cases are a concern. High parliament attendance. Active in questions and debates. Data confidence is low — scores should be interpreted with caution.
+G M Harish Balayogi shows moderate transparency with a score of 55.2/100. Significant criminal cases are a concern. High parliament attendance. Active in questions and debates. Data confidence is low — scores should be interpreted with caution.
 
 ---
 
@@ -139,7 +162,7 @@ No criminal cases declared. Parliament attendance: 95.0%. Questions asked: 45. D
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -241,5 +264,5 @@ Time limit: PIO must respond within 30 days of receipt.
 
 ---
 
-*Sources consulted: prs, social_media, news*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

@@ -3,19 +3,17 @@
 **Constituency:** Howrah, West Bengal
 **Party:** All India Trinamool Congress
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 54
-**Education:** Post Graduate
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (37%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 53.1 / 100
+## Composite Transparency Score: 51.6 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 30.3 | 25% |
-| Asset Growth | 55.0 | 15% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 80.0 | 10% |
 | Questions & Debates | 0.0 | 10% |
@@ -38,14 +36,13 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 2.22 Crore
-- **Liabilities:** Rs 24.73 Lakh
-- **Net Worth:** Rs 1.98 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 19% of Lok Sabha MPs
 
 ---
 
@@ -76,29 +73,41 @@
 - **Total Articles:** 10
 - **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
 
-- Howrah election results 2024 live updates: BJP's Rathin Chakravarty vs TMC's Prasun Banerjee - The Times of India (The Times of India) [neutral]
+- Mamata Banerjee’s brother ‘unhappy’ over TMC’s Howrah Lok Sabha seat nomination - The Hindu (The Hindu) [neutral]
 - Howrah Lok Sabha Election Results 2024: Mamata's brother Prasun Banerjee wins by 169442 votes - CNBC TV18 (CNBC TV18) [neutral]
-- Prasun Banerjee: From Football Captain to Howrah’s Consistent Parliamentary Voice - vocal.media (vocal.media) [neutral]
-- 'If needed, I will contest as independent': Mamata Banerjee's 'upset' brother over ticket distribution - India TV News (India TV News) [neutral]
-- Lok Sabha elections 2019: Footballer-MP Prasun Banerjee forced to defend his turf - The New Indian Express (The New Indian Express) [neutral]
+- Howrah election results 2024 live updates: BJP's Rathin Chakravarty vs TMC's Prasun Banerjee - timesofindia.indiatimes.com (timesofindia.indiatimes.com) [neutral]
+- Mamata says 'no ties' with brother after he expresses displeasure over TMC's Howrah candidate - newindianexpress.com (newindianexpress.com) [neutral]
+- Disgruntled TMC MP Prasun Banerjee meets youth wing chief, says he is not leaving party - Firstpost (Firstpost) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Mamata Banerjee’s brother ‘unhappy’ over TMC’s Howrah Lok Sabha seat nomination - The Hindu** (The Hindu)
+- ! **Howrah Lok Sabha Election Results 2024: Mamata's brother Prasun Banerjee wins by 169442 votes - CNBC TV18** (CNBC TV18)
+- ! **Howrah election results 2024 live updates: BJP's Rathin Chakravarty vs TMC's Prasun Banerjee - timesofindia.indiatimes.com** (timesofindia.indiatimes.com)
+- ! **Mamata says 'no ties' with brother after he expresses displeasure over TMC's Howrah candidate - newindianexpress.com** (newindianexpress.com)
+- ! **Disgruntled TMC MP Prasun Banerjee meets youth wing chief, says he is not leaving party - Firstpost** (Firstpost)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for West Bengal: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Prasun Banerjee shows moderate transparency with a score of 53.1/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Limited participation in parliamentary proceedings.
+Prasun Banerjee shows moderate transparency with a score of 51.6/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Limited participation in parliamentary proceedings.
 
 ---
 
-No criminal cases declared. Declared assets: Rs 22,225,100. MPLADS utilization: 37.8%. Parliament attendance: 80.0%.
+No criminal cases declared. MPLADS utilization: 37.8%. Parliament attendance: 80.0%. Low confidence data: Assets. 1 warning(s) noted.
 
 ---
 
@@ -138,7 +147,7 @@ No criminal cases declared. Declared assets: Rs 22,225,100. MPLADS utilization: 
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -236,12 +245,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

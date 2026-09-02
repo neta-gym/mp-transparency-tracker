@@ -7,21 +7,21 @@
 **Education:** Graduate
 **Profession:** Social Service, Retired from Govt Service
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Medium (57%) | **Evidence Grade:** Third-party (C)
 
 ---
 
-## Composite Transparency Score: 53.3 / 100
+## Composite Transparency Score: 61.1 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 10.3 | 25% |
-| Asset Growth | 50.0 | 15% |
+| Asset Growth | 85.0 | 15% |
 | Criminal Record | 90.0 | 15% |
 | Parliament Attendance | 80.0 | 10% |
 | Questions & Debates | 70.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
-| Public Accessibility | 15.0 | 5% |
+| Public Accessibility | 65.0 | 5% |
 | Legislative Effectiveness | 40.0 | 10% |
 
 ---
@@ -35,17 +35,21 @@
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
+### Cases Detail
+
+1. 203, Airport PS, Bhubaneswar | Section 3 of ED Act 1897, Section 96 of OUP Act 2003 (Sections: 143, 269, 270, 149) [pending] 
+
 ---
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
+- **Movable Assets:** Rs 2.48 Crore
+- **Immovable Assets:** Rs 2.15 Crore
 - **Total Assets:** Rs 4.63 Crore
-- **Liabilities:** Rs 0
-- **Net Worth:** Rs 4.63 Crore
-- **Previous Total Assets:** N/A
-- **Asset Growth:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
+- **Previous Total Assets:** Rs 316776003.00 Crore
+- **Asset Growth:** -100.0%
 - **Wealth Percentile:** Wealthier than 37% of Lok Sabha MPs
 
 ---
@@ -70,18 +74,40 @@
 
 ---
 
+## Public Accessibility
+
+- **Platforms:** 2
+
+
+| Platform | Handle | Verified | Active |
+|----------|--------|----------|--------|
+| Twitter | [@http://www.twitter.com/@Aprajitasarangi](https://x.com/http://www.twitter.com/@Aprajitasarangi) | No | Yes |
+| Facebook | [@http://www.facebook.com/Aparajita Sarangi](https://facebook.com/http://www.facebook.com/Aparajita Sarangi) | No | Yes |
+
+---
+
 ## In The News
 
 *Mixed/neutral coverage (10 articles)*
 
 - **Total Articles:** 10
-- **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
+- **Positive:** 0 | **Negative:** 1 | **Neutral:** 9
 
-- Peeved over poor state of Khurda DHH, MP Aparajita walks out of review meet - The New Indian Express (The New Indian Express) [neutral]
-- Aparajita Sarangi directs focus on creating public reading infrastructure - MSN (MSN) [neutral]
-- Nitin Nabin Touches Down in Bhubaneswar: First Odisha Visit Sparks BJP Enthusiasm! - pragativadi.com (pragativadi.com) [neutral]
-- Centre Clears Rs 544 Crore For 3 Bypass Corridors In Bhubaneswar - Ommcom News (Ommcom News) [neutral]
-- Nurses are silent warriors, says MP Aparajita Sarangi - prameyanews.com (prameyanews.com) [neutral]
+- Bhubaneswar MP Aparajita Sarangi's report card says 88% grievances resolved in seven years - The New Indian Express (The New Indian Express) [neutral]
+- Constitution under 1 roof - The Times of India (The Times of India) [neutral]
+- 'Won't delete': BJP MP's daughter's post on Pradhan's exit sparks row - Rediff (Rediff) [neutral]
+- MP Aparajita meets Chief Minister Majhi, discusses metro rail plan, other key projects - The New Indian Express (The New Indian Express) [neutral]
+- Viral Insta Posts By BJP MP Aparajita Sarangi's Daughter On Pradhan's Resignation Triggers Controversy - ETV Bharat (ETV Bharat) [negative]
+
+---
+
+## News & Allegations
+
+- ! **Bhubaneswar MP Aparajita Sarangi's report card says 88% grievances resolved in seven years - The New Indian Express** (The New Indian Express)
+- ! **Constitution under 1 roof - The Times of India** (The Times of India)
+- ! **'Won't delete': BJP MP's daughter's post on Pradhan's exit sparks row - Rediff** (Rediff)
+- ! **MP Aparajita meets Chief Minister Majhi, discusses metro rail plan, other key projects - The New Indian Express** (The New Indian Express)
+- !! **Viral Insta Posts By BJP MP Aparajita Sarangi's Daughter On Pradhan's Resignation Triggers Controversy - ETV Bharat** (ETV Bharat)
 
 ---
 
@@ -95,7 +121,7 @@
 
 ## Qualitative Assessment
 
-Aparajita Sarangi shows moderate transparency with a score of 53.3/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Aparajita Sarangi shows moderate transparency with a score of 61.1/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
@@ -139,7 +165,7 @@ Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Declared assets:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -238,11 +264,12 @@ Time limit: PIO must respond within 30 days of receipt.
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
 | Assets | myneta | Official (B) |
+| Committees | sansad | LLM/Estimated (E) |
 | Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: myneta, prs, social_media, news, mplads*
+*Sources consulted: myneta, prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

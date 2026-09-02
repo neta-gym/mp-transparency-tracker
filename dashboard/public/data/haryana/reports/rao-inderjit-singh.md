@@ -3,24 +3,22 @@
 **Constituency:** Gurgaon, Haryana
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 74
-**Education:** Graduate Professional
 **Report Date:** 2026-09-02
-**Data Confidence:** Low (43%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (37%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 49.7 / 100
+## Composite Transparency Score: 51.7 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 11.0 | 25% |
-| Asset Growth | 55.0 | 15% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 50.0 | 10% |
 | Questions & Debates | 50.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
-| Public Accessibility | 15.0 | 5% |
+| Public Accessibility | 85.0 | 5% |
 | Legislative Effectiveness | 40.0 | 10% |
 
 ---
@@ -38,14 +36,13 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 121.54 Crore
-- **Liabilities:** Rs 13.37 Crore
-- **Net Worth:** Rs 108.18 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 94% of Lok Sabha MPs
 
 ---
 
@@ -69,37 +66,62 @@
 
 ---
 
+## Public Accessibility
+
+- **Platforms:** 3
+
+
+| Platform | Handle | Verified | Active |
+|----------|--------|----------|--------|
+| Twitter | [@https://x.com/Rao_InderjitS?t=WKIi75p3WBGxYpYmS5SRWQ&s=09](https://x.com/https://x.com/Rao_InderjitS?t=WKIi75p3WBGxYpYmS5SRWQ&s=09) | No | Yes |
+| Facebook | [@https://www.facebook.com/share/1BQiU6e1hV/](https://facebook.com/https://www.facebook.com/share/1BQiU6e1hV/) | No | Yes |
+| Instagram | [@https://www.instagram.com/raoinderjitsingh?igsh=MTU3MmFrZThzNmgzbw==](https://instagram.com/https://www.instagram.com/raoinderjitsingh?igsh=MTU3MmFrZThzNmgzbw==) | No | Yes |
+
+---
+
 ## In The News
 
 *Mixed/neutral coverage (10 articles)*
 
 - **Total Articles:** 10
-- **Positive:** 1 | **Negative:** 0 | **Neutral:** 9
+- **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
 
-- ‘Capitalists will benefit, not locals’: Why Union minister Rao Inderjit Singh objects to Haryana’s 5-city plan - The Indian Express (The Indian Express) [neutral]
-- Rao Inderjit Singh seeks higher budget allocation for infra projects in Gurgaon and Manesar - The Times of India (The Times of India) [neutral]
-- ‘Dear Chaudhary Saab’: What’s on Rao Inderjit’s budget wishlist sent to Haryana CM Saini - ThePrint (ThePrint) [neutral]
-- Clean up drains, submit report in a month, MP Rao Inderjit Singh tells Gurgaon civic body - The Times of India (The Times of India) [neutral]
-- Union Minister Rao Inderjit flags mining threat to Aravallis, pushes for budgetary support - The Indian Express (The Indian Express) [neutral]
+- Rao Inderjit announces Rs 21 lakh for Gurjar Bhawan - timesofindia.indiatimes.com (timesofindia.indiatimes.com) [neutral]
+- Waterlogging in Gurugram: Why Rao Inderjit’s Congress-era blame faces a test of his own record - ThePrint (ThePrint) [neutral]
+- Union Minister Rao Inderjit questions BJP chief Nitin Nabin over local MP’s absence at Gurugram event - The New Indian Express (The New Indian Express) [neutral]
+- Gurugram waterlogging can’t be fixed via piecemeal solutions: Rao Inderjit Singh | Hindustan Times - Hindustan Times (Hindustan Times) [neutral]
+- Why did Rao Inderjit walk off stage mid-speech at BJP event? Gurugram MP explains - The Tribune (The Tribune) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Rao Inderjit announces Rs 21 lakh for Gurjar Bhawan - timesofindia.indiatimes.com** (timesofindia.indiatimes.com)
+- ! **Waterlogging in Gurugram: Why Rao Inderjit’s Congress-era blame faces a test of his own record - ThePrint** (ThePrint)
+- ! **Union Minister Rao Inderjit questions BJP chief Nitin Nabin over local MP’s absence at Gurugram event - The New Indian Express** (The New Indian Express)
+- ! **Gurugram waterlogging can’t be fixed via piecemeal solutions: Rao Inderjit Singh | Hindustan Times - Hindustan Times** (Hindustan Times)
+- ! **Why did Rao Inderjit walk off stage mid-speech at BJP event? Gurugram MP explains - The Tribune** (The Tribune)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
 - [!] **parliament_activity**: Low confidence in parliament activity data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Haryana: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Rao Inderjit Singh has a below-average transparency score of 49.7/100, indicating significant room for improvement. No criminal cases declared. Low MPLADS fund utilization needs attention.
+Rao Inderjit Singh shows moderate transparency with a score of 51.7/100. No criminal cases declared. Low MPLADS fund utilization needs attention.
 
 ---
 
-No criminal cases declared. Declared assets: Rs 1,215,422,868. MPLADS utilization: 13.8%. Low confidence data: Parliament activity. 1 warning(s) noted.
+No criminal cases declared. MPLADS utilization: 13.8%. Low confidence data: Assets, Parliament activity. 2 warning(s) noted.
 
 ---
 
@@ -139,7 +161,7 @@ No criminal cases declared. Declared assets: Rs 1,215,422,868. MPLADS utilizatio
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -237,12 +259,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

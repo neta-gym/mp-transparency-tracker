@@ -4,17 +4,17 @@
 **Party:** Telugu Desam Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Third-party (C)
+**Data Confidence:** Low (27%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 52.5 / 100
+## Composite Transparency Score: 43.2 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 1.1 | 25% |
-| Asset Growth | 60.0 | 15% |
-| Criminal Record | 80.0 | 15% |
+| Asset Growth | 45.0 | 15% |
+| Criminal Record | 45.0 | 15% |
 | Parliament Attendance | 90.0 | 10% |
 | Questions & Debates | 70.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
@@ -25,10 +25,10 @@
 
 ## Criminal Record
 
-- **Total Cases:** 2
+- **Total Cases:** 0
 - **Serious Cases:** 0
 - **Convictions:** 0
-- **Pending Cases:** 2
+- **Pending Cases:** 0
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
@@ -36,14 +36,13 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 298.96 Crore
-- **Liabilities:** Rs 1.90 Crore
-- **Net Worth:** Rs 297.06 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 97% of Lok Sabha MPs
 
 ---
 
@@ -72,32 +71,45 @@
 *Mixed/neutral coverage (10 articles)*
 
 - **Total Articles:** 10
-- **Positive:** 1 | **Negative:** 0 | **Neutral:** 9
+- **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
 
+- Vizag MP Advises 800 Displaced Airport Staff To Accept Available Jobs - Deccan Chronicle (Deccan Chronicle) [neutral]
+- Higher education needs institutions that set standards, not wait for policy: GITAM President Sribharat Mathu.. - ET Education (ET Education) [neutral]
+- Visakhapatnam MP performs yoga at East Point Golf Club ahead of International Yoga Day - aninews.in (aninews.in) [neutral]
 - Students told to keep themselves abreast of emerging technologies - The Hindu (The Hindu) [neutral]
-- State committed to develop Kailasagiri as a global tourist destination, says Visakhapatnam MP - The Hindu (The Hindu) [neutral]
-- Vizag MP Sribharat seeks early Gazette notification for SCoR zone - The Hindu (The Hindu) [neutral]
-- Vizag MP Sribharat seeks morning flight to Tirupati - The Times of India (The Times of India) [neutral]
 - Interview: NDA candidate for Visakhapatnam, Mathukumilli Sribharat, on YS Jagan and Nara Lokesh - The South First (The South First) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Vizag MP Advises 800 Displaced Airport Staff To Accept Available Jobs - Deccan Chronicle** (Deccan Chronicle)
+- ! **Higher education needs institutions that set standards, not wait for policy: GITAM President Sribharat Mathu.. - ET Education** (ET Education)
+- ! **Visakhapatnam MP performs yoga at East Point Golf Club ahead of International Yoga Day - aninews.in** (aninews.in)
+- ! **Students told to keep themselves abreast of emerging technologies - The Hindu** (The Hindu)
+- ! **Interview: NDA candidate for Visakhapatnam, Mathukumilli Sribharat, on YS Jagan and Nara Lokesh - The South First** (The South First)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
+- [!] **assets**: Low confidence in asset data
 - [!] **mplads**: Extremely low utilization rate — verify data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Andhra Pradesh: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Sribharat Mathukumilli shows moderate transparency with a score of 52.5/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Sribharat Mathukumilli has a below-average transparency score of 43.2/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates. Data confidence is low — scores should be interpreted with caution.
 
 ---
 
-Has 2 criminal case(s) (0 serious), 2 pending, 0 conviction(s). Declared assets: Rs 2,989,586,580. MPLADS utilization: 1.4%. Parliament attendance: 90.0%. Questions asked: 49. Debates participated: 5. 1 warning(s) noted.
+No criminal cases declared. MPLADS utilization: 1.4%. Parliament attendance: 90.0%. Questions asked: 49. Debates participated: 5. Low confidence data: Criminal record, Assets. 3 warning(s) noted.
 
 ---
 
@@ -137,7 +149,7 @@ Has 2 criminal case(s) (0 serious), 2 pending, 0 conviction(s). Declared assets:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -235,10 +247,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

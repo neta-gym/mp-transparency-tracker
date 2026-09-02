@@ -3,24 +3,22 @@
 **Constituency:** Durg, Chhattisgarh
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 64
-**Education:** Graduate
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (44%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 61.9 / 100
+## Composite Transparency Score: 63.9 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 24.3 | 25% |
-| Asset Growth | 55.0 | 15% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 100.0 | 10% |
 | Questions & Debates | 70.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
-| Public Accessibility | 15.0 | 5% |
+| Public Accessibility | 85.0 | 5% |
 | Legislative Effectiveness | 40.0 | 10% |
 
 ---
@@ -38,14 +36,13 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 3.72 Crore
-- **Liabilities:** Rs 38.54 Lakh
-- **Net Worth:** Rs 3.33 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 30% of Lok Sabha MPs
 
 ---
 
@@ -69,6 +66,19 @@
 
 ---
 
+## Public Accessibility
+
+- **Platforms:** 3
+
+
+| Platform | Handle | Verified | Active |
+|----------|--------|----------|--------|
+| Twitter | [@http://www.twitter.com/VijayBaghelCG](https://x.com/http://www.twitter.com/VijayBaghelCG) | No | Yes |
+| Facebook | [@http://www.facebook.com/baghel.vijay.official](https://facebook.com/http://www.facebook.com/baghel.vijay.official) | No | Yes |
+| Instagram | [@http://www.instagram.com/vijaybaghel.official](https://instagram.com/http://www.instagram.com/vijaybaghel.official) | No | Yes |
+
+---
+
 ## In The News
 
 *Mixed/neutral coverage (10 articles)*
@@ -78,27 +88,39 @@
 
 - BJP’s first list of nominations seeks to win an uncle-nephew electoral battle in Chhattisgarh - The Hindu (The Hindu) [neutral]
 - It's Uncle Bhupesh Baghel vs Nephew Vijay Baghel In Chhattisgarh - NDTV (NDTV) [neutral]
-- Durg Lok Sabha Election 2024 Results Live: BJP’s Vijay Baghel wins against CONG’s Rajendra Sahu with a ma - The Times of India (The Times of India) [neutral]
+- 13th National Gatka Championship showcases India’s glorious martial heritage: MP Vijay Baghel - The Statesman (The Statesman) [neutral]
+- Battle for Raipur: BJP releases 21 names; MP-nephew from CM Baghel seat - The Indian Express (The Indian Express) [neutral]
 - In Chhattisgarh’s Baghel vs Baghel battle, CM Bhupesh defeats nephew Vijay by over 19,000 votes - ThePrint (ThePrint) [neutral]
-- BJP Chhattisgarh Focuses On Weak Areas, Chooses Nephew Vijay Baghel In CM Bhupesh Baghel's Patan - Swarajyamag (Swarajyamag) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **BJP’s first list of nominations seeks to win an uncle-nephew electoral battle in Chhattisgarh - The Hindu** (The Hindu)
+- ! **It's Uncle Bhupesh Baghel vs Nephew Vijay Baghel In Chhattisgarh - NDTV** (NDTV)
+- ! **13th National Gatka Championship showcases India’s glorious martial heritage: MP Vijay Baghel - The Statesman** (The Statesman)
+- ! **Battle for Raipur: BJP releases 21 names; MP-nephew from CM Baghel seat - The Indian Express** (The Indian Express)
+- ! **In Chhattisgarh’s Baghel vs Baghel battle, CM Bhupesh defeats nephew Vijay by over 19,000 votes - ThePrint** (ThePrint)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Chhattisgarh: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Vijay Baghel shows moderate transparency with a score of 61.9/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Vijay Baghel shows moderate transparency with a score of 63.9/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-No criminal cases declared. Declared assets: Rs 37,162,950. MPLADS utilization: 30.4%. Parliament attendance: 100.0%. Questions asked: 75. Debates participated: 4.
+No criminal cases declared. MPLADS utilization: 30.4%. Parliament attendance: 100.0%. Questions asked: 75. Debates participated: 4. Low confidence data: Assets. 1 warning(s) noted.
 
 ---
 
@@ -138,7 +160,7 @@ No criminal cases declared. Declared assets: Rs 37,162,950. MPLADS utilization: 
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -236,12 +258,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

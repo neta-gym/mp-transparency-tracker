@@ -4,17 +4,17 @@
 **Party:** Telugu Desam Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Third-party (C)
+**Data Confidence:** Low (27%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 52.1 / 100
+## Composite Transparency Score: 41.9 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 1.8 | 25% |
-| Asset Growth | 40.0 | 15% |
-| Criminal Record | 100.0 | 15% |
+| Asset Growth | 45.0 | 15% |
+| Criminal Record | 45.0 | 15% |
 | Parliament Attendance | 80.0 | 10% |
 | Questions & Debates | 70.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
@@ -36,14 +36,13 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 29.21 Crore
-- **Liabilities:** Rs 27.90 Crore
-- **Net Worth:** Rs 1.31 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 77% of Lok Sabha MPs
 
 ---
 
@@ -72,33 +71,45 @@
 *Mixed/neutral coverage (10 articles)*
 
 - **Total Articles:** 10
-- **Positive:** 2 | **Negative:** 0 | **Neutral:** 8
+- **Positive:** 1 | **Negative:** 2 | **Neutral:** 7
 
-- Vijayawada Utsav will go as planned: MP Kesineni Sivanath - MSN (MSN) [neutral]
-- CM Promises Solutions to Vijayawada Issues, Says Kesineni Chinni - Deccan Chronicle (Deccan Chronicle) [neutral]
-- IEDP to support economic uplift
-of SC families in Andhra - The New Indian Express (The New Indian Express) [neutral]
-- Long-awaited road expansion begins - The Hans India (The Hans India) [neutral]
-- MP Kesineni Sivanath assures support for development of Nemali Venu Gopala Swamy Temple - The Hindu (The Hindu) [positive]
+- Vijayawada MP Kesineni Sivanath slams Nani over Rs 120 crore loan default - newindianexpress.com (newindianexpress.com) [neutral]
+- Kesineni brothers' rift reaches boiling point as Chinni files police complaint against ex-MP Nani - timesofindia.indiatimes.com (timesofindia.indiatimes.com) [negative]
+- Vijayawada: Ex-MP Kesineni Nani Booked - Deccan Chronicle (Deccan Chronicle) [negative]
+- "Amaravati to become permanent capital, Vijayawada set to expand": MP Kesineni Sivanath - aninews.in (aninews.in) [neutral]
+- Kesineni Nani accuses his brother Vijayawada MP Chinni of targeting 112 acres meant for Hyderabad IT Park - NewsMeter (NewsMeter) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Vijayawada MP Kesineni Sivanath slams Nani over Rs 120 crore loan default - newindianexpress.com** (newindianexpress.com)
+- !! **Kesineni brothers' rift reaches boiling point as Chinni files police complaint against ex-MP Nani - timesofindia.indiatimes.com** (timesofindia.indiatimes.com)
+- !! **Vijayawada: Ex-MP Kesineni Nani Booked - Deccan Chronicle** (Deccan Chronicle)
+- ! **"Amaravati to become permanent capital, Vijayawada set to expand": MP Kesineni Sivanath - aninews.in** (aninews.in)
+- ! **Kesineni Nani accuses his brother Vijayawada MP Chinni of targeting 112 acres meant for Hyderabad IT Park - NewsMeter** (NewsMeter)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
+- [!] **assets**: Low confidence in asset data
 - [!] **mplads**: Extremely low utilization rate — verify data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Andhra Pradesh: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Kesineni Sivanath shows moderate transparency with a score of 52.1/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Kesineni Sivanath has a below-average transparency score of 41.9/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates. Data confidence is low — scores should be interpreted with caution.
 
 ---
 
-No criminal cases declared. Declared assets: Rs 292,066,245. MPLADS utilization: 2.2%. Parliament attendance: 80.0%. Questions asked: 54. Debates participated: 4. 1 warning(s) noted.
+No criminal cases declared. MPLADS utilization: 2.2%. Parliament attendance: 80.0%. Questions asked: 54. Debates participated: 4. Low confidence data: Criminal record, Assets. 3 warning(s) noted.
 
 ---
 
@@ -138,7 +149,7 @@ No criminal cases declared. Declared assets: Rs 292,066,245. MPLADS utilization:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -236,10 +247,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

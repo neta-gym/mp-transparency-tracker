@@ -3,19 +3,17 @@
 **Constituency:** Amethi, Uttar Pradesh
 **Party:** Indian National Congress
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 62
-**Education:** Graduate
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (37%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 57.0 / 100
+## Composite Transparency Score: 56.3 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 32.6 | 25% |
-| Asset Growth | 50.0 | 15% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 95.0 | 10% |
 | Questions & Debates | 20.0 | 10% |
@@ -38,14 +36,13 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 12.77 Crore
-- **Liabilities:** Rs 4.70 Crore
-- **Net Worth:** Rs 8.07 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 63% of Lok Sabha MPs
 
 ---
 
@@ -76,29 +73,41 @@
 - **Total Articles:** 10
 - **Positive:** 1 | **Negative:** 0 | **Neutral:** 9
 
-- Amethi belonged to Gandhi family, will continue to do so: Kishori Lal Sharma - Dailyhunt (Dailyhunt) [neutral]
-- Kishori, what have you done, laal? Posters slam Congress in Amethi ahead of Rahul Gandhi's visit - India Today (India Today) [neutral]
-- 'Do saal Kishori, tumne laal kya kiya': Posters slamming Congress' Kishori Lal Sharma emerge in Amethi ahead of Rahul Gandhi's visit - Deccan Herald (Deccan Herald) [neutral]
-- Posters slamming Congress emerge in Amethi ahead of Rahul Gandhi's visit - Devdiscourse (Devdiscourse) [neutral]
+- Amethi MP Kishori Lal writes to UP CM, demands end to power cuts - ThePrint (ThePrint) [neutral]
 - Forces that killed Gandhi trying to erase his name now: Amethi MP Kishori Lal Sharma on VB-G RAM G Bill - The Tribune (The Tribune) [neutral]
+- Amethi belonged to Gandhi family, will continue to do so: Kishori Lal Sharma - Deccan Herald (Deccan Herald) [neutral]
+- ‘He is right’: Amethi MP Kishori Lal Sharma on Rahul Gandhi's support for Smriti Irani | India News - Hindustan Times (Hindustan Times) [neutral]
+- Interview | Main Challenge Ahead is Amethis Development, Says Congress MP Kishori Lal Sharma - TheWire.in (TheWire.in) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Amethi MP Kishori Lal writes to UP CM, demands end to power cuts - ThePrint** (ThePrint)
+- ! **Forces that killed Gandhi trying to erase his name now: Amethi MP Kishori Lal Sharma on VB-G RAM G Bill - The Tribune** (The Tribune)
+- ! **Amethi belonged to Gandhi family, will continue to do so: Kishori Lal Sharma - Deccan Herald** (Deccan Herald)
+- ! **‘He is right’: Amethi MP Kishori Lal Sharma on Rahul Gandhi's support for Smriti Irani | India News - Hindustan Times** (Hindustan Times)
+- ! **Interview | Main Challenge Ahead is Amethis Development, Says Congress MP Kishori Lal Sharma - TheWire.in** (TheWire.in)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Uttar Pradesh: 8 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Kishori Lal shows moderate transparency with a score of 57.0/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Limited participation in parliamentary proceedings.
+Kishori Lal shows moderate transparency with a score of 56.3/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Limited participation in parliamentary proceedings.
 
 ---
 
-No criminal cases declared. Declared assets: Rs 127,688,722. MPLADS utilization: 40.7%. Parliament attendance: 95.0%. Debates participated: 1.
+No criminal cases declared. MPLADS utilization: 40.7%. Parliament attendance: 95.0%. Debates participated: 1. Low confidence data: Assets. 1 warning(s) noted.
 
 ---
 
@@ -138,7 +147,7 @@ No criminal cases declared. Declared assets: Rs 127,688,722. MPLADS utilization:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -236,12 +245,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

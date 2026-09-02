@@ -4,21 +4,21 @@
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
 **Report Date:** 2026-09-02
-**Data Confidence:** Low (43%) | **Evidence Grade:** Third-party (C)
+**Data Confidence:** Low (27%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 47.5 / 100
+## Composite Transparency Score: 38.5 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 0.0 | 25% |
-| Asset Growth | 55.0 | 15% |
-| Criminal Record | 100.0 | 15% |
+| Asset Growth | 45.0 | 15% |
+| Criminal Record | 45.0 | 15% |
 | Parliament Attendance | 50.0 | 10% |
 | Questions & Debates | 50.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
-| Public Accessibility | 15.0 | 5% |
+| Public Accessibility | 85.0 | 5% |
 | Legislative Effectiveness | 40.0 | 10% |
 
 ---
@@ -36,14 +36,13 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 7.17 Crore
-- **Liabilities:** Rs 1.69 Crore
-- **Net Worth:** Rs 5.47 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 49% of Lok Sabha MPs
 
 ---
 
@@ -67,6 +66,19 @@
 
 ---
 
+## Public Accessibility
+
+- **Platforms:** 3
+
+
+| Platform | Handle | Verified | Active |
+|----------|--------|----------|--------|
+| Twitter | [@BjpVarma](https://x.com/BjpVarma) | No | Yes |
+| Facebook | [@BhupathirajuSrinivasaVarmaBjpVarma](https://facebook.com/BhupathirajuSrinivasaVarmaBjpVarma) | No | Yes |
+| Instagram | [@Bjpvarma](https://instagram.com/Bjpvarma) | No | Yes |
+
+---
+
 ## In The News
 
 *Mixed/neutral coverage (10 articles)*
@@ -74,31 +86,44 @@
 - **Total Articles:** 10
 - **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
 
-- Shri Bhupathi Raju Srinivasa Varma assumes charge as Minister of State in the Ministry of Heavy Industries - PIB (PIB) [neutral]
-- Narasapuram MP Srinivasa Varma.. the luckiest in politics BJP gave a cabinet berth to a true activist - The Hans India (The Hans India) [neutral]
-- Bhupathiraju Srinivasa Varma: Age, Biography, Education, Wife, Caste, Net Worth & More - Oneindia (Oneindia) [neutral]
+- Shri Bhupathi Raju Srinivasa Varma assumes charge as Minister of State in the Ministry of Heavy Industries - pib.gov.in (pib.gov.in) [neutral]
+- TDP's Kinjarapu Ram Mohan gets Aviation, MoS Steel for Varma - newindianexpress.com (newindianexpress.com) [neutral]
 - Three MPs from Andhra Pradesh sworn in as Union Ministers - The Hindu (The Hindu) [neutral]
 - Dismantling speculations, BJP Andhra chief D Purandeswari, national vice-president DK Aruna fail to make it to Union Cabinet - The South First (The South First) [neutral]
+- After more than four decades, Guntur MP becomes Central Minister - newindianexpress.com (newindianexpress.com) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Shri Bhupathi Raju Srinivasa Varma assumes charge as Minister of State in the Ministry of Heavy Industries - pib.gov.in** (pib.gov.in)
+- ! **TDP's Kinjarapu Ram Mohan gets Aviation, MoS Steel for Varma - newindianexpress.com** (newindianexpress.com)
+- ! **Three MPs from Andhra Pradesh sworn in as Union Ministers - The Hindu** (The Hindu)
+- ! **Dismantling speculations, BJP Andhra chief D Purandeswari, national vice-president DK Aruna fail to make it to Union Cabinet - The South First** (The South First)
+- ! **After more than four decades, Guntur MP becomes Central Minister - newindianexpress.com** (newindianexpress.com)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
+- [!] **assets**: Low confidence in asset data
 - [!] **mplads**: Extremely low utilization rate — verify data
 - [!] **parliament_activity**: Low confidence in parliament activity data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Andhra Pradesh: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Srinivasa Varma B J P Varma Bhupathiraju has a below-average transparency score of 47.5/100, indicating significant room for improvement. No criminal cases declared. Low MPLADS fund utilization needs attention.
+Srinivasa Varma B J P Varma Bhupathiraju has a below-average transparency score of 38.5/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. Data confidence is low — scores should be interpreted with caution.
 
 ---
 
-No criminal cases declared. Declared assets: Rs 71,664,809. MPLADS utilization: 0.0%. Low confidence data: Parliament activity. 2 warning(s) noted.
+No criminal cases declared. MPLADS utilization: 0.0%. Low confidence data: Criminal record, Assets, Parliament activity. 4 warning(s) noted.
 
 ---
 
@@ -138,7 +163,7 @@ No criminal cases declared. Declared assets: Rs 71,664,809. MPLADS utilization: 
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -236,10 +261,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

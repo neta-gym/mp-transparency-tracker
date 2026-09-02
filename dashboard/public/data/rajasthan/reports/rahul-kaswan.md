@@ -3,19 +3,17 @@
 **Constituency:** Churu, Rajasthan
 **Party:** Indian National Congress
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 47
-**Education:** Graduate
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (37%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 62.5 / 100
+## Composite Transparency Score: 61.7 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 26.1 | 25% |
-| Asset Growth | 50.0 | 15% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 100.0 | 10% |
 | Questions & Debates | 80.0 | 10% |
@@ -38,14 +36,13 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 5.33 Crore
-- **Liabilities:** Rs 2.44 Crore
-- **Net Worth:** Rs 2.89 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 41% of Lok Sabha MPs
 
 ---
 
@@ -76,29 +73,41 @@
 - **Total Articles:** 10
 - **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
 
-- Churu में किसानों से अवैध वसूली पर सांसद Rahul Kaswan ने अधिकारियों की ली कड़ी क्लास! - Dailyhunt (Dailyhunt) [neutral]
-- Jagdeep Dhankhar breaks silence on resignation: Former VP says prioritising health was his responsibility, ... - Bhaskar English (Bhaskar English) [neutral]
 - BJP accuses three Rajasthan Congress MPs of spending MPLADS funds in Haryana, they say it's within rules - The New Indian Express (The New Indian Express) [neutral]
-- Cong MPs misused MPLADS funds for political gains; Rs 1.20cr diverted to Haryana: Rajasthan Minister - The Hans India (The Hans India) [neutral]
-- Two-time MP from Churu Rahul Kaswan: A third generation Jat politician from Rajasthan’s Shekhawati region - The Hindu (The Hindu) [neutral]
+- Rahul Kaswan, who switched to Congress after BJP denied ticket, leads in Rajasthan’s Churu - ThePrint (ThePrint) [neutral]
+- Voice not being heard: Churu MP Rahul Kaswan joins Congress after quitting BJP - The Times of India (The Times of India) [neutral]
+- BJP rebel Rahul Kaswan leads against Paralympian Jhajharia in Churu - India Today (India Today) [neutral]
+- Jagdeep Dhankhar breaks silence on resignation: Former VP says prioritising health was his responsibility, ... - bhaskarenglish.in (bhaskarenglish.in) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **BJP accuses three Rajasthan Congress MPs of spending MPLADS funds in Haryana, they say it's within rules - The New Indian Express** (The New Indian Express)
+- ! **Rahul Kaswan, who switched to Congress after BJP denied ticket, leads in Rajasthan’s Churu - ThePrint** (ThePrint)
+- ! **Voice not being heard: Churu MP Rahul Kaswan joins Congress after quitting BJP - The Times of India** (The Times of India)
+- ! **BJP rebel Rahul Kaswan leads against Paralympian Jhajharia in Churu - India Today** (India Today)
+- ! **Jagdeep Dhankhar breaks silence on resignation: Former VP says prioritising health was his responsibility, ... - bhaskarenglish.in** (bhaskarenglish.in)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Rajasthan: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Rahul Kaswan shows moderate transparency with a score of 62.5/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Rahul Kaswan shows moderate transparency with a score of 61.7/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-No criminal cases declared. Declared assets: Rs 53,322,989. MPLADS utilization: 32.7%. Parliament attendance: 100.0%. Questions asked: 40. Debates participated: 20.
+No criminal cases declared. MPLADS utilization: 32.7%. Parliament attendance: 100.0%. Questions asked: 40. Debates participated: 20. Low confidence data: Assets. 1 warning(s) noted.
 
 ---
 
@@ -138,7 +147,7 @@ No criminal cases declared. Declared assets: Rs 53,322,989. MPLADS utilization: 
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -236,12 +245,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

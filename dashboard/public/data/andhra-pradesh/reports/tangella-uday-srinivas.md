@@ -3,19 +3,17 @@
 **Constituency:** Kakinada, Andhra Pradesh
 **Party:** Janasena Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 38
-**Education:** 12th Pass
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (39%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 48.9 / 100
+## Composite Transparency Score: 47.4 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 8.4 | 25% |
-| Asset Growth | 55.0 | 15% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 90.0 | 15% |
 | Parliament Attendance | 95.0 | 10% |
 | Questions & Debates | 0.0 | 10% |
@@ -34,18 +32,21 @@
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
+### Cases Detail
+
+1. 0163/2023, Gomti Nagar Police Station Lucknow Uttar Pradesh (Sections: 406) [pending] 
+
 ---
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 31.15 Crore
-- **Liabilities:** Rs 3.62 Crore
-- **Net Worth:** Rs 27.53 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 78% of Lok Sabha MPs
 
 ---
 
@@ -76,29 +77,41 @@
 - **Total Articles:** 10
 - **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
 
-- IIFT construction nears completion, likely to be ready by June: Kakinada MP - The Hindu (The Hindu) [neutral]
+- Kakinada MP Flays Delay In Fishing Harbour Works - Deccan Chronicle (Deccan Chronicle) [neutral]
+- Hand over AE family suicide case to CBI: Kakinada MP to government - The New Indian Express (The New Indian Express) [neutral]
+- SIHM will be readied by August in Uppada: Kakinada MP - The Hindu (The Hindu) [neutral]
+- Set up ITDA for 59 tribal villages in Kakinada, MP urges CM Naidu - The Hindu (The Hindu) [neutral]
 - Kakinada-Mysore Express commences daily run - The New Indian Express (The New Indian Express) [neutral]
-- Kakinada–Mysuru Express flagged off - The Hans India (The Hans India) [neutral]
-- Special Trains from Andhra Pradesh's Kakinada City Bound to Mysore & Other Cities Will be Regularized - NativePlanet (NativePlanet) [neutral]
-- Exports up, but earnings down in seafood boom - The New Indian Express (The New Indian Express) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Kakinada MP Flays Delay In Fishing Harbour Works - Deccan Chronicle** (Deccan Chronicle)
+- ! **Hand over AE family suicide case to CBI: Kakinada MP to government - The New Indian Express** (The New Indian Express)
+- ! **SIHM will be readied by August in Uppada: Kakinada MP - The Hindu** (The Hindu)
+- ! **Set up ITDA for 59 tribal villages in Kakinada, MP urges CM Naidu - The Hindu** (The Hindu)
+- ! **Kakinada-Mysore Express commences daily run - The New Indian Express** (The New Indian Express)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Andhra Pradesh: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Tangella Uday Srinivas has a below-average transparency score of 48.9/100, indicating significant room for improvement. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance. Limited participation in parliamentary proceedings.
+Tangella Uday Srinivas has a below-average transparency score of 47.4/100, indicating significant room for improvement. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance. Limited participation in parliamentary proceedings.
 
 ---
 
-Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Declared assets: Rs 311,535,620. MPLADS utilization: 10.5%. Parliament attendance: 95.0%.
+Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). MPLADS utilization: 10.5%. Parliament attendance: 95.0%. Low confidence data: Assets. 1 warning(s) noted.
 
 ---
 
@@ -138,7 +151,7 @@ Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Declared assets:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -236,12 +249,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

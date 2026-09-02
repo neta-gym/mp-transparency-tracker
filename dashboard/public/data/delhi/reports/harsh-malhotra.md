@@ -7,21 +7,21 @@
 **Education:** Graduate Professional
 **Profession:** Printing Press (Director)
 **Report Date:** 2026-09-02
-**Data Confidence:** Low (49%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (49%) | **Evidence Grade:** Third-party (C)
 
 ---
 
-## Composite Transparency Score: 52.6 / 100
+## Composite Transparency Score: 58.6 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 11.6 | 25% |
-| Asset Growth | 50.0 | 15% |
+| Asset Growth | 85.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 50.0 | 10% |
 | Questions & Debates | 50.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
-| Public Accessibility | 85.0 | 5% |
+| Public Accessibility | 100.0 | 5% |
 | Legislative Effectiveness | 40.0 | 10% |
 
 ---
@@ -42,11 +42,11 @@
 - **Movable Assets:** Rs 1.33 Crore
 - **Immovable Assets:** Rs 2.75 Crore
 - **Total Assets:** Rs 4.08 Crore
-- **Liabilities:** Rs 0
-- **Net Worth:** Rs 4.08 Crore
-- **Previous Total Assets:** N/A
-- **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 33% of Lok Sabha MPs
+- **Liabilities:** N/A
+- **Net Worth:** N/A
+- **Previous Total Assets:** Rs 159416641.00 Crore
+- **Asset Growth:** -100.0%
+- **Wealth Percentile:** Wealthier than 32% of Lok Sabha MPs
 
 ---
 
@@ -72,13 +72,29 @@
 
 ## Public Accessibility
 
-- **Platforms:** 2
+- **Platforms:** 3
 
 
 | Platform | Handle | Verified | Active |
 |----------|--------|----------|--------|
 | Twitter | [@hdmalhotra](https://x.com/hdmalhotra) | Yes | Yes |
 | Facebook | [@hdmalhotra](https://facebook.com/hdmalhotra) | Yes | Yes |
+| Instagram | [@harshmalhotrabjp](https://instagram.com/harshmalhotrabjp) | No | Yes |
+
+---
+
+## In The News
+
+*Mixed/neutral coverage (10 articles)*
+
+- **Total Articles:** 10
+- **Positive:** 0 | **Negative:** 1 | **Neutral:** 9
+
+- Two new slip road bridges opened in east Delhi’s Kondli - The New Indian Express (The New Indian Express) [neutral]
+- Lok Sabha MP, Union Minister, Punjabi face: Meet Harsh Malhotra, Delhi BJP chief - The Indian Express (The Indian Express) [neutral]
+- Who is Harsh Malhotra, BJPs new Delhi chief - The Tribune (The Tribune) [neutral]
+- Harsh Malhotra appointed Delhi BJP chief, replaces Virendra Sachdeva | Latest News Delhi - Hindustan Times (Hindustan Times) [neutral]
+- Malviya Nagar fire: Harsh Malhotra calls it the result of 27 years of corruption by successive govts - The Statesman (The Statesman) [negative]
 
 ---
 
@@ -88,6 +104,16 @@
 - **Population:** 2,500,000
 - **Literacy Rate:** 85.0%
 - **Urban:** 100%
+
+---
+
+## News & Allegations
+
+- ! **Two new slip road bridges opened in east Delhi’s Kondli - The New Indian Express** (The New Indian Express)
+- ! **Lok Sabha MP, Union Minister, Punjabi face: Meet Harsh Malhotra, Delhi BJP chief - The Indian Express** (The Indian Express)
+- ! **Who is Harsh Malhotra, BJPs new Delhi chief - The Tribune** (The Tribune)
+- ! **Harsh Malhotra appointed Delhi BJP chief, replaces Virendra Sachdeva | Latest News Delhi - Hindustan Times** (Hindustan Times)
+- !! **Malviya Nagar fire: Harsh Malhotra calls it the result of 27 years of corruption by successive govts - The Statesman** (The Statesman)
 
 ---
 
@@ -102,7 +128,7 @@
 
 ## Qualitative Assessment
 
-Harsh Malhotra shows moderate transparency with a score of 52.6/100. No criminal cases declared. Low MPLADS fund utilization needs attention.
+Harsh Malhotra shows moderate transparency with a score of 58.6/100. No criminal cases declared. Low MPLADS fund utilization needs attention.
 
 ---
 
@@ -146,7 +172,7 @@ No criminal cases declared. Declared assets: Rs 40,824,015. MPLADS utilization: 
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -245,11 +271,12 @@ Time limit: PIO must respond within 30 days of receipt.
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
 | Assets | myneta | Official (B) |
+| Committees | sansad | LLM/Estimated (E) |
 | Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: myneta, prs, social_media, mplads*
+*Sources consulted: myneta, prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

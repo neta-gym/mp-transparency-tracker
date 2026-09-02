@@ -7,11 +7,11 @@
 **Education:** 10th Pass
 **Profession:** Dependent on Parents
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Medium (57%) | **Evidence Grade:** Third-party (C)
 
 ---
 
-## Composite Transparency Score: 21.2 / 100
+## Composite Transparency Score: 24.8 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -21,7 +21,7 @@
 | Parliament Attendance | 0.0 | 10% |
 | Questions & Debates | 0.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
-| Public Accessibility | 15.0 | 5% |
+| Public Accessibility | 85.0 | 5% |
 | Legislative Effectiveness | 40.0 | 10% |
 
 ---
@@ -29,21 +29,36 @@
 ## Criminal Record
 
 - **Total Cases:** 12
-- **Serious Cases:** 0
+- **Serious Cases:** 2
 - **Convictions:** 0
 - **Pending Cases:** 12
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
+### Cases Detail
+
+1. 0064 Dated 20.02.2024, PS Dibrugarh, Dist. Dibrugarh, Assam | Investigation is pending (Sections: 353, 143) [pending] 
+2. 19 Dated 30.03.2023, PS Mehtiana, Dist. Hoshiarpur, Punjab | Section-25(1A) 27 Arms Act, Investigation is pending (Sections: 279, 212, 120B, 201) [pending] **SERIOUS**
+3. 37 Dated 23.03.2023, PS Bilga, Dist. Jalandhar-Rural, Punjab | Section 25, 27 Arms Act, Investigation is pending (Sections: 386, 342, 506, 34) [pending] 
+4. 48 Dated 21.03.2023, PS Shahkot, Dist. Jalandhar Rural, Punjab | Section 25, 27 Arms Act, Investigation is pending (Sections: 212, 216) [pending] 
+5. 47 Dated 21.03.2023, PS Shahkot, Dist. Jalandhar Rural, Punjab | Section 25, 27 Arms Act, Investigation is pending (Sections: 386, 506, 148, 149) [pending] 
+6. 28 Dated 20.03.2023, PS Mehatpur Dist. Jalandhar Rural, Punjab | Section 25, 27 Arms Act, Investigation is pending (Sections: 449, 342, 506, 34) [pending] 
+7. 27 Dated 19.03.2023, PS Mehatpur Dist. Jalandhar Rural, Punjab | Section 25 Arms Act, Investigation is pending (Sections: 279, 188) [pending] 
+8. 26 Dated 18.03.2023, PS Khalchian, Dist. Amritsar Rural, Punjab | Section 25 Arms Act, Investigation is pending (Sections: 279, 186, 506, 336, 427) [pending] 
+9. 39 Dated 24.02.2023, PS Ajnala, Dist. Amritsar Rural, Punjab | Investigation is pending (Sections: 307, 353, 186, 332, 333, 506, 120B, 427, 148, 149) [pending] **SERIOUS**
+10. 34 Dated 22.02.2023, PS Bagha Purana, Dist. Moga, Punjab | Investigation is pending (Sections: 121A, 143, 153A, 153B, 505(2), 188) [pending] 
+11. 54 Dated 22.02.2023, PS Division-B, Police Commissionerate, Amritsar, Punjab | Investigation is pending (Sections: 153A, 506) [pending] 
+12. 29 Dated 16.02.2023, PS Ajnala, Dist. Amritsar Rural, Punjab | Investigation is pending (Sections: 365, 323, 506, 379B, 148, 149) [pending] 
+
 ---
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
+- **Movable Assets:** Rs 18.38 Lakh
+- **Immovable Assets:** N/A
 - **Total Assets:** Rs 18.38 Lakh
-- **Liabilities:** Rs 0
-- **Net Worth:** Rs 18.38 Lakh
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
 - **Wealth Percentile:** Wealthier than 2% of Lok Sabha MPs
@@ -70,6 +85,20 @@
 
 ---
 
+## Public Accessibility
+
+- **Platforms:** 4
+
+
+| Platform | Handle | Verified | Active |
+|----------|--------|----------|--------|
+| Twitter | [@share](https://twitter.com/share) | No | Yes |
+| Facebook | [@sharer](https://www.facebook.com/sharer) | No | Yes |
+| Instagram | [@adrspeaks](https://www.instagram.com/adrspeaks) | No | Yes |
+| Youtube | [@adrspeaks](https://www.youtube.com/user/adrspeaks) | No | Yes |
+
+---
+
 ## In The News
 
 *Mixed/neutral coverage (10 articles)*
@@ -77,11 +106,21 @@
 - **Total Articles:** 10
 - **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
 
-- Khadoor Sahib MP Amritpal Singh was apprehended by the Punjab Police on Thursday in the Ajnala attack case and produced before an Ajnala court virtually, which granted a two-day police remand. - News Arena India (News Arena India) [neutral]
-- Ajnala police station attack: Court frames charges against MP Amritpal | Hindustan Times - Hindustan Times (Hindustan Times) [neutral]
-- Khadoor Sahib MP Amritpal Singh Sent To Judicial Custody Till April 30; Punjab Cops Not To Seek Further Demand - ETV Bharat (ETV Bharat) [neutral]
-- ‘You are also someone’s son, feel a mother’s pain’: Amritpal’s mother to CM Mann - The Tribune (The Tribune) [neutral]
-- Punjab MLA Ayali resigns from SAD (Punar Surjit) as party breaks alliance with Akali Dal Waris Punjab De - The New Indian Express (The New Indian Express) [neutral]
+- Sukhbir targets Khadoor Sahib MP Amritpal, terms Akali Dal (Waris Punjab De) a 'virus' - The New Indian Express (The New Indian Express) [neutral]
+- Sukhbir Singh Badal takes on MP Amritpal Singh: ‘those who destroyed Punjab, now active in guise of devout Sikhs’ - The Indian Express (The Indian Express) [neutral]
+- Amritpal Singh’s mother hits back at Sukhbir Singh Badal, asks what did they did for Punjab during SAD’s tenure - The Statesman (The Statesman) [neutral]
+- Punjab: Praise for Channi from Amritpal Singh’s father raises eyebrows in Congress - The Tribune (The Tribune) [neutral]
+- Behind ticket for Indira assassination convict’s son, Amritpal’s gamble & a challenge for Akalis - ThePrint (ThePrint) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Sukhbir targets Khadoor Sahib MP Amritpal, terms Akali Dal (Waris Punjab De) a 'virus' - The New Indian Express** (The New Indian Express)
+- ! **Sukhbir Singh Badal takes on MP Amritpal Singh: ‘those who destroyed Punjab, now active in guise of devout Sikhs’ - The Indian Express** (The Indian Express)
+- ! **Amritpal Singh’s mother hits back at Sukhbir Singh Badal, asks what did they did for Punjab during SAD’s tenure - The Statesman** (The Statesman)
+- ! **Punjab: Praise for Channi from Amritpal Singh’s father raises eyebrows in Congress - The Tribune** (The Tribune)
+- ! **Behind ticket for Indira assassination convict’s son, Amritpal’s gamble & a challenge for Akalis - ThePrint** (ThePrint)
 
 ---
 
@@ -95,11 +134,11 @@
 
 ## Qualitative Assessment
 
-Amritpal Singh has a below-average transparency score of 21.2/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. Low parliament attendance is notable. Limited participation in parliamentary proceedings.
+Amritpal Singh has a below-average transparency score of 24.8/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. Low parliament attendance is notable. Limited participation in parliamentary proceedings.
 
 ---
 
-Has 12 criminal case(s) (0 serious), 12 pending, 0 conviction(s). Declared assets: Rs 1,838,440. Parliament attendance: 0.0%.
+Has 12 criminal case(s) (2 serious), 12 pending, 0 conviction(s). Declared assets: Rs 1,838,440. Parliament attendance: 0.0%.
 
 ---
 
@@ -139,7 +178,7 @@ Has 12 criminal case(s) (0 serious), 12 pending, 0 conviction(s). Declared asset
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -238,11 +277,12 @@ Time limit: PIO must respond within 30 days of receipt.
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
 | Assets | myneta | Official (B) |
+| Committees | sansad | LLM/Estimated (E) |
 | Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: myneta, prs, social_media, news, mplads*
+*Sources consulted: myneta, prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

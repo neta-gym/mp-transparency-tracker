@@ -3,19 +3,17 @@
 **Constituency:** Srikakulam, Andhra Pradesh
 **Party:** Telugu Desam Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 36
-**Education:** Post Graduate
 **Report Date:** 2026-09-02
-**Data Confidence:** Low (43%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (31%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 43.2 / 100
+## Composite Transparency Score: 41.7 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 18.4 | 25% |
-| Asset Growth | 55.0 | 15% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 60.0 | 15% |
 | Parliament Attendance | 50.0 | 10% |
 | Questions & Debates | 50.0 | 10% |
@@ -34,18 +32,24 @@
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
+### Cases Detail
+
+1. Cr. No. 132/2022 of Srikakulam I Town PS, Srikakulam Dist. (Sections: 353, 109, 34) [pending] 
+2. Cr. No. 156/2021 of Amadalavalasa PS, Srikakulam Dist. | Section 3 Epidemic Disease Act (Sections: 341, 188) [pending] 
+3. Cr. No. 213/2021 of Tekkali PS, Srikakulam Dist. | Section 8(B) NH Act 1956, Section 129, 190(2), 119, 184, 122 r/w 177 of MV Act 1988 (Sections: 143, 341, 279, 283, 149) [pending] 
+4. Cr. No. 108/2021 of Pathapatnam PS, Srikakulam Dist. | Section 3 of Epidemic Disease Act 1987 (Sections: 188, 269, 341, 34) [pending] 
+
 ---
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 23.31 Crore
-- **Liabilities:** Rs 2.99 Crore
-- **Net Worth:** Rs 20.32 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 74% of Lok Sabha MPs
 
 ---
 
@@ -74,32 +78,44 @@
 *Mixed/neutral coverage (10 articles)*
 
 - **Total Articles:** 10
-- **Positive:** 0 | **Negative:** 1 | **Neutral:** 9
+- **Positive:** 1 | **Negative:** 0 | **Neutral:** 9
 
-- Rammohan Naidu to Participate in Birth Anniversary Programme of Errannaidu on Monday - The Hans India (The Hans India) [neutral]
-- International Tourism Receives A Boost With Central Budget Reducing TCS - Deccan Chronicle (Deccan Chronicle) [neutral]
-- Srikakulam MP Ram Mohan Naidu to be youngest Union Cabinet Minister - The New Indian Express (The New Indian Express) [neutral]
-- Andhra Pradesh: Srikakulam district MP Kinjarapu Rammohan Naidu arrested - The Times of India (The Times of India) [negative]
+- Rammohan Naidu Says Development in Srikakulam Surging - Deccan Chronicle (Deccan Chronicle) [positive]
 - Andhra Pradesh Election Results 2024: TDP’s Ram Mohan Naidu’s leading by over 1 lakh votes in Srikakulam Lok Sabha constituency - The Hindu (The Hindu) [neutral]
+- Srikakulam MP Ram Mohan Naidu to be youngest Union Cabinet Minister - newindianexpress.com (newindianexpress.com) [neutral]
+- Meet Ram Mohan Naidu, 3-time Andhra MP and India's youngest-ever Union minister - indiatoday.in (indiatoday.in) [neutral]
+- Who is TDP’s Kinjarapu Ram Mohan Naidu, youngest minister in Modi Cabinet 3.0? - Firstpost (Firstpost) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Rammohan Naidu Says Development in Srikakulam Surging - Deccan Chronicle** (Deccan Chronicle)
+- ! **Andhra Pradesh Election Results 2024: TDP’s Ram Mohan Naidu’s leading by over 1 lakh votes in Srikakulam Lok Sabha constituency - The Hindu** (The Hindu)
+- ! **Srikakulam MP Ram Mohan Naidu to be youngest Union Cabinet Minister - newindianexpress.com** (newindianexpress.com)
+- ! **Meet Ram Mohan Naidu, 3-time Andhra MP and India's youngest-ever Union minister - indiatoday.in** (indiatoday.in)
+- ! **Who is TDP’s Kinjarapu Ram Mohan Naidu, youngest minister in Modi Cabinet 3.0? - Firstpost** (Firstpost)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
 - [!] **parliament_activity**: Low confidence in parliament activity data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Andhra Pradesh: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Kinjarapu Rammohan Naidu has a below-average transparency score of 43.2/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention.
+Kinjarapu Rammohan Naidu has a below-average transparency score of 41.7/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention.
 
 ---
 
-Has 4 criminal case(s) (0 serious), 4 pending, 0 conviction(s). Declared assets: Rs 233,073,561. MPLADS utilization: 23.0%. Low confidence data: Parliament activity. 1 warning(s) noted.
+Has 4 criminal case(s) (0 serious), 4 pending, 0 conviction(s). MPLADS utilization: 23.0%. Low confidence data: Assets, Parliament activity. 2 warning(s) noted.
 
 ---
 
@@ -139,7 +155,7 @@ Has 4 criminal case(s) (0 serious), 4 pending, 0 conviction(s). Declared assets:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -237,12 +253,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

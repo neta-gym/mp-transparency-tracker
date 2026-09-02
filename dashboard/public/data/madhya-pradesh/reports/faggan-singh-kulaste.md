@@ -3,24 +3,22 @@
 **Constituency:** Mandla, Madhya Pradesh
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 64
-**Education:** Post Graduate
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (44%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 54.2 / 100
+## Composite Transparency Score: 55.4 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 20.8 | 25% |
-| Asset Growth | 60.0 | 15% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 75.0 | 10% |
 | Questions & Debates | 30.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
-| Public Accessibility | 15.0 | 5% |
+| Public Accessibility | 85.0 | 5% |
 | Legislative Effectiveness | 40.0 | 10% |
 
 ---
@@ -38,14 +36,13 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 5.35 Crore
-- **Liabilities:** Rs 33.80 Lakh
-- **Net Worth:** Rs 5.01 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 42% of Lok Sabha MPs
 
 ---
 
@@ -69,6 +66,19 @@
 
 ---
 
+## Public Accessibility
+
+- **Platforms:** 3
+
+
+| Platform | Handle | Verified | Active |
+|----------|--------|----------|--------|
+| Twitter | [@@fskulaste](https://x.com/@fskulaste) | No | Yes |
+| Facebook | [@https://www.facebook.com/FSKulaste/](https://facebook.com/https://www.facebook.com/FSKulaste/) | No | Yes |
+| Instagram | [@https://www.instagram.com/fskulaste/?hl=en](https://instagram.com/https://www.instagram.com/fskulaste/?hl=en) | No | Yes |
+
+---
+
 ## In The News
 
 *Mixed/neutral coverage (10 articles)*
@@ -77,28 +87,40 @@
 - **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
 
 - ‘Businessmen from MP with mining permits facing threats from local leaders in Annamayya district’ - The Hindu (The Hindu) [neutral]
-- Pawan Kalyan Warns of Action Over Mining Obstruction - Deccan Chronicle (Deccan Chronicle) [neutral]
-- 3-time minister, MP Faggan Singh Kulaste refuses to be MoS again - The Times of India (The Times of India) [neutral]
+- Mandla election results 2024 live updates: BJP's Faggan Singh Kulaste wins - The Times of India (The Times of India) [neutral]
 - Union Minister Faggan Singh files nomination from Madhya Pradesh's Mandla for LS polls - ANI News (ANI News) [neutral]
-- अब BJP सांसद फग्गन सिंह कुलस्ते की फिसली जुबान, आतंकियों को कहा 'हमारे' - AajTak (AajTak) [neutral]
+- Pawan Kalyan Warns of Action Over Mining Obstruction - Deccan Chronicle (Deccan Chronicle) [neutral]
+- MP BJP minister stirs row with ‘our terrorists’ remark amid party leaders’ controversial statements - The New Indian Express (The New Indian Express) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **‘Businessmen from MP with mining permits facing threats from local leaders in Annamayya district’ - The Hindu** (The Hindu)
+- ! **Mandla election results 2024 live updates: BJP's Faggan Singh Kulaste wins - The Times of India** (The Times of India)
+- ! **Union Minister Faggan Singh files nomination from Madhya Pradesh's Mandla for LS polls - ANI News** (ANI News)
+- ! **Pawan Kalyan Warns of Action Over Mining Obstruction - Deccan Chronicle** (Deccan Chronicle)
+- ! **MP BJP minister stirs row with ‘our terrorists’ remark amid party leaders’ controversial statements - The New Indian Express** (The New Indian Express)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Madhya Pradesh: 8 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Faggan Singh Kulaste shows moderate transparency with a score of 54.2/100. No criminal cases declared. Low MPLADS fund utilization needs attention.
+Faggan Singh Kulaste shows moderate transparency with a score of 55.4/100. No criminal cases declared. Low MPLADS fund utilization needs attention.
 
 ---
 
-No criminal cases declared. Declared assets: Rs 53,526,381. MPLADS utilization: 26.0%. Parliament attendance: 75.0%. Questions asked: 3. Debates participated: 3.
+No criminal cases declared. MPLADS utilization: 26.0%. Parliament attendance: 75.0%. Questions asked: 3. Debates participated: 3. Low confidence data: Assets. 1 warning(s) noted.
 
 ---
 
@@ -138,7 +160,7 @@ No criminal cases declared. Declared assets: Rs 53,526,381. MPLADS utilization: 
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -236,12 +258,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

@@ -7,11 +7,11 @@
 **Education:** 10th Pass
 **Profession:** Self Employed
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Medium (56%) | **Evidence Grade:** Third-party (C)
 
 ---
 
-## Composite Transparency Score: 52.1 / 100
+## Composite Transparency Score: 55.6 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -21,7 +21,7 @@
 | Parliament Attendance | 80.0 | 10% |
 | Questions & Debates | 40.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
-| Public Accessibility | 15.0 | 5% |
+| Public Accessibility | 85.0 | 5% |
 | Legislative Effectiveness | 40.0 | 10% |
 
 ---
@@ -39,14 +39,14 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
+- **Movable Assets:** Rs 10.31 Lakh
+- **Immovable Assets:** Rs 3.17 Crore
 - **Total Assets:** Rs 3.28 Crore
 - **Liabilities:** Rs 1.50 Lakh
 - **Net Worth:** Rs 3.26 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 27% of Lok Sabha MPs
+- **Wealth Percentile:** Wealthier than 26% of Lok Sabha MPs
 
 ---
 
@@ -70,18 +70,42 @@
 
 ---
 
+## Public Accessibility
+
+- **Platforms:** 4
+
+
+| Platform | Handle | Verified | Active |
+|----------|--------|----------|--------|
+| Twitter | [@share](https://twitter.com/share) | No | Yes |
+| Facebook | [@sharer](https://www.facebook.com/sharer) | No | Yes |
+| Instagram | [@adrspeaks](https://www.instagram.com/adrspeaks) | No | Yes |
+| Youtube | [@adrspeaks](https://www.youtube.com/user/adrspeaks) | No | Yes |
+
+---
+
 ## In The News
 
 *Mixed/neutral coverage (10 articles)*
 
 - **Total Articles:** 10
-- **Positive:** 1 | **Negative:** 1 | **Neutral:** 8
+- **Positive:** 1 | **Negative:** 0 | **Neutral:** 9
 
-- MP Ladakh Mohmad Haneefa Jan Tours Poyen Constituency; Assures to Address Public Demands on Priority. - Administration of Union Territory of Ladakh (Administration of Union Territory of Ladakh) [neutral]
-- Barring an MP, Leh in Ladakh has no elected representatives since October 31 - The Hindu (The Hindu) [neutral]
-- MP Haneefa Jan Visits Shargole Constituency, Reviews Public Grievances and Development Works. - Administration of Union Territory of Ladakh (Administration of Union Territory of Ladakh) [positive]
-- Ladakh MP Mohmad Haneefa Flags Lack Of Assembly, Says Women May Miss Out On Reservation Benefits - ETV Bharat (ETV Bharat) [neutral]
-- "Great day for entire Ladakh": MP Mohammad Haneefa Jan as MHA revokes Wangchuk's detention - ANI News (ANI News) [neutral]
+- MP Ladakh Mohmad Haneefa Jan meets Home Minister Shri Amit Shah raises key issues of Ladakh - Voice of Ladakh (Voice of Ladakh) [neutral]
+- MP Ladakh Undertakes Self-Enumeration for Census 2027 in Kargil. - Administration of Union Territory of Ladakh (Administration of Union Territory of Ladakh) [neutral]
+- Hon’ble MP Mohmad Haneefa Jan Chairs DISHA Meeting to Review Centrally Sponsored Schemes in Leh. - Administration of Union Territory of Ladakh (Administration of Union Territory of Ladakh) [neutral]
+- Liquor, Land Policies Against Interest of People of Ladakh: MP Mohd Haneefa - Daily Excelsior (Daily Excelsior) [neutral]
+- ‘Weakening the Last Remnants of Democracy’: Ladakh MP, Councillors Slam Delay in No-Confidence Vote Against CEC - TheWire.in (TheWire.in) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **MP Ladakh Mohmad Haneefa Jan meets Home Minister Shri Amit Shah raises key issues of Ladakh - Voice of Ladakh** (Voice of Ladakh)
+- ! **MP Ladakh Undertakes Self-Enumeration for Census 2027 in Kargil. - Administration of Union Territory of Ladakh** (Administration of Union Territory of Ladakh)
+- ! **Hon’ble MP Mohmad Haneefa Jan Chairs DISHA Meeting to Review Centrally Sponsored Schemes in Leh. - Administration of Union Territory of Ladakh** (Administration of Union Territory of Ladakh)
+- ! **Liquor, Land Policies Against Interest of People of Ladakh: MP Mohd Haneefa - Daily Excelsior** (Daily Excelsior)
+- ! **‘Weakening the Last Remnants of Democracy’: Ladakh MP, Councillors Slam Delay in No-Confidence Vote Against CEC - TheWire.in** (TheWire.in)
 
 ---
 
@@ -96,7 +120,7 @@
 
 ## Qualitative Assessment
 
-Mohmad Haneefa shows moderate transparency with a score of 52.1/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
+Mohmad Haneefa shows moderate transparency with a score of 55.6/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
 
 ---
 
@@ -140,7 +164,7 @@ No criminal cases declared. Declared assets: Rs 32,761,570. MPLADS utilization: 
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -239,11 +263,12 @@ Time limit: PIO must respond within 30 days of receipt.
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
 | Assets | myneta | Official (B) |
+| Committees | sansad | LLM/Estimated (E) |
 | Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: myneta, prs, social_media, news, mplads*
+*Sources consulted: myneta, prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

@@ -3,50 +3,53 @@
 **Constituency:** Ahmedabad East, Gujarat
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 46
-**Education:** Post Graduate
-**Profession:** Agriculture & Social Service
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (46%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 56.7 / 100
+## Composite Transparency Score: 38.7 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 8.3 | 25% |
-| Asset Growth | 55.0 | 15% |
-| Criminal Record | 100.0 | 15% |
+| Asset Growth | 45.0 | 15% |
+| Criminal Record | 10.0 | 15% |
 | Parliament Attendance | 100.0 | 10% |
 | Questions & Debates | 50.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
-| Public Accessibility | 15.0 | 5% |
+| Public Accessibility | 45.0 | 5% |
 | Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
 ## Criminal Record
 
-- **Total Cases:** 0
-- **Serious Cases:** 0
-- **Convictions:** 0
-- **Pending Cases:** 0
+- **Total Cases:** 4
+- **Serious Cases:** 3
+- **Convictions:** 1
+- **Pending Cases:** 3
 - **Disposed Cases:** 0
 - **Data Source:** myneta
+
+### Cases Detail
+
+1. 11822004220561/2022, Khergam Police Station Dist Navsari | Section-3 & 5 PDPP Act, Section-135 GP Act, Charge sheet NO.1/2024 date-28/3/2024 (Sections: 143, 147, 148, 149, 323, 341, 427, 504, 506(2), 34, 120B) [pending] **SERIOUS**
+2. 11822004220560/2022, Khergam Police Station Dist Navsari | Section-2 Indian Flag Act 2002, Section-135 GP Act (Sections: 143, 147, 148, 149, 153A, 395, 450, 436, 427, 504, 34, 120B) [pending] **SERIOUS**
+3. 11822004220566/2022, Khergam Police Station Dist Navsari | Section- 3 & 5 PDPP Act, Section-135 GP Act (Sections: 143, 147, 148, 149, 323, 151, 152, 153A, 186, 228, 307, 332, 337, 341, 352, 353, 427, 440) [pending] **SERIOUS**
+4. Section-110 GP Act (Sections: 143, 353, 427, 447, 504, 186) [convicted] 
 
 ---
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 8.65 Crore
-- **Liabilities:** Rs 1.35 Crore
-- **Net Worth:** Rs 7.30 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 54% of Lok Sabha MPs
 
 ---
 
@@ -70,36 +73,59 @@
 
 ---
 
+## Public Accessibility
+
+- **Platforms:** 1
+
+
+| Platform | Handle | Verified | Active |
+|----------|--------|----------|--------|
+| Facebook | [@http://www.facebook.com/hasmukhpatelmp](https://facebook.com/http://www.facebook.com/hasmukhpatelmp) | No | Yes |
+
+---
+
 ## In The News
 
-*Mixed/neutral coverage (10 articles)*
+*Mixed/neutral coverage (9 articles)*
 
-- **Total Articles:** 10
-- **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
+- **Total Articles:** 9
+- **Positive:** 0 | **Negative:** 0 | **Neutral:** 9
 
 - Report card for Ahmedabad East: BJP MP Hasmukhbhai Somabhai Patel’s MPLAD funds lowdown, questions asked in Parliament - The Indian Express (The Indian Express) [neutral]
 - Ahmedabad East Lok Sabha election 2024: Date of voting, result, candidates, main parties, schedule - The Times of India (The Times of India) [neutral]
+- Hasmukhbhai Patel (H.S.Patel) - The Hindu (The Hindu) [neutral]
 - Ahmedabad East MP Candidates: It's Patidar vs Patidar in constituency with strong demand for reservations - Citizen Matters (Citizen Matters) [neutral]
-- Ahmedabad East Lok Sabha Election Result 2019: BJP's Patel Hasmukhbhai Somabhai defeats Congress's Gitaben Patel - DNA India (DNA India) [neutral]
 - Ahmedabad East lok sabha election results 2024: Ahmedabad East Winning Candidates List and Vote Share - India Today (India Today) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Report card for Ahmedabad East: BJP MP Hasmukhbhai Somabhai Patel’s MPLAD funds lowdown, questions asked in Parliament - The Indian Express** (The Indian Express)
+- ! **Ahmedabad East Lok Sabha election 2024: Date of voting, result, candidates, main parties, schedule - The Times of India** (The Times of India)
+- ! **Hasmukhbhai Patel (H.S.Patel) - The Hindu** (The Hindu)
+- ! **Ahmedabad East MP Candidates: It's Patidar vs Patidar in constituency with strong demand for reservations - Citizen Matters** (Citizen Matters)
+- ! **Ahmedabad East lok sabha election results 2024: Ahmedabad East Winning Candidates List and Vote Share - India Today** (India Today)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Gujarat: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Hasmukhbhai Somabhai Patel shows moderate transparency with a score of 56.7/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
+Hasmukhbhai Somabhai Patel has a below-average transparency score of 38.7/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance.
 
 ---
 
-No criminal cases declared. Declared assets: Rs 86,470,298. MPLADS utilization: 10.4%. Parliament attendance: 100.0%. Questions asked: 26. Debates participated: 3.
+Has 4 criminal case(s) (3 serious), 3 pending, 1 conviction(s). MPLADS utilization: 10.4%. Parliament attendance: 100.0%. Questions asked: 26. Debates participated: 3. Low confidence data: Assets. 1 warning(s) noted.
 
 ---
 
@@ -139,7 +165,7 @@ No criminal cases declared. Declared assets: Rs 86,470,298. MPLADS utilization: 
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -237,12 +263,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: myneta, prs, social_media, news, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

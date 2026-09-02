@@ -7,21 +7,21 @@
 **Education:** Others
 **Profession:** Self Employed / Agriculture
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Medium (56%) | **Evidence Grade:** Third-party (C)
 
 ---
 
-## Composite Transparency Score: 56.5 / 100
+## Composite Transparency Score: 63.8 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 10.1 | 25% |
-| Asset Growth | 60.0 | 15% |
+| Asset Growth | 85.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 85.0 | 10% |
 | Questions & Debates | 60.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
-| Public Accessibility | 15.0 | 5% |
+| Public Accessibility | 85.0 | 5% |
 | Legislative Effectiveness | 40.0 | 10% |
 
 ---
@@ -39,14 +39,14 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
+- **Movable Assets:** Rs 5.88 Crore
+- **Immovable Assets:** Rs 80.04 Crore
 - **Total Assets:** Rs 85.92 Crore
 - **Liabilities:** Rs 15.26 Lakh
 - **Net Worth:** Rs 85.77 Crore
-- **Previous Total Assets:** N/A
-- **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 91% of Lok Sabha MPs
+- **Previous Total Assets:** Rs 54622151154.00 Crore
+- **Asset Growth:** -100.0%
+- **Wealth Percentile:** Wealthier than 86% of Lok Sabha MPs
 
 ---
 
@@ -70,6 +70,19 @@
 
 ---
 
+## Public Accessibility
+
+- **Platforms:** 3
+
+
+| Platform | Handle | Verified | Active |
+|----------|--------|----------|--------|
+| Twitter | [@kritisdebbarma](https://x.com/kritisdebbarma) | No | Yes |
+| Facebook | [@KritiSinghDb Instagram](https://facebook.com/KritiSinghDb Instagram) | No | Yes |
+| Instagram | [@KritiSinghDb Instagram](https://instagram.com/KritiSinghDb Instagram) | No | Yes |
+
+---
+
 ## In The News
 
 *Mixed/neutral coverage (10 articles)*
@@ -77,11 +90,21 @@
 - **Total Articles:** 10
 - **Positive:** 1 | **Negative:** 0 | **Neutral:** 9
 
-- Tripura MP Seeks CM Dhami’s Intervention in Dehradun Student Murder Case - Tripura Chronicle (Tripura Chronicle) [neutral]
-- Tripura East (ST) election results 2024 live updates: BJP's Kriti Devi Debbarman wins with 7,77,447 votes - The Times of India (The Times of India) [neutral]
+- Tripura ranks below national average in MPLAD fund utilisation - TRIPURAINFO (TRIPURAINFO) [neutral]
+- Tripura East (ST) election results 2024 live updates: BJP's Kriti Devi Debbarman wins with 7,77,447 votes - timesofindia.indiatimes.com (timesofindia.indiatimes.com) [neutral]
 - Tripura East MP Kriti Devi Debbarman Allocates Rs 1 Crore for Urgent Flood Relief Efforts - Northeast Today (Northeast Today) [positive]
-- Tripura East lok sabha election results 2024: Tripura East Winning Candidates List and Vote Share - India Today (India Today) [neutral]
-- BJP sweeps Tripura: Newly elected MPs vow to work for betterment of state - Northeast Live (Northeast Live) [neutral]
+- Tripura Lok Sabha election result: Kriti Devi Debbarman wins east with landslide victory - India Today NE (India Today NE) [neutral]
+- MP Kriti Devi Debbarman launches 100 days TB campaign with NTEP Tripura - Tripura Chronicle (Tripura Chronicle) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Tripura ranks below national average in MPLAD fund utilisation - TRIPURAINFO** (TRIPURAINFO)
+- ! **Tripura East (ST) election results 2024 live updates: BJP's Kriti Devi Debbarman wins with 7,77,447 votes - timesofindia.indiatimes.com** (timesofindia.indiatimes.com)
+- ! **Tripura East MP Kriti Devi Debbarman Allocates Rs 1 Crore for Urgent Flood Relief Efforts - Northeast Today** (Northeast Today)
+- ! **Tripura Lok Sabha election result: Kriti Devi Debbarman wins east with landslide victory - India Today NE** (India Today NE)
+- ! **MP Kriti Devi Debbarman launches 100 days TB campaign with NTEP Tripura - Tripura Chronicle** (Tripura Chronicle)
 
 ---
 
@@ -95,7 +118,7 @@
 
 ## Qualitative Assessment
 
-Kriti Devi Debbarman shows moderate transparency with a score of 56.5/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Kriti Devi Debbarman shows moderate transparency with a score of 63.8/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
@@ -139,7 +162,7 @@ No criminal cases declared. Declared assets: Rs 859,232,932. MPLADS utilization:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -238,11 +261,12 @@ Time limit: PIO must respond within 30 days of receipt.
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
 | Assets | myneta | Official (B) |
+| Committees | sansad | LLM/Estimated (E) |
 | Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: myneta, prs, social_media, news, mplads*
+*Sources consulted: myneta, prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

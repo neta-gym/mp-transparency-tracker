@@ -3,19 +3,17 @@
 **Constituency:** Hamirpur, Uttar Pradesh
 **Party:** Samajwadi Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 53
-**Education:** 12th Pass
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (37%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 48.9 / 100
+## Composite Transparency Score: 47.4 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 24.4 | 25% |
-| Asset Growth | 55.0 | 15% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 60.0 | 10% |
 | Questions & Debates | 0.0 | 10% |
@@ -38,14 +36,13 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 5.02 Crore
-- **Liabilities:** Rs 74.85 Lakh
-- **Net Worth:** Rs 4.28 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 40% of Lok Sabha MPs
 
 ---
 
@@ -71,34 +68,46 @@
 
 ## In The News
 
-*Predominantly negative coverage (7/10 articles)*
+*Mixed/neutral coverage (10 articles)*
 
 - **Total Articles:** 10
-- **Positive:** 0 | **Negative:** 7 | **Neutral:** 3
+- **Positive:** 0 | **Negative:** 5 | **Neutral:** 5
 
 - SP MP Ajendra Singh Lodhi booked over ‘anti-national’ remark on PM Modi - The Hindu (The Hindu) [negative]
+- SP MP Ajendra Singh Lodhi booked over ‘anti-national’ remark on Modi - ThePrint (ThePrint) [negative]
 - FIR filed against SP MP Ajendra Singh Lodhi over derogatory remarks against PM Modi - The Times of India (The Times of India) [negative]
 - Samajwadi Party MP Ajendra Lodhi booked over derogatory comments on PM Modi - The Statesman (The Statesman) [negative]
-- Never seen such a bastard and anti-national Prime Minister: Ajendra Singh Lodhi, MP, Samajwadi Party - Dailyhunt (Dailyhunt) [neutral]
-- FIR against SP MP over remarks on PM sparks BJP protests - MSN (MSN) [negative]
+- 'Party of goons and abusers': Samajwadi Party MP 'abuses' PM Narendra Modi, BJP hits back - The Times of India (The Times of India) [neutral]
+
+---
+
+## News & Allegations
+
+- !! **SP MP Ajendra Singh Lodhi booked over ‘anti-national’ remark on PM Modi - The Hindu** (The Hindu)
+- !! **SP MP Ajendra Singh Lodhi booked over ‘anti-national’ remark on Modi - ThePrint** (ThePrint)
+- !! **FIR filed against SP MP Ajendra Singh Lodhi over derogatory remarks against PM Modi - The Times of India** (The Times of India)
+- !! **Samajwadi Party MP Ajendra Lodhi booked over derogatory comments on PM Modi - The Statesman** (The Statesman)
+- ! **'Party of goons and abusers': Samajwadi Party MP 'abuses' PM Narendra Modi, BJP hits back - The Times of India** (The Times of India)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Uttar Pradesh: 8 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Ajendra Singh Lodhi has a below-average transparency score of 48.9/100, indicating significant room for improvement. No criminal cases declared. Low MPLADS fund utilization needs attention. Limited participation in parliamentary proceedings.
+Ajendra Singh Lodhi has a below-average transparency score of 47.4/100, indicating significant room for improvement. No criminal cases declared. Low MPLADS fund utilization needs attention. Limited participation in parliamentary proceedings.
 
 ---
 
-No criminal cases declared. Declared assets: Rs 50,237,175. MPLADS utilization: 30.5%. Parliament attendance: 60.0%.
+No criminal cases declared. MPLADS utilization: 30.5%. Parliament attendance: 60.0%. Low confidence data: Assets. 1 warning(s) noted.
 
 ---
 
@@ -138,7 +147,7 @@ No criminal cases declared. Declared assets: Rs 50,237,175. MPLADS utilization: 
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -236,12 +245,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

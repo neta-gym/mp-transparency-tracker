@@ -3,24 +3,22 @@
 **Constituency:** Sivaganga, Tamil Nadu
 **Party:** Indian National Congress
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 52
-**Education:** Graduate Professional
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (46%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 40.9 / 100
+## Composite Transparency Score: 41.9 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 48.2 | 25% |
-| Asset Growth | 55.0 | 15% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 0.0 | 15% |
 | Parliament Attendance | 75.0 | 10% |
 | Questions & Debates | 50.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
-| Public Accessibility | 15.0 | 5% |
+| Public Accessibility | 65.0 | 5% |
 | Legislative Effectiveness | 40.0 | 10% |
 
 ---
@@ -28,24 +26,42 @@
 ## Criminal Record
 
 - **Total Cases:** 11
-- **Serious Cases:** 0
+- **Serious Cases:** 4
 - **Convictions:** 0
 - **Pending Cases:** 11
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
+### Cases Detail
+
+1. RC-DAI-2011-A-0022
+CBI ACB, NEW Delhi | Section 7, 12 and Section 13(2) r/w 13(1)(d) of Prevention of Corruption Act. 1988 (Sections: 120B) [pending] **SERIOUS**
+2. RC 220 2017 E 0011 CBI/EOU.IV/EO-II, New Delhi | Section 9 & 13(2) r/w 13(1)(d) Prevention of Corruption Act. 1988 (Sections: 120B, 420, 468, 471) [pending] **SERIOUS**
+3. ECIR/05/DZ/2012, Deputy Director, Directorate of Enforcement, Head Quarter office, New Delhi | Section 3/4 Prevention of Money Laundering Act. 2002 (Sections: N/A) [pending] 
+4. ECIR/07/HUI/2017, Assistant Director/Joint Director (HIU), Directorate of Enforcement, Head Office, New Delhi | Section 3/4 Prevention of Money Laundering Act. 2002 (Sections: N/A) [pending] 
+5. Sections 276 C (1), 277and 278 of the Income Tax Act 196 (Sections: N/A) [pending] 
+6. RC 220 2022 E0006
+
+EOU-IV/EO-II New Delhi | Section 8 and 9 of the Prevention of Corruption Act 1988 (Sections: 120B, 477A) [pending] **SERIOUS**
+7. ECIR/HIU-1/09/2022
+Assistant Director HIU-I Directorate of Enforcment Head Quarters Office, New Delhi | Section 3/4 Prevention of Money Laundering Act. (Sections: N/A) [pending] 
+8. No.50 of 2014 dated 25.03.2014.
+Sub-Inspector of Police Station, Tiruppathur, Sivagangai Dt. (Sections: 143, 188) [pending] 
+9. 2172015A0111, CBI AC-II, New Delhi (Sections: 120B, 420 467, 468, 471) [pending] **SERIOUS**
+10. ECIR/01/HIU/2015 Assistant Director, (PMLA) HIU Directorate of Enforcement, New Delhi | Section 3/4 Prevention of Money Laundering Act 2002 (Sections: N/A) [pending] 
+11. Section 50 Black Money (Undisclosed Foreign Income and Assets) and Imposition of Tax Act of 2015 (Sections: N/A) [pending] 
+
 ---
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 96.27 Crore
-- **Liabilities:** Rs 23.49 Crore
-- **Net Worth:** Rs 72.79 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 92% of Lok Sabha MPs
 
 ---
 
@@ -69,36 +85,60 @@
 
 ---
 
+## Public Accessibility
+
+- **Platforms:** 2
+
+
+| Platform | Handle | Verified | Active |
+|----------|--------|----------|--------|
+| Twitter | [@http://www.twitter.com/@kartiPC](https://x.com/http://www.twitter.com/@kartiPC) | No | Yes |
+| Facebook | [@http://www.facebook.com/KartiPChidambaram](https://facebook.com/http://www.facebook.com/KartiPChidambaram) | No | Yes |
+
+---
+
 ## In The News
 
 *Mixed/neutral coverage (10 articles)*
 
 - **Total Articles:** 10
-- **Positive:** 0 | **Negative:** 2 | **Neutral:** 8
+- **Positive:** 0 | **Negative:** 1 | **Neutral:** 9
 
-- Tamil Nadu: Kerosene bombs hurled at MP Karti Chidambaram’s office in Karaikudi - The Hindu (The Hindu) [neutral]
-- Molotov cocktails hurled at the office of Congress MP Karti P Chidambaram in Karaikudi - The New Indian Express (The New Indian Express) [neutral]
-- Karti Chidambaram Calls Dhurandhar Allegations Mix Of Fact, Fiction And WhatsApp Forwards, Defends Himself On ANI Podcast - Swarajyamag (Swarajyamag) [neutral]
-- Congress cadre flee with Rs 13 lakh seized from MP Karti Chidambaram’s office by election officials - MSN (MSN) [neutral]
-- Delhi court orders framing of charges against Cong MP Karti Chidambaram in Chinese visa scam case - PGurus (PGurus) [negative]
+- Congress MP Karti warns Lok Sabha expansion may widen Tamil Nadu–UP gap - Telangana Today (Telangana Today) [neutral]
+- Molotov cocktails hurled at the office of Congress MP Karti P Chidambaram in Karaikudi - newindianexpress.com (newindianexpress.com) [neutral]
+- Seeman will face a repeat of his Thiruvottiyur defeat in Karaikudi: MP Karti Chidambaram - The Hindu (The Hindu) [neutral]
+- Court orders charges against Karti Chidambaram in Chinese visa case - Rediff (Rediff) [neutral]
+- Karti Chidambaram Calls Dhurandhar Allegations Mix Of Fact, Fiction And WhatsApp Forwards, Defends Himself On ANI Podcast - Swarajya (Swarajya) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Congress MP Karti warns Lok Sabha expansion may widen Tamil Nadu–UP gap - Telangana Today** (Telangana Today)
+- ! **Molotov cocktails hurled at the office of Congress MP Karti P Chidambaram in Karaikudi - newindianexpress.com** (newindianexpress.com)
+- ! **Seeman will face a repeat of his Thiruvottiyur defeat in Karaikudi: MP Karti Chidambaram - The Hindu** (The Hindu)
+- ! **Court orders charges against Karti Chidambaram in Chinese visa case - Rediff** (Rediff)
+- ! **Karti Chidambaram Calls Dhurandhar Allegations Mix Of Fact, Fiction And WhatsApp Forwards, Defends Himself On ANI Podcast - Swarajya** (Swarajya)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Tamil Nadu: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Karti P Chidambaram has a below-average transparency score of 40.9/100, indicating significant room for improvement. Significant criminal cases are a concern.
+Karti P Chidambaram has a below-average transparency score of 41.9/100, indicating significant room for improvement. Significant criminal cases are a concern.
 
 ---
 
-Has 11 criminal case(s) (0 serious), 11 pending, 0 conviction(s). Declared assets: Rs 962,744,048. MPLADS utilization: 55.5%. Parliament attendance: 75.0%. Questions asked: 16. Debates participated: 4.
+Has 11 criminal case(s) (4 serious), 11 pending, 0 conviction(s). MPLADS utilization: 55.5%. Parliament attendance: 75.0%. Questions asked: 16. Debates participated: 4. Low confidence data: Assets. 1 warning(s) noted.
 
 ---
 
@@ -138,7 +178,7 @@ Has 11 criminal case(s) (0 serious), 11 pending, 0 conviction(s). Declared asset
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -236,12 +276,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

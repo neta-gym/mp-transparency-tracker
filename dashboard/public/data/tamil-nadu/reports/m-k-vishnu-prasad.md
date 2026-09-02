@@ -4,31 +4,31 @@
 **Party:** Indian National Congress
 **House:** Lok Sabha (18th Parliament, 2024-present)
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Third-party (C)
+**Data Confidence:** Low (34%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 57.9 / 100
+## Composite Transparency Score: 50.4 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 33.0 | 25% |
-| Asset Growth | 55.0 | 15% |
-| Criminal Record | 90.0 | 15% |
-| Parliament Attendance | 75.0 | 10% |
+| Asset Growth | 45.0 | 15% |
+| Criminal Record | 45.0 | 15% |
+| Parliament Attendance | 85.0 | 10% |
 | Questions & Debates | 70.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
-| Public Accessibility | 15.0 | 5% |
+| Public Accessibility | 45.0 | 5% |
 | Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
 ## Criminal Record
 
-- **Total Cases:** 1
+- **Total Cases:** 0
 - **Serious Cases:** 0
 - **Convictions:** 0
-- **Pending Cases:** 1
+- **Pending Cases:** 0
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
@@ -36,14 +36,13 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 25.20 Crore
-- **Liabilities:** Rs 5.27 Crore
-- **Net Worth:** Rs 19.93 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 75% of Lok Sabha MPs
 
 ---
 
@@ -59,44 +58,68 @@
 
 ## Parliament Activity
 
-- **Attendance:** 75.0%
-- **Questions Asked:** 40
-- **Debates Participated:** 10
+- **Attendance:** 85.0%
+- **Questions Asked:** 33
+- **Debates Participated:** 7
 - **Private Bills:** 0
 - **Is Minister:** No
 
 ---
 
+## Public Accessibility
+
+- **Platforms:** 1
+
+
+| Platform | Handle | Verified | Active |
+|----------|--------|----------|--------|
+| Twitter | [@http://www.twitter.com/@MKVishnuPrasad](https://x.com/http://www.twitter.com/@MKVishnuPrasad) | No | Yes |
+
+---
+
 ## In The News
 
-*Mixed/neutral coverage (10 articles)*
+*Mixed/neutral coverage (9 articles)*
 
-- **Total Articles:** 10
-- **Positive:** 1 | **Negative:** 2 | **Neutral:** 7
+- **Total Articles:** 9
+- **Positive:** 3 | **Negative:** 1 | **Neutral:** 5
 
-- Congress MP Seeks CBI Probe into Alleged ₹1,500 Crore Corruption in NLC Contracts - Daily Pioneer (Daily Pioneer) [negative]
+- Cuddalore MP reviews development works at DISHA meeting - The Hindu (The Hindu) [positive]
+- Wait is over: Tamil Nadu Congress list with seven names out - The New Indian Express (The New Indian Express) [neutral]
 - MP alleges Rs 422 cr fraud in NLC - DT Next (DT Next) [negative]
-- PollSCAN TN: Can DMK hold Cuddalore amid growing voter frustration? - Dailyhunt (Dailyhunt) [neutral]
-- Land acquisition, fund allocation by TN govt causing delay: Centre - DT Next (DT Next) [neutral]
-- Congress nominee files papers for Cuddalore LS constituency - The Hindu (The Hindu) [neutral]
+- Farm land acquisition, industrial pollution key issues in Cuddalore - The Hindu (The Hindu) [neutral]
+- Over 2000 people receive welfare aid worth Rs 30 crore under Makkaludan Mudhalvar scheme in TN's Cuddalore - The New Indian Express (The New Indian Express) [positive]
+
+---
+
+## News & Allegations
+
+- ! **Cuddalore MP reviews development works at DISHA meeting - The Hindu** (The Hindu)
+- ! **Wait is over: Tamil Nadu Congress list with seven names out - The New Indian Express** (The New Indian Express)
+- !! **MP alleges Rs 422 cr fraud in NLC - DT Next** (DT Next)
+- ! **Farm land acquisition, industrial pollution key issues in Cuddalore - The Hindu** (The Hindu)
+- ! **Over 2000 people receive welfare aid worth Rs 30 crore under Makkaludan Mudhalvar scheme in TN's Cuddalore - The New Indian Express** (The New Indian Express)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
+- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Tamil Nadu: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-M K Vishnu Prasad shows moderate transparency with a score of 57.9/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. Active in questions and debates.
+M K Vishnu Prasad shows moderate transparency with a score of 50.4/100. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Declared assets: Rs 251,978,580. MPLADS utilization: 41.3%. Parliament attendance: 75.0%. Questions asked: 40. Debates participated: 10.
+No criminal cases declared. MPLADS utilization: 41.3%. Parliament attendance: 85.0%. Questions asked: 33. Debates participated: 7. Low confidence data: Criminal record, Assets. 2 warning(s) noted.
 
 ---
 
@@ -136,7 +159,7 @@ Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Declared assets:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -234,10 +257,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

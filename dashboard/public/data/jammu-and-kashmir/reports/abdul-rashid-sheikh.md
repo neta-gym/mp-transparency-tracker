@@ -3,24 +3,22 @@
 **Constituency:** Baramulla, Jammu And Kashmir
 **Party:** Independent
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 59
-**Education:** Graduate
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (46%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 32.0 / 100
+## Composite Transparency Score: 30.2 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 11.0 | 25% |
-| Asset Growth | 60.0 | 15% |
-| Criminal Record | 70.0 | 15% |
+| Asset Growth | 45.0 | 15% |
+| Criminal Record | 60.0 | 15% |
 | Parliament Attendance | 0.0 | 10% |
 | Questions & Debates | 0.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
-| Public Accessibility | 15.0 | 5% |
+| Public Accessibility | 65.0 | 5% |
 | Legislative Effectiveness | 40.0 | 10% |
 
 ---
@@ -28,24 +26,29 @@
 ## Criminal Record
 
 - **Total Cases:** 3
-- **Serious Cases:** 0
+- **Serious Cases:** 1
 - **Convictions:** 0
 - **Pending Cases:** 3
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
+### Cases Detail
+
+1. RC No. 10/2017/NIA/DLI | Section 13 UAPA, Section 17 UAPA 18 UAPA (Sections: 120B, 121, 121A, 124) [pending] **SERIOUS**
+2. 13/2016, Police Station Pulwama J&K (Sections: 341, 506) [pending] 
+3. ECIR/03/DLZO-II/2017 PS-ED, Delhi | Section 44/45 & 3/4 PMLA 2002 (Sections: N/A) [pending] 
+
 ---
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 1.56 Crore
-- **Liabilities:** Rs 14.43 Lakh
-- **Net Worth:** Rs 1.42 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 14% of Lok Sabha MPs
 
 ---
 
@@ -69,6 +72,18 @@
 
 ---
 
+## Public Accessibility
+
+- **Platforms:** 2
+
+
+| Platform | Handle | Verified | Active |
+|----------|--------|----------|--------|
+| Facebook | [@Er.Rashid](https://facebook.com/Er.Rashid) | No | Yes |
+| Instagram | [@Er Rashid](https://instagram.com/Er Rashid) | No | Yes |
+
+---
+
 ## In The News
 
 *Mixed/neutral coverage (10 articles)*
@@ -76,29 +91,41 @@
 - **Total Articles:** 10
 - **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
 
+- NIA Court reserves order on Baramulla MP Abdul Rashid Sheikh's plea to attend parliament session - ANI News (ANI News) [neutral]
 - Delhi High Court grants interim bail to MP Engineer Rashid following father’s death - The Indian Express (The Indian Express) [neutral]
-- Delhi High Court grants interim bail to Baramulla MP Engineer Rashid to attend father’s funeral - Bar and Bench (Bar and Bench) [neutral]
-- Jailed MP Engineer Rashid's father dies aged 85 - The Hindu (The Hindu) [neutral]
-- Delhi High Court Grants Interim Bail To Jailed MP Engineer Rashid Following Father's Demise - Live Law (Live Law) [neutral]
-- Delhi High Court Grants Interim Bail to Baramulla MP Engineer Rashid Until June 2 Following Father’s Demise - Law Trend (Law Trend) [neutral]
+- Terror Funding Case: Delhi High Court Grants Interim Bail To MP Engineer Rashid To Attend Late Father's... - livelaw.in (livelaw.in) [neutral]
+- NIA court to decide on Baramulla MP Abdul Rashid Sheikh’s request to attend Parliament session - thenewsmill.com (thenewsmill.com) [neutral]
+- Baramulla MP Engineer Rashid gets one-week interim bail from Delhi HC to visit ailing father - Scroll.in (Scroll.in) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **NIA Court reserves order on Baramulla MP Abdul Rashid Sheikh's plea to attend parliament session - ANI News** (ANI News)
+- ! **Delhi High Court grants interim bail to MP Engineer Rashid following father’s death - The Indian Express** (The Indian Express)
+- ! **Terror Funding Case: Delhi High Court Grants Interim Bail To MP Engineer Rashid To Attend Late Father's... - livelaw.in** (livelaw.in)
+- ! **NIA court to decide on Baramulla MP Abdul Rashid Sheikh’s request to attend Parliament session - thenewsmill.com** (thenewsmill.com)
+- ! **Baramulla MP Engineer Rashid gets one-week interim bail from Delhi HC to visit ailing father - Scroll.in** (Scroll.in)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Jammu And Kashmir: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Abdul Rashid Sheikh has a below-average transparency score of 32.0/100, indicating significant room for improvement. Minor criminal cases on record. Low MPLADS fund utilization needs attention. Low parliament attendance is notable. Limited participation in parliamentary proceedings.
+Abdul Rashid Sheikh has a below-average transparency score of 30.2/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. Low parliament attendance is notable. Limited participation in parliamentary proceedings.
 
 ---
 
-Has 3 criminal case(s) (0 serious), 3 pending, 0 conviction(s). Declared assets: Rs 15,637,424. MPLADS utilization: 13.8%. Parliament attendance: 0.0%.
+Has 3 criminal case(s) (1 serious), 3 pending, 0 conviction(s). MPLADS utilization: 13.8%. Parliament attendance: 0.0%. Low confidence data: Assets. 1 warning(s) noted.
 
 ---
 
@@ -138,7 +165,7 @@ Has 3 criminal case(s) (0 serious), 3 pending, 0 conviction(s). Declared assets:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -236,12 +263,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

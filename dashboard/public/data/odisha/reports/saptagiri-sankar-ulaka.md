@@ -3,24 +3,22 @@
 **Constituency:** Koraput, Odisha
 **Party:** Indian National Congress
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 45
-**Education:** Graduate Professional
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (44%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 61.1 / 100
+## Composite Transparency Score: 62.1 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 15.3 | 25% |
-| Asset Growth | 55.0 | 15% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 100.0 | 10% |
 | Questions & Debates | 80.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
-| Public Accessibility | 15.0 | 5% |
+| Public Accessibility | 65.0 | 5% |
 | Legislative Effectiveness | 40.0 | 10% |
 
 ---
@@ -38,14 +36,13 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 7.10 Crore
-- **Liabilities:** Rs 1.60 Crore
-- **Net Worth:** Rs 5.50 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 49% of Lok Sabha MPs
 
 ---
 
@@ -69,36 +66,60 @@
 
 ---
 
+## Public Accessibility
+
+- **Platforms:** 2
+
+
+| Platform | Handle | Verified | Active |
+|----------|--------|----------|--------|
+| Twitter | [@http://www.twitter.com/Saptagiriulaka](https://x.com/http://www.twitter.com/Saptagiriulaka) | No | Yes |
+| Facebook | [@http://www.facebook.com/Saptagiriulaka](https://facebook.com/http://www.facebook.com/Saptagiriulaka) | No | Yes |
+
+---
+
 ## In The News
 
 *Mixed/neutral coverage (10 articles)*
 
 - **Total Articles:** 10
-- **Positive:** 0 | **Negative:** 1 | **Neutral:** 9
+- **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
 
-- MP Ulaka Urges Scindia To Ensure 4G Connectivity In Koraput, Rayagada Villages - Ommcom News (Ommcom News) [neutral]
-- No mobile connectivity in 238 Koraput & Rayagada villages: Minister - The Times of India (The Times of India) [neutral]
+- MP Saptagiri Ulaka Urges Railway Minister Ashwini Vaishnaw for Fresh Survey to Bring Rail Line to Gudari - Pragativadi (Pragativadi) [neutral]
+- Delay in notifying women’s quota law shows govt’s intent: Odisha Congress MP Ulaka - orissapost.com (orissapost.com) [neutral]
 - G RAM G will have to be rescinded, just like farm laws … ‘right to job’ reduced to a labharthi yojana: Parliamentary Standing Committee chief - The Indian Express (The Indian Express) [neutral]
-- Odisha Congress MLAs Offered Rs 5 Cr Each To Cross-Vote In RS Polls, 2 Arrested - Ommcom News (Ommcom News) [negative]
+- Koraput MP demands proper road connectivity in southern Odisha - The Times of India (The Times of India) [neutral]
 - Koraput district administrator in Odisha bans sale of non-vegetarian food on Republic Day - The Hindu (The Hindu) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **MP Saptagiri Ulaka Urges Railway Minister Ashwini Vaishnaw for Fresh Survey to Bring Rail Line to Gudari - Pragativadi** (Pragativadi)
+- ! **Delay in notifying women’s quota law shows govt’s intent: Odisha Congress MP Ulaka - orissapost.com** (orissapost.com)
+- ! **G RAM G will have to be rescinded, just like farm laws … ‘right to job’ reduced to a labharthi yojana: Parliamentary Standing Committee chief - The Indian Express** (The Indian Express)
+- ! **Koraput MP demands proper road connectivity in southern Odisha - The Times of India** (The Times of India)
+- ! **Koraput district administrator in Odisha bans sale of non-vegetarian food on Republic Day - The Hindu** (The Hindu)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Odisha: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Saptagiri Sankar Ulaka shows moderate transparency with a score of 61.1/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Saptagiri Sankar Ulaka shows moderate transparency with a score of 62.1/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-No criminal cases declared. Declared assets: Rs 70,956,659. MPLADS utilization: 19.2%. Parliament attendance: 100.0%. Questions asked: 48. Debates participated: 20.
+No criminal cases declared. MPLADS utilization: 19.2%. Parliament attendance: 100.0%. Questions asked: 48. Debates participated: 20. Low confidence data: Assets. 1 warning(s) noted.
 
 ---
 
@@ -138,7 +159,7 @@ No criminal cases declared. Declared assets: Rs 70,956,659. MPLADS utilization: 
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -236,12 +257,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

@@ -3,24 +3,22 @@
 **Constituency:** Chennai North, Tamil Nadu
 **Party:** Dravida Munnetra Kazhagam
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 54
-**Education:** Post Graduate
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (44%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 60.9 / 100
+## Composite Transparency Score: 62.7 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 27.1 | 25% |
-| Asset Growth | 50.0 | 15% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 95.0 | 10% |
 | Questions & Debates | 70.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
-| Public Accessibility | 15.0 | 5% |
+| Public Accessibility | 65.0 | 5% |
 | Legislative Effectiveness | 40.0 | 10% |
 
 ---
@@ -38,14 +36,13 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 61.06 Crore
-- **Liabilities:** Rs 38.34 Crore
-- **Net Worth:** Rs 22.72 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 87% of Lok Sabha MPs
 
 ---
 
@@ -69,36 +66,60 @@
 
 ---
 
+## Public Accessibility
+
+- **Platforms:** 2
+
+
+| Platform | Handle | Verified | Active |
+|----------|--------|----------|--------|
+| Twitter | [@https://x.com/DrKalanidhiV](https://x.com/https://x.com/DrKalanidhiV) | No | Yes |
+| Facebook | [@https://www.facebook.com/DrKalanidhiV/about/](https://facebook.com/https://www.facebook.com/DrKalanidhiV/about/) | No | Yes |
+
+---
+
 ## In The News
 
 *Mixed/neutral coverage (10 articles)*
 
 - **Total Articles:** 10
-- **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
+- **Positive:** 0 | **Negative:** 1 | **Neutral:** 9
 
-- Chennai North election results 2024 live updates: DMK's Kalanidhi Veerasamy wins - The Times of India (The Times of India) [neutral]
+- DMK MP’s son, councillor booked for land fraud in Anna Nagar - The Times of India (The Times of India) [negative]
 - "TVK to lose deposit in Perambur, Trichy East a fortress of DMK": MP Kalanidhi Veeraswamy on Vijay contesting Tamil Nadu polls - ANI News (ANI News) [neutral]
-- Lok Sabha 2024: Know your MP — Dr Kalanidhi Veerasamy, Chennai North - Citizen Matters (Citizen Matters) [neutral]
-- Food scene spices up in Anna Nagar - The New Indian Express (The New Indian Express) [neutral]
 - Have suggested a health survey to check effects of industrial pollution: Kalanidhi Veerasamy - Citizen Matters (Citizen Matters) [neutral]
+- Madras High Court directs DMK MP Kalanidhi to vacate government property in Chennai within a month, or face eviction - The Hindu (The Hindu) [neutral]
+- Chennai North lok sabha election results 2024: Chennai North Winning Candidates List and Vote Share - India Today (India Today) [neutral]
+
+---
+
+## News & Allegations
+
+- !! **DMK MP’s son, councillor booked for land fraud in Anna Nagar - The Times of India** (The Times of India)
+- ! **"TVK to lose deposit in Perambur, Trichy East a fortress of DMK": MP Kalanidhi Veeraswamy on Vijay contesting Tamil Nadu polls - ANI News** (ANI News)
+- ! **Have suggested a health survey to check effects of industrial pollution: Kalanidhi Veerasamy - Citizen Matters** (Citizen Matters)
+- ! **Madras High Court directs DMK MP Kalanidhi to vacate government property in Chennai within a month, or face eviction - The Hindu** (The Hindu)
+- ! **Chennai North lok sabha election results 2024: Chennai North Winning Candidates List and Vote Share - India Today** (India Today)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Tamil Nadu: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Kalanidhi Veeraswamy shows moderate transparency with a score of 60.9/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Kalanidhi Veeraswamy shows moderate transparency with a score of 62.7/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-No criminal cases declared. Declared assets: Rs 610,614,066. MPLADS utilization: 33.9%. Parliament attendance: 95.0%. Questions asked: 43. Debates participated: 7.
+No criminal cases declared. MPLADS utilization: 33.9%. Parliament attendance: 95.0%. Questions asked: 43. Debates participated: 7. Low confidence data: Assets. 1 warning(s) noted.
 
 ---
 
@@ -138,7 +159,7 @@ No criminal cases declared. Declared assets: Rs 610,614,066. MPLADS utilization:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -236,12 +257,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

@@ -3,19 +3,17 @@
 **Constituency:** Haveri, Karnataka
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 64
-**Education:** Graduate Professional
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (37%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 56.9 / 100
+## Composite Transparency Score: 55.4 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 27.2 | 25% |
-| Asset Growth | 55.0 | 15% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 70.0 | 10% |
 | Questions & Debates | 60.0 | 10% |
@@ -38,14 +36,13 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 53.95 Crore
-- **Liabilities:** Rs 5.46 Crore
-- **Net Worth:** Rs 48.49 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 86% of Lok Sabha MPs
 
 ---
 
@@ -74,31 +71,43 @@
 *Mixed/neutral coverage (10 articles)*
 
 - **Total Articles:** 10
-- **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
+- **Positive:** 0 | **Negative:** 1 | **Neutral:** 9
 
+- "Congress depends on other parties for survival": BJP MP Basavaraj Bommai - aninews.in (aninews.in) [neutral]
+- Karnataka BJP says SIR diluted by State government, urges ECI to order probe - The New Indian Express (The New Indian Express) [neutral]
 - Indi Alliance Has No Moral Right to Speak on Constitution: Basavaraj Bommai - Deccan Chronicle (Deccan Chronicle) [neutral]
-- "Congress depends on other parties for survival": BJP MP Basavaraj Bommai - lokmattimes.com (lokmattimes.com) [neutral]
-- 'Politicians shouldn't get it': Former Karnataka CM Basavaraj Bommai declines honorary doctorate - Deccan Herald (Deccan Herald) [neutral]
-- Bedthi–Varada river interlinking project is fight for life: MP Basavaraj Bommai - The New Indian Express (The New Indian Express) [neutral]
-- MP Basavaraj Bommai criticises Congress over vote theft allegations - The Times of India (The Times of India) [neutral]
+- Naregal clash: Bommai demands SIT probe, action against cops - The Times of India (The Times of India) [neutral]
+- Three family members die in Karnataka truck-car accident - The Assam Tribune (The Assam Tribune) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **"Congress depends on other parties for survival": BJP MP Basavaraj Bommai - aninews.in** (aninews.in)
+- ! **Karnataka BJP says SIR diluted by State government, urges ECI to order probe - The New Indian Express** (The New Indian Express)
+- ! **Indi Alliance Has No Moral Right to Speak on Constitution: Basavaraj Bommai - Deccan Chronicle** (Deccan Chronicle)
+- ! **Naregal clash: Bommai demands SIT probe, action against cops - The Times of India** (The Times of India)
+- ! **Three family members die in Karnataka truck-car accident - The Assam Tribune** (The Assam Tribune)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Karnataka: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Basavaraj Bommai shows moderate transparency with a score of 56.9/100. No criminal cases declared. Low MPLADS fund utilization needs attention. Active in questions and debates.
+Basavaraj Bommai shows moderate transparency with a score of 55.4/100. No criminal cases declared. Low MPLADS fund utilization needs attention. Active in questions and debates.
 
 ---
 
-No criminal cases declared. Declared assets: Rs 539,504,552. MPLADS utilization: 33.9%. Parliament attendance: 70.0%. Questions asked: 39. Debates participated: 1.
+No criminal cases declared. MPLADS utilization: 33.9%. Parliament attendance: 70.0%. Questions asked: 39. Debates participated: 1. Low confidence data: Assets. 1 warning(s) noted.
 
 ---
 
@@ -138,7 +147,7 @@ No criminal cases declared. Declared assets: Rs 539,504,552. MPLADS utilization:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -236,12 +245,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

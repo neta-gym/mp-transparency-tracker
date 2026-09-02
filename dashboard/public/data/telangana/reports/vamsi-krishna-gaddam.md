@@ -3,24 +3,22 @@
 **Constituency:** Peddapalle, Telangana
 **Party:** Indian National Congress
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 35
-**Education:** Graduate
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (44%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 55.1 / 100
+## Composite Transparency Score: 56.4 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 8.1 | 25% |
-| Asset Growth | 60.0 | 15% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 85.0 | 10% |
 | Questions & Debates | 50.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
-| Public Accessibility | 15.0 | 5% |
+| Public Accessibility | 85.0 | 5% |
 | Legislative Effectiveness | 40.0 | 10% |
 
 ---
@@ -38,14 +36,13 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 24.10 Crore
-- **Liabilities:** Rs 17.76 Lakh
-- **Net Worth:** Rs 23.92 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 74% of Lok Sabha MPs
 
 ---
 
@@ -69,6 +66,19 @@
 
 ---
 
+## Public Accessibility
+
+- **Platforms:** 3
+
+
+| Platform | Handle | Verified | Active |
+|----------|--------|----------|--------|
+| Twitter | [@https://x.com/vkgaddam?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor](https://x.com/https://x.com/vkgaddam?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) | No | Yes |
+| Facebook | [@https://www.facebook.com/vkgaddamofficial/](https://facebook.com/https://www.facebook.com/vkgaddamofficial/) | No | Yes |
+| Instagram | [@https://www.instagram.com/kakavamsigaddam/](https://instagram.com/https://www.instagram.com/kakavamsigaddam/) | No | Yes |
+
+---
+
 ## In The News
 
 *Mixed/neutral coverage (10 articles)*
@@ -77,28 +87,40 @@
 - **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
 
 - Telangana govt gave IL jobs in two years: Peddapalli MP Gaddam Vamsi Krishna - NewsMeter (NewsMeter) [neutral]
-- Centre betrayed Telangana on promises, water diverted to AP: MP Vamsi - The Siasat Daily (The Siasat Daily) [neutral]
+- Centre’s grain procurement process discriminatory towards Telangana: Peddapalli MP Vamsi Krishna - NewsMeter (NewsMeter) [neutral]
 - Peddapalli MP rides self-designed electric bike to Parliament, flags Delhi air pollution - The Hindu (The Hindu) [neutral]
-- Peddapalli Lok Sabha MP accuses Centre for repeatedly ignoring Telangana - The Siasat Daily (The Siasat Daily) [neutral]
-- Peddapalli MP Vamsi Krishna slams Centre over Atomic Bill amendments, flags safety risks to India - NewsMeter (NewsMeter) [neutral]
+- All is not well in Peddapalli for the Congress - Telangana Today (Telangana Today) [neutral]
+- Peddapalli MP Vamsi Represents India At UNGA - Deccan Chronicle (Deccan Chronicle) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Telangana govt gave IL jobs in two years: Peddapalli MP Gaddam Vamsi Krishna - NewsMeter** (NewsMeter)
+- ! **Centre’s grain procurement process discriminatory towards Telangana: Peddapalli MP Vamsi Krishna - NewsMeter** (NewsMeter)
+- ! **Peddapalli MP rides self-designed electric bike to Parliament, flags Delhi air pollution - The Hindu** (The Hindu)
+- ! **All is not well in Peddapalli for the Congress - Telangana Today** (Telangana Today)
+- ! **Peddapalli MP Vamsi Represents India At UNGA - Deccan Chronicle** (Deccan Chronicle)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Telangana: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Vamsi Krishna Gaddam shows moderate transparency with a score of 55.1/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
+Vamsi Krishna Gaddam shows moderate transparency with a score of 56.4/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
 
 ---
 
-No criminal cases declared. Declared assets: Rs 240,976,163. MPLADS utilization: 10.1%. Parliament attendance: 85.0%. Questions asked: 15. Debates participated: 2.
+No criminal cases declared. MPLADS utilization: 10.1%. Parliament attendance: 85.0%. Questions asked: 15. Debates participated: 2. Low confidence data: Assets. 1 warning(s) noted.
 
 ---
 
@@ -138,7 +160,7 @@ No criminal cases declared. Declared assets: Rs 240,976,163. MPLADS utilization:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -236,12 +258,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

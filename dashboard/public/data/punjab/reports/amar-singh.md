@@ -7,21 +7,21 @@
 **Education:** Post Graduate
 **Profession:** Retired IAS Officer
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Medium (56%) | **Evidence Grade:** Third-party (C)
 
 ---
 
-## Composite Transparency Score: 60.0 / 100
+## Composite Transparency Score: 67.8 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 18.9 | 25% |
-| Asset Growth | 50.0 | 15% |
+| Asset Growth | 85.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 100.0 | 10% |
 | Questions & Debates | 70.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
-| Public Accessibility | 15.0 | 5% |
+| Public Accessibility | 65.0 | 5% |
 | Legislative Effectiveness | 40.0 | 10% |
 
 ---
@@ -39,14 +39,14 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
+- **Movable Assets:** Rs 2.22 Crore
+- **Immovable Assets:** Rs 3.21 Crore
 - **Total Assets:** Rs 5.43 Crore
-- **Liabilities:** Rs 0
-- **Net Worth:** Rs 5.43 Crore
-- **Previous Total Assets:** N/A
-- **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 42% of Lok Sabha MPs
+- **Liabilities:** N/A
+- **Net Worth:** N/A
+- **Previous Total Assets:** Rs 328088363.00 Crore
+- **Asset Growth:** -100.0%
+- **Wealth Percentile:** Wealthier than 41% of Lok Sabha MPs
 
 ---
 
@@ -70,18 +70,40 @@
 
 ---
 
+## Public Accessibility
+
+- **Platforms:** 2
+
+
+| Platform | Handle | Verified | Active |
+|----------|--------|----------|--------|
+| Twitter | [@http://www.facebook.com/Dr amarsinghinc](https://x.com/http://www.facebook.com/Dr amarsinghinc) | No | Yes |
+| Facebook | [@http://www.facebook.com/Dr amarsinghinc](https://facebook.com/http://www.facebook.com/Dr amarsinghinc) | No | Yes |
+
+---
+
 ## In The News
 
 *Mixed/neutral coverage (10 articles)*
 
 - **Total Articles:** 10
-- **Positive:** 1 | **Negative:** 1 | **Neutral:** 8
+- **Positive:** 1 | **Negative:** 0 | **Neutral:** 9
 
-- Fatehgarh Sahib: MP Dr Amar Singh rolls out civic upgrades in Sirhind - The Tribune (The Tribune) [neutral]
-- Ex-minister Bhullar arrested in Punjab officer suicide case: Wife earlier refused to hand over evidence, de... - Bhaskar English (Bhaskar English) [negative]
-- After Amritpal’s 1%, Sarabjeet Singh Khalsa logs lowest 37% LS attendance among Punjab MPs; Amar tops at 98% - The Tribune (The Tribune) [neutral]
-- Fatehgarh Sahib election results 2024: Congress's Amar Singh wins Fatehgarh Sahib Lok Sabha seat in Punja - The Times of India (The Times of India) [neutral]
-- Flooded villages, political storm: Cong MP blames AAP govt over Sutlej breach, points to sand mafia - The Indian Express (The Indian Express) [neutral]
+- Congress to kick off 2027 manifesto outreach from Amritsar - The Times of India (The Times of India) [neutral]
+- Congress to make people’s manifesto for Punjab 2027 polls: Dr Amar Singh - The New Indian Express (The New Indian Express) [neutral]
+- Congress retains Warring as Punjab president, Partap Singh Bajwa as legisture party leader - The New Indian Express (The New Indian Express) [neutral]
+- Families struggle to bring back bodies of Punjab youths who died abroad under mysterious circumstances - The Tribune (The Tribune) [neutral]
+- ‘Youth vital for every party’ - The Statesman (The Statesman) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Congress to kick off 2027 manifesto outreach from Amritsar - The Times of India** (The Times of India)
+- ! **Congress to make people’s manifesto for Punjab 2027 polls: Dr Amar Singh - The New Indian Express** (The New Indian Express)
+- ! **Congress retains Warring as Punjab president, Partap Singh Bajwa as legisture party leader - The New Indian Express** (The New Indian Express)
+- ! **Families struggle to bring back bodies of Punjab youths who died abroad under mysterious circumstances - The Tribune** (The Tribune)
+- ! **‘Youth vital for every party’ - The Statesman** (The Statesman)
 
 ---
 
@@ -95,7 +117,7 @@
 
 ## Qualitative Assessment
 
-Amar Singh shows moderate transparency with a score of 60.0/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Amar Singh shows moderate transparency with a score of 67.8/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
@@ -139,7 +161,7 @@ No criminal cases declared. Declared assets: Rs 54,280,612. MPLADS utilization: 
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -238,11 +260,12 @@ Time limit: PIO must respond within 30 days of receipt.
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
 | Assets | myneta | Official (B) |
+| Committees | sansad | LLM/Estimated (E) |
 | Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: myneta, prs, social_media, news, mplads*
+*Sources consulted: myneta, prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

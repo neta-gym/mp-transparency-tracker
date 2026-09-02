@@ -3,20 +3,18 @@
 **Constituency:** Ghazipur, Uttar Pradesh
 **Party:** Samajwadi Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 70
-**Education:** Post Graduate
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (39%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 44.7 / 100
+## Composite Transparency Score: 37.9 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 32.1 | 25% |
-| Asset Growth | 50.0 | 15% |
-| Criminal Record | 50.0 | 15% |
+| Asset Growth | 45.0 | 15% |
+| Criminal Record | 20.0 | 15% |
 | Parliament Attendance | 80.0 | 10% |
 | Questions & Debates | 20.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
@@ -28,24 +26,31 @@
 ## Criminal Record
 
 - **Total Cases:** 5
-- **Serious Cases:** 0
-- **Convictions:** 0
-- **Pending Cases:** 5
+- **Serious Cases:** 1
+- **Convictions:** 1
+- **Pending Cases:** 4
 - **Disposed Cases:** 0
 - **Data Source:** myneta
+
+### Cases Detail
+
+1. PS Chakarghatta, Dist. Chandauli, UP, Crime No. 18/2014 | Section 17C and 127(2) Representation of the People Act (Sections: N/A) [pending] 
+2. PS Mohammadabad Gohna, Dist. Mau, Crime No. 609/2009 (Sections: 171F, 188) [pending] 
+3. 589/05, PS Bhanwarkol, Dist. Ghazipur, UP | Section 7 Criminal Law Amendment Act (Sections: 147, 148, 149, 307, 302, 404, 120B) [pending] **SERIOUS**
+4. PS Mohammadabad, Dist. Ghazipur, CC No. 260/2001 | Section 3 PDP Act, Section 7 Criminal Law Amendment Act, Cognizance Date 12.08.2004 (Sections: 147, 148, 353) [pending] 
+5. Section 3(1) Uttar Pradesh Gangsters and Anti-Social Activities (Prevention) Act (Sections: N/A) [convicted] 
 
 ---
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 20.77 Crore
-- **Liabilities:** Rs 0
-- **Net Worth:** Rs 20.77 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 72% of Lok Sabha MPs
 
 ---
 
@@ -71,34 +76,46 @@
 
 ## In The News
 
-*Mixed/neutral coverage (10 articles)*
+*Predominantly negative coverage (7/10 articles)*
 
 - **Total Articles:** 10
-- **Positive:** 1 | **Negative:** 0 | **Neutral:** 9
+- **Positive:** 0 | **Negative:** 7 | **Neutral:** 3
 
-- Allahabad HC grants relief to Afzal Ansari on his statement on marijuana - MSN (MSN) [positive]
-- सांसद अफजाल अंसारी के आवास पर भाजपाइयों का प्रदर्शन: गाजीपुर में कार्यकत्री बोलीं- महिला आरक्षण बिल का विरोध क्यों किया, सांसद ने दिया जवाब - Ghazipur News - Dainik Bhaskar (Dainik Bhaskar) [neutral]
-- 'Indian Army should annex PoK to India', SP MP Afzal Ansari lashes out at Pakistan - Dailyhunt (Dailyhunt) [neutral]
-- Ghazipur election results 2024 live updates: SP's Afzal Ansari wins - The Times of India (The Times of India) [neutral]
-- Disqualified MP Afzal Ansari Released On Bail From Ghazipur District Jail - NDTV (NDTV) [neutral]
+- HC stays arrest of Ghazipur MP Afzal Ansari in firearm purchase, sale cases - ThePrint (ThePrint) [neutral]
+- FIR against SP’s Ghazipur MP Afzal Ansari in missing arms licence files case - The Times of India (The Times of India) [negative]
+- Ghazipur MP Afzal Ansari booked in arms licence records case | Hindustan Times - Hindustan Times (Hindustan Times) [negative]
+- Third FIR lodged against Ghazipur MP Afzal Ansari in arms licence records case - The New Indian Express (The New Indian Express) [negative]
+- Uttar Pradesh: FIR Against Ghazipur MP Afzal Ansari, 2 Clerks, In Arms License Case Against Mukhtar Ansari Gang - ETV Bharat (ETV Bharat) [negative]
+
+---
+
+## News & Allegations
+
+- ! **HC stays arrest of Ghazipur MP Afzal Ansari in firearm purchase, sale cases - ThePrint** (ThePrint)
+- !! **FIR against SP’s Ghazipur MP Afzal Ansari in missing arms licence files case - The Times of India** (The Times of India)
+- !! **Ghazipur MP Afzal Ansari booked in arms licence records case | Hindustan Times - Hindustan Times** (Hindustan Times)
+- !! **Third FIR lodged against Ghazipur MP Afzal Ansari in arms licence records case - The New Indian Express** (The New Indian Express)
+- !! **Uttar Pradesh: FIR Against Ghazipur MP Afzal Ansari, 2 Clerks, In Arms License Case Against Mukhtar Ansari Gang - ETV Bharat** (ETV Bharat)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Uttar Pradesh: 8 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Afzal Ansari has a below-average transparency score of 44.7/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Limited participation in parliamentary proceedings.
+Afzal Ansari has a below-average transparency score of 37.9/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Limited participation in parliamentary proceedings.
 
 ---
 
-Has 5 criminal case(s) (0 serious), 5 pending, 0 conviction(s). Declared assets: Rs 207,682,224. MPLADS utilization: 40.1%. Parliament attendance: 80.0%. Debates participated: 1.
+Has 5 criminal case(s) (1 serious), 4 pending, 1 conviction(s). MPLADS utilization: 40.1%. Parliament attendance: 80.0%. Debates participated: 1. Low confidence data: Assets. 1 warning(s) noted.
 
 ---
 
@@ -138,7 +155,7 @@ Has 5 criminal case(s) (0 serious), 5 pending, 0 conviction(s). Declared assets:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -236,12 +253,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

@@ -3,24 +3,22 @@
 **Constituency:** Bardoli, Gujarat
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 54
-**Education:** Others
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (44%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 53.1 / 100
+## Composite Transparency Score: 55.1 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 11.9 | 25% |
-| Asset Growth | 55.0 | 15% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 65.0 | 10% |
 | Questions & Debates | 60.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
-| Public Accessibility | 15.0 | 5% |
+| Public Accessibility | 85.0 | 5% |
 | Legislative Effectiveness | 40.0 | 10% |
 
 ---
@@ -38,14 +36,13 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 4.70 Crore
-- **Liabilities:** Rs 84.56 Lakh
-- **Net Worth:** Rs 3.85 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 37% of Lok Sabha MPs
 
 ---
 
@@ -69,6 +66,19 @@
 
 ---
 
+## Public Accessibility
+
+- **Platforms:** 3
+
+
+| Platform | Handle | Verified | Active |
+|----------|--------|----------|--------|
+| Twitter | [@http://twitter.com/prabhunvasava](https://x.com/http://twitter.com/prabhunvasava) | No | Yes |
+| Facebook | [@http://www.facebook.com/prabhunvasava](https://facebook.com/http://www.facebook.com/prabhunvasava) | No | Yes |
+| Instagram | [@http://www.Instagram.com/prabhunvasava](https://instagram.com/http://www.Instagram.com/prabhunvasava) | No | Yes |
+
+---
+
 ## In The News
 
 *Mixed/neutral coverage (10 articles)*
@@ -76,29 +86,41 @@
 - **Total Articles:** 10
 - **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
 
-- Bardoli election results 2024 live updates: BJP's Prabhubhai Nagarbhai Vasava wins - The Times of India (The Times of India) [neutral]
-- Bardoli lok sabha election results 2024: Bardoli Winning Candidates List and Vote Share - India Today (India Today) [neutral]
-- Bardoli Election Result 2024 LIVE Updates Highlights: Parbhubhai Nagarbhai Vasava of BJP Wins - News18 (News18) [neutral]
+- Gujarat BJP MPs' assets multiply manifold over ten years in power, ADR report reveals - newindianexpress.com (newindianexpress.com) [neutral]
+- Bardoli Constituency Lok Sabha Election Result: Candidates Profiles, Map, Total Votes, Past Results - timesofindia.indiatimes.com (timesofindia.indiatimes.com) [neutral]
+- Lok Sabha elections 2019: Bardoli Lok Sabha seat in Gujarat votes on April 23 | Hindustan Times - Hindustan Times (Hindustan Times) [neutral]
 - Overview of President Droupadi Murmu’s Visit to Angola from November 8 to 11, 2025 - AffairsCloud.com (AffairsCloud.com) [neutral]
-- Gujarat BJP MPs' assets multiply manifold over ten years in power, ADR report reveals - The New Indian Express (The New Indian Express) [neutral]
+- Bardoli lok sabha election results 2024: Bardoli Winning Candidates List and Vote Share - indiatoday.in (indiatoday.in) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Gujarat BJP MPs' assets multiply manifold over ten years in power, ADR report reveals - newindianexpress.com** (newindianexpress.com)
+- ! **Bardoli Constituency Lok Sabha Election Result: Candidates Profiles, Map, Total Votes, Past Results - timesofindia.indiatimes.com** (timesofindia.indiatimes.com)
+- ! **Lok Sabha elections 2019: Bardoli Lok Sabha seat in Gujarat votes on April 23 | Hindustan Times - Hindustan Times** (Hindustan Times)
+- ! **Overview of President Droupadi Murmu’s Visit to Angola from November 8 to 11, 2025 - AffairsCloud.com** (AffairsCloud.com)
+- ! **Bardoli lok sabha election results 2024: Bardoli Winning Candidates List and Vote Share - indiatoday.in** (indiatoday.in)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Gujarat: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Parbhubhai Nagarbhai Vasava shows moderate transparency with a score of 53.1/100. No criminal cases declared. Low MPLADS fund utilization needs attention. Active in questions and debates.
+Parbhubhai Nagarbhai Vasava shows moderate transparency with a score of 55.1/100. No criminal cases declared. Low MPLADS fund utilization needs attention. Active in questions and debates.
 
 ---
 
-No criminal cases declared. Declared assets: Rs 47,003,506. MPLADS utilization: 14.9%. Parliament attendance: 65.0%. Questions asked: 27. Debates participated: 5.
+No criminal cases declared. MPLADS utilization: 14.9%. Parliament attendance: 65.0%. Questions asked: 27. Debates participated: 5. Low confidence data: Assets. 1 warning(s) noted.
 
 ---
 
@@ -138,7 +160,7 @@ No criminal cases declared. Declared assets: Rs 47,003,506. MPLADS utilization: 
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -236,12 +258,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

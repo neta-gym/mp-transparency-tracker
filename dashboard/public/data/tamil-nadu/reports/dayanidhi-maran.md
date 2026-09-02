@@ -3,24 +3,22 @@
 **Constituency:** Chennai Central, Tamil Nadu
 **Party:** Dravida Munnetra Kazhagam
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 57
-**Education:** Graduate
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (46%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 46.3 / 100
+## Composite Transparency Score: 47.0 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 13.9 | 25% |
-| Asset Growth | 50.0 | 15% |
-| Criminal Record | 60.0 | 15% |
+| Asset Growth | 45.0 | 15% |
+| Criminal Record | 50.0 | 15% |
 | Parliament Attendance | 75.0 | 10% |
 | Questions & Debates | 60.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
-| Public Accessibility | 15.0 | 5% |
+| Public Accessibility | 85.0 | 5% |
 | Legislative Effectiveness | 40.0 | 10% |
 
 ---
@@ -28,24 +26,32 @@
 ## Criminal Record
 
 - **Total Cases:** 4
-- **Serious Cases:** 0
+- **Serious Cases:** 1
 - **Convictions:** 0
 - **Pending Cases:** 4
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
+### Cases Detail
+
+1. CR.No 1415/2020 Thudiyalur police station Coimbatore Dt.19.05.2020 | Section-  3(1)(U), Sec- 3(1)(v)SC/ST Prevention of Atrocities Amendment Act- 2015 (Sections: N/A) [pending] 
+2. CR No 643/2020,
+Variety Hall Road Police Station Coimbatore City Dt.-18.05.2020 | Section- 3(1)(U), Sec- 3(1)(R)SC/ST Prevention of Atrocities Amendment Act- 2015 (Sections: N/A) [pending] 
+3. CR No 189/2020 CCB-I Chennai CCB
+Dated 16-05-2020 | Section- 3(1)(U),SC/ST Prevention of Atrocities Amendment Act- 2015 (Sections: N/A) [pending] 
+4. RC/DST/2013/A/0019/ CBI/STF/DLI SR.SUPDT of Police CBI/STF New Delhi Dt.-23.07.2013 | Section- 13(2) 13(1)(C) Sec- 13(1)(D) of P.C Act 1988 (Sections: 409, 467, 471, 477A, 120B(1)) [pending] **SERIOUS**
+
 ---
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 17.08 Crore
-- **Liabilities:** Rs 0
-- **Net Worth:** Rs 17.08 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 68% of Lok Sabha MPs
 
 ---
 
@@ -69,36 +75,61 @@
 
 ---
 
+## Public Accessibility
+
+- **Platforms:** 3
+
+
+| Platform | Handle | Verified | Active |
+|----------|--------|----------|--------|
+| Twitter | [@http://www.twitter.com/Dayanidhi_Maran](https://x.com/http://www.twitter.com/Dayanidhi_Maran) | No | Yes |
+| Facebook | [@http://www.facebook.com/Dayanidhi.Maran.Official](https://facebook.com/http://www.facebook.com/Dayanidhi.Maran.Official) | No | Yes |
+| Instagram | [@https://www.instagram.com/dayanidhimaranmp/?hl=en](https://instagram.com/https://www.instagram.com/dayanidhimaranmp/?hl=en) | No | Yes |
+
+---
+
 ## In The News
 
 *Mixed/neutral coverage (10 articles)*
 
 - **Total Articles:** 10
-- **Positive:** 1 | **Negative:** 1 | **Neutral:** 8
+- **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
 
-- DMK confident of return to power: Dayanidhi Maran - Awaz The Voice (Awaz The Voice) [neutral]
+- Good governance will continue, says DMK MP Dayanidhi Maran - ThePrint (ThePrint) [neutral]
 - Girls in North India told to stay in kitchen, bear children: DMK MP Dayanidhi Maran - The Hindu (The Hindu) [neutral]
-- Supreme Court Dismisses Plea Challenging Election Of DMK MP Dayanidhi Maran In 2024 Lok Sabha Elections - Live Law (Live Law) [neutral]
-- Dayanidhi Maran’s remark on Coimbatore residents triggers political row - The Federal (The Federal) [neutral]
-- DMK MP Dayanidhi Maran demands immediate restoration of full Chennai suburban train services - ANI News (ANI News) [neutral]
+- Supreme Court Dismisses Plea Challenging Election Of DMK MP Dayanidhi Maran In 2024 Lok Sabha Elections - livelaw.in (livelaw.in) [neutral]
+- Lok Sabha 2024: Know your MP — Dayanidhi Maran, Chennai Central - Citizen Matters (Citizen Matters) [neutral]
+- 5 Facts About Dayanidhi Maran, DMK's Chennai Central Candidate - NDTV (NDTV) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Good governance will continue, says DMK MP Dayanidhi Maran - ThePrint** (ThePrint)
+- ! **Girls in North India told to stay in kitchen, bear children: DMK MP Dayanidhi Maran - The Hindu** (The Hindu)
+- ! **Supreme Court Dismisses Plea Challenging Election Of DMK MP Dayanidhi Maran In 2024 Lok Sabha Elections - livelaw.in** (livelaw.in)
+- ! **Lok Sabha 2024: Know your MP — Dayanidhi Maran, Chennai Central - Citizen Matters** (Citizen Matters)
+- ! **5 Facts About Dayanidhi Maran, DMK's Chennai Central Candidate - NDTV** (NDTV)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Tamil Nadu: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Dayanidhi Maran has a below-average transparency score of 46.3/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. Active in questions and debates.
+Dayanidhi Maran has a below-average transparency score of 47.0/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. Active in questions and debates.
 
 ---
 
-Has 4 criminal case(s) (0 serious), 4 pending, 0 conviction(s). Declared assets: Rs 170,770,037. MPLADS utilization: 17.4%. Parliament attendance: 75.0%. Questions asked: 30. Debates participated: 2.
+Has 4 criminal case(s) (1 serious), 4 pending, 0 conviction(s). MPLADS utilization: 17.4%. Parliament attendance: 75.0%. Questions asked: 30. Debates participated: 2. Low confidence data: Assets. 1 warning(s) noted.
 
 ---
 
@@ -138,7 +169,7 @@ Has 4 criminal case(s) (0 serious), 4 pending, 0 conviction(s). Declared assets:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -236,12 +267,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

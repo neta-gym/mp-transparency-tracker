@@ -3,24 +3,22 @@
 **Constituency:** Patna Sahib, Bihar
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 69
-**Education:** Post Graduate
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (44%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 53.1 / 100
+## Composite Transparency Score: 54.9 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 28.0 | 25% |
-| Asset Growth | 50.0 | 15% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 75.0 | 10% |
 | Questions & Debates | 20.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
-| Public Accessibility | 15.0 | 5% |
+| Public Accessibility | 65.0 | 5% |
 | Legislative Effectiveness | 40.0 | 10% |
 
 ---
@@ -38,14 +36,13 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 40.61 Crore
-- **Liabilities:** Rs 0
-- **Net Worth:** Rs 40.61 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 82% of Lok Sabha MPs
 
 ---
 
@@ -69,6 +66,18 @@
 
 ---
 
+## Public Accessibility
+
+- **Platforms:** 2
+
+
+| Platform | Handle | Verified | Active |
+|----------|--------|----------|--------|
+| Twitter | [@https://x.com/rsprasad](https://x.com/https://x.com/rsprasad) | No | Yes |
+| Facebook | [@https://www.facebook.com/RaviShankarPrasadOfficial/](https://facebook.com/https://www.facebook.com/RaviShankarPrasadOfficial/) | No | Yes |
+
+---
+
 ## In The News
 
 *Mixed/neutral coverage (10 articles)*
@@ -76,29 +85,41 @@
 - **Total Articles:** 10
 - **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
 
-- Patna Sahib MP and JD(U) leader flag off new passenger train - The Times of India (The Times of India) [neutral]
-- Dedicated committee formed for Patna airport's runway expansion: Ravi Shankar Prasad - MSN (MSN) [neutral]
-- Fire breaks out at BJP MP Ravi Shankar Prasad’s Delhi home, brought under control immediately - Telangana Today (Telangana Today) [neutral]
-- Fire breaks out at BJP MP Ravi Shankar Prasad's official residence in Delhi - Deccan Herald (Deccan Herald) [neutral]
-- We are all safe: BJP MP Ravi Shankar Prasad says fire at Delhi residence due to short circuit - IANS LIVE (IANS LIVE) [neutral]
+- Bankipur bypoll: BJP's Ravi Shankar Prasad casts vote with family, says "victory will be resounding" - ANI News (ANI News) [neutral]
+- Ravi Shankar targets PK, says BJP will win by huge margin - The Times of India (The Times of India) [neutral]
+- BJP’s Ravi Shankar Prasad expects resounding victory in Bankipur by-election - The News Mill (The News Mill) [neutral]
+- BJP chief Nitin Nabin, RJD leader Tejashwi Yadav hold roadshows ahead of Bankipur by-election - The New Indian Express (The New Indian Express) [neutral]
+- Patna Diary: Bihar BJP chief invokes Vajpayee’s statement - The New Indian Express (The New Indian Express) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Bankipur bypoll: BJP's Ravi Shankar Prasad casts vote with family, says "victory will be resounding" - ANI News** (ANI News)
+- ! **Ravi Shankar targets PK, says BJP will win by huge margin - The Times of India** (The Times of India)
+- ! **BJP’s Ravi Shankar Prasad expects resounding victory in Bankipur by-election - The News Mill** (The News Mill)
+- ! **BJP chief Nitin Nabin, RJD leader Tejashwi Yadav hold roadshows ahead of Bankipur by-election - The New Indian Express** (The New Indian Express)
+- ! **Patna Diary: Bihar BJP chief invokes Vajpayee’s statement - The New Indian Express** (The New Indian Express)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Bihar: 8 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Ravi Shankar Prasad shows moderate transparency with a score of 53.1/100. No criminal cases declared. Low MPLADS fund utilization needs attention. Limited participation in parliamentary proceedings.
+Ravi Shankar Prasad shows moderate transparency with a score of 54.9/100. No criminal cases declared. Low MPLADS fund utilization needs attention. Limited participation in parliamentary proceedings.
 
 ---
 
-No criminal cases declared. Declared assets: Rs 406,098,345. MPLADS utilization: 35.0%. Parliament attendance: 75.0%. Debates participated: 1.
+No criminal cases declared. MPLADS utilization: 35.0%. Parliament attendance: 75.0%. Debates participated: 1. Low confidence data: Assets. 1 warning(s) noted.
 
 ---
 
@@ -138,7 +159,7 @@ No criminal cases declared. Declared assets: Rs 406,098,345. MPLADS utilization:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -236,12 +257,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

@@ -3,19 +3,17 @@
 **Constituency:** Pilibhit, Uttar Pradesh
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 50
-**Education:** Post Graduate
 **Report Date:** 2026-09-02
-**Data Confidence:** Low (43%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (30%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 49.7 / 100
+## Composite Transparency Score: 48.9 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 14.6 | 25% |
-| Asset Growth | 50.0 | 15% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 50.0 | 10% |
 | Questions & Debates | 50.0 | 10% |
@@ -38,14 +36,13 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 29.89 Crore
-- **Liabilities:** Rs 0
-- **Net Worth:** Rs 29.89 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 78% of Lok Sabha MPs
 
 ---
 
@@ -74,32 +71,44 @@
 *Mixed/neutral coverage (10 articles)*
 
 - **Total Articles:** 10
-- **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
+- **Positive:** 0 | **Negative:** 1 | **Neutral:** 9
 
-- 5 Facts On Jitin Prasada, BJP Candidate From Pilibhit In Uttar Pradesh - NDTV (NDTV) [neutral]
-- Pilibhit Election Result: पीलीभीत में 1.64 लाख वोट से जीते जितिन प्रसाद, वरुण गांधी की जगह बीजेपी ने दिया था टिकट - AajTak (AajTak) [neutral]
-- BJP candidate Jitin Prasada files nomination from Pilibhit, MP Varun Gandhi remains absent - The Economic Times (The Economic Times) [neutral]
-- Fielded in place of Varun, BJP’s Jitin Prasada leads by over 1 lakh votes in Pilibhit - ThePrint (ThePrint) [neutral]
+- UP: BJP drops Varun Gandhi, VK Singh; Maneka, Jitin Prasada get ticket - Press Trust of India (Press Trust of India) [neutral]
+- Trader’s murder accused held after encounter; 3 cops suspended - The Times of India (The Times of India) [negative]
 - Lok Sabha elections 2024 | BJP's Jitin Prasada seeks to ride the 'Modi wave' to win in Pilibhit - The Hindu (The Hindu) [neutral]
+- UP Minister Jitin Prasada Replaces Varun Gandhi In Pilibhit Contest - ndtv.com (ndtv.com) [neutral]
+- With Jitin on dais and Varun absent, Yogi says contest between ‘family first’ and ‘nation first’ - The Indian Express (The Indian Express) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **UP: BJP drops Varun Gandhi, VK Singh; Maneka, Jitin Prasada get ticket - Press Trust of India** (Press Trust of India)
+- !! **Trader’s murder accused held after encounter; 3 cops suspended - The Times of India** (The Times of India)
+- ! **Lok Sabha elections 2024 | BJP's Jitin Prasada seeks to ride the 'Modi wave' to win in Pilibhit - The Hindu** (The Hindu)
+- ! **UP Minister Jitin Prasada Replaces Varun Gandhi In Pilibhit Contest - ndtv.com** (ndtv.com)
+- ! **With Jitin on dais and Varun absent, Yogi says contest between ‘family first’ and ‘nation first’ - The Indian Express** (The Indian Express)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
 - [!] **parliament_activity**: Low confidence in parliament activity data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Uttar Pradesh: 8 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Jitin Prasada has a below-average transparency score of 49.7/100, indicating significant room for improvement. No criminal cases declared. Low MPLADS fund utilization needs attention.
+Jitin Prasada has a below-average transparency score of 48.9/100, indicating significant room for improvement. No criminal cases declared. Low MPLADS fund utilization needs attention.
 
 ---
 
-No criminal cases declared. Declared assets: Rs 298,925,408. MPLADS utilization: 18.3%. Low confidence data: Parliament activity. 1 warning(s) noted.
+No criminal cases declared. MPLADS utilization: 18.3%. Low confidence data: Assets, Parliament activity. 2 warning(s) noted.
 
 ---
 
@@ -139,7 +148,7 @@ No criminal cases declared. Declared assets: Rs 298,925,408. MPLADS utilization:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -237,12 +246,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

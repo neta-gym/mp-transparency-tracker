@@ -75,49 +75,56 @@
       ],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": null,
+      "wealth_percentile": 29.0,
       "growth_ratio": -0.999999983993314
     },
     "mplads": {
-      "entitled": null,
-      "released": null,
-      "sanctioned": null,
-      "expended": null,
-      "source": "mplads",
-      "confidence": 0.0,
+      "entitled": 14.7,
+      "released": 14.7,
+      "sanctioned": 6.25,
+      "expended": 2.6,
+      "source": "esakshi",
+      "confidence": 0.9,
       "sources": [
+        {
+          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+          "source_name": "esakshi",
+          "grade": "A",
+          "fetched_at": "2026-05-23T17:44:45.678581Z",
+          "notes": "Official eSAKSHI REST API — Works: 58 recommended, 51 sanctioned, 7 completed"
+        },
         {
           "url": "https://mplads.mospi.gov.in",
           "source_name": "esakshi",
           "grade": "A",
           "fetched_at": "2026-09-02T14:43:06.641706Z",
-          "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+          "notes": "restore note: 2026-09-02 rescore could not reach eSAKSHI from Actions runners; retained last-known-good MPLADS figures. eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
         },
         {
           "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
           "source_name": "data.gov.in",
           "grade": "B",
           "fetched_at": "2026-09-02T14:39:17.959142Z",
-          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+          "notes": "restore note: 2026-09-02 rescore could not reach eSAKSHI from Actions runners; retained last-known-good MPLADS figures. MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
         },
         {
           "url": "https://dataful.in/datasets/18540/",
           "source_name": "mplads_csv",
           "grade": "E",
           "fetched_at": "2026-09-02T14:39:17.956966Z",
-          "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
+          "notes": "restore note: 2026-09-02 rescore could not reach eSAKSHI from Actions runners; retained last-known-good MPLADS figures. MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
         }
       ],
       "works": [],
-      "works_count": 0,
-      "esakshi_coverage_start": null,
+      "works_count": 58,
+      "esakshi_coverage_start": "2023-04-01",
       "period_data": [],
       "cumulative_entitled": null,
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
-      "utilization_rate": null
+      "data_period_note": "",
+      "utilization_rate": 17.687074829931973
     },
     "parliament_activity": {
       "attendance_percentage": null,
@@ -212,7 +219,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T18:38:09.280691Z",
+          "fetched_at": "2026-09-02T18:41:08.874979Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -228,7 +235,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T18:38:09.280704Z",
+          "fetched_at": "2026-09-02T18:41:08.874996Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -244,7 +251,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T18:38:09.280710Z",
+          "fetched_at": "2026-09-02T18:41:08.875002Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -260,7 +267,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T18:38:09.280715Z",
+          "fetched_at": "2026-09-02T18:41:08.875008Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -276,7 +283,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T18:38:09.280722Z",
+          "fetched_at": "2026-09-02T18:41:08.875015Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -292,7 +299,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T18:38:09.280727Z",
+          "fetched_at": "2026-09-02T18:41:08.875020Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -308,7 +315,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T18:38:09.280731Z",
+          "fetched_at": "2026-09-02T18:41:08.875025Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -504,14 +511,8 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.36,
+  "overall_confidence": 0.49,
   "flags": [
-    {
-      "field": "mplads",
-      "issue": "Low confidence in MPLADS data",
-      "severity": "warning",
-      "suggestion": ""
-    },
     {
       "field": "parliament_activity",
       "issue": "Low confidence in parliament activity data",
@@ -537,6 +538,6 @@
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "No criminal cases declared. Declared assets: Rs 37,654,863. Low confidence data: MPLADS, Parliament activity. 2 warning(s) noted.",
-  "validated_at": "2026-09-02T18:38:09.281501Z"
+  "cross_reference_notes": "No criminal cases declared. Declared assets: Rs 37,654,863. MPLADS utilization: 17.7%. Low confidence data: Parliament activity. 1 warning(s) noted.",
+  "validated_at": "2026-09-02T18:41:08.875764Z"
 }

@@ -3,10 +3,8 @@
 **Constituency:** Kancheepuram, Tamil Nadu
 **Party:** Dravida Munnetra Kazhagam
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 49
-**Education:** Post Graduate
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (44%) | **Evidence Grade:** Secondary (D)
 
 ---
 
@@ -15,12 +13,12 @@
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 39.2 | 25% |
-| Asset Growth | 55.0 | 15% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 95.0 | 10% |
 | Questions & Debates | 80.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
-| Public Accessibility | 15.0 | 5% |
+| Public Accessibility | 45.0 | 5% |
 | Legislative Effectiveness | 40.0 | 10% |
 
 ---
@@ -38,14 +36,13 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 2.36 Crore
-- **Liabilities:** Rs 31.12 Lakh
-- **Net Worth:** Rs 2.05 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 20% of Lok Sabha MPs
 
 ---
 
@@ -69,6 +66,17 @@
 
 ---
 
+## Public Accessibility
+
+- **Platforms:** 1
+
+
+| Platform | Handle | Verified | Active |
+|----------|--------|----------|--------|
+| Facebook | [@https://www.facebook.com/siruvedalgselvamdmk/](https://facebook.com/https://www.facebook.com/siruvedalgselvamdmk/) | No | Yes |
+
+---
+
 ## In The News
 
 *Mixed/neutral coverage (10 articles)*
@@ -77,17 +85,29 @@
 - **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
 
 - TN leads in number of accidents on national highways, says Centre - The Times of India (The Times of India) [neutral]
+- Lok Sabha 2019 constituency: Its AIADMK vs DMK in Tamil Nadu’s Kancheepuram | Hindustan Times - hindustantimes.com (hindustantimes.com) [neutral]
+- Kancheepuram: a tale of years of neglect - The Hindu (The Hindu) [neutral]
 - Kancheepuram lok sabha election results 2024: Kancheepuram Winning Candidates List and Vote Share - India Today (India Today) [neutral]
-- Lok Sabha results | DMK establishes comfortable lead in Chennai and neighbouring seats as of 3 p.m. - The Hindu (The Hindu) [neutral]
-- Kancheepuram Election Result 2024 LIVE Updates Highlights: Selvam G of DMK Wins - News18 (News18) [neutral]
-- Anti-incumbency a challenge for DMK in Kanchi - The New Indian Express (The New Indian Express) [neutral]
+- Parandur airport row: As protests intensify, DMK reaches out to villagers - The News Minute (The News Minute) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **TN leads in number of accidents on national highways, says Centre - The Times of India** (The Times of India)
+- ! **Lok Sabha 2019 constituency: Its AIADMK vs DMK in Tamil Nadu’s Kancheepuram | Hindustan Times - hindustantimes.com** (hindustantimes.com)
+- ! **Kancheepuram: a tale of years of neglect - The Hindu** (The Hindu)
+- ! **Kancheepuram lok sabha election results 2024: Kancheepuram Winning Candidates List and Vote Share - India Today** (India Today)
+- ! **Parandur airport row: As protests intensify, DMK reaches out to villagers - The News Minute** (The News Minute)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Tamil Nadu: 7 relevant findings
 
 ---
@@ -98,7 +118,7 @@ Selvam G shows moderate transparency with a score of 65.1/100. No criminal cases
 
 ---
 
-No criminal cases declared. Declared assets: Rs 23,615,126. MPLADS utilization: 49.0%. Parliament attendance: 95.0%. Questions asked: 73. Debates participated: 5.
+No criminal cases declared. MPLADS utilization: 49.0%. Parliament attendance: 95.0%. Questions asked: 73. Debates participated: 5. Low confidence data: Assets. 1 warning(s) noted.
 
 ---
 
@@ -138,7 +158,7 @@ No criminal cases declared. Declared assets: Rs 23,615,126. MPLADS utilization: 
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -236,12 +256,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

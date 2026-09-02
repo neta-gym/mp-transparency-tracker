@@ -4,17 +4,17 @@
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Third-party (C)
+**Data Confidence:** Low (27%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 49.3 / 100
+## Composite Transparency Score: 36.1 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 17.9 | 25% |
-| Asset Growth | 60.0 | 15% |
-| Criminal Record | 100.0 | 15% |
+| Asset Growth | 45.0 | 15% |
+| Criminal Record | 45.0 | 15% |
 | Parliament Attendance | 40.0 | 10% |
 | Questions & Debates | 40.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
@@ -36,14 +36,13 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 278.94 Crore
-- **Liabilities:** Rs 7.92 Crore
-- **Net Worth:** Rs 271.02 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 97% of Lok Sabha MPs
 
 ---
 
@@ -72,31 +71,44 @@
 *Mixed/neutral coverage (10 articles)*
 
 - **Total Articles:** 10
-- **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
+- **Positive:** 1 | **Negative:** 0 | **Neutral:** 9
 
-- MP and Actress Hema Malini Watches “Krishnavataram Part 1 – The Heart” in Mathura, Praises the Film’s Grandeur and Spiritual Essence - First India (First India) [neutral]
 - BJP MP Hema Malini Takes E-Auto Ride in Mathura, Promotes Green Mobility - NDTV (NDTV) [neutral]
+- Actress And BJP MP Hema Malini Reveals The ONLY Condition She Has Before Contesting Elections - News18 (News18) [neutral]
+- Hema Malini reveals Dharmendra feared for her during crowded election campaigns and helicopter rides, 'He... - Moneycontrol.com (Moneycontrol.com) [neutral]
 - Hema Malini praises Krishnavataram after attending special screening in Mathura - India Today (India Today) [neutral]
 - Actor and Parliamentarian Hema Malini watches Krishnavataram Part 1: The Heart during screening in Mathura, lauds team | Hindustan Times - Hindustan Times (Hindustan Times) [neutral]
-- Hema Malini launches mobile app for civic services in Mathura - theweek.in (theweek.in) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **BJP MP Hema Malini Takes E-Auto Ride in Mathura, Promotes Green Mobility - NDTV** (NDTV)
+- ! **Actress And BJP MP Hema Malini Reveals The ONLY Condition She Has Before Contesting Elections - News18** (News18)
+- ! **Hema Malini reveals Dharmendra feared for her during crowded election campaigns and helicopter rides, 'He... - Moneycontrol.com** (Moneycontrol.com)
+- ! **Hema Malini praises Krishnavataram after attending special screening in Mathura - India Today** (India Today)
+- ! **Actor and Parliamentarian Hema Malini watches Krishnavataram Part 1: The Heart during screening in Mathura, lauds team | Hindustan Times - Hindustan Times** (Hindustan Times)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
+- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Uttar Pradesh: 8 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Hema Malini has a below-average transparency score of 49.3/100, indicating significant room for improvement. No criminal cases declared. Low MPLADS fund utilization needs attention.
+Hema Malini has a below-average transparency score of 36.1/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. Data confidence is low — scores should be interpreted with caution.
 
 ---
 
-No criminal cases declared. Declared assets: Rs 2,789,368,227. MPLADS utilization: 22.4%. Parliament attendance: 40.0%. Questions asked: 8. Debates participated: 2.
+No criminal cases declared. MPLADS utilization: 22.4%. Parliament attendance: 40.0%. Questions asked: 8. Debates participated: 2. Low confidence data: Criminal record, Assets. 2 warning(s) noted.
 
 ---
 
@@ -136,7 +148,7 @@ No criminal cases declared. Declared assets: Rs 2,789,368,227. MPLADS utilizatio
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -234,10 +246,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

@@ -3,24 +3,22 @@
 **Constituency:** Panchmahal, Gujarat
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 43
-**Education:** 12th Pass
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (44%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 53.9 / 100
+## Composite Transparency Score: 54.2 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 9.6 | 25% |
-| Asset Growth | 60.0 | 15% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 95.0 | 10% |
 | Questions & Debates | 20.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
-| Public Accessibility | 15.0 | 5% |
+| Public Accessibility | 65.0 | 5% |
 | Legislative Effectiveness | 40.0 | 10% |
 
 ---
@@ -38,14 +36,13 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 2.20 Crore
-- **Liabilities:** Rs 4.40 Lakh
-- **Net Worth:** Rs 2.16 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 19% of Lok Sabha MPs
 
 ---
 
@@ -69,36 +66,60 @@
 
 ---
 
+## Public Accessibility
+
+- **Platforms:** 2
+
+
+| Platform | Handle | Verified | Active |
+|----------|--------|----------|--------|
+| Facebook | [@https://www.facebook.com/RajpalsinhJadav.Official/](https://facebook.com/https://www.facebook.com/RajpalsinhJadav.Official/) | No | Yes |
+| Instagram | [@https://www.instagram.com/rajpalsinhjadav.bjp/?locale=en](https://instagram.com/https://www.instagram.com/rajpalsinhjadav.bjp/?locale=en) | No | Yes |
+
+---
+
 ## In The News
 
-*Mixed/neutral coverage (10 articles)*
+*Mixed/neutral coverage (8 articles)*
 
-- **Total Articles:** 10
-- **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
+- **Total Articles:** 8
+- **Positive:** 0 | **Negative:** 0 | **Neutral:** 8
 
 - Panchmahal Election Result 2024 LIVE Updates Highlights: Rajpalsinh Mahendrasinh Jadav of BJP Wins - News18 (News18) [neutral]
-- Rajpalsinh Mahendrasinh Jadav: Age, Biography, Education, Wife, Caste, Net Worth & More - Oneindia (Oneindia) [neutral]
-- LS Polls 2024: BJP drops 33 sitting MPs in first list; four dropped in Delhi for disconnect, inaccessibility - The New Indian Express (The New Indian Express) [neutral]
-- 2024 Gujarat Lok Sabha Election Results: Full list of winners on all 26 seats of Gujarat - The Indian Express (The Indian Express) [neutral]
-- BJP Candidate List 2024 For Gujarat: Mansukh Mandaviya Set For LS Poll Debut. CR Paatil, Rupala Join Amit Shah On 1st List - ABP News (ABP News) [neutral]
+- Parliament Of India : Lok Sabha Member Of Parliament - J - Sarkaritel.com (Sarkaritel.com) [neutral]
+- BJP's First List For LS Polls Sees Major Shake-Up: 33 Sitting MPs Replaced, Here's A List Of Who Replaced Whom - Swarajya (Swarajya) [neutral]
+- LS polls: BJP drops 33 sitting MPs to make way for new faces in first list of candidates - The Federal (The Federal) [neutral]
+- Panchmahal Constituency Lok Sabha Election Result: Candidates Profiles, Map, Total Votes, Past Results - The Times of India (The Times of India) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Panchmahal Election Result 2024 LIVE Updates Highlights: Rajpalsinh Mahendrasinh Jadav of BJP Wins - News18** (News18)
+- ! **Parliament Of India : Lok Sabha Member Of Parliament - J - Sarkaritel.com** (Sarkaritel.com)
+- ! **BJP's First List For LS Polls Sees Major Shake-Up: 33 Sitting MPs Replaced, Here's A List Of Who Replaced Whom - Swarajya** (Swarajya)
+- ! **LS polls: BJP drops 33 sitting MPs to make way for new faces in first list of candidates - The Federal** (The Federal)
+- ! **Panchmahal Constituency Lok Sabha Election Result: Candidates Profiles, Map, Total Votes, Past Results - The Times of India** (The Times of India)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Gujarat: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Rajpalsinh Mahendrasinh Jadav shows moderate transparency with a score of 53.9/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Limited participation in parliamentary proceedings.
+Rajpalsinh Mahendrasinh Jadav shows moderate transparency with a score of 54.2/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Limited participation in parliamentary proceedings.
 
 ---
 
-No criminal cases declared. Declared assets: Rs 22,046,500. MPLADS utilization: 12.0%. Parliament attendance: 95.0%. Debates participated: 3.
+No criminal cases declared. MPLADS utilization: 12.0%. Parliament attendance: 95.0%. Debates participated: 3. Low confidence data: Assets. 1 warning(s) noted.
 
 ---
 
@@ -138,7 +159,7 @@ No criminal cases declared. Declared assets: Rs 22,046,500. MPLADS utilization: 
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -236,12 +257,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

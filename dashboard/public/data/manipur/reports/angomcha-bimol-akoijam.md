@@ -7,11 +7,11 @@
 **Education:** Doctorate
 **Profession:** Associate Professor, JNU, New Delhi
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Medium (56%) | **Evidence Grade:** Third-party (C)
 
 ---
 
-## Composite Transparency Score: 62.4 / 100
+## Composite Transparency Score: 65.9 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -21,7 +21,7 @@
 | Parliament Attendance | 100.0 | 10% |
 | Questions & Debates | 40.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
-| Public Accessibility | 15.0 | 5% |
+| Public Accessibility | 85.0 | 5% |
 | Legislative Effectiveness | 40.0 | 10% |
 
 ---
@@ -39,14 +39,14 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
+- **Movable Assets:** Rs 71.72 Lakh
+- **Immovable Assets:** Rs 25.96 Lakh
 - **Total Assets:** Rs 97.68 Lakh
 - **Liabilities:** Rs 34.84 Lakh
 - **Net Worth:** Rs 62.83 Lakh
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 8% of Lok Sabha MPs
+- **Wealth Percentile:** Wealthier than 9% of Lok Sabha MPs
 
 ---
 
@@ -70,6 +70,20 @@
 
 ---
 
+## Public Accessibility
+
+- **Platforms:** 4
+
+
+| Platform | Handle | Verified | Active |
+|----------|--------|----------|--------|
+| Twitter | [@share](https://twitter.com/share) | No | Yes |
+| Facebook | [@sharer](https://www.facebook.com/sharer) | No | Yes |
+| Instagram | [@adrspeaks](https://www.instagram.com/adrspeaks) | No | Yes |
+| Youtube | [@adrspeaks](https://www.youtube.com/user/adrspeaks) | No | Yes |
+
+---
+
 ## In The News
 
 *Mixed/neutral coverage (10 articles)*
@@ -77,11 +91,21 @@
 - **Total Articles:** 10
 - **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
 
-- Peace not possible without resettlement of IDPs: Inner Manipur MP Akoijam - MSN (MSN) [neutral]
+- ‘Nearly 60,000 displaced’: Manipur MP says conditions not right for a credible Census - India Today NE (India Today NE) [neutral]
 - MP Bimol raises Manipur violence in Lok Sabha, demands justice, accountability - Imphal Times (Imphal Times) [neutral]
-- KSO slams MP Bimol Akoijam for questioning Hill Areas Committee in Manipur - India Today NE (India Today NE) [neutral]
-- Cong MP Akoijam files RTI, seeks clarity on ‘buffer zones’ in Manipur - The Times of India (The Times of India) [neutral]
+- Congress MP Bimol Akoijam slams Centre over fuel crisis, Census plan amid instability in state - India Today NE (India Today NE) [neutral]
+- Prof Angomcha Bimol Akoijam, MP (Inner Manipur) addressed the media at Indira Bhawan, AICC Hdqrs - inc.in (inc.in) [neutral]
 - Give at least 3-5 hours for Manipur: Congress MP in in Lok Sabha - The Indian Express (The Indian Express) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **‘Nearly 60,000 displaced’: Manipur MP says conditions not right for a credible Census - India Today NE** (India Today NE)
+- ! **MP Bimol raises Manipur violence in Lok Sabha, demands justice, accountability - Imphal Times** (Imphal Times)
+- ! **Congress MP Bimol Akoijam slams Centre over fuel crisis, Census plan amid instability in state - India Today NE** (India Today NE)
+- ! **Prof Angomcha Bimol Akoijam, MP (Inner Manipur) addressed the media at Indira Bhawan, AICC Hdqrs - inc.in** (inc.in)
+- ! **Give at least 3-5 hours for Manipur: Congress MP in in Lok Sabha - The Indian Express** (The Indian Express)
 
 ---
 
@@ -95,7 +119,7 @@
 
 ## Qualitative Assessment
 
-Angomcha Bimol Akoijam shows moderate transparency with a score of 62.4/100. No criminal cases declared. High parliament attendance.
+Angomcha Bimol Akoijam shows moderate transparency with a score of 65.9/100. No criminal cases declared. High parliament attendance.
 
 ---
 
@@ -139,7 +163,7 @@ No criminal cases declared. Declared assets: Rs 9,767,556. MPLADS utilization: 5
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -238,11 +262,12 @@ Time limit: PIO must respond within 30 days of receipt.
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
 | Assets | myneta | Official (B) |
+| Committees | sansad | LLM/Estimated (E) |
 | Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: myneta, prs, social_media, news, mplads*
+*Sources consulted: myneta, prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

@@ -3,55 +3,50 @@
 **Constituency:** Nanded, Maharashtra
 **Party:** Indian National Congress
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 69
-**Education:** 12th Pass
-**Profession:** Agriculture
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (46%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 47.1 / 100
+## Composite Transparency Score: 47.3 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 6.7 | 25% |
-| Asset Growth | 60.0 | 15% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 80.0 | 15% |
 | Parliament Attendance | 80.0 | 10% |
 | Questions & Debates | 20.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
-| Public Accessibility | 15.0 | 5% |
+| Public Accessibility | 65.0 | 5% |
 | Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
 ## Criminal Record
 
-- **Total Cases:** 2
-- **Serious Cases:** 0
+- **Total Cases:** 1
+- **Serious Cases:** 1
 - **Convictions:** 0
-- **Pending Cases:** 2
+- **Pending Cases:** 1
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
 ### Cases Detail
 
-1. Details and present status of appeal (Sections: N/A) 
-2. No description (Sections: N/A) 
+1. 0043/2019 Naigaon Police Station Date 06-04-2019 (Sections: 420, 467, 468, 471) [pending] **SERIOUS**
 
 ---
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 1.66 Crore
-- **Immovable Assets:** Rs 2.02 Crore
-- **Total Assets:** Rs 3.68 Crore
-- **Liabilities:** Rs 14.24 Lakh
-- **Net Worth:** Rs 3.54 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 30% of Lok Sabha MPs
 
 ---
 
@@ -75,6 +70,18 @@
 
 ---
 
+## Public Accessibility
+
+- **Platforms:** 2
+
+
+| Platform | Handle | Verified | Active |
+|----------|--------|----------|--------|
+| Facebook | [@https://www.facebook.com/p/Ravindra-Vasantrao-Chavan-100071165557956/](https://facebook.com/https://www.facebook.com/p/Ravindra-Vasantrao-Chavan-100071165557956/) | No | Yes |
+| Instagram | [@https://www.instagram.com/ravindra.chavan099/](https://instagram.com/https://www.instagram.com/ravindra.chavan099/) | No | Yes |
+
+---
+
 ## In The News
 
 *Mixed/neutral coverage (10 articles)*
@@ -82,30 +89,42 @@
 - **Total Articles:** 10
 - **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
 
-- Congress retains Nanded Lok Sabha seat in bypoll, Ravindra Vasantrao Chavan wins close contest - India TV News (India TV News) [neutral]
 - Congress fields Ravindra Chavan for Nanded bypoll - The Indian Express (The Indian Express) [neutral]
-- New Delhi: Congress leader Chavan Ravindra Vasantrao takes oath as the Lok Sabha MP from Maharashtra’s Nanded #Gallery - Social News XYZ (Social News XYZ) [neutral]
-- Maharashtra bypoll: Congress nominates Ravindra Chavan from Nanded Lok Sabha seat - Mid-day (Mid-day) [neutral]
-- Congress' Priyanka Gandhi, Ravindra Chavan to take oath as MP in Lok Sabha tomorrow - ANI News (ANI News) [neutral]
+- Congress' Priyanka Gandhi, Ravindra Chavan to take oath as MP in Lok Sabha tomorrow - aninews.in (aninews.in) [neutral]
+- Maharashtra bypoll: Congress nominates Ravindra Chavan from Nanded Lok Sabha seat - Mid-Day (Mid-Day) [neutral]
+- Congress fields Vasantrao Chavan's son for Nanded parliamentary seat bypoll - economictimes.com (economictimes.com) [neutral]
+- Nanded by-poll election result 2024: Congress's Ravindra Chavan wins against BJP's Santukrao Hambarde - The Times of India (The Times of India) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Congress fields Ravindra Chavan for Nanded bypoll - The Indian Express** (The Indian Express)
+- ! **Congress' Priyanka Gandhi, Ravindra Chavan to take oath as MP in Lok Sabha tomorrow - aninews.in** (aninews.in)
+- ! **Maharashtra bypoll: Congress nominates Ravindra Chavan from Nanded Lok Sabha seat - Mid-Day** (Mid-Day)
+- ! **Congress fields Vasantrao Chavan's son for Nanded parliamentary seat bypoll - economictimes.com** (economictimes.com)
+- ! **Nanded by-poll election result 2024: Congress's Ravindra Chavan wins against BJP's Santukrao Hambarde - The Times of India** (The Times of India)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
 - [!] **mplads**: Extremely low utilization rate — verify data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Maharashtra: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Chavan Ravindra Vasantrao has a below-average transparency score of 47.1/100, indicating significant room for improvement. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance. Limited participation in parliamentary proceedings.
+Chavan Ravindra Vasantrao has a below-average transparency score of 47.3/100, indicating significant room for improvement. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance. Limited participation in parliamentary proceedings.
 
 ---
 
-Has 2 criminal case(s) (0 serious), 2 pending, 0 conviction(s). Declared assets: Rs 36,785,180. MPLADS utilization: 8.4%. Parliament attendance: 80.0%. Debates participated: 1. 1 warning(s) noted.
+Has 1 criminal case(s) (1 serious), 1 pending, 0 conviction(s). MPLADS utilization: 8.4%. Parliament attendance: 80.0%. Debates participated: 1. Low confidence data: Assets. 2 warning(s) noted.
 
 ---
 
@@ -145,7 +164,7 @@ Has 2 criminal case(s) (0 serious), 2 pending, 0 conviction(s). Declared assets:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -243,12 +262,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, mplads, myneta*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

@@ -3,19 +3,17 @@
 **Constituency:** Barabanki, Uttar Pradesh
 **Party:** Indian National Congress
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 39
-**Education:** Graduate Professional
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (39%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 61.8 / 100
+## Composite Transparency Score: 59.6 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 35.5 | 25% |
-| Asset Growth | 60.0 | 15% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 90.0 | 15% |
 | Parliament Attendance | 100.0 | 10% |
 | Questions & Debates | 60.0 | 10% |
@@ -34,18 +32,21 @@
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
+### Cases Detail
+
+1. Thana Kotwali Nagar Barabanki,  CC No-410/2019 | Sec.127(A) (2) Representation of the People Act (Sections: 171H) [pending] 
+
 ---
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 2.71 Crore
-- **Liabilities:** Rs 2.43 Lakh
-- **Net Worth:** Rs 2.69 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 24% of Lok Sabha MPs
 
 ---
 
@@ -76,29 +77,41 @@
 - **Total Articles:** 10
 - **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
 
+- Congress appoints Rajendra Pal as UP in-charge: Avinash Pandey is removed; Ajay Rai faces uncertainty - Bhaskar English (Bhaskar English) [neutral]
 - Mayawati refuses to meet Congress delegation: Leaders reached without prior notice; discussion starts again... - Bhaskar English (Bhaskar English) [neutral]
-- UP Congress serves notices to two Dalit leaders over outreach to Mayawati - The New Indian Express (The New Indian Express) [neutral]
-- महिला आरक्षण पर बाराबंकी में भाजपा का प्रदर्शन: कांग्रेस सांसद तनुज पुनिया ने सरकार पर भ्रम फैलाने का आरोप लगाया - Barabanki News - Dainik Bhaskar (Dainik Bhaskar) [neutral]
-- Barabanki MP says Uttar Pradesh SIRs show rural voters exceed total number of voters in State; SC asks Election Commission to explain - The Hindu (The Hindu) [neutral]
+- Supreme Court Seeks ECI Response On Congress MP Tanuj Punia's Plea Against SIR In Uttar Pradesh - Live Law (Live Law) [neutral]
+- ‘Lakhs of genuine electors face risk of exclusion’: Cong MP moves SC against SIR - The Indian Express (The Indian Express) [neutral]
 - UP SIRs: SC Orders EC Probe as Barabanki MP Flags Rural Voter Anomaly - TheWire.in (TheWire.in) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Congress appoints Rajendra Pal as UP in-charge: Avinash Pandey is removed; Ajay Rai faces uncertainty - Bhaskar English** (Bhaskar English)
+- ! **Mayawati refuses to meet Congress delegation: Leaders reached without prior notice; discussion starts again... - Bhaskar English** (Bhaskar English)
+- ! **Supreme Court Seeks ECI Response On Congress MP Tanuj Punia's Plea Against SIR In Uttar Pradesh - Live Law** (Live Law)
+- ! **‘Lakhs of genuine electors face risk of exclusion’: Cong MP moves SC against SIR - The Indian Express** (The Indian Express)
+- ! **UP SIRs: SC Orders EC Probe as Barabanki MP Flags Rural Voter Anomaly - TheWire.in** (TheWire.in)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Uttar Pradesh: 8 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Tanuj Punia shows moderate transparency with a score of 61.8/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Tanuj Punia shows moderate transparency with a score of 59.6/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Declared assets: Rs 27,131,091. MPLADS utilization: 44.3%. Parliament attendance: 100.0%. Questions asked: 41. Debates participated: 4.
+Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). MPLADS utilization: 44.3%. Parliament attendance: 100.0%. Questions asked: 41. Debates participated: 4. Low confidence data: Assets. 1 warning(s) noted.
 
 ---
 
@@ -138,7 +151,7 @@ Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Declared assets:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -236,12 +249,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

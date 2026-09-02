@@ -4,17 +4,17 @@
 **Party:** Telugu Desam Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Third-party (C)
+**Data Confidence:** Low (27%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 44.6 / 100
+## Composite Transparency Score: 44.1 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 35.5 | 25% |
-| Asset Growth | 55.0 | 15% |
-| Criminal Record | 40.0 | 15% |
+| Asset Growth | 45.0 | 15% |
+| Criminal Record | 45.0 | 15% |
 | Parliament Attendance | 70.0 | 10% |
 | Questions & Debates | 40.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
@@ -25,10 +25,10 @@
 
 ## Criminal Record
 
-- **Total Cases:** 6
+- **Total Cases:** 0
 - **Serious Cases:** 0
 - **Convictions:** 0
-- **Pending Cases:** 6
+- **Pending Cases:** 0
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
@@ -36,14 +36,13 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 716.33 Crore
-- **Liabilities:** Rs 200.26 Crore
-- **Net Worth:** Rs 516.07 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 99% of Lok Sabha MPs
 
 ---
 
@@ -72,31 +71,44 @@
 *Mixed/neutral coverage (10 articles)*
 
 - **Total Articles:** 10
-- **Positive:** 3 | **Negative:** 0 | **Neutral:** 7
+- **Positive:** 1 | **Negative:** 0 | **Neutral:** 9
 
-- Sagar Mitras thank Nellore MP for six-month extension of PMMSY scheme - The Hindu (The Hindu) [positive]
-- Nellore dist to host over 7 lakh TDP workers at Mahanadu - The Times of India (The Times of India) [neutral]
-- Fisherfolk seek job quota, subsidy in meeting with Nellore MP Vemireddy Prabhakar Reddy - Deccan Chronicle (Deccan Chronicle) [neutral]
-- VPR Vidya school students shine with 100% pass rate - The Hans India (The Hans India) [neutral]
-- Infrastructure boost: Centre clears Rs 3,600 crore 4-lane Nellore-Badvel highway project - The New Indian Express (The New Indian Express) [neutral]
+- Nellore MP Prabhakar Reddy Seeks Rs 14-Crore NH-67 Road Upgrade - Deccan Chronicle (Deccan Chronicle) [neutral]
+- ‘VPR Netra’ reaches 60,000 rural beneficiaries in SPSR Nellore district - The Hindu (The Hindu) [neutral]
+- Nellore to host TDP’s ‘Mahanadu’ for first time - newindianexpress.com (newindianexpress.com) [neutral]
+- Nellore dist to host over 7 lakh TDP workers at Mahanadu - timesofindia.indiatimes.com (timesofindia.indiatimes.com) [neutral]
+- Vemireddy Promises Time-Bound Resolution of Udayagiri Issues - Deccan Chronicle (Deccan Chronicle) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Nellore MP Prabhakar Reddy Seeks Rs 14-Crore NH-67 Road Upgrade - Deccan Chronicle** (Deccan Chronicle)
+- ! **‘VPR Netra’ reaches 60,000 rural beneficiaries in SPSR Nellore district - The Hindu** (The Hindu)
+- ! **Nellore to host TDP’s ‘Mahanadu’ for first time - newindianexpress.com** (newindianexpress.com)
+- ! **Nellore dist to host over 7 lakh TDP workers at Mahanadu - timesofindia.indiatimes.com** (timesofindia.indiatimes.com)
+- ! **Vemireddy Promises Time-Bound Resolution of Udayagiri Issues - Deccan Chronicle** (Deccan Chronicle)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
+- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Andhra Pradesh: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Prabhakar Reddy Vemireddy has a below-average transparency score of 44.6/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention.
+Prabhakar Reddy Vemireddy has a below-average transparency score of 44.1/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. Data confidence is low — scores should be interpreted with caution.
 
 ---
 
-Has 6 criminal case(s) (0 serious), 6 pending, 0 conviction(s). Declared assets: Rs 7,163,322,265. MPLADS utilization: 44.4%. Parliament attendance: 70.0%. Questions asked: 46.
+No criminal cases declared. MPLADS utilization: 44.4%. Parliament attendance: 70.0%. Questions asked: 46. Low confidence data: Criminal record, Assets. 2 warning(s) noted.
 
 ---
 
@@ -136,7 +148,7 @@ Has 6 criminal case(s) (0 serious), 6 pending, 0 conviction(s). Declared assets:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -234,10 +246,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

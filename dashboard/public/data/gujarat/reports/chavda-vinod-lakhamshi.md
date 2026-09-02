@@ -3,19 +3,17 @@
 **Constituency:** Kachchh, Gujarat
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 45
-**Education:** Post Graduate
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (37%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 57.4 / 100
+## Composite Transparency Score: 55.9 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 22.2 | 25% |
-| Asset Growth | 55.0 | 15% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 80.0 | 10% |
 | Questions & Debates | 60.0 | 10% |
@@ -38,14 +36,13 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 7.10 Crore
-- **Liabilities:** Rs 1.56 Crore
-- **Net Worth:** Rs 5.54 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 49% of Lok Sabha MPs
 
 ---
 
@@ -71,34 +68,46 @@
 
 ## In The News
 
-*Mixed/neutral coverage (10 articles)*
+*Mixed/neutral coverage (9 articles)*
 
-- **Total Articles:** 10
-- **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
+- **Total Articles:** 9
+- **Positive:** 0 | **Negative:** 0 | **Neutral:** 9
 
 - Kachchh election results 2024 live updates: BJP's Chavda Vinod Lakhamshi wins, while Congress' Nitesh Par - The Times of India (The Times of India) [neutral]
-- Political Profile of Chavda Vinod Lakhamshi, Bjp Party, Kachchh, and Net Worth - India TV News (India TV News) [neutral]
-- Parliament of India : Lok Sabha Member of Parliament – L - Sarkaritel.com (Sarkaritel.com) [neutral]
 - Gujarat BJP MPs' assets multiply manifold over ten years in power, ADR report reveals - The New Indian Express (The New Indian Express) [neutral]
-- Gujarat Assembly Election 2022: Will Congress Again Retain Power in Rapar This Time? - India.Com (India.Com) [neutral]
+- Lok Sabha election 2019: Gujarat’s Kachchh seat to see tough Congress vs BJP contest | Hindustan Times - hindustantimes.com (hindustantimes.com) [neutral]
+- Kachchh lok sabha election results 2024: Kachchh Winning Candidates List and Vote Share - India Today (India Today) [neutral]
+- Gujarat Lok Sabha Elections 2024: Voting date, results, candidates, main parties and schedule - Moneycontrol.com (Moneycontrol.com) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Kachchh election results 2024 live updates: BJP's Chavda Vinod Lakhamshi wins, while Congress' Nitesh Par - The Times of India** (The Times of India)
+- ! **Gujarat BJP MPs' assets multiply manifold over ten years in power, ADR report reveals - The New Indian Express** (The New Indian Express)
+- ! **Lok Sabha election 2019: Gujarat’s Kachchh seat to see tough Congress vs BJP contest | Hindustan Times - hindustantimes.com** (hindustantimes.com)
+- ! **Kachchh lok sabha election results 2024: Kachchh Winning Candidates List and Vote Share - India Today** (India Today)
+- ! **Gujarat Lok Sabha Elections 2024: Voting date, results, candidates, main parties and schedule - Moneycontrol.com** (Moneycontrol.com)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Gujarat: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Chavda Vinod Lakhamshi shows moderate transparency with a score of 57.4/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Chavda Vinod Lakhamshi shows moderate transparency with a score of 55.9/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-No criminal cases declared. Declared assets: Rs 70,980,147. MPLADS utilization: 27.8%. Parliament attendance: 80.0%. Questions asked: 42. Debates participated: 3.
+No criminal cases declared. MPLADS utilization: 27.8%. Parliament attendance: 80.0%. Questions asked: 42. Debates participated: 3. Low confidence data: Assets. 1 warning(s) noted.
 
 ---
 
@@ -138,7 +147,7 @@ No criminal cases declared. Declared assets: Rs 70,980,147. MPLADS utilization: 
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -236,12 +245,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

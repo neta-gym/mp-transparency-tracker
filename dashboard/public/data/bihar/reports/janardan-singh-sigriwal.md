@@ -3,20 +3,18 @@
 **Constituency:** Maharajganj, Bihar
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 65
-**Education:** Graduate
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (39%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 51.8 / 100
+## Composite Transparency Score: 47.0 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 12.7 | 25% |
-| Asset Growth | 50.0 | 15% |
-| Criminal Record | 50.0 | 15% |
+| Asset Growth | 45.0 | 15% |
+| Criminal Record | 30.0 | 15% |
 | Parliament Attendance | 100.0 | 10% |
 | Questions & Debates | 70.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
@@ -28,24 +26,31 @@
 ## Criminal Record
 
 - **Total Cases:** 5
-- **Serious Cases:** 0
+- **Serious Cases:** 2
 - **Convictions:** 0
 - **Pending Cases:** 5
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
+### Cases Detail
+
+1. Vigilance PS Case No. 102/16 | Section 13 of P.C. Act (Sections: 420, 467, 468, 477, 471, 409) [pending] **SERIOUS**
+2. Vigilance PS Case No. 103/16 (Sections: 420, 467, 468, 477, 471, 409) [pending] **SERIOUS**
+3. Chapra Town PS Case No. 223/2001 (Sections: 147, 141, 323) [pending] 
+4. Mashrakh PS Case No. 198/16 (Sections: 147, 149, 141, 353, 504 506) [pending] 
+5. Baniyapur PS Case No. 462/23 | Section 9 of Bihar Control and Use of Loud Speaker Act (Sections: 188, 290, 353, 379, 34) [pending] 
+
 ---
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 1.75 Crore
-- **Liabilities:** Rs 0
-- **Net Worth:** Rs 1.75 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 16% of Lok Sabha MPs
 
 ---
 
@@ -82,31 +87,43 @@
 *Mixed/neutral coverage (10 articles)*
 
 - **Total Articles:** 10
-- **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
+- **Positive:** 0 | **Negative:** 1 | **Neutral:** 9
 
-- Process for govt formation in Bihar has started: BJP MP Janardan Singh Sigriwal - ANI News (ANI News) [neutral]
 - Maharajganj election results 2024 live updates: BJP's Janardan Singh Sigriwal wins - The Times of India (The Times of India) [neutral]
-- Modi buzz pushes NDA candidate into contest in Bihar's Maharajganj - The Hindu (The Hindu) [neutral]
-- Maharajganj Election Result 2024 LIVE Updates Highlights: Janardan Singh (Sigriwal) of BJP Wins - News18 (News18) [neutral]
-- Political Profile of Janardan Singh (sigriwal), Bjp Party, Maharajganj, and Net Worth - India TV News (India TV News) [neutral]
+- BJP MP among 17 people booked for inciting mob in Bihar's Saran dist, internet services suspended - The New Indian Express (The New Indian Express) [negative]
+- Up against Congress, Sigriwal eyes a hat-trick - The Times of India (The Times of India) [neutral]
+- Lok Sabha Elections 2019: It’s Rajput vs Rajput in Bihar’s Maharajganj seat | Hindustan Times - Hindustan Times (Hindustan Times) [neutral]
+- Ashwini Vaishnaw flags off Chhapra-Anand Vihar train, says Bihar will get 200 new trains in 7-8 years - DD India (DD India) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Maharajganj election results 2024 live updates: BJP's Janardan Singh Sigriwal wins - The Times of India** (The Times of India)
+- !! **BJP MP among 17 people booked for inciting mob in Bihar's Saran dist, internet services suspended - The New Indian Express** (The New Indian Express)
+- ! **Up against Congress, Sigriwal eyes a hat-trick - The Times of India** (The Times of India)
+- ! **Lok Sabha Elections 2019: It’s Rajput vs Rajput in Bihar’s Maharajganj seat | Hindustan Times - Hindustan Times** (Hindustan Times)
+- ! **Ashwini Vaishnaw flags off Chhapra-Anand Vihar train, says Bihar will get 200 new trains in 7-8 years - DD India** (DD India)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Bihar: 8 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Janardan Singh Sigriwal shows moderate transparency with a score of 51.8/100. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Janardan Singh Sigriwal has a below-average transparency score of 47.0/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-Has 5 criminal case(s) (0 serious), 5 pending, 0 conviction(s). Declared assets: Rs 17,536,436. MPLADS utilization: 15.9%. Parliament attendance: 100.0%. Questions asked: 41. Debates participated: 13.
+Has 5 criminal case(s) (2 serious), 5 pending, 0 conviction(s). MPLADS utilization: 15.9%. Parliament attendance: 100.0%. Questions asked: 41. Debates participated: 13. Low confidence data: Assets. 1 warning(s) noted.
 
 ---
 
@@ -146,7 +163,7 @@ Has 5 criminal case(s) (0 serious), 5 pending, 0 conviction(s). Declared assets:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -244,12 +261,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

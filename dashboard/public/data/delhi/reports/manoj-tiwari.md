@@ -7,7 +7,7 @@
 **Education:** Post Graduate
 **Profession:** Singer, Actor and Member of Parliament
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (57%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Medium (57%) | **Evidence Grade:** Third-party (C)
 
 ---
 
@@ -37,9 +37,8 @@
 
 ### Cases Detail
 
-1. Details and present status of appeal (Sections: N/A) 
-2. No description (Sections: 900/2018) 
-3. No description (Sections: N/A) [pending] 
+1. 900/2018, PS. New Usman Nagar North East Delhi (Sections: 323, 341, 506, 34) [pending] 
+2. PS. Tilak Marg | Section 200 of CrPC (Sections: 499, 34) [pending] 
 
 ---
 
@@ -48,11 +47,11 @@
 - **Movable Assets:** Rs 11.80 Crore
 - **Immovable Assets:** Rs 21.02 Crore
 - **Total Assets:** Rs 32.82 Crore
-- **Liabilities:** Rs 1.02 Crore
-- **Net Worth:** Rs 31.80 Crore
+- **Liabilities:** Rs 2.04 Crore
+- **Net Worth:** Rs 30.77 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 79% of Lok Sabha MPs
+- **Wealth Percentile:** Wealthier than 75% of Lok Sabha MPs
 
 ---
 
@@ -95,13 +94,13 @@
 *Mixed/neutral coverage (10 articles)*
 
 - **Total Articles:** 10
-- **Positive:** 0 | **Negative:** 3 | **Neutral:** 7
+- **Positive:** 0 | **Negative:** 1 | **Neutral:** 9
 
-- BJP MP Manoj Tiwari welcomes contempt proceedings against Kejriwal - thehawk.in (thehawk.in) [neutral]
-- Delhi CM Rekha Gupta, BJP leaders take metro ride after PM Modi's call for fuel conservation - The Hans India (The Hans India) [neutral]
-- MP Manoj Tiwari files complaint over fake Facebook account; FIR registered - The Times of India (The Times of India) [negative]
-- BJP Leader Manoj Tiwari Files Police Complaint Against Fake Facebook Account - NDTV (NDTV) [negative]
-- Delhi Confidential: Holi Spirit - The Indian Express (The Indian Express) [neutral]
+- BJP Tiranga Yatras held in North East, Karol Bagh, Outer Delhi districts - DD News (DD News) [neutral]
+- BJP Tiranga Yatras held in North East, Karol Bagh, Outer Delhi districts - India Tribune - Chicago (India Tribune - Chicago) [neutral]
+- 'This is Modi's dream...': BJP MP Manoj Tiwari renders song marking 12 years of PM - Deccan Herald (Deccan Herald) [neutral]
+- BJP MP Manoj Tiwari’s emotional video from 2020 is going viral linking to the Bankipur By-Election. - english.factcrescendo.com (english.factcrescendo.com) [neutral]
+- Manoj Tiwari accuses opposition of political motives in NEET controversy - The News Mill (The News Mill) [negative]
 
 ---
 
@@ -111,6 +110,16 @@
 - **Population:** 2,600,000
 - **Literacy Rate:** 82.0%
 - **Urban:** 100%
+
+---
+
+## News & Allegations
+
+- ! **BJP Tiranga Yatras held in North East, Karol Bagh, Outer Delhi districts - DD News** (DD News)
+- ! **BJP Tiranga Yatras held in North East, Karol Bagh, Outer Delhi districts - India Tribune - Chicago** (India Tribune - Chicago)
+- ! **'This is Modi's dream...': BJP MP Manoj Tiwari renders song marking 12 years of PM - Deccan Herald** (Deccan Herald)
+- ! **BJP MP Manoj Tiwari’s emotional video from 2020 is going viral linking to the Bankipur By-Election. - english.factcrescendo.com** (english.factcrescendo.com)
+- !! **Manoj Tiwari accuses opposition of political motives in NEET controversy - The News Mill** (The News Mill)
 
 ---
 
@@ -168,7 +177,7 @@ Has 2 criminal case(s) (0 serious), 2 pending, 0 conviction(s). Declared assets:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -267,11 +276,12 @@ Time limit: PIO must respond within 30 days of receipt.
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
 | Assets | myneta | Official (B) |
+| Committees | sansad | LLM/Estimated (E) |
 | Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: myneta, prs, social_media, news, mplads*
+*Sources consulted: myneta, prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

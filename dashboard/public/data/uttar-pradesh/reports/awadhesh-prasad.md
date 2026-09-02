@@ -3,19 +3,17 @@
 **Constituency:** Faizabad, Uttar Pradesh
 **Party:** Samajwadi Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 79
-**Education:** Post Graduate
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (39%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 57.9 / 100
+## Composite Transparency Score: 55.7 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 35.9 | 25% |
-| Asset Growth | 60.0 | 15% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 90.0 | 15% |
 | Parliament Attendance | 100.0 | 10% |
 | Questions & Debates | 20.0 | 10% |
@@ -34,18 +32,21 @@
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
+### Cases Detail
+
+1. C.C. No. 40/12 Thana Inayat Nagar Dist. Ayodhya (Sections: 188) [pending] 
+
 ---
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 5.30 Crore
-- **Liabilities:** Rs 10.00 Lakh
-- **Net Worth:** Rs 5.20 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 41% of Lok Sabha MPs
 
 ---
 
@@ -74,31 +75,43 @@
 *Mixed/neutral coverage (10 articles)*
 
 - **Total Articles:** 10
-- **Positive:** 0 | **Negative:** 1 | **Neutral:** 9
+- **Positive:** 0 | **Negative:** 5 | **Neutral:** 5
 
-- SP MP Awadhesh Prasad alleges caste bias after being excluded from Ayodhya flag-hoisting ceremony - Muslim Mirror (Muslim Mirror) [neutral]
-- Not invited to ‘dhwaj arohan’ because I am a Dalit, says Faizabad (Ayodhya) MP Awadhesh Prasad - The Statesman (The Statesman) [neutral]
-- ‘Inko Dekh Leejiye’: Akhilesh Makes Ayodhya MP Stand, Taunts BJP During Vande Mataram Discussion - ABP News (ABP News) [neutral]
-- Ram Mandir flag-hoisting: SP MP alleges he was not invited; BJP terms charge 'political' - Deccan Herald (Deccan Herald) [neutral]
-- Faizabad MP Awadhesh Prasad’s son booked for assaulting man - The Hindu (The Hindu) [negative]
+- Ayodhya MP Awadhesh Prasad on Ram Temple donation theft: ‘Govts can influence SITs, HC should oversee’ - ThePrint (ThePrint) [neutral]
+- FIR against Rahul Gandhi, two MPs over Parliament protest - Telangana Today (Telangana Today) [negative]
+- FIR against Rahul Gandhi, Pappu Yadav, Awadhesh Prasad in Varanasi over donation theft skit at Parliament | India News - Hindustan Times (Hindustan Times) [negative]
+- Rahul Gandhi, Pappu Yadav, Awadhesh Prasad booked over Ram temple donation theft skit in Parliament - Livemint (Livemint) [negative]
+- ‘Insult to Sanatan Dharma’: Rahul, Faizabad MP, Pappu Yadav booked in Varanasi over Parliament skit - The Indian Express (The Indian Express) [negative]
+
+---
+
+## News & Allegations
+
+- ! **Ayodhya MP Awadhesh Prasad on Ram Temple donation theft: ‘Govts can influence SITs, HC should oversee’ - ThePrint** (ThePrint)
+- !! **FIR against Rahul Gandhi, two MPs over Parliament protest - Telangana Today** (Telangana Today)
+- !! **FIR against Rahul Gandhi, Pappu Yadav, Awadhesh Prasad in Varanasi over donation theft skit at Parliament | India News - Hindustan Times** (Hindustan Times)
+- !! **Rahul Gandhi, Pappu Yadav, Awadhesh Prasad booked over Ram temple donation theft skit in Parliament - Livemint** (Livemint)
+- !! **‘Insult to Sanatan Dharma’: Rahul, Faizabad MP, Pappu Yadav booked in Varanasi over Parliament skit - The Indian Express** (The Indian Express)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Uttar Pradesh: 8 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Awadhesh Prasad shows moderate transparency with a score of 57.9/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance. Limited participation in parliamentary proceedings.
+Awadhesh Prasad shows moderate transparency with a score of 55.7/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance. Limited participation in parliamentary proceedings.
 
 ---
 
-Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Declared assets: Rs 52,967,071. MPLADS utilization: 44.9%. Parliament attendance: 100.0%. Debates participated: 3.
+Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). MPLADS utilization: 44.9%. Parliament attendance: 100.0%. Debates participated: 3. Low confidence data: Assets. 1 warning(s) noted.
 
 ---
 
@@ -138,7 +151,7 @@ Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Declared assets:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -236,12 +249,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

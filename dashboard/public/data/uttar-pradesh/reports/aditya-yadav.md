@@ -3,24 +3,22 @@
 **Constituency:** Badaun, Uttar Pradesh
 **Party:** Samajwadi Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 35
-**Education:** Post Graduate
 **Report Date:** 2026-09-02
-**Data Confidence:** Low (49%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (44%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 62.3 / 100
+## Composite Transparency Score: 63.3 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 36.6 | 25% |
-| Asset Growth | 55.0 | 15% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 100.0 | 10% |
 | Questions & Debates | 50.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
-| Public Accessibility | 15.0 | 5% |
+| Public Accessibility | 65.0 | 5% |
 | Legislative Effectiveness | 40.0 | 10% |
 
 ---
@@ -40,12 +38,11 @@
 
 - **Movable Assets:** N/A
 - **Immovable Assets:** N/A
-- **Total Assets:** Rs 14.63 Crore
-- **Liabilities:** Rs 2.37 Crore
-- **Net Worth:** Rs 12.26 Crore
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 66% of Lok Sabha MPs
 
 ---
 
@@ -69,6 +66,18 @@
 
 ---
 
+## Public Accessibility
+
+- **Platforms:** 2
+
+
+| Platform | Handle | Verified | Active |
+|----------|--------|----------|--------|
+| Twitter | [@https://x.com/socialistaditya?lang=en](https://x.com/https://x.com/socialistaditya?lang=en) | No | Yes |
+| Facebook | [@https://www.facebook.com/socialistaditya/](https://facebook.com/https://www.facebook.com/socialistaditya/) | No | Yes |
+
+---
+
 ## In The News
 
 *Mixed/neutral coverage (10 articles)*
@@ -76,29 +85,41 @@
 - **Total Articles:** 10
 - **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
 
-- Badaun Chunav Result: बदायूं सीट पर सपा के आदित्य यादव जीते, BJP के दुर्विजय शाक्य हारे - AajTak (AajTak) [neutral]
-- Lok Sabha Elections 2024: Aditya Yadav replaces father Shivpal in Badaun in SP's new list of UP candidates - India TV News (India TV News) [neutral]
 - All Yadav hands on deck: Shivpal’s son SP first family’s new poll debutant as party ups UP game - The Indian Express (The Indian Express) [neutral]
+- Parliament Of India : Lok Sabha Member Of Parliament - Y - Sarkaritel.com (Sarkaritel.com) [neutral]
+- Aditya draws applause in debut speech - The Times of India (The Times of India) [neutral]
 - Improving Budaun-Delhi connectivity will be my priority: Aditya Yadav | Hindustan Times - Hindustan Times (Hindustan Times) [neutral]
-- Led by Akhilesh Yadav, all 5 Yadav clan members elected to Lok Sabha - The Times of India (The Times of India) [neutral]
+- Budaun Lok Sabha Constituency: Shivpal Yadav Makes Way for Son as SP Makes Second Change in 60 Days - News18 (News18) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **All Yadav hands on deck: Shivpal’s son SP first family’s new poll debutant as party ups UP game - The Indian Express** (The Indian Express)
+- ! **Parliament Of India : Lok Sabha Member Of Parliament - Y - Sarkaritel.com** (Sarkaritel.com)
+- ! **Aditya draws applause in debut speech - The Times of India** (The Times of India)
+- ! **Improving Budaun-Delhi connectivity will be my priority: Aditya Yadav | Hindustan Times - Hindustan Times** (Hindustan Times)
+- ! **Budaun Lok Sabha Constituency: Shivpal Yadav Makes Way for Son as SP Makes Second Change in 60 Days - News18** (News18)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Uttar Pradesh: 8 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Aditya Yadav shows moderate transparency with a score of 62.3/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
+Aditya Yadav shows moderate transparency with a score of 63.3/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
 
 ---
 
-No criminal cases declared. Declared assets: Rs 146,267,852. MPLADS utilization: 45.8%. Parliament attendance: 100.0%. Questions asked: 11. Debates participated: 6.
+No criminal cases declared. MPLADS utilization: 45.8%. Parliament attendance: 100.0%. Questions asked: 11. Debates participated: 6. Low confidence data: Assets. 1 warning(s) noted.
 
 ---
 
@@ -138,7 +159,7 @@ No criminal cases declared. Declared assets: Rs 146,267,852. MPLADS utilization:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -236,12 +257,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

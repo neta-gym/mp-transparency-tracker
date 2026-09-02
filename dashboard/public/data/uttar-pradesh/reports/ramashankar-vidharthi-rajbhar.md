@@ -3,19 +3,17 @@
 **Constituency:** Salempur, Uttar Pradesh
 **Party:** Samajwadi Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 63
-**Education:** Graduate
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (37%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 63.1 / 100
+## Composite Transparency Score: 60.8 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 26.6 | 25% |
-| Asset Growth | 60.0 | 15% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 100.0 | 10% |
 | Questions & Debates | 70.0 | 10% |
@@ -38,14 +36,13 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 7.61 Crore
-- **Liabilities:** Rs 10.00 Lakh
-- **Net Worth:** Rs 7.51 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 51% of Lok Sabha MPs
 
 ---
 
@@ -71,30 +68,42 @@
 
 ## In The News
 
-*Mixed/neutral coverage (1 articles)*
+*Mixed/neutral coverage (3 articles)*
 
-- **Total Articles:** 1
-- **Positive:** 0 | **Negative:** 0 | **Neutral:** 1
+- **Total Articles:** 3
+- **Positive:** 0 | **Negative:** 0 | **Neutral:** 3
 
-- Parliament of India : Lok Sabha Member of Parliament – R - Sarkaritel.com (Sarkaritel.com) [neutral]
+- 'Samajwadi Party Isn't Breaking Up Like TMC Or Shiv Sena (UBT)' - Rediff (Rediff) [neutral]
+- Ramashankar Rajbhar , SP candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details. - The Hindu (The Hindu) [neutral]
+- Parliament Of India : Lok Sabha Member Of Parliament - R - Sarkaritel.com (Sarkaritel.com) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **'Samajwadi Party Isn't Breaking Up Like TMC Or Shiv Sena (UBT)' - Rediff** (Rediff)
+- ! **Ramashankar Rajbhar , SP candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details. - The Hindu** (The Hindu)
+- ! **Parliament Of India : Lok Sabha Member Of Parliament - R - Sarkaritel.com** (Sarkaritel.com)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Uttar Pradesh: 8 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Ramashankar  Vidharthi Rajbhar shows moderate transparency with a score of 63.1/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Ramashankar  Vidharthi Rajbhar shows moderate transparency with a score of 60.8/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-No criminal cases declared. Declared assets: Rs 76,085,514. MPLADS utilization: 33.2%. Parliament attendance: 100.0%. Questions asked: 21. Debates participated: 16.
+No criminal cases declared. MPLADS utilization: 33.2%. Parliament attendance: 100.0%. Questions asked: 21. Debates participated: 16. Low confidence data: Assets. 1 warning(s) noted.
 
 ---
 
@@ -134,7 +143,7 @@ No criminal cases declared. Declared assets: Rs 76,085,514. MPLADS utilization: 
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -232,12 +241,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

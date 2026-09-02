@@ -3,24 +3,22 @@
 **Constituency:** Nabarangpur, Odisha
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 63
-**Education:** Graduate
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (46%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 49.0 / 100
+## Composite Transparency Score: 44.2 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 3.6 | 25% |
-| Asset Growth | 60.0 | 15% |
-| Criminal Record | 80.0 | 15% |
+| Asset Growth | 45.0 | 15% |
+| Criminal Record | 60.0 | 15% |
 | Parliament Attendance | 70.0 | 10% |
 | Questions & Debates | 60.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
-| Public Accessibility | 15.0 | 5% |
+| Public Accessibility | 45.0 | 5% |
 | Legislative Effectiveness | 40.0 | 10% |
 
 ---
@@ -28,24 +26,28 @@
 ## Criminal Record
 
 - **Total Cases:** 2
-- **Serious Cases:** 0
+- **Serious Cases:** 2
 - **Convictions:** 0
 - **Pending Cases:** 2
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
+### Cases Detail
+
+1. 34, dt. 05/03/2021 at Jharigaon Police Station, Jharigaon (Sections: 342, 353, 294, 506, 149, 143, 186, 120B, 427) [pending] **SERIOUS**
+2. 59 dt. 02.02.2021 at Nabarangpur Police Station, Nabarangpur (Sections: 143, 294, 341, 353, 506, 120B, 149) [pending] **SERIOUS**
+
 ---
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 7.89 Crore
-- **Liabilities:** Rs 11.25 Lakh
-- **Net Worth:** Rs 7.77 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 52% of Lok Sabha MPs
 
 ---
 
@@ -69,37 +71,60 @@
 
 ---
 
+## Public Accessibility
+
+- **Platforms:** 1
+
+
+| Platform | Handle | Verified | Active |
+|----------|--------|----------|--------|
+| Twitter | [@Balabhadra Majhi14](https://x.com/Balabhadra Majhi14) | No | Yes |
+
+---
+
 ## In The News
 
 *Mixed/neutral coverage (10 articles)*
 
 - **Total Articles:** 10
-- **Positive:** 2 | **Negative:** 0 | **Neutral:** 8
+- **Positive:** 1 | **Negative:** 0 | **Neutral:** 9
 
 - BJP delegation visits Sijimali, holds talks with tribal protesters - The New Indian Express (The New Indian Express) [neutral]
-- Odisha BJP assures justice to tribals - The Hans India (The Hans India) [neutral]
-- MP Balabhadra Majhi flags delay in setting up MSME technology centre - EdexLive (EdexLive) [neutral]
-- Malkangiri MV-26 Violence: Arrests Climb to 18 as Normalcy Returns With Relief Efforts - pragativadi.com (pragativadi.com) [positive]
+- BJP delegation meets tribals opposing bauxite mining in Sijimali, promises 'justice' - The New Indian Express (The New Indian Express) [neutral]
 - Lok Sabha elections 2019: BJD’s Nabarangpur MP Balabhadra Majhi quits party ahead of polls - The Times of India (The Times of India) [neutral]
+- Odisha: BJD MP Balabhadra Majhi resigns from party - The Indian Express (The Indian Express) [neutral]
+- Nabarangapur (ST) lok sabha election results 2024: Nabarangapur (ST) Winning Candidates List and Vote Share - India Today (India Today) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **BJP delegation visits Sijimali, holds talks with tribal protesters - The New Indian Express** (The New Indian Express)
+- ! **BJP delegation meets tribals opposing bauxite mining in Sijimali, promises 'justice' - The New Indian Express** (The New Indian Express)
+- ! **Lok Sabha elections 2019: BJD’s Nabarangpur MP Balabhadra Majhi quits party ahead of polls - The Times of India** (The Times of India)
+- ! **Odisha: BJD MP Balabhadra Majhi resigns from party - The Indian Express** (The Indian Express)
+- ! **Nabarangapur (ST) lok sabha election results 2024: Nabarangapur (ST) Winning Candidates List and Vote Share - India Today** (India Today)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
 - [!] **mplads**: Extremely low utilization rate — verify data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Odisha: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Balabhadra Majhi has a below-average transparency score of 49.0/100, indicating significant room for improvement. Minor criminal cases on record. Low MPLADS fund utilization needs attention. Active in questions and debates.
+Balabhadra Majhi has a below-average transparency score of 44.2/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. Active in questions and debates.
 
 ---
 
-Has 2 criminal case(s) (0 serious), 2 pending, 0 conviction(s). Declared assets: Rs 78,863,561. MPLADS utilization: 4.5%. Parliament attendance: 70.0%. Questions asked: 21. Debates participated: 5. 1 warning(s) noted.
+Has 2 criminal case(s) (2 serious), 2 pending, 0 conviction(s). MPLADS utilization: 4.5%. Parliament attendance: 70.0%. Questions asked: 21. Debates participated: 5. Low confidence data: Assets. 2 warning(s) noted.
 
 ---
 
@@ -139,7 +164,7 @@ Has 2 criminal case(s) (0 serious), 2 pending, 0 conviction(s). Declared assets:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -237,12 +262,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

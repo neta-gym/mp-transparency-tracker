@@ -3,19 +3,17 @@
 **Constituency:** Adilabad, Telangana
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 59
-**Education:** Post Graduate
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (39%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 55.0 / 100
+## Composite Transparency Score: 52.7 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 17.5 | 25% |
-| Asset Growth | 60.0 | 15% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 90.0 | 15% |
 | Parliament Attendance | 85.0 | 10% |
 | Questions & Debates | 50.0 | 10% |
@@ -34,18 +32,21 @@
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
+### Cases Detail
+
+1. 158/2024 P.S-1 Town Adilabad | Section- 125 RP Act (Sections: 188, 294(B)) [pending] 
+
 ---
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 3.09 Crore
-- **Liabilities:** Rs 29.02 Lakh
-- **Net Worth:** Rs 2.80 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 26% of Lok Sabha MPs
 
 ---
 
@@ -76,29 +77,41 @@
 - **Total Articles:** 10
 - **Positive:** 1 | **Negative:** 1 | **Neutral:** 8
 
-- Ex-officio Votes Crucial for Parties in Hung Adilabad Municipalities - Deccan Chronicle (Deccan Chronicle) [neutral]
-- Adilabad BJP MLA, MP share stage with CM Revanth Reddy at Praja Palana event - The New Indian Express (The New Indian Express) [neutral]
-- Godam Nagesh predicts BJP’s victory in Kagaznagar civic polls - The Hans India (The Hans India) [neutral]
-- BJP MLAs Say Only Technical Clearances Pending for Adilabad Airport - Deccan Chronicle (Deccan Chronicle) [neutral]
+- Telangana's Adilabad–Armoor rail DPR likely to get nod after inputs - The New Indian Express (The New Indian Express) [neutral]
 - BRS cadre protest against ‘cap’ on cotton procurement in Adilabad - The Hindu (The Hindu) [negative]
+- Kishan Reddy Reviews Land Acquisition For Adilabad Airport - Deccan Chronicle (Deccan Chronicle) [neutral]
+- Adilabad outcome rests on Adivasi, Lambada support - timesofindia.indiatimes.com (timesofindia.indiatimes.com) [neutral]
+- Three-day photo exhibition inaugurated in Adilabad - Telangana Today (Telangana Today) [positive]
+
+---
+
+## News & Allegations
+
+- ! **Telangana's Adilabad–Armoor rail DPR likely to get nod after inputs - The New Indian Express** (The New Indian Express)
+- !! **BRS cadre protest against ‘cap’ on cotton procurement in Adilabad - The Hindu** (The Hindu)
+- ! **Kishan Reddy Reviews Land Acquisition For Adilabad Airport - Deccan Chronicle** (Deccan Chronicle)
+- ! **Adilabad outcome rests on Adivasi, Lambada support - timesofindia.indiatimes.com** (timesofindia.indiatimes.com)
+- ! **Three-day photo exhibition inaugurated in Adilabad - Telangana Today** (Telangana Today)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Telangana: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Godam Nagesh shows moderate transparency with a score of 55.0/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance.
+Godam Nagesh shows moderate transparency with a score of 52.7/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance.
 
 ---
 
-Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Declared assets: Rs 30,916,833. MPLADS utilization: 21.8%. Parliament attendance: 85.0%. Questions asked: 15. Debates participated: 2.
+Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). MPLADS utilization: 21.8%. Parliament attendance: 85.0%. Questions asked: 15. Debates participated: 2. Low confidence data: Assets. 1 warning(s) noted.
 
 ---
 
@@ -138,7 +151,7 @@ Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Declared assets:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -236,12 +249,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

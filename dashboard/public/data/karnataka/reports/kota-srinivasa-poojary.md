@@ -4,21 +4,21 @@
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Third-party (C)
+**Data Confidence:** Low (34%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 55.5 / 100
+## Composite Transparency Score: 46.2 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 16.1 | 25% |
-| Asset Growth | 50.0 | 15% |
-| Criminal Record | 100.0 | 15% |
+| Asset Growth | 45.0 | 15% |
+| Criminal Record | 45.0 | 15% |
 | Parliament Attendance | 80.0 | 10% |
 | Questions & Debates | 60.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
-| Public Accessibility | 15.0 | 5% |
+| Public Accessibility | 65.0 | 5% |
 | Legislative Effectiveness | 40.0 | 10% |
 
 ---
@@ -36,14 +36,13 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 2.95 Crore
-- **Liabilities:** Rs 1.04 Crore
-- **Net Worth:** Rs 1.90 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 25% of Lok Sabha MPs
 
 ---
 
@@ -67,6 +66,18 @@
 
 ---
 
+## Public Accessibility
+
+- **Platforms:** 2
+
+
+| Platform | Handle | Verified | Active |
+|----------|--------|----------|--------|
+| Facebook | [@https://www.facebook.com/kotasrinivasapoojary/](https://facebook.com/https://www.facebook.com/kotasrinivasapoojary/) | No | Yes |
+| Instagram | [@https://www.instagram.com/kotasbjp/?next=%2Fmdashfaqahmed%2Ffeed%2F&hl=fr-ca](https://instagram.com/https://www.instagram.com/kotasbjp/?next=%2Fmdashfaqahmed%2Ffeed%2F&hl=fr-ca) | No | Yes |
+
+---
+
 ## In The News
 
 *Mixed/neutral coverage (10 articles)*
@@ -74,29 +85,42 @@
 - **Total Articles:** 10
 - **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
 
-- Mangaluru–Muscat direct flight to resume from March 2026: MP Kota Srinivas Poojary - Mangalore Today (Mangalore Today) [neutral]
-- 'Dark day for democracy' : Karnataka BJP MP Kota Poojary slams Congress over defeat of women's reservation bill - Dailyhunt (Dailyhunt) [neutral]
-- MP urges Centre to hasten process of declaring Kundapura-Chikkamagaluru State Highway as NH - The Hindu (The Hindu) [neutral]
-- MP to officials: Complete national highway works within stipulated time - The Times of India (The Times of India) [neutral]
-- CNG rollout lags in Chikkamagaluru- Hassan-Kodagu region - The New Indian Express (The New Indian Express) [neutral]
+- MP urges Karnataka CM to allow KRCL merger with Indian Railways - The Hindu (The Hindu) [neutral]
+- Congress showing sudden overflow of devotion for Lord Rama: MP Kota - The Times of India (The Times of India) [neutral]
+- MP Kota Srinivas Poojary meets CM D.K. Shivakumar, seeks Karnataka’s support for Konkan Railway merger - Mangalore Today (Mangalore Today) [neutral]
+- BJP MP Kota Srinivas Poojary slams Priyank Kharge for targeting RSS, urges focus on governance - Deccan Herald (Deccan Herald) [neutral]
+- Poojary hopes Forest Department facilitates widening of key highway stretch - The Hindu (The Hindu) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **MP urges Karnataka CM to allow KRCL merger with Indian Railways - The Hindu** (The Hindu)
+- ! **Congress showing sudden overflow of devotion for Lord Rama: MP Kota - The Times of India** (The Times of India)
+- ! **MP Kota Srinivas Poojary meets CM D.K. Shivakumar, seeks Karnataka’s support for Konkan Railway merger - Mangalore Today** (Mangalore Today)
+- ! **BJP MP Kota Srinivas Poojary slams Priyank Kharge for targeting RSS, urges focus on governance - Deccan Herald** (Deccan Herald)
+- ! **Poojary hopes Forest Department facilitates widening of key highway stretch - The Hindu** (The Hindu)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
+- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Karnataka: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Kota Srinivasa Poojary shows moderate transparency with a score of 55.5/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Kota Srinivasa Poojary has a below-average transparency score of 46.2/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-No criminal cases declared. Declared assets: Rs 29,470,510. MPLADS utilization: 20.1%. Parliament attendance: 80.0%. Questions asked: 48. Debates participated: 2.
+No criminal cases declared. MPLADS utilization: 20.1%. Parliament attendance: 80.0%. Questions asked: 48. Debates participated: 2. Low confidence data: Criminal record, Assets. 2 warning(s) noted.
 
 ---
 
@@ -136,7 +160,7 @@ No criminal cases declared. Declared assets: Rs 29,470,510. MPLADS utilization: 
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -234,10 +258,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

@@ -3,19 +3,17 @@
 **Constituency:** Rohtak, Haryana
 **Party:** Indian National Congress
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 46
-**Education:** Post Graduate
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (37%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 59.6 / 100
+## Composite Transparency Score: 57.3 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 26.6 | 25% |
-| Asset Growth | 60.0 | 15% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 90.0 | 10% |
 | Questions & Debates | 50.0 | 10% |
@@ -38,14 +36,13 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 69.26 Crore
-- **Liabilities:** Rs 23.18 Lakh
-- **Net Worth:** Rs 69.02 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 89% of Lok Sabha MPs
 
 ---
 
@@ -76,29 +73,41 @@
 - **Total Articles:** 10
 - **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
 
-- ‘Photo protocol’ breached again, poster triggers buzz over rift in Hry Cong - The Times of India (The Times of India) [neutral]
-- BJP did 'vote chori' in Haryana RS poll; action to be taken against MLAs for cross-voting: Congress - The New Indian Express (The New Indian Express) [neutral]
-- Rahul Gandhi: Congress leader attends farmer’s daughter wedding in Sonipat - Deccan Herald (Deccan Herald) [neutral]
-- Cong MP Hooda Slams Govt Over 'Record Faultlines' In Economy - ETV Bharat (ETV Bharat) [neutral]
-- Deepender Hooda slams state govt over ‘collapsed sports infrastructure’ after death of teen players - The Tribune (The Tribune) [neutral]
+- Deepender clarifies remarks on Sajjan Kumar as row deepens - timesofindia.indiatimes.com (timesofindia.indiatimes.com) [neutral]
+- After Deepender Hooda called Sajjan Kumar ‘role model’, Channi: ‘traitor, deserved to be shot in public square’ - The Indian Express (The Indian Express) [neutral]
+- ‘He was inhuman, not an example’: Channi draws line after Deepender Hooda’s tribute to Sajjan Kumar - The Tribune (The Tribune) [neutral]
+- Survey ranks MP from Rohtak, Deepender among top 30 MPs: Cong leader - The Tribune (The Tribune) [neutral]
+- Devastating Fire In Rohtak Market Kills Three, Gutting Ten Shops - Rediff (Rediff) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Deepender clarifies remarks on Sajjan Kumar as row deepens - timesofindia.indiatimes.com** (timesofindia.indiatimes.com)
+- ! **After Deepender Hooda called Sajjan Kumar ‘role model’, Channi: ‘traitor, deserved to be shot in public square’ - The Indian Express** (The Indian Express)
+- ! **‘He was inhuman, not an example’: Channi draws line after Deepender Hooda’s tribute to Sajjan Kumar - The Tribune** (The Tribune)
+- ! **Survey ranks MP from Rohtak, Deepender among top 30 MPs: Cong leader - The Tribune** (The Tribune)
+- ! **Devastating Fire In Rohtak Market Kills Three, Gutting Ten Shops - Rediff** (Rediff)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Haryana: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Deepender Singh Hooda shows moderate transparency with a score of 59.6/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
+Deepender Singh Hooda shows moderate transparency with a score of 57.3/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
 
 ---
 
-No criminal cases declared. Declared assets: Rs 692,558,771. MPLADS utilization: 33.2%. Parliament attendance: 90.0%. Questions asked: 8. Debates participated: 8.
+No criminal cases declared. MPLADS utilization: 33.2%. Parliament attendance: 90.0%. Questions asked: 8. Debates participated: 8. Low confidence data: Assets. 1 warning(s) noted.
 
 ---
 
@@ -138,7 +147,7 @@ No criminal cases declared. Declared assets: Rs 692,558,771. MPLADS utilization:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -236,12 +245,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

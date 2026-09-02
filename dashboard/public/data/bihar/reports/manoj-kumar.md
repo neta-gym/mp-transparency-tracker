@@ -3,24 +3,22 @@
 **Constituency:** Sasaram, Bihar
 **Party:** Indian National Congress
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 40
-**Education:** Graduate
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (46%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 59.6 / 100
+## Composite Transparency Score: 56.8 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 42.8 | 25% |
-| Asset Growth | 60.0 | 15% |
-| Criminal Record | 90.0 | 15% |
+| Asset Growth | 45.0 | 15% |
+| Criminal Record | 80.0 | 15% |
 | Parliament Attendance | 95.0 | 10% |
 | Questions & Debates | 30.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
-| Public Accessibility | 15.0 | 5% |
+| Public Accessibility | 45.0 | 5% |
 | Legislative Effectiveness | 40.0 | 10% |
 
 ---
@@ -28,24 +26,27 @@
 ## Criminal Record
 
 - **Total Cases:** 1
-- **Serious Cases:** 0
+- **Serious Cases:** 1
 - **Convictions:** 0
 - **Pending Cases:** 1
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
+### Cases Detail
+
+1. Sasaram Sadar P.S. Case No 269/22, (Sections: 147, 148, 149, 341, 323, 307, 353, 427, 508, 506) [pending] **SERIOUS**
+
 ---
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 3.25 Crore
-- **Liabilities:** Rs 24.00 Lakh
-- **Net Worth:** Rs 3.01 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 27% of Lok Sabha MPs
 
 ---
 
@@ -69,6 +70,17 @@
 
 ---
 
+## Public Accessibility
+
+- **Platforms:** 1
+
+
+| Platform | Handle | Verified | Active |
+|----------|--------|----------|--------|
+| Facebook | [@https://www.facebook.com/p/Manoj-Kumar-61558580087844/?_rdr](https://facebook.com/https://www.facebook.com/p/Manoj-Kumar-61558580087844/?_rdr) | No | Yes |
+
+---
+
 ## In The News
 
 *Mixed/neutral coverage (10 articles)*
@@ -76,29 +88,41 @@
 - **Total Articles:** 10
 - **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
 
-- Bihar Congress MP Manoj Kumar injured after being beaten up in apparent incident of road rage - Dailyhunt (Dailyhunt) [neutral]
 - Shri Manoj Kumar Sasaram, MP (Lok Sabha), addressed the media at Indira Bhawan | AICC Hdqrs - inc.in (inc.in) [neutral]
-- BJP picks Nitin Nabin and Shivesh Kumar for Rajya Sabha elections in Bihar - The Hans India (The Hans India) [neutral]
 - Congress demands action against those who attacked Dalit MP in Bihar - The Hindu (The Hindu) [neutral]
-- Congress Announces Seven Candidates for Lok Sabha Elections in Bihar and Punjab - Newsonair (Newsonair) [neutral]
+- Bihar Congress Minister Manoj Kumar Beaten By Villagers, Sustains Head Injury - NDTV (NDTV) [neutral]
+- Congress MP Manoj Kumar Ram attacked during clash over school dispute in Bihar - Telegraph India (Telegraph India) [neutral]
+- Sasaram: New faces fight for Jagjiwan Ram’s old citadel as kin opt out | Hindustan Times - Hindustan Times (Hindustan Times) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Shri Manoj Kumar Sasaram, MP (Lok Sabha), addressed the media at Indira Bhawan | AICC Hdqrs - inc.in** (inc.in)
+- ! **Congress demands action against those who attacked Dalit MP in Bihar - The Hindu** (The Hindu)
+- ! **Bihar Congress Minister Manoj Kumar Beaten By Villagers, Sustains Head Injury - NDTV** (NDTV)
+- ! **Congress MP Manoj Kumar Ram attacked during clash over school dispute in Bihar - Telegraph India** (Telegraph India)
+- ! **Sasaram: New faces fight for Jagjiwan Ram’s old citadel as kin opt out | Hindustan Times - Hindustan Times** (Hindustan Times)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Bihar: 8 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Manoj Kumar shows moderate transparency with a score of 59.6/100. Minor criminal cases on record. High parliament attendance.
+Manoj Kumar shows moderate transparency with a score of 56.8/100. Minor criminal cases on record. High parliament attendance.
 
 ---
 
-Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Declared assets: Rs 32,491,416. MPLADS utilization: 51.8%. Parliament attendance: 95.0%. Questions asked: 3. Debates participated: 3.
+Has 1 criminal case(s) (1 serious), 1 pending, 0 conviction(s). MPLADS utilization: 51.8%. Parliament attendance: 95.0%. Questions asked: 3. Debates participated: 3. Low confidence data: Assets. 1 warning(s) noted.
 
 ---
 
@@ -138,7 +162,7 @@ Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Declared assets:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -236,12 +260,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

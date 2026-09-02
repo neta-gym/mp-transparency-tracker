@@ -3,19 +3,17 @@
 **Constituency:** Kaiserganj, Uttar Pradesh
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 33
-**Education:** Graduate Professional
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (37%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 62.5 / 100
+## Composite Transparency Score: 61.8 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 53.9 | 25% |
-| Asset Growth | 50.0 | 15% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 90.0 | 10% |
 | Questions & Debates | 40.0 | 10% |
@@ -38,14 +36,13 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 49.57 Crore
-- **Liabilities:** Rs 22.94 Crore
-- **Net Worth:** Rs 26.63 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 84% of Lok Sabha MPs
 
 ---
 
@@ -74,31 +71,43 @@
 *Mixed/neutral coverage (10 articles)*
 
 - **Total Articles:** 10
-- **Positive:** 0 | **Negative:** 1 | **Neutral:** 9
+- **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
 
+- Brij Bhushan’s comeback in BJP has the key hurdle removed - The Indian Express (The Indian Express) [neutral]
+- Karan Bhushan hails father's acquittal as 'victory of truth' - Awaz The Voice (Awaz The Voice) [neutral]
+- Why Brij Bhushan's acquittal has triggered a political chess game in Uttar Pradesh - Moneycontrol.com (Moneycontrol.com) [neutral]
 - ‘Will reach Parliament with my father Brij Bhushan after next elections,’ says Karan Bhushan Singh - The Statesman (The Statesman) [neutral]
-- Brij Bhushan Sharan Singh Hints at 2029 Lok Sabha Contest from Faizabad - Daily Pioneer (Daily Pioneer) [neutral]
-- 'Removed through conspiracy': Brij Bhushan Singh's big charge after sexual harassment-linked ouster; vows - The Times of India (The Times of India) [neutral]
 - Brijbhushan Singh prepares to contest election from Faizabad: Vinay Katiyar already active; will BJP give t... - Bhaskar English (Bhaskar English) [neutral]
-- Brij Bhushan Singh alleges conspiracy on ouster from Lok Sabha - The Siasat Daily (The Siasat Daily) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Brij Bhushan’s comeback in BJP has the key hurdle removed - The Indian Express** (The Indian Express)
+- ! **Karan Bhushan hails father's acquittal as 'victory of truth' - Awaz The Voice** (Awaz The Voice)
+- ! **Why Brij Bhushan's acquittal has triggered a political chess game in Uttar Pradesh - Moneycontrol.com** (Moneycontrol.com)
+- ! **‘Will reach Parliament with my father Brij Bhushan after next elections,’ says Karan Bhushan Singh - The Statesman** (The Statesman)
+- ! **Brijbhushan Singh prepares to contest election from Faizabad: Vinay Katiyar already active; will BJP give t... - Bhaskar English** (Bhaskar English)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Uttar Pradesh: 8 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Karan Bhushan Singh shows moderate transparency with a score of 62.5/100. No criminal cases declared. High parliament attendance.
+Karan Bhushan Singh shows moderate transparency with a score of 61.8/100. No criminal cases declared. High parliament attendance.
 
 ---
 
-No criminal cases declared. Declared assets: Rs 495,681,640. MPLADS utilization: 59.3%. Parliament attendance: 90.0%. Questions asked: 6. Debates participated: 1.
+No criminal cases declared. MPLADS utilization: 59.3%. Parliament attendance: 90.0%. Questions asked: 6. Debates participated: 1. Low confidence data: Assets. 1 warning(s) noted.
 
 ---
 
@@ -138,7 +147,7 @@ No criminal cases declared. Declared assets: Rs 495,681,640. MPLADS utilization:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -236,12 +245,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

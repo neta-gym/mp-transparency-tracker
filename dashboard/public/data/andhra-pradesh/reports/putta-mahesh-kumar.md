@@ -76,8 +76,18 @@
 - TDP MP Putta Mahesh Yadav Urges Police Leniency for Drunk Drivers - The Times of India (The Times of India) [neutral]
 - Narcotics case: Naidu asks MP Putta Mahesh to stay away from party activities - The Hindu (The Hindu) [neutral]
 - Eluru MP Putta opts for trial over de-addiction - The New Indian Express (The New Indian Express) [neutral]
-- Hyderabad drug bust: Naidu directs Eluru MP Putta Mahesh Kumar Yadav to stay away from TDP activities - The South First (The South First) [neutral]
 - TDP’s Eluru MP, who tested positive for meth after Hyderabad farmhouse drug bust, put on notice - ThePrint (ThePrint) [neutral]
+- TDP MP Putta Mahesh Kumar asked to explain role in drugs after Hyderabad farmhouse raid | India News - hindustantimes.com (hindustantimes.com) [negative]
+
+---
+
+## News & Allegations
+
+- ! **TDP MP Putta Mahesh Yadav Urges Police Leniency for Drunk Drivers - The Times of India** (The Times of India)
+- ! **Narcotics case: Naidu asks MP Putta Mahesh to stay away from party activities - The Hindu** (The Hindu)
+- ! **Eluru MP Putta opts for trial over de-addiction - The New Indian Express** (The New Indian Express)
+- ! **TDP’s Eluru MP, who tested positive for meth after Hyderabad farmhouse drug bust, put on notice - ThePrint** (ThePrint)
+- !! **TDP MP Putta Mahesh Kumar asked to explain role in drugs after Hyderabad farmhouse raid | India News - hindustantimes.com** (hindustantimes.com)
 
 ---
 
@@ -139,7 +149,7 @@ No criminal cases declared. Parliament attendance: 60.0%. Questions asked: 51. D
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,

@@ -3,24 +3,22 @@
 **Constituency:** Bilaspur, Chhattisgarh
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 54
-**Education:** Post Graduate
 **Report Date:** 2026-09-02
-**Data Confidence:** Low (43%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (37%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 53.0 / 100
+## Composite Transparency Score: 52.2 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 23.6 | 25% |
-| Asset Growth | 60.0 | 15% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 50.0 | 10% |
 | Questions & Debates | 50.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
-| Public Accessibility | 15.0 | 5% |
+| Public Accessibility | 45.0 | 5% |
 | Legislative Effectiveness | 40.0 | 10% |
 
 ---
@@ -38,14 +36,13 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 1.32 Crore
-- **Liabilities:** Rs 6.68 Lakh
-- **Net Worth:** Rs 1.25 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 11% of Lok Sabha MPs
 
 ---
 
@@ -69,6 +66,17 @@
 
 ---
 
+## Public Accessibility
+
+- **Platforms:** 1
+
+
+| Platform | Handle | Verified | Active |
+|----------|--------|----------|--------|
+| Facebook | [@https://www.facebook.com/tokhan.sahu.3/](https://facebook.com/https://www.facebook.com/tokhan.sahu.3/) | No | Yes |
+
+---
+
 ## In The News
 
 *Mixed/neutral coverage (10 articles)*
@@ -76,30 +84,42 @@
 - **Total Articles:** 10
 - **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
 
+- Bilaspur To Bengaluru In 29 Hours: New Weekly Train Covers 1,500+ Km, Check Route & Timings - curlytales.com (curlytales.com) [neutral]
 - Modi 3.0: 1st-Time MP Tokhan Sahu Sole Representation From Chhattisgarh - NDTV (NDTV) [neutral]
 - Rise & rise of BJP MP Tokhan Sahu - The Times of India (The Times of India) [neutral]
-- Tokhan Sahu from Chhattisgarh sworn in as Minister of State in Modi cabinet - The Statesman (The Statesman) [neutral]
 - Chhattisgarh: BJP's Tokhan Sahu to contest against Congress leader Devendra Yadav from Bilaspur - ANI News (ANI News) [neutral]
-- Chhattisgarh Lok Sabha Election Results Winners Full List 2024: Brijmohan Agrawal wins in Raipur, Tokhan Sahu bags Bilaspur seat - Zee Business (Zee Business) [neutral]
+- Sahu's amazing journey from Chhattisgarh panchayat to Union council - Rediff (Rediff) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Bilaspur To Bengaluru In 29 Hours: New Weekly Train Covers 1,500+ Km, Check Route & Timings - curlytales.com** (curlytales.com)
+- ! **Modi 3.0: 1st-Time MP Tokhan Sahu Sole Representation From Chhattisgarh - NDTV** (NDTV)
+- ! **Rise & rise of BJP MP Tokhan Sahu - The Times of India** (The Times of India)
+- ! **Chhattisgarh: BJP's Tokhan Sahu to contest against Congress leader Devendra Yadav from Bilaspur - ANI News** (ANI News)
+- ! **Sahu's amazing journey from Chhattisgarh panchayat to Union council - Rediff** (Rediff)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
 - [!] **parliament_activity**: Low confidence in parliament activity data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Chhattisgarh: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Tokhan Sahu shows moderate transparency with a score of 53.0/100. No criminal cases declared. Low MPLADS fund utilization needs attention.
+Tokhan Sahu shows moderate transparency with a score of 52.2/100. No criminal cases declared. Low MPLADS fund utilization needs attention.
 
 ---
 
-No criminal cases declared. Declared assets: Rs 13,190,513. MPLADS utilization: 29.5%. Low confidence data: Parliament activity. 1 warning(s) noted.
+No criminal cases declared. MPLADS utilization: 29.5%. Low confidence data: Assets, Parliament activity. 2 warning(s) noted.
 
 ---
 
@@ -139,7 +159,7 @@ No criminal cases declared. Declared assets: Rs 13,190,513. MPLADS utilization: 
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -237,12 +257,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

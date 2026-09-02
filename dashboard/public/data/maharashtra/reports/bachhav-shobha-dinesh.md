@@ -3,24 +3,22 @@
 **Constituency:** Dhule, Maharashtra
 **Party:** Indian National Congress
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 65
-**Education:** Others
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (46%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 54.7 / 100
+## Composite Transparency Score: 53.9 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 4.5 | 25% |
-| Asset Growth | 60.0 | 15% |
-| Criminal Record | 80.0 | 15% |
+| Asset Growth | 45.0 | 15% |
+| Criminal Record | 70.0 | 15% |
 | Parliament Attendance | 100.0 | 10% |
 | Questions & Debates | 70.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
-| Public Accessibility | 15.0 | 5% |
+| Public Accessibility | 85.0 | 5% |
 | Legislative Effectiveness | 40.0 | 10% |
 
 ---
@@ -28,24 +26,28 @@
 ## Criminal Record
 
 - **Total Cases:** 2
-- **Serious Cases:** 0
+- **Serious Cases:** 1
 - **Convictions:** 0
 - **Pending Cases:** 2
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
+### Cases Detail
+
+1. Section 13(c) and 13(1)(c) of Prevention of Corruption Act. (Sections: 405, 406, 408, 409, 418, 419, 420, 425, 34, 120B) [pending] **SERIOUS**
+2. 0086/2021 Sakarwada Police Station Gangapur Road Nashik 422005 | Section 3 of Epidemic Diseases Act 1897 (Sections: 188, 269, 270) [pending] 
+
 ---
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 30.50 Crore
-- **Liabilities:** Rs 2.12 Crore
-- **Net Worth:** Rs 28.39 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 78% of Lok Sabha MPs
 
 ---
 
@@ -69,6 +71,19 @@
 
 ---
 
+## Public Accessibility
+
+- **Platforms:** 3
+
+
+| Platform | Handle | Verified | Active |
+|----------|--------|----------|--------|
+| Twitter | [@https://x.com/i/flow/login?redirect_after_login=%2FBachhavTai](https://x.com/https://x.com/i/flow/login?redirect_after_login=%2FBachhavTai) | No | Yes |
+| Facebook | [@https://www.facebook.com/people/Dr-Shobhatai-Bachhav/61558476471648/](https://facebook.com/https://www.facebook.com/people/Dr-Shobhatai-Bachhav/61558476471648/) | No | Yes |
+| Instagram | [@https://www.instagram.com/shobhataibachhav/](https://instagram.com/https://www.instagram.com/shobhataibachhav/) | No | Yes |
+
+---
+
 ## In The News
 
 *Mixed/neutral coverage (10 articles)*
@@ -77,29 +92,41 @@
 - **Positive:** 0 | **Negative:** 1 | **Neutral:** 9
 
 - Muslim community in Malegaon Central helps Congress win in Dhule - The Times of India (The Times of India) [neutral]
+- Bombay HC: No indication votes cast in name of dead in Dhule, 2024 Lok Sabha polls - SabrangIndia (SabrangIndia) [neutral]
 - HC dismisses ex-BJP MP’s poll fraud plea against Congress’ Shobha Bachhav in Dhule | Mumbai news - Hindustan Times (Hindustan Times) [negative]
-- Lok Sabha Elections: Congress Announces Candidates For Maharashtra For Dhule, Jalna In Maharashtra - ABP News (ABP News) [neutral]
-- Dhule lok sabha election results 2024: Dhule Winning Candidates List and Vote Share - India Today (India Today) [neutral]
 - Dhule Election Result 2024 LIVE Updates Highlights: Bachhav Shobha Dinesh of INC Wins - News18 (News18) [neutral]
+- Dhule election results 2024 live updates: Congress' Bachhav Shobha Dinesh wins - The Times of India (The Times of India) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Muslim community in Malegaon Central helps Congress win in Dhule - The Times of India** (The Times of India)
+- ! **Bombay HC: No indication votes cast in name of dead in Dhule, 2024 Lok Sabha polls - SabrangIndia** (SabrangIndia)
+- !! **HC dismisses ex-BJP MP’s poll fraud plea against Congress’ Shobha Bachhav in Dhule | Mumbai news - Hindustan Times** (Hindustan Times)
+- ! **Dhule Election Result 2024 LIVE Updates Highlights: Bachhav Shobha Dinesh of INC Wins - News18** (News18)
+- ! **Dhule election results 2024 live updates: Congress' Bachhav Shobha Dinesh wins - The Times of India** (The Times of India)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
 - [!] **mplads**: Extremely low utilization rate — verify data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Maharashtra: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Bachhav Shobha Dinesh shows moderate transparency with a score of 54.7/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Bachhav Shobha Dinesh shows moderate transparency with a score of 53.9/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-Has 2 criminal case(s) (0 serious), 2 pending, 0 conviction(s). Declared assets: Rs 305,035,058. MPLADS utilization: 5.6%. Parliament attendance: 100.0%. Questions asked: 30. Debates participated: 6. 1 warning(s) noted.
+Has 2 criminal case(s) (1 serious), 2 pending, 0 conviction(s). MPLADS utilization: 5.6%. Parliament attendance: 100.0%. Questions asked: 30. Debates participated: 6. Low confidence data: Assets. 2 warning(s) noted.
 
 ---
 
@@ -139,7 +166,7 @@ Has 2 criminal case(s) (0 serious), 2 pending, 0 conviction(s). Declared assets:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -237,12 +264,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

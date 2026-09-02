@@ -3,24 +3,22 @@
 **Constituency:** Sheohar, Bihar
 **Party:** Janata Dal (United)
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 57
-**Education:** Graduate
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (44%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 57.4 / 100
+## Composite Transparency Score: 58.7 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 12.2 | 25% |
-| Asset Growth | 60.0 | 15% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 95.0 | 10% |
 | Questions & Debates | 50.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
-| Public Accessibility | 15.0 | 5% |
+| Public Accessibility | 85.0 | 5% |
 | Legislative Effectiveness | 40.0 | 10% |
 
 ---
@@ -38,14 +36,13 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 9.46 Crore
-- **Liabilities:** Rs 31.70 Lakh
-- **Net Worth:** Rs 9.14 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 57% of Lok Sabha MPs
 
 ---
 
@@ -69,6 +66,19 @@
 
 ---
 
+## Public Accessibility
+
+- **Platforms:** 3
+
+
+| Platform | Handle | Verified | Active |
+|----------|--------|----------|--------|
+| Twitter | [@@lovelyanand](https://x.com/@lovelyanand) | No | Yes |
+| Facebook | [@https://www.facebook.com/LovelyAnandMohan/events/?ref=page_internal&mt_nav=0&_rdr](https://facebook.com/https://www.facebook.com/LovelyAnandMohan/events/?ref=page_internal&mt_nav=0&_rdr) | No | Yes |
+| Instagram | [@@lovelyanandsheohar](https://instagram.com/@lovelyanandsheohar) | No | Yes |
+
+---
+
 ## In The News
 
 *Mixed/neutral coverage (10 articles)*
@@ -76,29 +86,41 @@
 - **Total Articles:** 10
 - **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
 
-- JD-U's Lovely Anand urges Bihar CM Nitish Kumar to reconsider Rajya Sabha decision - The Hans India (The Hans India) [neutral]
 - As Rajput candidate, will get support in Sheohar naturally: Lovely Anand - The Hindu (The Hindu) [neutral]
 - Sheohar election results 2024 live updates: JD(U)'s Lovely Anand wins - The Times of India (The Times of India) [neutral]
 - Modi a dominant factor, but Vaishya anger at ticket distribution puts NDA’s Lovely Anand in tight spot in Sheohar - The Indian Express (The Indian Express) [neutral]
-- Political Profile of Lovely Anand, Jd(u) Party, Sheohar, and Net Worth - India TV News (India TV News) [neutral]
+- JD(U) releases 2d list of 44 candidates for Bihar Assembly Elections 2025 - News On AIR (News On AIR) [neutral]
+- Wife in LS fray, ‘bahubali’ Anand Mohan who ‘kept Lalu on toes’ faces litmus test in Sheohar - ThePrint (ThePrint) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **As Rajput candidate, will get support in Sheohar naturally: Lovely Anand - The Hindu** (The Hindu)
+- ! **Sheohar election results 2024 live updates: JD(U)'s Lovely Anand wins - The Times of India** (The Times of India)
+- ! **Modi a dominant factor, but Vaishya anger at ticket distribution puts NDA’s Lovely Anand in tight spot in Sheohar - The Indian Express** (The Indian Express)
+- ! **JD(U) releases 2d list of 44 candidates for Bihar Assembly Elections 2025 - News On AIR** (News On AIR)
+- ! **Wife in LS fray, ‘bahubali’ Anand Mohan who ‘kept Lalu on toes’ faces litmus test in Sheohar - ThePrint** (ThePrint)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Bihar: 8 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Lovely Anand shows moderate transparency with a score of 57.4/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
+Lovely Anand shows moderate transparency with a score of 58.7/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
 
 ---
 
-No criminal cases declared. Declared assets: Rs 94,553,723. MPLADS utilization: 15.3%. Parliament attendance: 95.0%. Questions asked: 10. Debates participated: 11.
+No criminal cases declared. MPLADS utilization: 15.3%. Parliament attendance: 95.0%. Questions asked: 10. Debates participated: 11. Low confidence data: Assets. 1 warning(s) noted.
 
 ---
 
@@ -138,7 +160,7 @@ No criminal cases declared. Declared assets: Rs 94,553,723. MPLADS utilization: 
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -236,12 +258,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

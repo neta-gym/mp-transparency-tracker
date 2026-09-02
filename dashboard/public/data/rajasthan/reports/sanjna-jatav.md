@@ -3,24 +3,22 @@
 **Constituency:** Bharatpur, Rajasthan
 **Party:** Indian National Congress
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 26
-**Education:** Graduate
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (44%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 60.6 / 100
+## Composite Transparency Score: 63.4 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 26.9 | 25% |
-| Asset Growth | 50.0 | 15% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 100.0 | 10% |
 | Questions & Debates | 60.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
-| Public Accessibility | 15.0 | 5% |
+| Public Accessibility | 85.0 | 5% |
 | Legislative Effectiveness | 40.0 | 10% |
 
 ---
@@ -38,14 +36,13 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 23.10 Lakh
-- **Liabilities:** Rs 7.15 Lakh
-- **Net Worth:** Rs 15.95 Lakh
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 2% of Lok Sabha MPs
 
 ---
 
@@ -69,6 +66,19 @@
 
 ---
 
+## Public Accessibility
+
+- **Platforms:** 3
+
+
+| Platform | Handle | Verified | Active |
+|----------|--------|----------|--------|
+| Twitter | [@https://x.com/incsanjanajatav](https://x.com/https://x.com/incsanjanajatav) | No | Yes |
+| Facebook | [@https://www.facebook.com/IncSanjanajatav/](https://facebook.com/https://www.facebook.com/IncSanjanajatav/) | No | Yes |
+| Instagram | [@https://www.instagram.com/incsanjanajatav/?hl=en](https://instagram.com/https://www.instagram.com/incsanjanajatav/?hl=en) | No | Yes |
+
+---
+
 ## In The News
 
 *Mixed/neutral coverage (10 articles)*
@@ -76,29 +86,41 @@
 - **Total Articles:** 10
 - **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
 
-- Bharatpur MP criticises health officer for using mobile during meeting: Sanjana Jatav rebukes CMHO and tell... - Bhaskar English (Bhaskar English) [neutral]
-- In Rajasthan, Congress’s 26-year-old Dalit face Sanjna Jatav scripts a comeback: Assembly poll loss to MP - The Indian Express (The Indian Express) [neutral]
-- 26 साल की कांग्रेस सांसद Sanjna Jatav ने Rahul Gandhi के बारे में क्या बताया? | The Lallantop - The Lallantop (The Lallantop) [neutral]
+- Sanjana Jatav confronts ASP over man’s body: Congress MP says, 'Handcuff me'; stopped from taking it amid p... - bhaskarenglish.in (bhaskarenglish.in) [neutral]
 - 'Raised in a Poor Dalit Family, Married at 18': MP Sanjana Jatav Tells Her Story - The Quint (The Quint) [neutral]
-- Young Dalit leader who overcame setback to script poll history | India News - Hindustan Times (Hindustan Times) [neutral]
+- Young Dalit leader who overcame setback to script poll history | India News - hindustantimes.com (hindustantimes.com) [neutral]
+- Big win and victory jig later, youngest Dalit MP: ‘Like moving a mountain’ - The Indian Express (The Indian Express) [neutral]
+- Sanjana Jatav: My biggest support is family and my husband, a policeman - theweek.in (theweek.in) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Sanjana Jatav confronts ASP over man’s body: Congress MP says, 'Handcuff me'; stopped from taking it amid p... - bhaskarenglish.in** (bhaskarenglish.in)
+- ! **'Raised in a Poor Dalit Family, Married at 18': MP Sanjana Jatav Tells Her Story - The Quint** (The Quint)
+- ! **Young Dalit leader who overcame setback to script poll history | India News - hindustantimes.com** (hindustantimes.com)
+- ! **Big win and victory jig later, youngest Dalit MP: ‘Like moving a mountain’ - The Indian Express** (The Indian Express)
+- ! **Sanjana Jatav: My biggest support is family and my husband, a policeman - theweek.in** (theweek.in)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Rajasthan: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Sanjna Jatav shows moderate transparency with a score of 60.6/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Sanjna Jatav shows moderate transparency with a score of 63.4/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-No criminal cases declared. Declared assets: Rs 2,310,193. MPLADS utilization: 33.7%. Parliament attendance: 100.0%. Questions asked: 16. Debates participated: 5.
+No criminal cases declared. MPLADS utilization: 33.7%. Parliament attendance: 100.0%. Questions asked: 16. Debates participated: 5. Low confidence data: Assets. 1 warning(s) noted.
 
 ---
 
@@ -138,7 +160,7 @@ No criminal cases declared. Declared assets: Rs 2,310,193. MPLADS utilization: 3
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -236,12 +258,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

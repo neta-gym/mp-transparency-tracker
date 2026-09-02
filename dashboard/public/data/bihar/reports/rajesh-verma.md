@@ -3,19 +3,17 @@
 **Constituency:** Khagaria, Bihar
 **Party:** Lok Jan Shakti Party (Ram Vilas)
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 31
-**Education:** Graduate Professional
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (39%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 40.7 / 100
+## Composite Transparency Score: 40.0 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 39.8 | 25% |
-| Asset Growth | 50.0 | 15% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 0.0 | 15% |
 | Parliament Attendance | 70.0 | 10% |
 | Questions & Debates | 80.0 | 10% |
@@ -34,18 +32,32 @@
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
+### Cases Detail
+
+1. 667/2020, Kotwali (Jogsar) Police Station (Sections: 341, 323, 504, 506) [pending] 
+2. 658/2020, Kotwali Police Station | Section 3 of Bihar Prevention of Defacement of Public Property Act (Sections: 188) [pending] 
+3. 649/2020, Kotwali Police Station | Section 3 of Bihar Prevention of Defacement of Public Property Act (Sections: 188) [pending] 
+4. 648/2020, Kotwali Tilkamanghi Police Station | Section 3 of Bihar Prevention of Defacement of Public Property Act (Sections: 188) [pending] 
+5. 655/2020, Kotwali Tilkamanjhi Police Station | Section 3 of Bihar Prevention of Defacement of Public Property Act (Sections: 188) [pending] 
+6. 300/2019, Kotwali (Jogsari) Police Station | Section 3(I)(r)(s) 7 SC/ST Act (Sections: 427, 448, 353, 504, 506) [pending] 
+7. 664/2020, Kotwali Police Station (Sections: 500) [pending] 
+8. 240/2020, Mojahidpur (Babarganj) Police Station (Sections: 188, 171(B), 171(E), 120(B)) [pending] 
+9. 662/2020, Kotwali Police Statino | Section 3 of Bihar Prevention of Defacement of Public Property Act (Sections: 188) [pending] 
+10. 654/2020, Kotwali Police Station | Section 3 of Bihar Prevention of Defacement of Public Property Act (Sections: 188) [pending] 
+11. 622/2020, Kotwali Police Station | Section 3 of Bihar Prevention of Defacement of Public Property Act (Sections: 188, 269, 270, 271) [pending] 
+12. 130/2020, Tatarpur Police Station | Section 3 of Epidemic Discease Act and 51(B) NDM Act (Sections: N/A) [pending] 
+
 ---
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 5.39 Crore
-- **Liabilities:** Rs 4.07 Crore
-- **Net Worth:** Rs 1.31 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 42% of Lok Sabha MPs
 
 ---
 
@@ -74,31 +86,43 @@
 *Mixed/neutral coverage (10 articles)*
 
 - **Total Articles:** 10
-- **Positive:** 0 | **Negative:** 1 | **Neutral:** 9
+- **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
 
 - Video | Meet Our MPs: LJP (R) MP Rajesh Verma Shares Vision For Khagaria - NDTV (NDTV) [neutral]
 - Khagaria NDA candidate owns assets worth ₹32cr - The Times of India (The Times of India) [neutral]
-- "38 leaders have resigned, we are forming rebel Lok Janshakti Party": Shivraj Yadav - ANI News (ANI News) [neutral]
-- Ground Report From Bihar's Khagaria, Where JD(U) And LJP Cadres Are 'Permanent Enemies' - Swarajyamag (Swarajyamag) [neutral]
 - Rajesh Verma - The Hindu (The Hindu) [neutral]
+- Khagaria lok sabha election results 2024: Khagaria Winning Candidates List and Vote Share - India Today (India Today) [neutral]
+- Union Min Chirag Paswan questions role of Bihar police following back-to-back murders in state - The New Indian Express (The New Indian Express) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Video | Meet Our MPs: LJP (R) MP Rajesh Verma Shares Vision For Khagaria - NDTV** (NDTV)
+- ! **Khagaria NDA candidate owns assets worth ₹32cr - The Times of India** (The Times of India)
+- ! **Rajesh Verma - The Hindu** (The Hindu)
+- ! **Khagaria lok sabha election results 2024: Khagaria Winning Candidates List and Vote Share - India Today** (India Today)
+- ! **Union Min Chirag Paswan questions role of Bihar police following back-to-back murders in state - The New Indian Express** (The New Indian Express)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Bihar: 8 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Rajesh Verma has a below-average transparency score of 40.7/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. Active in questions and debates.
+Rajesh Verma has a below-average transparency score of 40.0/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. Active in questions and debates.
 
 ---
 
-Has 12 criminal case(s) (0 serious), 12 pending, 0 conviction(s). Declared assets: Rs 53,894,412. MPLADS utilization: 49.8%. Parliament attendance: 70.0%. Questions asked: 52. Debates participated: 9.
+Has 12 criminal case(s) (0 serious), 12 pending, 0 conviction(s). MPLADS utilization: 49.8%. Parliament attendance: 70.0%. Questions asked: 52. Debates participated: 9. Low confidence data: Assets. 1 warning(s) noted.
 
 ---
 
@@ -138,7 +162,7 @@ Has 12 criminal case(s) (0 serious), 12 pending, 0 conviction(s). Declared asset
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -236,12 +260,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

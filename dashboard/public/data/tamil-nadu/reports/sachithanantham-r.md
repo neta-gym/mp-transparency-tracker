@@ -3,19 +3,17 @@
 **Constituency:** Dindigul, Tamil Nadu
 **Party:** Communist Party of India (Marxist)
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 53
-**Education:** Graduate
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (39%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 44.0 / 100
+## Composite Transparency Score: 43.2 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 39.8 | 25% |
-| Asset Growth | 50.0 | 15% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 10.0 | 15% |
 | Parliament Attendance | 85.0 | 10% |
 | Questions & Debates | 70.0 | 10% |
@@ -34,18 +32,29 @@
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
+### Cases Detail
+
+1. 1115/2021 City North Police Station, Dindigul (Sections: 143, 283, 286) [pending] 
+2. 831/2021,  City North Police Station, Dindigul (Sections: 143, 283, 270) [pending] 
+3. 2484/2020, City North Police Station, Dindigul (Sections: 143, 283, 341, 269) [pending] 
+4. 2176/2020, City North Police Station, Dindigul (Sections: 147, 341, 269) [pending] 
+5. 1385/2020, City West Police Station, Dindigul (Sections: 143, 269) [pending] 
+6. 1083/2020, Thadicombu Police Station (Sections: 143, 269) [pending] 
+7. 622/2018, City North Police Station | Section 174(a) Railway Act 1989 (Sections: 143, 188, 341) [pending] 
+8. 427/2018,  City West Police Station (Sections: 143, 188) [pending] 
+9. 392/2023 Palani Nagar Police Station, Palani (Sections: 143, 341, 283) [pending] 
+
 ---
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 25.97 Lakh
-- **Liabilities:** Rs 7.86 Lakh
-- **Net Worth:** Rs 18.12 Lakh
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 2% of Lok Sabha MPs
 
 ---
 
@@ -74,31 +83,43 @@
 *Mixed/neutral coverage (10 articles)*
 
 - **Total Articles:** 10
-- **Positive:** 2 | **Negative:** 0 | **Neutral:** 8
+- **Positive:** 1 | **Negative:** 0 | **Neutral:** 9
 
+- Long-pending demand of people fulfilled - The Hindu (The Hindu) [neutral]
 - Allot NEET centres in TN, urges Dindigul MP - DT Next (DT Next) [neutral]
-- DINDIGUL: CPI(M) Candidate's Vision for Development - The Hindu (The Hindu) [positive]
 - CPM ends losing streak, bags Dindigul LS seat with big win - The Times of India (The Times of India) [neutral]
-- Shipping Minister Sarbananda Sonowal Assures Improvement in Maritime Connectivity for Residents of A&N Islands - Andaman Chronicle (Andaman Chronicle) [neutral]
-- Renowned gynaecologist Dr Kousalya passes away at 93 - The New Indian Express (The New Indian Express) [neutral]
+- Dindigul Election Result 2024 LIVE Updates Highlights: Sachithanantham R of CPIM Wins - News18 (News18) [neutral]
+- DINDIGUL: CPI(M) Candidate's Vision for Development - The Hindu (The Hindu) [positive]
+
+---
+
+## News & Allegations
+
+- ! **Long-pending demand of people fulfilled - The Hindu** (The Hindu)
+- ! **Allot NEET centres in TN, urges Dindigul MP - DT Next** (DT Next)
+- ! **CPM ends losing streak, bags Dindigul LS seat with big win - The Times of India** (The Times of India)
+- ! **Dindigul Election Result 2024 LIVE Updates Highlights: Sachithanantham R of CPIM Wins - News18** (News18)
+- ! **DINDIGUL: CPI(M) Candidate's Vision for Development - The Hindu** (The Hindu)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Tamil Nadu: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Sachithanantham R has a below-average transparency score of 44.0/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Sachithanantham R has a below-average transparency score of 43.2/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-Has 9 criminal case(s) (0 serious), 9 pending, 0 conviction(s). Declared assets: Rs 2,597,479. MPLADS utilization: 49.8%. Parliament attendance: 85.0%. Questions asked: 30. Debates participated: 7.
+Has 9 criminal case(s) (0 serious), 9 pending, 0 conviction(s). MPLADS utilization: 49.8%. Parliament attendance: 85.0%. Questions asked: 30. Debates participated: 7. Low confidence data: Assets. 1 warning(s) noted.
 
 ---
 
@@ -138,7 +159,7 @@ Has 9 criminal case(s) (0 serious), 9 pending, 0 conviction(s). Declared assets:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -236,12 +257,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

@@ -3,25 +3,22 @@
 **Constituency:** Araria, Bihar
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 33
-**Education:** 12th Pass
-**Profession:** Social Service
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (46%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 52.0 / 100
+## Composite Transparency Score: 60.5 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 61.4 | 25% |
-| Asset Growth | 55.0 | 15% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 60.0 | 15% |
-| Parliament Attendance | 45.0 | 10% |
+| Parliament Attendance | 95.0 | 10% |
 | Questions & Debates | 60.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
-| Public Accessibility | 15.0 | 5% |
+| Public Accessibility | 65.0 | 5% |
 | Legislative Effectiveness | 40.0 | 10% |
 
 ---
@@ -35,18 +32,24 @@
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
+### Cases Detail
+
+1. Jogvani Batnaha Dist  Araria, P.S. Case no-120/19 | Section- 3 PDPP Act (Sections: 171F, 188) [pending] 
+2. Araria PS- Case no.- 295/19 Dist- Araria Bihar | Section- 125 RP Act (Sections: 153A, 153B, 295A, 171D, 148, 341, 323, 504) [pending] 
+3. Kurshakanta  PS Case no -38/2001 Dist- Araria Bihar | Section- 27 Arms Act  & Section-3 Prevention of Defacement of Property Act (Sections: 147, 148, 149, 188, 323, 337, 338, 353, 427) [pending] 
+4. Patna Kotwali PS Case no.-516/23  Dist- Patna Bihar (Sections: 188, 147, 149, 323, 337, 338, 353) [pending] 
+
 ---
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 1.61 Crore
-- **Liabilities:** Rs 16.79 Lakh
-- **Net Worth:** Rs 1.44 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 14% of Lok Sabha MPs
 
 ---
 
@@ -62,11 +65,23 @@
 
 ## Parliament Activity
 
-- **Attendance:** 45.0%
-- **Questions Asked:** 21
-- **Debates Participated:** 7
+- **Attendance:** 95.0%
+- **Questions Asked:** 48
+- **Debates Participated:** 2
 - **Private Bills:** 0
 - **Is Minister:** No
+
+---
+
+## Public Accessibility
+
+- **Platforms:** 2
+
+
+| Platform | Handle | Verified | Active |
+|----------|--------|----------|--------|
+| Twitter | [@http://www.twitter.com/pradeep kumar singh BJP](https://x.com/http://www.twitter.com/pradeep kumar singh BJP) | No | Yes |
+| Facebook | [@http://www.facebook.com/pradeep kumar singh](https://facebook.com/http://www.facebook.com/pradeep kumar singh) | No | Yes |
 
 ---
 
@@ -75,31 +90,43 @@
 *Mixed/neutral coverage (10 articles)*
 
 - **Total Articles:** 10
-- **Positive:** 0 | **Negative:** 1 | **Neutral:** 9
+- **Positive:** 0 | **Negative:** 2 | **Neutral:** 8
 
-- 'Become Hindu if you want to live in Araria,' says BJP MP at Giriraj Singh's Swabhiman Yatra - Dailyhunt (Dailyhunt) [neutral]
-- Become a Hindu if you want to stay in Araria, says two-term BJP MP - The Hindu (The Hindu) [neutral]
-- Araria MP stirs controversyover religion comments - The Times of India (The Times of India) [neutral]
-- Bihar govt enhances security of six key leaders including Samrat Chaudhary, Tejashwi Yadav - The Statesman (The Statesman) [neutral]
+- Rubina Saifi ties Rakhi to Araria MP Pradeep Singh - Brighter Kashmir (Brighter Kashmir) [neutral]
+- Become a Hindu if you want to stay in Araria, says two-term BJP MP - thehindu.com (thehindu.com) [neutral]
 - Bihar BJP MP gets extortion calls, death threat from Nepal - The New Indian Express (The New Indian Express) [neutral]
+- Araria MP stirs controversyover religion comments - The Times of India (The Times of India) [neutral]
+- Bihar BJP MP Pradeep Kumar Singh Receives Death Threat From Nepal, FIR Lodged - ETV Bharat (ETV Bharat) [negative]
+
+---
+
+## News & Allegations
+
+- ! **Rubina Saifi ties Rakhi to Araria MP Pradeep Singh - Brighter Kashmir** (Brighter Kashmir)
+- ! **Become a Hindu if you want to stay in Araria, says two-term BJP MP - thehindu.com** (thehindu.com)
+- ! **Bihar BJP MP gets extortion calls, death threat from Nepal - The New Indian Express** (The New Indian Express)
+- ! **Araria MP stirs controversyover religion comments - The Times of India** (The Times of India)
+- !! **Bihar BJP MP Pradeep Kumar Singh Receives Death Threat From Nepal, FIR Lodged - ETV Bharat** (ETV Bharat)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Bihar: 8 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Pradeep Kumar Singh shows moderate transparency with a score of 52.0/100. Significant criminal cases are a concern. Active in questions and debates.
+Pradeep Kumar Singh shows moderate transparency with a score of 60.5/100. Significant criminal cases are a concern. High parliament attendance. Active in questions and debates.
 
 ---
 
-Has 4 criminal case(s) (0 serious), 4 pending, 0 conviction(s). Declared assets: Rs 16,059,806. MPLADS utilization: 64.3%. Parliament attendance: 45.0%. Questions asked: 21. Debates participated: 7.
+Has 4 criminal case(s) (0 serious), 4 pending, 0 conviction(s). MPLADS utilization: 64.3%. Parliament attendance: 95.0%. Questions asked: 48. Debates participated: 2. Low confidence data: Assets. 1 warning(s) noted.
 
 ---
 
@@ -139,7 +166,7 @@ Has 4 criminal case(s) (0 serious), 4 pending, 0 conviction(s). Declared assets:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -237,12 +264,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: myneta, prs, social_media, news, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

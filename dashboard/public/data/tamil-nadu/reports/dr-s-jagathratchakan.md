@@ -4,17 +4,17 @@
 **Party:** Dravida Munnetra Kazhagam
 **House:** Lok Sabha (18th Parliament, 2024-present)
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Third-party (C)
+**Data Confidence:** Low (27%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 41.3 / 100
+## Composite Transparency Score: 35.1 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 14.0 | 25% |
-| Asset Growth | 40.0 | 15% |
-| Criminal Record | 80.0 | 15% |
+| Asset Growth | 45.0 | 15% |
+| Criminal Record | 45.0 | 15% |
 | Parliament Attendance | 25.0 | 10% |
 | Questions & Debates | 60.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
@@ -25,10 +25,10 @@
 
 ## Criminal Record
 
-- **Total Cases:** 2
+- **Total Cases:** 0
 - **Serious Cases:** 0
 - **Convictions:** 0
-- **Pending Cases:** 2
+- **Pending Cases:** 0
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
@@ -36,14 +36,13 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 53.46 Crore
-- **Liabilities:** Rs 656.77 Crore
-- **Net Worth:** Rs -6,033,083,140
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 85% of Lok Sabha MPs
 
 ---
 
@@ -69,35 +68,47 @@
 
 ## In The News
 
-*Mixed/neutral coverage (10 articles)*
+*Mixed/neutral coverage (6 articles)*
 
-- **Total Articles:** 10
-- **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
+- **Total Articles:** 6
+- **Positive:** 0 | **Negative:** 0 | **Neutral:** 6
 
 - Arakkonam election results 2024 live updates: DMK's Jagathratchakan wins against AIADMK's Vijayan - The Times of India (The Times of India) [neutral]
-- Jagathratchakan and the art of juggling politics, business and scams - Mint (Mint) [neutral]
 - ED Fines ₹908 Crore on DMK MP Jagathratchakan for Foreign Exchange Violations - The Hindu (The Hindu) [neutral]
-- Who Is S Jagathratchakan? DMK MP Slapped With Rs 908 Cr Penalty By ED In FEMA Case - Zee News (Zee News) [neutral]
-- Arakkonam Election Result 2024 LIVE Updates Highlights: S Jagathratchakan of DMK Wins - News18 (News18) [neutral]
+- ED Imposes Rs 908 Crore Fine On DMK MP S Jagathrakshakan And His Family | Details - Outlook India (Outlook India) [neutral]
+- ED fines DMK MP Jagathrakshakan and family ₹900 crore in FEMA case - Livemint (Livemint) [neutral]
+- Who is DMK MP S Jagathratchakan who is fined ₹908 crore by ED? | In 2011, he reported assets worth ₹70 crore | Inshorts - Inshorts (Inshorts) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Arakkonam election results 2024 live updates: DMK's Jagathratchakan wins against AIADMK's Vijayan - The Times of India** (The Times of India)
+- ! **ED Fines ₹908 Crore on DMK MP Jagathratchakan for Foreign Exchange Violations - The Hindu** (The Hindu)
+- ! **ED Imposes Rs 908 Crore Fine On DMK MP S Jagathrakshakan And His Family | Details - Outlook India** (Outlook India)
+- ! **ED fines DMK MP Jagathrakshakan and family ₹900 crore in FEMA case - Livemint** (Livemint)
+- ! **Who is DMK MP S Jagathratchakan who is fined ₹908 crore by ED? | In 2011, he reported assets worth ₹70 crore | Inshorts - Inshorts** (Inshorts)
 
 ---
 
 ## Data Validation Flags
 
-- [!] **assets**: Liabilities exceed 5x total assets — unusual, verify
+- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
+- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Tamil Nadu: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Dr. S Jagathratchakan has a below-average transparency score of 41.3/100, indicating significant room for improvement. Minor criminal cases on record. Low MPLADS fund utilization needs attention. Low parliament attendance is notable. Active in questions and debates.
+Dr. S Jagathratchakan has a below-average transparency score of 35.1/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. Low parliament attendance is notable. Active in questions and debates. Data confidence is low — scores should be interpreted with caution.
 
 ---
 
-Has 2 criminal case(s) (0 serious), 2 pending, 0 conviction(s). Declared assets: Rs 534,587,828. MPLADS utilization: 17.6%. Parliament attendance: 25.0%. Questions asked: 46. Debates participated: 2. 1 warning(s) noted.
+No criminal cases declared. MPLADS utilization: 17.6%. Parliament attendance: 25.0%. Questions asked: 46. Debates participated: 2. Low confidence data: Criminal record, Assets. 2 warning(s) noted.
 
 ---
 
@@ -137,7 +148,7 @@ Has 2 criminal case(s) (0 serious), 2 pending, 0 conviction(s). Declared assets:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -235,10 +246,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

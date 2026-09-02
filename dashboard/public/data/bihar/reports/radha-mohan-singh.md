@@ -3,24 +3,22 @@
 **Constituency:** Purvi Champaran, Bihar
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 74
-**Education:** Graduate
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (46%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 55.3 / 100
+## Composite Transparency Score: 56.5 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 32.7 | 25% |
-| Asset Growth | 60.0 | 15% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 80.0 | 15% |
 | Parliament Attendance | 100.0 | 10% |
 | Questions & Debates | 20.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
-| Public Accessibility | 15.0 | 5% |
+| Public Accessibility | 85.0 | 5% |
 | Legislative Effectiveness | 40.0 | 10% |
 
 ---
@@ -34,18 +32,22 @@
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
+### Cases Detail
+
+1. 229/2014, Police Station Turkauliya East Champaran (Sections: 171F, 188) [pending] 
+2. Application No.07/1996 (Sections: 188) [pending] 
+
 ---
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 4.30 Crore
-- **Liabilities:** Rs 29.41 Lakh
-- **Net Worth:** Rs 4.00 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 35% of Lok Sabha MPs
 
 ---
 
@@ -69,6 +71,19 @@
 
 ---
 
+## Public Accessibility
+
+- **Platforms:** 3
+
+
+| Platform | Handle | Verified | Active |
+|----------|--------|----------|--------|
+| Twitter | [@https://x.com/radhamohanbjp](https://x.com/https://x.com/radhamohanbjp) | No | Yes |
+| Facebook | [@https://m.facebook.com/SinghRadhaMohan](https://facebook.com/https://m.facebook.com/SinghRadhaMohan) | No | Yes |
+| Instagram | [@https://www.instagram.com/radhamohanbjp](https://instagram.com/https://www.instagram.com/radhamohanbjp) | No | Yes |
+
+---
+
 ## In The News
 
 *Mixed/neutral coverage (10 articles)*
@@ -76,29 +91,41 @@
 - **Total Articles:** 10
 - **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
 
-- Political Profile of Radha Mohan Singh, Bjp Party, Purvi Champaran, and Net Worth - India TV News (India TV News) [neutral]
-- Radha Mohan Singh Latest News, Updates in Hindi | राधा मोहन सिंह के समाचार और अपडेट - AajTak (AajTak) [neutral]
+- CM announces medical college, sugar mills for East Champaran - The Times of India (The Times of India) [neutral]
+- Radha Mohan Singh Latest News, Updates in Hindi | राधा मोहन सिंह के समाचार और अपडेट - Aaj Tak News (Aaj Tak News) [neutral]
 - Lok Sabha elections: Advantage Radha Mohan in East Champaran again - Business Standard (Business Standard) [neutral]
-- 4 lakh participate in Modi’s Motihari rally - The Times of India (The Times of India) [neutral]
 - Seat watch East Champaran voting on May 12: ‘Radha Mohan up against rookie, but can’t take it lightly’ - The Indian Express (The Indian Express) [neutral]
+- Bihar Lok Sabha Election 2024: Can BJP's Radha Mohan Singh Maintain Perfect Record In Purvi Champaran? - India.com (India.com) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **CM announces medical college, sugar mills for East Champaran - The Times of India** (The Times of India)
+- ! **Radha Mohan Singh Latest News, Updates in Hindi | राधा मोहन सिंह के समाचार और अपडेट - Aaj Tak News** (Aaj Tak News)
+- ! **Lok Sabha elections: Advantage Radha Mohan in East Champaran again - Business Standard** (Business Standard)
+- ! **Seat watch East Champaran voting on May 12: ‘Radha Mohan up against rookie, but can’t take it lightly’ - The Indian Express** (The Indian Express)
+- ! **Bihar Lok Sabha Election 2024: Can BJP's Radha Mohan Singh Maintain Perfect Record In Purvi Champaran? - India.com** (India.com)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Bihar: 8 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Radha Mohan Singh shows moderate transparency with a score of 55.3/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance. Limited participation in parliamentary proceedings.
+Radha Mohan Singh shows moderate transparency with a score of 56.5/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance. Limited participation in parliamentary proceedings.
 
 ---
 
-Has 2 criminal case(s) (0 serious), 2 pending, 0 conviction(s). Declared assets: Rs 42,965,416. MPLADS utilization: 40.9%. Parliament attendance: 100.0%. Debates participated: 4.
+Has 2 criminal case(s) (0 serious), 2 pending, 0 conviction(s). MPLADS utilization: 40.9%. Parliament attendance: 100.0%. Debates participated: 4. Low confidence data: Assets. 1 warning(s) noted.
 
 ---
 
@@ -138,7 +165,7 @@ Has 2 criminal case(s) (0 serious), 2 pending, 0 conviction(s). Declared assets:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -236,12 +263,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

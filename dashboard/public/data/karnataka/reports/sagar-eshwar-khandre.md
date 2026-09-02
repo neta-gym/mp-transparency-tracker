@@ -3,19 +3,17 @@
 **Constituency:** Bidar, Karnataka
 **Party:** Indian National Congress
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 26
-**Education:** Graduate Professional
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (37%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 47.9 / 100
+## Composite Transparency Score: 46.4 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 4.7 | 25% |
-| Asset Growth | 55.0 | 15% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 80.0 | 10% |
 | Questions & Debates | 0.0 | 10% |
@@ -38,14 +36,13 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 13.44 Crore
-- **Liabilities:** Rs 1.50 Crore
-- **Net Worth:** Rs 11.94 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 64% of Lok Sabha MPs
 
 ---
 
@@ -76,30 +73,42 @@
 - **Total Articles:** 10
 - **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
 
-- Veteran Congress leader Bheemanna Khandre laid to rest - The New Indian Express (The New Indian Express) [neutral]
-- Veteran Congress leader Bhimanna Khandre passes away at 103 - The New Indian Express (The New Indian Express) [neutral]
+- Bidar MP carries out site inspection for railway underpass project - The Hindu (The Hindu) [neutral]
 - TNIE’s Ramu Patil gets Bhimanna award - The New Indian Express (The New Indian Express) [neutral]
-- Bidar election results 2024 live updates: Cong's Sagar Eshwar Khandre wins against BJP's Bhagwanth Khuba - The Times of India (The Times of India) [neutral]
-- Political greenhorn defeats two-time BJP MP in Bidar - The Hindu (The Hindu) [neutral]
+- MP Sagar Eshwar Khandre strives to make Bidar slum-free - Deccan Chronicle (Deccan Chronicle) [neutral]
+- Veteran Congress leader Bheemanna Khandre laid to rest - The New Indian Express (The New Indian Express) [neutral]
+- ‘I will serve people to best of my ability': 26-year-old Congress MP-elect from Karnataka | Bengaluru - Hindustan Times (Hindustan Times) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Bidar MP carries out site inspection for railway underpass project - The Hindu** (The Hindu)
+- ! **TNIE’s Ramu Patil gets Bhimanna award - The New Indian Express** (The New Indian Express)
+- ! **MP Sagar Eshwar Khandre strives to make Bidar slum-free - Deccan Chronicle** (Deccan Chronicle)
+- ! **Veteran Congress leader Bheemanna Khandre laid to rest - The New Indian Express** (The New Indian Express)
+- ! **‘I will serve people to best of my ability': 26-year-old Congress MP-elect from Karnataka | Bengaluru - Hindustan Times** (Hindustan Times)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
 - [!] **mplads**: Extremely low utilization rate — verify data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Karnataka: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Sagar Eshwar Khandre has a below-average transparency score of 47.9/100, indicating significant room for improvement. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Limited participation in parliamentary proceedings.
+Sagar Eshwar Khandre has a below-average transparency score of 46.4/100, indicating significant room for improvement. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Limited participation in parliamentary proceedings.
 
 ---
 
-No criminal cases declared. Declared assets: Rs 134,373,930. MPLADS utilization: 5.9%. Parliament attendance: 80.0%. 1 warning(s) noted.
+No criminal cases declared. MPLADS utilization: 5.9%. Parliament attendance: 80.0%. Low confidence data: Assets. 2 warning(s) noted.
 
 ---
 
@@ -139,7 +148,7 @@ No criminal cases declared. Declared assets: Rs 134,373,930. MPLADS utilization:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -237,12 +246,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

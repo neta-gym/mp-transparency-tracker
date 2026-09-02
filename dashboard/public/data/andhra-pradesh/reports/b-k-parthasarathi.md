@@ -3,19 +3,17 @@
 **Constituency:** Hindupur, Andhra Pradesh
 **Party:** Telugu Desam Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 65
-**Education:** Graduate
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (39%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 33.0 / 100
+## Composite Transparency Score: 31.5 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 17.4 | 25% |
-| Asset Growth | 55.0 | 15% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 0.0 | 15% |
 | Parliament Attendance | 70.0 | 10% |
 | Questions & Debates | 40.0 | 10% |
@@ -29,23 +27,40 @@
 
 - **Total Cases:** 15
 - **Serious Cases:** 0
-- **Convictions:** 0
-- **Pending Cases:** 15
+- **Convictions:** 3
+- **Pending Cases:** 12
 - **Disposed Cases:** 0
 - **Data Source:** myneta
+
+### Cases Detail
+
+1. 45/2024 of Penukonda PS. (Sections: 171E, 188) [pending] 
+2. 247/2023 of Kanaganapalli PS. (Sections: 341, 188, 149) [pending] 
+3. 167/2023 of Anantapur 2 Town PS. (Sections: 188, 341, 34) [pending] 
+4. 183/2023 of Penukonda PS. (Sections: 188, 341, 34) [pending] 
+5. 181/2023 of Penukonda PS. (Sections: 188, 341, 34) [pending] 
+6. 74/2023 of Anantapur I Town PS. | Section 51(b) of Disaster Management Act. 2005 (Sections: 188, 341, 34) [pending] 
+7. 224/2022, of C.K. Palli PS. (Sections: 341, 188, 34) [pending] 
+8. 97/2022 of Ramagiri PS. (Sections: 153, 34) [pending] 
+9. 48/2022 of Roddam PS. (Sections: 341, 353, 506, 34) [pending] 
+10. 305/2021 of Penukonda PS. (Sections: 143, 341, 188, 149) [pending] 
+11. 301/2021 of Penukonda PS. (Sections: 188, 171H, 34) [pending] 
+12. 574/2021 of Dharmavaram I Town PS. | Section 51(b) of DM Act. (Sections: 188, 34) [pending] 
+13. Sec.174(a) & 147 of Railways Act 1989 (Sections: N/A) [convicted] 
+14. Sec.145, 147 & 174(a) of Railways Act 1989 (Sections: N/A) [convicted] 
+15. Sec.146, 147 & 174(a) of Railway Act 1989 (Sections: N/A) [convicted] 
 
 ---
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 16.90 Crore
-- **Liabilities:** Rs 1.79 Crore
-- **Net Worth:** Rs 15.11 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 68% of Lok Sabha MPs
 
 ---
 
@@ -76,29 +91,41 @@
 - **Total Articles:** 10
 - **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
 
-- Coalition govt expediting stalled developmental works: MP - The Hans India (The Hans India) [neutral]
 - Hindupur MP calls for coordination between officials and public representatives - The Hindu (The Hindu) [neutral]
-- Hindupur lok sabha election results 2024: Hindupur Winning Candidates List and Vote Share - India Today (India Today) [neutral]
-- Tension at Gudikatla Sambaralu event, politicians fight on dais - Deccan Chronicle (Deccan Chronicle) [neutral]
+- Vande Bharat Express To Halt At Hindupur - Deccan Chronicle (Deccan Chronicle) [neutral]
 - B K Parthasarathi , TDP candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details. - The Hindu (The Hindu) [neutral]
+- Six held for raping woman, daughter-in-law in Andhra Pradesh - The New Indian Express (The New Indian Express) [neutral]
+- Sri Krishna Devarayalu Elected TDPP Leader - Deccan Chronicle (Deccan Chronicle) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Hindupur MP calls for coordination between officials and public representatives - The Hindu** (The Hindu)
+- ! **Vande Bharat Express To Halt At Hindupur - Deccan Chronicle** (Deccan Chronicle)
+- ! **B K Parthasarathi , TDP candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details. - The Hindu** (The Hindu)
+- ! **Six held for raping woman, daughter-in-law in Andhra Pradesh - The New Indian Express** (The New Indian Express)
+- ! **Sri Krishna Devarayalu Elected TDPP Leader - Deccan Chronicle** (Deccan Chronicle)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Andhra Pradesh: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-B K Parthasarathi has a below-average transparency score of 33.0/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention.
+B K Parthasarathi has a below-average transparency score of 31.5/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention.
 
 ---
 
-Has 15 criminal case(s) (0 serious), 15 pending, 0 conviction(s). Declared assets: Rs 168,959,895. MPLADS utilization: 21.7%. Parliament attendance: 70.0%. Questions asked: 42.
+Has 15 criminal case(s) (0 serious), 12 pending, 3 conviction(s). MPLADS utilization: 21.7%. Parliament attendance: 70.0%. Questions asked: 42. Low confidence data: Assets. 1 warning(s) noted.
 
 ---
 
@@ -138,7 +165,7 @@ Has 15 criminal case(s) (0 serious), 15 pending, 0 conviction(s). Declared asset
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -236,12 +263,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

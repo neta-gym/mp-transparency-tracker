@@ -4,17 +4,17 @@
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Third-party (C)
+**Data Confidence:** Low (27%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 55.2 / 100
+## Composite Transparency Score: 43.5 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 26.2 | 25% |
-| Asset Growth | 50.0 | 15% |
-| Criminal Record | 100.0 | 15% |
+| Asset Growth | 45.0 | 15% |
+| Criminal Record | 45.0 | 15% |
 | Parliament Attendance | 85.0 | 10% |
 | Questions & Debates | 30.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
@@ -36,14 +36,13 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 7.59 Crore
-- **Liabilities:** Rs 2.44 Crore
-- **Net Worth:** Rs 5.14 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 50% of Lok Sabha MPs
 
 ---
 
@@ -76,27 +75,40 @@
 
 - Bagalkot Constituency of Karnataka Lok Sabha Election 2024: Date of voting, result, candidates list, main - The Times of India (The Times of India) [neutral]
 - Some MPs re-nominated in northwestern Karnataka - The Hindu (The Hindu) [neutral]
+- Parliament Of India : Lok Sabha Member Of Parliament - G - Sarkaritel.com (Sarkaritel.com) [neutral]
+- Bagalkot election results 2024 live updates: BJP's Gaddigoudar Parvatagouda Chandanagouda wins against Co - The Times of India (The Times of India) [neutral]
 - Bagalkot lok sabha election results 2024: Bagalkot Winning Candidates List and Vote Share - India Today (India Today) [neutral]
-- Bagalkot Lok Sabha Election 2024 Result, General Election 2024 Result, Vote Counting and Winner Updates - India TV News (India TV News) [neutral]
-- Bagalkot Election Result 2024 LIVE Updates Highlights: Gaddigoudar Parvatgouda Chandangouda of BJP Wins - News18 (News18) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Bagalkot Constituency of Karnataka Lok Sabha Election 2024: Date of voting, result, candidates list, main - The Times of India** (The Times of India)
+- ! **Some MPs re-nominated in northwestern Karnataka - The Hindu** (The Hindu)
+- ! **Parliament Of India : Lok Sabha Member Of Parliament - G - Sarkaritel.com** (Sarkaritel.com)
+- ! **Bagalkot election results 2024 live updates: BJP's Gaddigoudar Parvatagouda Chandanagouda wins against Co - The Times of India** (The Times of India)
+- ! **Bagalkot lok sabha election results 2024: Bagalkot Winning Candidates List and Vote Share - India Today** (India Today)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
+- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Karnataka: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Gaddigoudar Parvatagouda Chandanagouda shows moderate transparency with a score of 55.2/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
+Gaddigoudar Parvatagouda Chandanagouda has a below-average transparency score of 43.5/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Data confidence is low — scores should be interpreted with caution.
 
 ---
 
-No criminal cases declared. Declared assets: Rs 75,855,750. MPLADS utilization: 32.8%. Parliament attendance: 85.0%. Questions asked: 16.
+No criminal cases declared. MPLADS utilization: 32.8%. Parliament attendance: 85.0%. Questions asked: 16. Low confidence data: Criminal record, Assets. 2 warning(s) noted.
 
 ---
 
@@ -136,7 +148,7 @@ No criminal cases declared. Declared assets: Rs 75,855,750. MPLADS utilization: 
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -234,10 +246,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

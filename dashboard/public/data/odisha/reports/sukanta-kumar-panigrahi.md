@@ -3,24 +3,22 @@
 **Constituency:** Kandhamal, Odisha
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 57
-**Education:** Post Graduate
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (46%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 49.1 / 100
+## Composite Transparency Score: 50.8 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 19.1 | 25% |
-| Asset Growth | 50.0 | 15% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 60.0 | 15% |
 | Parliament Attendance | 80.0 | 10% |
 | Questions & Debates | 70.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
-| Public Accessibility | 15.0 | 5% |
+| Public Accessibility | 65.0 | 5% |
 | Legislative Effectiveness | 40.0 | 10% |
 
 ---
@@ -34,18 +32,24 @@
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
+### Cases Detail
+
+1. Case No. 73, Date- 18.04.2024,  Phulbani Town P.S | Section- 7 Crl. A  Act. (Sections: 143, 341, 294, 283, 186, 353, 188, 149) [pending] 
+2. Boudh P.S (Sections: 143, 427, 149) [pending] 
+3. Case No. 179, Date- 29.12.2017,  Dasapalla P.S (Sections: 143, 186, 283, 149) [pending] 
+4. Case No. 03, Date- 02.01.2013,  Dasapalla P.S | Section- 7 Crl. A Act. (Sections: 143, 283, 149) [pending] 
+
 ---
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 70.72 Lakh
-- **Liabilities:** Rs 0
-- **Net Worth:** Rs 70.72 Lakh
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 6% of Lok Sabha MPs
 
 ---
 
@@ -69,6 +73,18 @@
 
 ---
 
+## Public Accessibility
+
+- **Platforms:** 2
+
+
+| Platform | Handle | Verified | Active |
+|----------|--------|----------|--------|
+| Facebook | [@sukanta.panigrahi.7](https://facebook.com/sukanta.panigrahi.7) | No | Yes |
+| Instagram | [@sukanta.panigrahi.7](https://instagram.com/sukanta.panigrahi.7) | No | Yes |
+
+---
+
 ## In The News
 
 *Mixed/neutral coverage (10 articles)*
@@ -77,28 +93,40 @@
 - **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
 
 - Sukanta Kumar Panigrahi - The Times of India (The Times of India) [neutral]
-- Khurda Road Railway Division Hold Meeting with Odisha MPs to Boost Infrastructure and Services - pragativadi.com (pragativadi.com) [neutral]
-- Kandhamal Election Result 2024 LIVE Updates Highlights: Sukanta Kumar Panigrahi of BJP Wins - News18 (News18) [neutral]
-- Kandhamal lok sabha election results 2024: Kandhamal Winning Candidates List and Vote Share - India Today (India Today) [neutral]
 - Can Sukanta pose a challenge to Achyutananda in Kandhamal? - The New Indian Express (The New Indian Express) [neutral]
+- Khurda Road Railway Division Hold Meeting with Odisha MPs to Boost Infrastructure and Services - Pragativadi (Pragativadi) [neutral]
+- Odisha CM Majhi unveils projects worth Rs 1,073 crore in Kandhamal, Sonepur - The New Indian Express (The New Indian Express) [neutral]
+- ‘7 dists to be brought under S Odisha devpt council’ - The Times of India (The Times of India) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Sukanta Kumar Panigrahi - The Times of India** (The Times of India)
+- ! **Can Sukanta pose a challenge to Achyutananda in Kandhamal? - The New Indian Express** (The New Indian Express)
+- ! **Khurda Road Railway Division Hold Meeting with Odisha MPs to Boost Infrastructure and Services - Pragativadi** (Pragativadi)
+- ! **Odisha CM Majhi unveils projects worth Rs 1,073 crore in Kandhamal, Sonepur - The New Indian Express** (The New Indian Express)
+- ! **‘7 dists to be brought under S Odisha devpt council’ - The Times of India** (The Times of India)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Odisha: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Sukanta Kumar Panigrahi has a below-average transparency score of 49.1/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Sukanta Kumar Panigrahi shows moderate transparency with a score of 50.8/100. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-Has 4 criminal case(s) (0 serious), 4 pending, 0 conviction(s). Declared assets: Rs 7,071,617. MPLADS utilization: 23.9%. Parliament attendance: 80.0%. Questions asked: 31. Debates participated: 6.
+Has 4 criminal case(s) (0 serious), 4 pending, 0 conviction(s). MPLADS utilization: 23.9%. Parliament attendance: 80.0%. Questions asked: 31. Debates participated: 6. Low confidence data: Assets. 1 warning(s) noted.
 
 ---
 
@@ -138,7 +166,7 @@ Has 4 criminal case(s) (0 serious), 4 pending, 0 conviction(s). Declared assets:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -236,12 +264,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

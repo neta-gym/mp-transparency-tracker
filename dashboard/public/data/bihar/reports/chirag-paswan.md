@@ -3,24 +3,22 @@
 **Constituency:** Hajipur, Bihar
 **Party:** Lok Jan Shakti Party (Ram Vilas)
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 42
-**Education:** 12th Pass
 **Report Date:** 2026-09-02
-**Data Confidence:** Low (43%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (37%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 51.1 / 100
+## Composite Transparency Score: 51.8 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 21.7 | 25% |
-| Asset Growth | 50.0 | 15% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 50.0 | 10% |
 | Questions & Debates | 50.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
-| Public Accessibility | 15.0 | 5% |
+| Public Accessibility | 45.0 | 5% |
 | Legislative Effectiveness | 40.0 | 10% |
 
 ---
@@ -38,14 +36,13 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 2.69 Crore
-- **Liabilities:** Rs 0
-- **Net Worth:** Rs 2.69 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 23% of Lok Sabha MPs
 
 ---
 
@@ -69,6 +66,17 @@
 
 ---
 
+## Public Accessibility
+
+- **Platforms:** 1
+
+
+| Platform | Handle | Verified | Active |
+|----------|--------|----------|--------|
+| Instagram | [@https://www.instagram.com/ichiragpaswan/?hl=en](https://instagram.com/https://www.instagram.com/ichiragpaswan/?hl=en) | No | Yes |
+
+---
+
 ## In The News
 
 *Mixed/neutral coverage (10 articles)*
@@ -76,30 +84,42 @@
 - **Total Articles:** 10
 - **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
 
-- Chirag Paswan Salary: From college dropout to Bollywood actor to minister..., Here's how much the LJP MP from Hajipur earns, his net worth is... - MSN (MSN) [neutral]
-- BJP wins in Hajipur as party bets on ally Chirag Paswan’s stronghold in Bihar elections 2025 | India News - Hindustan Times (Hindustan Times) [neutral]
-- Hajipur tussle: Why Chirag and 'chacha' Pashupati crossed swords over this Bihar seat - India Today (India Today) [neutral]
+- BJP wins in Hajipur as party bets on ally Chirag Paswan’s stronghold in Bihar elections 2025 - Hindustan Times (Hindustan Times) [neutral]
 - Chirag Paswan files his nomination from Hajipur, his late father’s stronghold - The Hindu (The Hindu) [neutral]
-- Hajipur Decision Made, Says Chirag Paswan Days After NDA Meet - NDTV (NDTV) [neutral]
+- Father’s legacy his strength, Chirag Paswan the favourite in Hajipur race, RJD relies on social calculus - The Indian Express (The Indian Express) [neutral]
+- Hajipur tussle: Why Chirag and 'chacha' Pashupati crossed swords over this Bihar seat - India Today (India Today) [neutral]
+- "Want My Mother To Contest Lok Sabha Polls From Hajipur": Chirag Paswan - ndtv.com (ndtv.com) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **BJP wins in Hajipur as party bets on ally Chirag Paswan’s stronghold in Bihar elections 2025 - Hindustan Times** (Hindustan Times)
+- ! **Chirag Paswan files his nomination from Hajipur, his late father’s stronghold - The Hindu** (The Hindu)
+- ! **Father’s legacy his strength, Chirag Paswan the favourite in Hajipur race, RJD relies on social calculus - The Indian Express** (The Indian Express)
+- ! **Hajipur tussle: Why Chirag and 'chacha' Pashupati crossed swords over this Bihar seat - India Today** (India Today)
+- ! **"Want My Mother To Contest Lok Sabha Polls From Hajipur": Chirag Paswan - ndtv.com** (ndtv.com)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
 - [!] **parliament_activity**: Low confidence in parliament activity data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Bihar: 8 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Chirag Paswan shows moderate transparency with a score of 51.1/100. No criminal cases declared. Low MPLADS fund utilization needs attention.
+Chirag Paswan shows moderate transparency with a score of 51.8/100. No criminal cases declared. Low MPLADS fund utilization needs attention.
 
 ---
 
-No criminal cases declared. Declared assets: Rs 26,875,873. MPLADS utilization: 27.1%. Low confidence data: Parliament activity. 1 warning(s) noted.
+No criminal cases declared. MPLADS utilization: 27.1%. Low confidence data: Assets, Parliament activity. 2 warning(s) noted.
 
 ---
 
@@ -139,7 +159,7 @@ No criminal cases declared. Declared assets: Rs 26,875,873. MPLADS utilization: 
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -237,12 +257,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

@@ -3,19 +3,17 @@
 **Constituency:** Buldhana, Maharashtra
 **Party:** Shiv Sena
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 63
-**Education:** 12th Pass
 **Report Date:** 2026-09-02
-**Data Confidence:** Low (43%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (31%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 44.4 / 100
+## Composite Transparency Score: 42.1 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 0.7 | 25% |
-| Asset Growth | 60.0 | 15% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 80.0 | 15% |
 | Parliament Attendance | 50.0 | 10% |
 | Questions & Debates | 50.0 | 10% |
@@ -34,18 +32,22 @@
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
+### Cases Detail
+
+1. Mehkar Police Station Buldhana | Section- 138, 141 Negotiable Instrument Act 1881 (Sections: N/A) [pending] 
+2. Mehkar Police Station Mehkar Buldhana | Section- 138, 141 Negotiable Instrument Act 1881 (Sections: N/A) [pending] 
+
 ---
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 16.43 Crore
-- **Liabilities:** Rs 14.67 Lakh
-- **Net Worth:** Rs 16.28 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 68% of Lok Sabha MPs
 
 ---
 
@@ -71,36 +73,48 @@
 
 ## In The News
 
-*Mixed/neutral coverage (10 articles)*
+*Mixed/neutral coverage (8 articles)*
 
-- **Total Articles:** 10
-- **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
+- **Total Articles:** 8
+- **Positive:** 0 | **Negative:** 0 | **Neutral:** 8
 
 - Buldhana strongman’s four wins help him rise - The Times of India (The Times of India) [neutral]
-- 'My three generations never paid farm electricity bills', says Shiv Sena MP Prataprao Jadhav - India TV News (India TV News) [neutral]
-- Buldhana Election Result 2024 LIVE Updates Highlights: Jadhav Prataprao Ganpatrao of SS Wins - News18 (News18) [neutral]
 - Buldhana lok sabha election results 2024: Buldhana Winning Candidates List and Vote Share - India Today (India Today) [neutral]
-- Prataprao Ganpatrao Jadhav: Age, Biography, Education, Wife, Caste, Net Worth & More - Oneindia (Oneindia) [neutral]
+- Scoreline tied at 1-1 in Senas’ battle of Vidarbha - The Times of India (The Times of India) [neutral]
+- Know About MP Prataprao Jadhav From Buldhana Constituency - TimelineDaily (TimelineDaily) [neutral]
+- Political Profile of Jadhav Prataprao Ganpatrao, Shiv Sena Party, Buldhana, and Net Worth - India TV News (India TV News) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Buldhana strongman’s four wins help him rise - The Times of India** (The Times of India)
+- ! **Buldhana lok sabha election results 2024: Buldhana Winning Candidates List and Vote Share - India Today** (India Today)
+- ! **Scoreline tied at 1-1 in Senas’ battle of Vidarbha - The Times of India** (The Times of India)
+- ! **Know About MP Prataprao Jadhav From Buldhana Constituency - TimelineDaily** (TimelineDaily)
+- ! **Political Profile of Jadhav Prataprao Ganpatrao, Shiv Sena Party, Buldhana, and Net Worth - India TV News** (India TV News)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
 - [!] **mplads**: Extremely low utilization rate — verify data
 - [!] **parliament_activity**: Low confidence in parliament activity data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Maharashtra: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Prataprao Ganpatrao Jadhav has a below-average transparency score of 44.4/100, indicating significant room for improvement. Minor criminal cases on record. Low MPLADS fund utilization needs attention.
+Prataprao Ganpatrao Jadhav has a below-average transparency score of 42.1/100, indicating significant room for improvement. Minor criminal cases on record. Low MPLADS fund utilization needs attention.
 
 ---
 
-Has 2 criminal case(s) (0 serious), 2 pending, 0 conviction(s). Declared assets: Rs 164,260,448. MPLADS utilization: 0.8%. Low confidence data: Parliament activity. 2 warning(s) noted.
+Has 2 criminal case(s) (0 serious), 2 pending, 0 conviction(s). MPLADS utilization: 0.8%. Low confidence data: Assets, Parliament activity. 3 warning(s) noted.
 
 ---
 
@@ -140,7 +154,7 @@ Has 2 criminal case(s) (0 serious), 2 pending, 0 conviction(s). Declared assets:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -238,12 +252,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

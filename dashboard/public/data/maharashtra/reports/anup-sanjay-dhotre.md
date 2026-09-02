@@ -3,19 +3,17 @@
 **Constituency:** Akola, Maharashtra
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 39
-**Education:** Graduate
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (39%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 57.6 / 100
+## Composite Transparency Score: 56.9 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 21.9 | 25% |
-| Asset Growth | 50.0 | 15% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 90.0 | 15% |
 | Parliament Attendance | 100.0 | 10% |
 | Questions & Debates | 60.0 | 10% |
@@ -34,18 +32,21 @@
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
+### Cases Detail
+
+1. 68/2023 City Kotwali Police Station, Akola | Section 135 Of Maharashtra Police Act (Sections: 188) [pending] 
+
 ---
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 10.93 Crore
-- **Liabilities:** Rs 3.72 Crore
-- **Net Worth:** Rs 7.21 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 60% of Lok Sabha MPs
 
 ---
 
@@ -78,27 +79,39 @@
 
 - Akola Election Results 2024: BJP's Anup Sanjay Dhotre emerges winner - The Times of India (The Times of India) [neutral]
 - Akola: In BJP bastion, a real triangular fight this time | Mumbai news - Hindustan Times (Hindustan Times) [neutral]
-- Political Profile of Anup Sanjay Dhotre, Bjp Party, Akola, and Net Worth - India TV News (India TV News) [neutral]
 - Akola Election Result 2024 Live Updates: BJP Anup Sanjay Dhotre Has Won This Lok Sabha Seat - The Quint (The Quint) [neutral]
-- Changed caste dynamics with non-Muslim Maratha candidate: Akola in a triangular fight - The Indian Express (The Indian Express) [neutral]
+- Akola Lok Sabha Elections 2024: In Own Bastion, BJP Faces Prakash Ambedkar Comeback, Cong's Maratha Candida - News18 (News18) [neutral]
+- Nine candidates became crorepatis in just 5 years - The Times of India (The Times of India) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Akola Election Results 2024: BJP's Anup Sanjay Dhotre emerges winner - The Times of India** (The Times of India)
+- ! **Akola: In BJP bastion, a real triangular fight this time | Mumbai news - Hindustan Times** (Hindustan Times)
+- ! **Akola Election Result 2024 Live Updates: BJP Anup Sanjay Dhotre Has Won This Lok Sabha Seat - The Quint** (The Quint)
+- ! **Akola Lok Sabha Elections 2024: In Own Bastion, BJP Faces Prakash Ambedkar Comeback, Cong's Maratha Candida - News18** (News18)
+- ! **Nine candidates became crorepatis in just 5 years - The Times of India** (The Times of India)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Maharashtra: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Anup Sanjay Dhotre shows moderate transparency with a score of 57.6/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Anup Sanjay Dhotre shows moderate transparency with a score of 56.9/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Declared assets: Rs 109,259,962. MPLADS utilization: 27.4%. Parliament attendance: 100.0%. Questions asked: 26. Debates participated: 5.
+Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). MPLADS utilization: 27.4%. Parliament attendance: 100.0%. Questions asked: 26. Debates participated: 5. Low confidence data: Assets. 1 warning(s) noted.
 
 ---
 
@@ -138,7 +151,7 @@ Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Declared assets:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -236,12 +249,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

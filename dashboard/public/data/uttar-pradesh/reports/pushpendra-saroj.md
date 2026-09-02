@@ -3,24 +3,22 @@
 **Constituency:** Kaushambi, Uttar Pradesh
 **Party:** Samajwadi Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 25
-**Education:** Graduate
 **Report Date:** 2026-09-02
-**Data Confidence:** Low (49%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (44%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 56.1 / 100
+## Composite Transparency Score: 58.9 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 21.9 | 25% |
-| Asset Growth | 50.0 | 15% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 90.0 | 10% |
 | Questions & Debates | 40.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
-| Public Accessibility | 15.0 | 5% |
+| Public Accessibility | 85.0 | 5% |
 | Legislative Effectiveness | 40.0 | 10% |
 
 ---
@@ -40,12 +38,11 @@
 
 - **Movable Assets:** N/A
 - **Immovable Assets:** N/A
-- **Total Assets:** Rs 1.52 Crore
-- **Liabilities:** Rs 50.00 Lakh
-- **Net Worth:** Rs 1.02 Crore
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 13% of Lok Sabha MPs
 
 ---
 
@@ -69,36 +66,61 @@
 
 ---
 
+## Public Accessibility
+
+- **Platforms:** 3
+
+
+| Platform | Handle | Verified | Active |
+|----------|--------|----------|--------|
+| Twitter | [@twitter.com/pushpendra_sapa](https://x.com/twitter.com/pushpendra_sapa) | No | Yes |
+| Facebook | [@https://www.facebook.com/PushpendraSarojSP/?_rdr](https://facebook.com/https://www.facebook.com/PushpendraSarojSP/?_rdr) | No | Yes |
+| Instagram | [@https://www.instagram.com/pushpendrasarojsp/](https://instagram.com/https://www.instagram.com/pushpendrasarojsp/) | No | Yes |
+
+---
+
 ## In The News
 
 *Mixed/neutral coverage (10 articles)*
 
 - **Total Articles:** 10
-- **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
+- **Positive:** 1 | **Negative:** 0 | **Neutral:** 9
 
 - SP’s Pushpendra Saroj is now the youngest MP in country - The Times of India (The Times of India) [neutral]
-- Sweet Revenge: 25-Year-Old Beats Candidate Who Defeated His Father - NDTV (NDTV) [neutral]
 - SP’s Pushpendra wins Kaushambi seat, becomes country’s youngest MP | Hindustan Times - Hindustan Times (Hindustan Times) [neutral]
+- Former School of Business & Management Alumni becomes India's Youngest MP - Queen Mary University of London (Queen Mary University of London) [neutral]
 - Meet Pushpendra Saroj, India’s youngest MP: ‘I use my father’s work, not name’ - The Indian Express (The Indian Express) [neutral]
-- 25-Year-Old Pushpendra Saroj Makes History As Youngest MP In Lok Sabha - Outlook India (Outlook India) [neutral]
+- Keshav Maurya failed to ensure development in home district despite being UP deputy CM: SP MP - ThePrint (ThePrint) [positive]
+
+---
+
+## News & Allegations
+
+- ! **SP’s Pushpendra Saroj is now the youngest MP in country - The Times of India** (The Times of India)
+- ! **SP’s Pushpendra wins Kaushambi seat, becomes country’s youngest MP | Hindustan Times - Hindustan Times** (Hindustan Times)
+- ! **Former School of Business & Management Alumni becomes India's Youngest MP - Queen Mary University of London** (Queen Mary University of London)
+- ! **Meet Pushpendra Saroj, India’s youngest MP: ‘I use my father’s work, not name’ - The Indian Express** (The Indian Express)
+- ! **Keshav Maurya failed to ensure development in home district despite being UP deputy CM: SP MP - ThePrint** (ThePrint)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Uttar Pradesh: 8 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Pushpendra Saroj shows moderate transparency with a score of 56.1/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
+Pushpendra Saroj shows moderate transparency with a score of 58.9/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
 
 ---
 
-No criminal cases declared. Declared assets: Rs 15,231,655. MPLADS utilization: 27.3%. Parliament attendance: 90.0%. Questions asked: 1. Debates participated: 8.
+No criminal cases declared. MPLADS utilization: 27.3%. Parliament attendance: 90.0%. Questions asked: 1. Debates participated: 8. Low confidence data: Assets. 1 warning(s) noted.
 
 ---
 
@@ -138,7 +160,7 @@ No criminal cases declared. Declared assets: Rs 15,231,655. MPLADS utilization: 
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -236,12 +258,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

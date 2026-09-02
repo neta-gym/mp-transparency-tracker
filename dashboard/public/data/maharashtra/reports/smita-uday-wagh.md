@@ -3,24 +3,22 @@
 **Constituency:** Jalgaon, Maharashtra
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 56
-**Education:** Graduate
 **Report Date:** 2026-09-02
-**Data Confidence:** Low (49%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (44%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 58.3 / 100
+## Composite Transparency Score: 60.3 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 7.6 | 25% |
-| Asset Growth | 55.0 | 15% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 85.0 | 10% |
 | Questions & Debates | 80.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
-| Public Accessibility | 15.0 | 5% |
+| Public Accessibility | 85.0 | 5% |
 | Legislative Effectiveness | 50.0 | 10% |
 
 ---
@@ -40,12 +38,11 @@
 
 - **Movable Assets:** N/A
 - **Immovable Assets:** N/A
-- **Total Assets:** Rs 8.75 Crore
-- **Liabilities:** Rs 1.86 Crore
-- **Net Worth:** Rs 6.89 Crore
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 54% of Lok Sabha MPs
 
 ---
 
@@ -77,37 +74,62 @@
 
 ---
 
+## Public Accessibility
+
+- **Platforms:** 3
+
+
+| Platform | Handle | Verified | Active |
+|----------|--------|----------|--------|
+| Twitter | [@https://x.com/smitawagh_?lang=en](https://x.com/https://x.com/smitawagh_?lang=en) | No | Yes |
+| Facebook | [@https://www.facebook.com/smitatai.wagh/](https://facebook.com/https://www.facebook.com/smitatai.wagh/) | No | Yes |
+| Instagram | [@https://www.instagram.com/smitatai_wagh/?hl=en](https://instagram.com/https://www.instagram.com/smitatai_wagh/?hl=en) | No | Yes |
+
+---
+
 ## In The News
 
-*Mixed/neutral coverage (9 articles)*
+*Mixed/neutral coverage (10 articles)*
 
-- **Total Articles:** 9
-- **Positive:** 0 | **Negative:** 0 | **Neutral:** 9
+- **Total Articles:** 10
+- **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
 
-- "As long as I'm alive, will work for my people": BJP MP Smita Uday Wagh on Parliament duty amid cancer treatment - ANI News (ANI News) [neutral]
-- BJP MP Smita Uday Wagh Continues Duties Amid Cancer Treatment - The News Mill (The News Mill) [neutral]
+- Sansad Ratna Awards 2026 Announced: Pune’s Medha Kulkarni and Jalgaon’s Smita Uday Wagh among awardees - The Indian Express (The Indian Express) [neutral]
+- BJP MP Smita Uday Wagh vows to serve people amid cancer treatment - Awaz The Voice (Awaz The Voice) [neutral]
 - Jalgaon election results 2024 live updates: Smita Uday Wagh of Bharatiya Janata Party wins - The Times of India (The Times of India) [neutral]
-- Jalgaon lok sabha election results 2024: Jalgaon Winning Candidates List and Vote Share - India Today (India Today) [neutral]
-- Exclusive | Lok Sabha elections 2024: I plan to create jobs and infra, solve water issue, says Smita Wagh - Mid-day (Mid-day) [neutral]
+- BJP MP Smita Uday Wagh Continues Duties Amid Cancer Treatment - The News Mill (The News Mill) [neutral]
+- BJP candidate will win Jalgaon seat by 5 lakh vote margin, says Maharashtra Minister Girish Mahajan - aninews.in (aninews.in) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Sansad Ratna Awards 2026 Announced: Pune’s Medha Kulkarni and Jalgaon’s Smita Uday Wagh among awardees - The Indian Express** (The Indian Express)
+- ! **BJP MP Smita Uday Wagh vows to serve people amid cancer treatment - Awaz The Voice** (Awaz The Voice)
+- ! **Jalgaon election results 2024 live updates: Smita Uday Wagh of Bharatiya Janata Party wins - The Times of India** (The Times of India)
+- ! **BJP MP Smita Uday Wagh Continues Duties Amid Cancer Treatment - The News Mill** (The News Mill)
+- ! **BJP candidate will win Jalgaon seat by 5 lakh vote margin, says Maharashtra Minister Girish Mahajan - aninews.in** (aninews.in)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
 - [!] **mplads**: Extremely low utilization rate — verify data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Maharashtra: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Smita Uday Wagh shows moderate transparency with a score of 58.3/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Smita Uday Wagh shows moderate transparency with a score of 60.3/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-No criminal cases declared. Declared assets: Rs 87,477,424. MPLADS utilization: 9.5%. Parliament attendance: 85.0%. Questions asked: 79. Debates participated: 12. 1 warning(s) noted.
+No criminal cases declared. MPLADS utilization: 9.5%. Parliament attendance: 85.0%. Questions asked: 79. Debates participated: 12. Low confidence data: Assets. 2 warning(s) noted.
 
 ---
 
@@ -147,7 +169,7 @@ No criminal cases declared. Declared assets: Rs 87,477,424. MPLADS utilization: 
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -245,12 +267,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

@@ -7,21 +7,21 @@
 **Education:** Graduate Professional
 **Profession:** Pensioner
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Medium (57%) | **Evidence Grade:** Third-party (C)
 
 ---
 
-## Composite Transparency Score: 45.0 / 100
+## Composite Transparency Score: 41.2 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 9.9 | 25% |
-| Asset Growth | 60.0 | 15% |
-| Criminal Record | 50.0 | 15% |
+| Asset Growth | 85.0 | 15% |
+| Criminal Record | 0.0 | 15% |
 | Parliament Attendance | 75.0 | 10% |
 | Questions & Debates | 60.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
-| Public Accessibility | 15.0 | 5% |
+| Public Accessibility | 65.0 | 5% |
 | Legislative Effectiveness | 40.0 | 10% |
 
 ---
@@ -30,23 +30,31 @@
 
 - **Total Cases:** 5
 - **Serious Cases:** 0
-- **Convictions:** 0
-- **Pending Cases:** 5
+- **Convictions:** 5
+- **Pending Cases:** 0
 - **Disposed Cases:** 0
 - **Data Source:** myneta
+
+### Cases Detail
+
+1. Section 5, 4(2)(a) of KEDO & Section 51(b) of DM Act, Section 118E KP Act (Sections: 143, 147, 149, 188, 269) [convicted] 
+2. Section 5, 4(2)(a) of KEDO (Sections: 143, 147, 149, 188, 269) [convicted] 
+3. Section 5, 4(2)(a) of KEDO & Section 51(b) of DM Act (Sections: 143, 147, 149, 188, 269) [convicted] 
+4. Section 5, 4(2)(a) of KEDO (Sections: 188, 269) [convicted] 
+5. Section 5, 4(2)(a) of KEDO (Sections: 143, 147, 149, 188, 269) [convicted] 
 
 ---
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
+- **Movable Assets:** Rs 1.49 Crore
+- **Immovable Assets:** Rs 8.03 Crore
 - **Total Assets:** Rs 9.52 Crore
-- **Liabilities:** Rs 13.00 Lakh
-- **Net Worth:** Rs 9.39 Crore
-- **Previous Total Assets:** N/A
-- **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 57% of Lok Sabha MPs
+- **Liabilities:** Rs 28.00 Lakh
+- **Net Worth:** Rs 9.24 Crore
+- **Previous Total Assets:** Rs 622019766.00 Crore
+- **Asset Growth:** -100.0%
+- **Wealth Percentile:** Wealthier than 55% of Lok Sabha MPs
 
 ---
 
@@ -70,6 +78,18 @@
 
 ---
 
+## Public Accessibility
+
+- **Platforms:** 2
+
+
+| Platform | Handle | Verified | Active |
+|----------|--------|----------|--------|
+| Facebook | [@https://www.facebook.com/voteforkfrancisgeorge/](https://facebook.com/https://www.facebook.com/voteforkfrancisgeorge/) | No | Yes |
+| Instagram | [@https://www.instagram.com/adv_k_francisgeorgeofficial/](https://instagram.com/https://www.instagram.com/adv_k_francisgeorgeofficial/) | No | Yes |
+
+---
+
 ## In The News
 
 *Mixed/neutral coverage (10 articles)*
@@ -77,11 +97,21 @@
 - **Total Articles:** 10
 - **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
 
-- Railway Minister promises to consider more stops for trains between Chingavanam and Ernakulam - The Hindu (The Hindu) [neutral]
-- Kochi-Kottayam NH corridor: NHAI directed to study feasiblility - The New Indian Express (The New Indian Express) [neutral]
 - Kottayam election results 2024 live updates: KEC's K Francis George wins - The Times of India (The Times of India) [neutral]
+- 2024 Lok Sabha polls: Francis George top contender in Kerala Congress (Joseph) for Kottayam seat - The New Indian Express (The New Indian Express) [neutral]
 - Kerala Congress(J)'s Francis George vs LDF's Thomas Chazhikadan in Kottayam - Deccan Herald (Deccan Herald) [neutral]
-- Kerala Congress splinter groups to slug it out for Kottayam LS seat after 44 years - Onmanorama (Onmanorama) [neutral]
+- K Francis George - The Times of India (The Times of India) [neutral]
+- TN Transport Min flags off new bus service from Vaikom to Velankanni following request of Kottayam MP - DT Next (DT Next) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Kottayam election results 2024 live updates: KEC's K Francis George wins - The Times of India** (The Times of India)
+- ! **2024 Lok Sabha polls: Francis George top contender in Kerala Congress (Joseph) for Kottayam seat - The New Indian Express** (The New Indian Express)
+- ! **Kerala Congress(J)'s Francis George vs LDF's Thomas Chazhikadan in Kottayam - Deccan Herald** (Deccan Herald)
+- ! **K Francis George - The Times of India** (The Times of India)
+- ! **TN Transport Min flags off new bus service from Vaikom to Velankanni following request of Kottayam MP - DT Next** (DT Next)
 
 ---
 
@@ -95,11 +125,11 @@
 
 ## Qualitative Assessment
 
-K. Francis George has a below-average transparency score of 45.0/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. Active in questions and debates.
+K. Francis George has a below-average transparency score of 41.2/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. Active in questions and debates.
 
 ---
 
-Has 5 criminal case(s) (0 serious), 5 pending, 0 conviction(s). Declared assets: Rs 95,196,318. MPLADS utilization: 12.4%. Parliament attendance: 75.0%. Questions asked: 21. Debates participated: 8.
+Has 5 criminal case(s) (0 serious), 0 pending, 5 conviction(s). Declared assets: Rs 95,196,318. MPLADS utilization: 12.4%. Parliament attendance: 75.0%. Questions asked: 21. Debates participated: 8.
 
 ---
 
@@ -139,7 +169,7 @@ Has 5 criminal case(s) (0 serious), 5 pending, 0 conviction(s). Declared assets:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -238,11 +268,12 @@ Time limit: PIO must respond within 30 days of receipt.
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
 | Assets | myneta | Official (B) |
+| Committees | sansad | LLM/Estimated (E) |
 | Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: myneta, prs, social_media, news, mplads*
+*Sources consulted: myneta, prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

@@ -3,25 +3,23 @@
 **Constituency:** Bangalore Rural, Karnataka
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 67
-**Education:** Post Graduate
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (37%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 63.1 / 100
+## Composite Transparency Score: 55.6 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 28.0 | 25% |
-| Asset Growth | 55.0 | 15% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 100.0 | 15% |
-| Parliament Attendance | 70.0 | 10% |
-| Questions & Debates | 90.0 | 10% |
+| Parliament Attendance | 90.0 | 10% |
+| Questions & Debates | 30.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
 | Public Accessibility | 15.0 | 5% |
-| Legislative Effectiveness | 70.0 | 10% |
+| Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
@@ -38,14 +36,13 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 98.39 Crore
-- **Liabilities:** Rs 14.81 Crore
-- **Net Worth:** Rs 83.57 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 92% of Lok Sabha MPs
 
 ---
 
@@ -61,19 +58,11 @@
 
 ## Parliament Activity
 
-- **Attendance:** 70.0%
-- **Questions Asked:** 73
-- **Debates Participated:** 17
-- **Private Bills:** 3
+- **Attendance:** 90.0%
+- **Questions Asked:** 4
+- **Debates Participated:** 4
+- **Private Bills:** 0
 - **Is Minister:** No
-
----
-
-## Legislative Effectiveness
-
-- **Private Member Bills:** 3
-- **Zero Hour Mentions:** 0
-- **Special Mentions:** 0
 
 ---
 
@@ -82,31 +71,43 @@
 *Mixed/neutral coverage (10 articles)*
 
 - **Total Articles:** 10
-- **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
+- **Positive:** 1 | **Negative:** 0 | **Neutral:** 9
 
-- Hosakerehalli Lake 2026: MP Manjunath seeks revival, civic action in B'luru - Deccan Herald (Deccan Herald) [neutral]
-- Humane care must not be compromised amid tech pressure, says Dr Manjunath - The New Indian Express (The New Indian Express) [neutral]
-- Bengaluru Rural MP bats for national sandalwood board to aid growers - The Hindu (The Hindu) [neutral]
-- Meeting on Construction of ROBs/RUBs in Bengaluru Region - PIB (PIB) [neutral]
-- Sandalwood Board: MP Backs National Sandalwood Board - Deccan Herald (Deccan Herald) [neutral]
+- Bengaluru MP Manjunath flags mobile, internet woes near Central Prison - The New Indian Express (The New Indian Express) [neutral]
+- Bangalore Rural MP C N Manjunath urges revival of Hosakerehalli Lake - Deccan Herald (Deccan Herald) [neutral]
+- During MP Dr CN Manjunath’s visit, Anekal rail users seek better infrastructure - The New Indian Express (The New Indian Express) [neutral]
+- Recital of Vedas aided Chandrayaan-3 success, says Bengaluru MP C N Manjunath - The New Indian Express (The New Indian Express) [neutral]
+- Toyota Kirloskar Motor Welcomes Dr. C.N. Manjunath Hon’ble MP, Bangalore Rural for Insightful Visit and Health Talk on "Myths and Facts about Heart Health" - Toyota India (Toyota India) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Bengaluru MP Manjunath flags mobile, internet woes near Central Prison - The New Indian Express** (The New Indian Express)
+- ! **Bangalore Rural MP C N Manjunath urges revival of Hosakerehalli Lake - Deccan Herald** (Deccan Herald)
+- ! **During MP Dr CN Manjunath’s visit, Anekal rail users seek better infrastructure - The New Indian Express** (The New Indian Express)
+- ! **Recital of Vedas aided Chandrayaan-3 success, says Bengaluru MP C N Manjunath - The New Indian Express** (The New Indian Express)
+- ! **Toyota Kirloskar Motor Welcomes Dr. C.N. Manjunath Hon’ble MP, Bangalore Rural for Insightful Visit and Health Talk on "Myths and Facts about Heart Health" - Toyota India** (Toyota India)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Karnataka: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-C N Manjunath shows moderate transparency with a score of 63.1/100. No criminal cases declared. Low MPLADS fund utilization needs attention. Active in questions and debates.
+C N Manjunath shows moderate transparency with a score of 55.6/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
 
 ---
 
-No criminal cases declared. Declared assets: Rs 983,883,816. MPLADS utilization: 35.0%. Parliament attendance: 70.0%. Questions asked: 73. Debates participated: 17.
+No criminal cases declared. MPLADS utilization: 35.0%. Parliament attendance: 90.0%. Questions asked: 4. Debates participated: 4. Low confidence data: Assets. 1 warning(s) noted.
 
 ---
 
@@ -146,7 +147,7 @@ No criminal cases declared. Declared assets: Rs 983,883,816. MPLADS utilization:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -244,12 +245,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

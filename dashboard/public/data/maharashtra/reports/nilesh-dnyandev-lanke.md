@@ -3,19 +3,17 @@
 **Constituency:** Ahmednagar, Maharashtra
 **Party:** Nationalist Congress Party - Sharadchandra Pawar
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 44
-**Education:** Graduate
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (39%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 50.2 / 100
+## Composite Transparency Score: 50.9 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 8.4 | 25% |
-| Asset Growth | 40.0 | 15% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 80.0 | 15% |
 | Parliament Attendance | 85.0 | 10% |
 | Questions & Debates | 70.0 | 10% |
@@ -34,18 +32,22 @@
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
+### Cases Detail
+
+1. 0072/2023, Date 04.03.2023,  Police Station Supa,Tq Panner, Dist Ahmednagar | Sections 8B of NH Act, Sec. 37(1), 37(3) of Mumbai Police Act (Sections: 188, 341) [pending] 
+2. Sections 138 of Negotiable Instruments Act (Sections: N/A) [pending] 
+
 ---
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 45.55 Lakh
-- **Liabilities:** Rs 37.49 Lakh
-- **Net Worth:** Rs 8.06 Lakh
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 4% of Lok Sabha MPs
 
 ---
 
@@ -78,27 +80,39 @@
 
 - Ahmednagar Election Results 2024: Nilesh Dnyandev Lanke of Nationalist Congress Party (Sharadchandra Pawa - The Times of India (The Times of India) [neutral]
 - Follow the leader: Let people power prevail over money power, says Ahmednagar NCP(SP) candidate Nilesh Lanke - The Indian Express (The Indian Express) [neutral]
-- Ahmednagar Election Result 2024 LIVE Updates: Nilesh Dnyandev Lanke of NCPSP Wins - News18 (News18) [neutral]
-- Lanke becomes first MLA to return to senior Pawar | Mumbai news - Hindustan Times (Hindustan Times) [neutral]
+- With unease growing in Ajit Pawar’s NCP, MLA Nilesh Lanke could return to Sharad Pawar’s fold | Mumbai news - Hindustan Times (Hindustan Times) [neutral]
 - Ahmednagar lok sabha election results 2024: Ahmednagar Winning Candidates List and Vote Share - India Today (India Today) [neutral]
+- Sharad Pawar-Led NCP MPs Meet PM Modi, Seek Bharat Ratna For Maharashtra Icons - NDTV Profit (NDTV Profit) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Ahmednagar Election Results 2024: Nilesh Dnyandev Lanke of Nationalist Congress Party (Sharadchandra Pawa - The Times of India** (The Times of India)
+- ! **Follow the leader: Let people power prevail over money power, says Ahmednagar NCP(SP) candidate Nilesh Lanke - The Indian Express** (The Indian Express)
+- ! **With unease growing in Ajit Pawar’s NCP, MLA Nilesh Lanke could return to Sharad Pawar’s fold | Mumbai news - Hindustan Times** (Hindustan Times)
+- ! **Ahmednagar lok sabha election results 2024: Ahmednagar Winning Candidates List and Vote Share - India Today** (India Today)
+- ! **Sharad Pawar-Led NCP MPs Meet PM Modi, Seek Bharat Ratna For Maharashtra Icons - NDTV Profit** (NDTV Profit)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Maharashtra: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Nilesh Dnyandev Lanke shows moderate transparency with a score of 50.2/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Nilesh Dnyandev Lanke shows moderate transparency with a score of 50.9/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-Has 2 criminal case(s) (0 serious), 2 pending, 0 conviction(s). Declared assets: Rs 4,554,561. MPLADS utilization: 10.5%. Parliament attendance: 85.0%. Questions asked: 64. Debates participated: 4.
+Has 2 criminal case(s) (0 serious), 2 pending, 0 conviction(s). MPLADS utilization: 10.5%. Parliament attendance: 85.0%. Questions asked: 64. Debates participated: 4. Low confidence data: Assets. 1 warning(s) noted.
 
 ---
 
@@ -138,7 +152,7 @@ Has 2 criminal case(s) (0 serious), 2 pending, 0 conviction(s). Declared assets:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -236,12 +250,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

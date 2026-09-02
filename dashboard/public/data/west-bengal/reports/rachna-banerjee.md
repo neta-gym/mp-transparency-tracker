@@ -3,19 +3,17 @@
 **Constituency:** Hooghly, West Bengal
 **Party:** All India Trinamool Congress
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 51
-**Education:** 12th Pass
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (37%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 47.2 / 100
+## Composite Transparency Score: 46.4 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 17.0 | 25% |
-| Asset Growth | 50.0 | 15% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 30.0 | 10% |
 | Questions & Debates | 50.0 | 10% |
@@ -38,14 +36,13 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 35.53 Crore
-- **Liabilities:** Rs 0
-- **Net Worth:** Rs 35.53 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 80% of Lok Sabha MPs
 
 ---
 
@@ -76,29 +73,41 @@
 - **Total Articles:** 10
 - **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
 
+- Rachana Banerjee wins the Hooghly seat in Lok Sabha elections 2024; Defeats Locket Chatterjee - The Times of India (The Times of India) [neutral]
+- Trinamool MP's "Quintals And Quintals Of Water" Remark Sparks Meme Fest - NDTV (NDTV) [neutral]
 - TMC MP, MLA spar over smart classroom; 98-year-old school caught in crosshairs - Telegraph India (Telegraph India) [neutral]
-- Rachna Banerjee , AITC candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details. - The Hindu (The Hindu) [neutral]
-- Hooghly election results 2024 live updates: TMC's Rachna Banerjee wins - The Times of India (The Times of India) [neutral]
-- Hooghly MP lists her developmental initiatives - The Statesman (The Statesman) [neutral]
+- Rachna Banerjee urges to formulate Balagarh Master Plan in Lok Sabha - MillenniumPost (MillenniumPost) [neutral]
 - Hooghly Election Result 2024: TMC's Didi Rachana Banerjee wrests back seat from BJP’s Locket Chatterjee - CNBC TV18 (CNBC TV18) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Rachana Banerjee wins the Hooghly seat in Lok Sabha elections 2024; Defeats Locket Chatterjee - The Times of India** (The Times of India)
+- ! **Trinamool MP's "Quintals And Quintals Of Water" Remark Sparks Meme Fest - NDTV** (NDTV)
+- ! **TMC MP, MLA spar over smart classroom; 98-year-old school caught in crosshairs - Telegraph India** (Telegraph India)
+- ! **Rachna Banerjee urges to formulate Balagarh Master Plan in Lok Sabha - MillenniumPost** (MillenniumPost)
+- ! **Hooghly Election Result 2024: TMC's Didi Rachana Banerjee wrests back seat from BJP’s Locket Chatterjee - CNBC TV18** (CNBC TV18)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for West Bengal: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Rachna Banerjee has a below-average transparency score of 47.2/100, indicating significant room for improvement. No criminal cases declared. Low MPLADS fund utilization needs attention. Low parliament attendance is notable.
+Rachna Banerjee has a below-average transparency score of 46.4/100, indicating significant room for improvement. No criminal cases declared. Low MPLADS fund utilization needs attention. Low parliament attendance is notable.
 
 ---
 
-No criminal cases declared. Declared assets: Rs 355,317,030. MPLADS utilization: 21.3%. Parliament attendance: 30.0%. Questions asked: 17. Debates participated: 1.
+No criminal cases declared. MPLADS utilization: 21.3%. Parliament attendance: 30.0%. Questions asked: 17. Debates participated: 1. Low confidence data: Assets. 1 warning(s) noted.
 
 ---
 
@@ -138,7 +147,7 @@ No criminal cases declared. Declared assets: Rs 355,317,030. MPLADS utilization:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -236,12 +245,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

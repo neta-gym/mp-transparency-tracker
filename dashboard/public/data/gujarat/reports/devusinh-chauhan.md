@@ -3,24 +3,22 @@
 **Constituency:** Kheda, Gujarat
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 59
-**Education:** Graduate Professional
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (44%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 58.5 / 100
+## Composite Transparency Score: 60.5 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 22.6 | 25% |
-| Asset Growth | 55.0 | 15% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 100.0 | 10% |
 | Questions & Debates | 40.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
-| Public Accessibility | 15.0 | 5% |
+| Public Accessibility | 85.0 | 5% |
 | Legislative Effectiveness | 40.0 | 10% |
 
 ---
@@ -38,14 +36,13 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 3.50 Crore
-- **Liabilities:** Rs 49.97 Lakh
-- **Net Worth:** Rs 3.00 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 29% of Lok Sabha MPs
 
 ---
 
@@ -69,36 +66,61 @@
 
 ---
 
+## Public Accessibility
+
+- **Platforms:** 3
+
+
+| Platform | Handle | Verified | Active |
+|----------|--------|----------|--------|
+| Twitter | [@twitter.com/devusinh](https://x.com/twitter.com/devusinh) | No | Yes |
+| Facebook | [@https://www.facebook.com/devusinh/](https://facebook.com/https://www.facebook.com/devusinh/) | No | Yes |
+| Instagram | [@https://www.instagram.com/devusinh_](https://instagram.com/https://www.instagram.com/devusinh_) | No | Yes |
+
+---
+
 ## In The News
 
 *Mixed/neutral coverage (10 articles)*
 
 - **Total Articles:** 10
-- **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
+- **Positive:** 0 | **Negative:** 1 | **Neutral:** 9
 
+- No hurdles for MP Devusinh Chauhan, returning officer says complaint filed too late - GujaratSamachar English (GujaratSamachar English) [negative]
+- BJP’s Devusinh Chauhan wins in Kheda - GujaratSamachar English (GujaratSamachar English) [neutral]
 - Gujarat: BJP MP Devusinh draws the ire of Brahmin community for calling rituals ‘misguided’; Congress joins chorus - The New Indian Express (The New Indian Express) [neutral]
-- MP Reprt Card: Devusinh Chauhan, BJP - The Indian Express (The Indian Express) [neutral]
-- Minister Devusinh Chauhan welcomes Muslims of Kheda into BJP - GujaratSamachar English (GujaratSamachar English) [neutral]
 - Gujarat BJP MP Tests Positive For Covid After Attending Conference - NDTV (NDTV) [neutral]
-- Bhupendra Patel and MoS Communications Shri Devusinh Chauhan award prizes to sportspersons in MP Sports Competition - thehawk.in (thehawk.in) [neutral]
+- Devusinh Chauhan - The Times of India (The Times of India) [neutral]
+
+---
+
+## News & Allegations
+
+- !! **No hurdles for MP Devusinh Chauhan, returning officer says complaint filed too late - GujaratSamachar English** (GujaratSamachar English)
+- ! **BJP’s Devusinh Chauhan wins in Kheda - GujaratSamachar English** (GujaratSamachar English)
+- ! **Gujarat: BJP MP Devusinh draws the ire of Brahmin community for calling rituals ‘misguided’; Congress joins chorus - The New Indian Express** (The New Indian Express)
+- ! **Gujarat BJP MP Tests Positive For Covid After Attending Conference - NDTV** (NDTV)
+- ! **Devusinh Chauhan - The Times of India** (The Times of India)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Gujarat: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Devusinh Chauhan shows moderate transparency with a score of 58.5/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
+Devusinh Chauhan shows moderate transparency with a score of 60.5/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
 
 ---
 
-No criminal cases declared. Declared assets: Rs 34,976,572. MPLADS utilization: 28.3%. Parliament attendance: 100.0%. Questions asked: 8. Debates participated: 1.
+No criminal cases declared. MPLADS utilization: 28.3%. Parliament attendance: 100.0%. Questions asked: 8. Debates participated: 1. Low confidence data: Assets. 1 warning(s) noted.
 
 ---
 
@@ -138,7 +160,7 @@ No criminal cases declared. Declared assets: Rs 34,976,572. MPLADS utilization: 
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -236,12 +258,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

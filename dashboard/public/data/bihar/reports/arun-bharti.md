@@ -3,19 +3,17 @@
 **Constituency:** Jamui, Bihar
 **Party:** Lok Jan Shakti Party (Ram Vilas)
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 45
-**Education:** Post Graduate
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (37%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 60.3 / 100
+## Composite Transparency Score: 59.5 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 55.0 | 25% |
-| Asset Growth | 50.0 | 15% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 60.0 | 10% |
 | Questions & Debates | 60.0 | 10% |
@@ -38,14 +36,13 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 6.49 Crore
-- **Liabilities:** Rs 3.12 Crore
-- **Net Worth:** Rs 3.37 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 46% of Lok Sabha MPs
 
 ---
 
@@ -76,29 +73,41 @@
 - **Total Articles:** 10
 - **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
 
-- जमुई में 15 मई से रुकेगी पटना-हावड़ा वंदे भारत: सांसद अरुण भारती दिखाएंगे हरी झंडी, यात्रियों को मिलेगी बड़ी राहत - Jamui News - Dainik Bhaskar (Dainik Bhaskar) [neutral]
 - 'Missing MP' posters targeting Jamui Lok Sabha member Arun Bharti surface in Bihar - thehawk.in (thehawk.in) [neutral]
 - 'Seats will be taken to win, not to lose': MP Arun Bharti emphasises alliance focus over seat count, says, ... - Bhaskar English (Bhaskar English) [neutral]
-- Seat-sharing wrangle in NDA as LJP(RV) hints at going solo - The Times of India (The Times of India) [neutral]
-- Chirag Paswan Gives Up Jamui Lok Sabha Seat For Brother-In-Law In Upcoming Polls - ABP News (ABP News) [neutral]
+- Nitish keen to know about Chirag’s assembly polls plan: Jamui MP - The Times of India (The Times of India) [neutral]
+- Jamui Lok Sabha Constituency: LJP’s Arun Bharti vs RJD’s Archana Ravidas - The Indian Express (The Indian Express) [neutral]
+- LS Polls: Chirag Paswan Keeps Father's Bastion Hajipur, Gives Jamui Seat To Brother-in-law Arun Bharti - News18 (News18) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **'Missing MP' posters targeting Jamui Lok Sabha member Arun Bharti surface in Bihar - thehawk.in** (thehawk.in)
+- ! **'Seats will be taken to win, not to lose': MP Arun Bharti emphasises alliance focus over seat count, says, ... - Bhaskar English** (Bhaskar English)
+- ! **Nitish keen to know about Chirag’s assembly polls plan: Jamui MP - The Times of India** (The Times of India)
+- ! **Jamui Lok Sabha Constituency: LJP’s Arun Bharti vs RJD’s Archana Ravidas - The Indian Express** (The Indian Express)
+- ! **LS Polls: Chirag Paswan Keeps Father's Bastion Hajipur, Gives Jamui Seat To Brother-in-law Arun Bharti - News18** (News18)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Bihar: 8 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Arun Bharti shows moderate transparency with a score of 60.3/100. No criminal cases declared. Active in questions and debates.
+Arun Bharti shows moderate transparency with a score of 59.5/100. No criminal cases declared. Active in questions and debates.
 
 ---
 
-No criminal cases declared. Declared assets: Rs 64,870,319. MPLADS utilization: 60.0%. Parliament attendance: 60.0%. Questions asked: 45. Debates participated: 4.
+No criminal cases declared. MPLADS utilization: 60.0%. Parliament attendance: 60.0%. Questions asked: 45. Debates participated: 4. Low confidence data: Assets. 1 warning(s) noted.
 
 ---
 
@@ -138,7 +147,7 @@ No criminal cases declared. Declared assets: Rs 64,870,319. MPLADS utilization: 
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -236,12 +245,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

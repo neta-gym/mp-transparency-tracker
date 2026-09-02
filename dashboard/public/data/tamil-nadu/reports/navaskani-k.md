@@ -3,24 +3,22 @@
 **Constituency:** Ramanathapuram, Tamil Nadu
 **Party:** Indian Union Muslim League
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 44
-**Education:** 12th Pass
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (46%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 64.2 / 100
+## Composite Transparency Score: 64.5 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 19.9 | 25% |
-| Asset Growth | 60.0 | 15% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 90.0 | 15% |
 | Parliament Attendance | 90.0 | 10% |
 | Questions & Debates | 100.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
-| Public Accessibility | 15.0 | 5% |
+| Public Accessibility | 65.0 | 5% |
 | Legislative Effectiveness | 70.0 | 10% |
 
 ---
@@ -34,18 +32,21 @@
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
+### Cases Detail
+
+1. 49/2019, Kamuthi Police Station (Sections: 143, 188) [pending] 
+
 ---
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 76.14 Crore
-- **Liabilities:** Rs 6.31 Crore
-- **Net Worth:** Rs 69.83 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 90% of Lok Sabha MPs
 
 ---
 
@@ -77,6 +78,18 @@
 
 ---
 
+## Public Accessibility
+
+- **Platforms:** 2
+
+
+| Platform | Handle | Verified | Active |
+|----------|--------|----------|--------|
+| Twitter | [@http://www.twitter.com/@KNavasKani](https://x.com/http://www.twitter.com/@KNavasKani) | No | Yes |
+| Facebook | [@http://www.facebook.com/@navas Kani.K.](https://facebook.com/http://www.facebook.com/@navas Kani.K.) | No | Yes |
+
+---
+
 ## In The News
 
 *Mixed/neutral coverage (10 articles)*
@@ -84,29 +97,41 @@
 - **Total Articles:** 10
 - **Positive:** 0 | **Negative:** 1 | **Neutral:** 9
 
-- Investigation against MP Navas Kani has begun, Income Tax Dept. tells Madras High Court - The Hindu (The Hindu) [neutral]
-- CBI files report on asset case on MP Navas Kani - DT Next (DT Next) [neutral]
-- Will take legal action against Ramnad MP, I-T dept tells Madras HC - The Times of India (The Times of India) [neutral]
-- Tamil Nadu: Plea in Madras High Court insists I-T dept probe into Navas Kani’s assets - The Hindu (The Hindu) [neutral]
 - Income suppression: Probing allegation against Ramnad MP Navas Kani, says I-T dept - DT Next (DT Next) [negative]
+- CBI files report on asset case on MP Navas Kani - DT Next (DT Next) [neutral]
+- Will take legal action against Ramnad MP, I-T dept tells Madras HC - timesofindia.indiatimes.com (timesofindia.indiatimes.com) [neutral]
+- Madras High Court refuses to reject petition filed by O. Paneerselvam challenging Navas Kani’s election - The Hindu (The Hindu) [neutral]
+- Prove I had non-veg on sacred hill or quit, Muslim League MP dares Annamalai - indiatoday.in (indiatoday.in) [neutral]
+
+---
+
+## News & Allegations
+
+- !! **Income suppression: Probing allegation against Ramnad MP Navas Kani, says I-T dept - DT Next** (DT Next)
+- ! **CBI files report on asset case on MP Navas Kani - DT Next** (DT Next)
+- ! **Will take legal action against Ramnad MP, I-T dept tells Madras HC - timesofindia.indiatimes.com** (timesofindia.indiatimes.com)
+- ! **Madras High Court refuses to reject petition filed by O. Paneerselvam challenging Navas Kani’s election - The Hindu** (The Hindu)
+- ! **Prove I had non-veg on sacred hill or quit, Muslim League MP dares Annamalai - indiatoday.in** (indiatoday.in)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Tamil Nadu: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Navaskani K shows moderate transparency with a score of 64.2/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Navaskani K shows moderate transparency with a score of 64.5/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Declared assets: Rs 761,430,420. MPLADS utilization: 24.9%. Parliament attendance: 90.0%. Questions asked: 68. Debates participated: 171.
+Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). MPLADS utilization: 24.9%. Parliament attendance: 90.0%. Questions asked: 68. Debates participated: 171. Low confidence data: Assets. 1 warning(s) noted.
 
 ---
 
@@ -146,7 +171,7 @@ Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Declared assets:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -244,12 +269,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

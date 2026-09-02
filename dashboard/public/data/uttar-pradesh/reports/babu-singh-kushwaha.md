@@ -3,24 +3,22 @@
 **Constituency:** Jaunpur, Uttar Pradesh
 **Party:** Samajwadi Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 57
-**Education:** 12th Pass
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (46%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 35.3 / 100
+## Composite Transparency Score: 37.3 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 17.7 | 25% |
-| Asset Growth | 55.0 | 15% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 0.0 | 15% |
 | Parliament Attendance | 85.0 | 10% |
 | Questions & Debates | 40.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
-| Public Accessibility | 15.0 | 5% |
+| Public Accessibility | 85.0 | 5% |
 | Legislative Effectiveness | 40.0 | 10% |
 
 ---
@@ -28,24 +26,51 @@
 ## Criminal Record
 
 - **Total Cases:** 25
-- **Serious Cases:** 0
+- **Serious Cases:** 18
 - **Convictions:** 0
 - **Pending Cases:** 25
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
+### Cases Detail
+
+1. RC220/2012 E0001, PS-CBI-EOU-IV/EO-II ND | Sec.8 and 13 (2), read with 13(1)(c) and 13(1)(d) of the P.C. Act, 1988 (Sections: 120B, 409, 420, 468, 471) [pending] **SERIOUS**
+2. RC220/2012 E0002, PS-CBI-EOU-IV/EO-II ND. | Sec.13(2), 13(1)(d) of the P.C. Act, 1988 (Sections: 120B, 420, 468, 471) [pending] **SERIOUS**
+3. RC220/2012 E0003, PS-CBI-EOU-IV/EO-II ND | Sec.13(2), 13(1)(d) of the P.C. Act, 1988 (Sections: 120B, 420, 465, 468, 471) [pending] **SERIOUS**
+4. RC 1(A)/2012/CBI/SC-III/ND, PS-CBI-SCB Lucknow | Sec.13(2), 13(1)(d) of the P.C. Act, 1988 (Sections: 120B, 420, 409) [pending] **SERIOUS**
+5. RC DST/2012/A0006, PS-CBI-STF-ND | Sec.13(2), 13(1)(d) of the P.C. Act, (Sections: 120B, 420) [pending] **SERIOUS**
+6. RC 01(A) 2012/SC-II/CBI, PS-CBI, SC-II ND | Sec.13(2), 13(1)(d) of 13(1)(c)  P.C. Act, 1988 (Sections: 120B, 409, 420) [pending] **SERIOUS**
+7. Case Crime no-RC 03(A)/2012/SC-II/CBI/IND, PS-CBI, SC-II, New Delhi | Sec.13(2), 13(1)(c) o& 13(1)(d) P.C. Act, 1988 (Sections: 120B, 409, 420) [pending] **SERIOUS**
+8. PMLA Lucknow ECIR No-ECIR/08/PMLA/LKZO/2012 & Ancillary Proceedings | Sec.3 & 4 PMLA, 2002 (Sections: N/A) [pending] 
+9. Thana Nawababad Dist-Jhansi | Sec.13(1)(d), 13(1)(E), 13(2) Prevention of Corruption Act 1988 (Sections: 177, 193, 419, 420, 465, 466, 467, 468, 471) [pending] **SERIOUS**
+10. Thana Atarra Dist Banda 0108 | Sec.13(1) E, 13(1) E, &  13(2) Prevention of Corruption Act 1988 (Sections: 120B) [pending] **SERIOUS**
+11. Thana Atarra Dist Banda	 0109 | Sec.31 Representation of the People Act 1950 (Sections: 419) [pending] 
+12. ECIR/09/LKZO/2012, Dt-14.04.2012, PS-Directorate of Enforcement Lucknow,  & Ancillary Proceedings | Sec.3 & 4 (PMLA) Act 2002 (Sections: N/A) [pending] 
+13. PS SIT Lucknow Crime No-7/2014 | Sec.13(1)D(2) and (3) Prevention of Corruption Act (Sections: 420, 409, 120B) [pending] **SERIOUS**
+14. PS SIT Lucknow Crime No-8/2014 | Sec.13(1)D(2) and (3) Prevention of Corruption Act (Sections: 420, 409, 120B) [pending] **SERIOUS**
+15. PS SIT Lucknow Crime No-9/2014 | Sec.13(1)D(2) and (3) Prevention of Corruption Act (Sections: 420, 409, 120B) [pending] **SERIOUS**
+16. PS SIT Lucknow Crime No-10/2014 | Sec.13(1)D(2) and (3) Prevention of Corruption Act (Sections: 420, 409, 120B) [pending] **SERIOUS**
+17. PS SIT Lucknow Crime No-11/2014 | Sec.13(1)D(2) and (3) Prevention of Corruption Act (Sections: 420, 409, 120B) [pending] **SERIOUS**
+18. PS SIT Lucknow Crime No-12/2014 | Sec.13(1)D(2) and (3) Prevention of Corruption Act (Sections: 420, 409, 120B) [pending] **SERIOUS**
+19. PS SIT Lucknow Crime No-13/2014 | Sec.13(1)D(2) and (3) Prevention of Corruption Act (Sections: 420, 409, 120B) [pending] **SERIOUS**
+20. PS SIT Lucknow Crime No-14/2014 | Sec.13(1)D(2) and (3) Prevention of Corruption Act (Sections: 420, 409, 120B) [pending] **SERIOUS**
+21. PS Gomti Nagar Lucknow Crime No-01/2014 | Sec.3(1)B/13 (2) Prevention of Corruption Act (Sections: 409, 120B) [pending] **SERIOUS**
+22. PS Sigaramau, Jaunpur Crime No-41/2024 (Sections: 143, 145, 149, 188, 290, 171F) [pending] 
+23. PS Line Bazar, Jaunpur Crime No-205/2024 (Sections: 143, 145, 149, 188, 290, 127) [pending] 
+24. PS Hazratganj, Lucknow Crime No-0075/2016 (Sections: 143, 341) [pending] 
+25. PS Mugra Badshahpur, Jaunpur Crime No-0131/2024 (Sections: 143, 145, 149, 188, 290, 171H) [pending] 
+
 ---
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 20.01 Crore
-- **Liabilities:** Rs 2.83 Crore
-- **Net Worth:** Rs 17.19 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 72% of Lok Sabha MPs
 
 ---
 
@@ -69,6 +94,19 @@
 
 ---
 
+## Public Accessibility
+
+- **Platforms:** 3
+
+
+| Platform | Handle | Verified | Active |
+|----------|--------|----------|--------|
+| Twitter | [@twiter@Babusinghkush5](https://x.com/twiter@Babusinghkush5) | No | Yes |
+| Facebook | [@facebook.com/bsk4india](https://facebook.com/facebook.com/bsk4india) | No | Yes |
+| Instagram | [@instagram.com/bsk4india](https://instagram.com/instagram.com/bsk4india) | No | Yes |
+
+---
+
 ## In The News
 
 *Mixed/neutral coverage (10 articles)*
@@ -76,29 +114,41 @@
 - **Total Articles:** 10
 - **Positive:** 0 | **Negative:** 1 | **Neutral:** 9
 
-- UP: ED seizes Samajwadi Party's Jaunpur MP Babu Singh Kushwaha's land, demolishes illegal construction | Watch - India TV News (India TV News) [neutral]
-- Jaunpur election results 2024: SP's Babu Singh Kushwaha wins with over 5 lakh votes - The Times of India (The Times of India) [neutral]
+- JAUNPUR: FOUR ACCUSED, INCLUDING SP MP BABU SINGH KUSHWAHA’S REPRESENTATIVE, GET LIFE TERM IN MURDER CASE - Press Trust of India (Press Trust of India) [neutral]
+- Babu Singh Kushwaha, Maya’s ex-confidant, is SP pick from Jaunpur - The Times of India (The Times of India) [neutral]
 - SP Fields NRHM Scam-Tainted Babu Singh Kushwaha From Jaunpur - ETV Bharat (ETV Bharat) [neutral]
+- Babu Singh Kushwaha , SP candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details. - The Hindu (The Hindu) [neutral]
 - BJP’s Kripa Shankar trails by over 22,000 votes in Jaunpur, SP’s Babu Singh Kushwaha in lead - ThePrint (ThePrint) [neutral]
-- LS Polls: UP's Jaunpur to witness three-cornered contest; BSP's last-minute candidate change adds twist - ANI News (ANI News) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **JAUNPUR: FOUR ACCUSED, INCLUDING SP MP BABU SINGH KUSHWAHA’S REPRESENTATIVE, GET LIFE TERM IN MURDER CASE - Press Trust of India** (Press Trust of India)
+- ! **Babu Singh Kushwaha, Maya’s ex-confidant, is SP pick from Jaunpur - The Times of India** (The Times of India)
+- ! **SP Fields NRHM Scam-Tainted Babu Singh Kushwaha From Jaunpur - ETV Bharat** (ETV Bharat)
+- ! **Babu Singh Kushwaha , SP candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details. - The Hindu** (The Hindu)
+- ! **BJP’s Kripa Shankar trails by over 22,000 votes in Jaunpur, SP’s Babu Singh Kushwaha in lead - ThePrint** (ThePrint)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Uttar Pradesh: 8 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Babu Singh Kushwaha has a below-average transparency score of 35.3/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance.
+Babu Singh Kushwaha has a below-average transparency score of 37.3/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance.
 
 ---
 
-Has 25 criminal case(s) (0 serious), 25 pending, 0 conviction(s). Declared assets: Rs 200,149,000. MPLADS utilization: 22.2%. Parliament attendance: 85.0%. Questions asked: 9. Debates participated: 3.
+Has 25 criminal case(s) (18 serious), 25 pending, 0 conviction(s). MPLADS utilization: 22.2%. Parliament attendance: 85.0%. Questions asked: 9. Debates participated: 3. Low confidence data: Assets. 1 warning(s) noted.
 
 ---
 
@@ -138,7 +188,7 @@ Has 25 criminal case(s) (0 serious), 25 pending, 0 conviction(s). Declared asset
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -236,12 +286,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

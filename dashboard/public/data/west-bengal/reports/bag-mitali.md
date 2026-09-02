@@ -3,24 +3,22 @@
 **Constituency:** Arambag, West Bengal
 **Party:** All India Trinamool Congress
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 47
-**Education:** Post Graduate
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (44%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 54.3 / 100
+## Composite Transparency Score: 55.1 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 25.5 | 25% |
-| Asset Growth | 50.0 | 15% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 80.0 | 10% |
 | Questions & Debates | 30.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
-| Public Accessibility | 15.0 | 5% |
+| Public Accessibility | 45.0 | 5% |
 | Legislative Effectiveness | 40.0 | 10% |
 
 ---
@@ -38,14 +36,13 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 7.85 Lakh
-- **Liabilities:** Rs 4.31 Lakh
-- **Net Worth:** Rs 3.54 Lakh
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 1% of Lok Sabha MPs
 
 ---
 
@@ -69,6 +66,17 @@
 
 ---
 
+## Public Accessibility
+
+- **Platforms:** 1
+
+
+| Platform | Handle | Verified | Active |
+|----------|--------|----------|--------|
+| Facebook | [@https://www.facebook.com/people/Mitali-Bag-Arambag/100094688438091/?_rdr](https://facebook.com/https://www.facebook.com/people/Mitali-Bag-Arambag/100094688438091/?_rdr) | No | Yes |
+
+---
+
 ## In The News
 
 *Mixed/neutral coverage (10 articles)*
@@ -78,27 +86,39 @@
 
 - TMC MP Mitali Bag’s car vandalised, windshield smashed; party blames BJP, alleges 'attempt on her life' - The Times of India (The Times of India) [neutral]
 - Trinamool MP Alleges Attack On Car By BJP Workers, Poll Body Seeks Report - NDTV (NDTV) [neutral]
-- TMC MP Mitali Bag's convoy allegedly attacked during poll campaign in Bengal's Arambagh - India TV News (India TV News) [neutral]
 - Injured TMC MP Mitali Bag arrives at booth in ambulance - MillenniumPost (MillenniumPost) [neutral]
-- Who will save you after May 4? Abhishek Banerjee to BJP after attack on TMC MP - India Today (India Today) [neutral]
+- TMC MP vehicle vandalised in Arambagh: Clash between BJP and TMC ahead of Abhishek Banerjee rally, BJP deni... - bhaskarenglish.in (bhaskarenglish.in) [neutral]
+- ‘Attempt on her life’: TMC MP Mitali Bag's blames car attacked by BJP 'goons' - India.com (India.com) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **TMC MP Mitali Bag’s car vandalised, windshield smashed; party blames BJP, alleges 'attempt on her life' - The Times of India** (The Times of India)
+- ! **Trinamool MP Alleges Attack On Car By BJP Workers, Poll Body Seeks Report - NDTV** (NDTV)
+- ! **Injured TMC MP Mitali Bag arrives at booth in ambulance - MillenniumPost** (MillenniumPost)
+- ! **TMC MP vehicle vandalised in Arambagh: Clash between BJP and TMC ahead of Abhishek Banerjee rally, BJP deni... - bhaskarenglish.in** (bhaskarenglish.in)
+- ! **‘Attempt on her life’: TMC MP Mitali Bag's blames car attacked by BJP 'goons' - India.com** (India.com)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for West Bengal: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Bag Mitali shows moderate transparency with a score of 54.3/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
+Bag Mitali shows moderate transparency with a score of 55.1/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
 
 ---
 
-No criminal cases declared. Declared assets: Rs 784,955. MPLADS utilization: 31.8%. Parliament attendance: 80.0%. Debates participated: 5.
+No criminal cases declared. MPLADS utilization: 31.8%. Parliament attendance: 80.0%. Debates participated: 5. Low confidence data: Assets. 1 warning(s) noted.
 
 ---
 
@@ -138,7 +158,7 @@ No criminal cases declared. Declared assets: Rs 784,955. MPLADS utilization: 31.
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -236,12 +256,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

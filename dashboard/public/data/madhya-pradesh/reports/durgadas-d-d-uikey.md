@@ -3,24 +3,22 @@
 **Constituency:** Betul, Madhya Pradesh
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 60
-**Education:** Post Graduate
 **Report Date:** 2026-09-02
-**Data Confidence:** Low (43%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (37%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 57.6 / 100
+## Composite Transparency Score: 57.9 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 46.9 | 25% |
-| Asset Growth | 60.0 | 15% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 50.0 | 10% |
 | Questions & Debates | 50.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
-| Public Accessibility | 15.0 | 5% |
+| Public Accessibility | 65.0 | 5% |
 | Legislative Effectiveness | 40.0 | 10% |
 
 ---
@@ -38,14 +36,13 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 1.85 Crore
-- **Liabilities:** Rs 11.82 Lakh
-- **Net Worth:** Rs 1.73 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 16% of Lok Sabha MPs
 
 ---
 
@@ -69,37 +66,61 @@
 
 ---
 
+## Public Accessibility
+
+- **Platforms:** 2
+
+
+| Platform | Handle | Verified | Active |
+|----------|--------|----------|--------|
+| Twitter | [@http://www.twitter.com/dduikey](https://x.com/http://www.twitter.com/dduikey) | No | Yes |
+| Facebook | [@http://www.facebook.com/dduikey](https://facebook.com/http://www.facebook.com/dduikey) | No | Yes |
+
+---
+
 ## In The News
 
-*Mixed/neutral coverage (10 articles)*
+*Mixed/neutral coverage (8 articles)*
 
-- **Total Articles:** 10
-- **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
+- **Total Articles:** 8
+- **Positive:** 0 | **Negative:** 0 | **Neutral:** 8
 
 - Shri Durga Das Uikey takes charge as Union Minister of State in the Ministry of Tribal Affairs - PIB (PIB) [neutral]
-- Betul election results 2024 live updates: Incumbent MP Durgadas Uikey of BJP wins - The Times of India (The Times of India) [neutral]
-- Political Profile of Durgadas (d. D.) Uikey, Bjp Party, Betul, and Net Worth - India TV News (India TV News) [neutral]
-- Durgadas Uikey Latest News, Updates in Hindi | दुर्गादास उइके के समाचार और अपडेट - AajTak (AajTak) [neutral]
-- Betul Election Result 2024 LIVE Updates Highlights: Durgadas (D D ) Uikey of BJP Wins - News18 (News18) [neutral]
+- Betul election results 2024 live updates: Incumbent MP Durgadas Uikey of BJP wins - timesofindia.indiatimes.com (timesofindia.indiatimes.com) [neutral]
+- Durgadas Uikey Latest News, Updates in Hindi | दुर्गादास उइके के समाचार और अपडेट - Aaj Tak News (Aaj Tak News) [neutral]
+- Betul lok sabha election results 2024: Betul Winning Candidates List and Vote Share - India Today (India Today) [neutral]
+- Lok Sabha Elections 2024 Winners List: BJP bags all Lok Sabha seats in Madhya Pradesh; Check full list - Livemint (Livemint) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Shri Durga Das Uikey takes charge as Union Minister of State in the Ministry of Tribal Affairs - PIB** (PIB)
+- ! **Betul election results 2024 live updates: Incumbent MP Durgadas Uikey of BJP wins - timesofindia.indiatimes.com** (timesofindia.indiatimes.com)
+- ! **Durgadas Uikey Latest News, Updates in Hindi | दुर्गादास उइके के समाचार और अपडेट - Aaj Tak News** (Aaj Tak News)
+- ! **Betul lok sabha election results 2024: Betul Winning Candidates List and Vote Share - India Today** (India Today)
+- ! **Lok Sabha Elections 2024 Winners List: BJP bags all Lok Sabha seats in Madhya Pradesh; Check full list - Livemint** (Livemint)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
 - [!] **parliament_activity**: Low confidence in parliament activity data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Madhya Pradesh: 8 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Durgadas D D Uikey shows moderate transparency with a score of 57.6/100. No criminal cases declared.
+Durgadas D D Uikey shows moderate transparency with a score of 57.9/100. No criminal cases declared.
 
 ---
 
-No criminal cases declared. Declared assets: Rs 18,487,232. MPLADS utilization: 54.6%. Low confidence data: Parliament activity. 1 warning(s) noted.
+No criminal cases declared. MPLADS utilization: 54.6%. Low confidence data: Assets, Parliament activity. 2 warning(s) noted.
 
 ---
 
@@ -139,7 +160,7 @@ No criminal cases declared. Declared assets: Rs 18,487,232. MPLADS utilization: 
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -237,12 +258,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*
