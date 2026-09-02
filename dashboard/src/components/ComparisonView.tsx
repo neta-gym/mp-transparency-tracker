@@ -18,6 +18,8 @@ interface CompareMP {
   house: string;
   photoUrl: string | null;
   compositeScore: number;
+  isMinister?: boolean;
+  estimated?: { attendance?: boolean; participation?: boolean };
   dimensionScores: Record<string, number | null>;
   metrics: {
     attendancePct: number | null;
@@ -168,6 +170,26 @@ function winners(values: (number | null)[], better: "higher" | "lower" | "none")
   return out;
 }
 
+/** Is a dimension score an estimated neutral placeholder (no underlying data)? */
+function dimEstimated(mp: CompareMP, compKey: string): boolean {
+  if (compKey === "attendance_score") return !!mp.estimated?.attendance;
+  if (compKey === "participation_score") return !!mp.estimated?.participation;
+  return false;
+}
+
+/** Winner indexes among real (non-estimated) values only. Placeholder scores
+ * can never win a row, and a row needs at least 2 real values to have a winner. */
+function winnersReal(values: (number | null)[], estimated: boolean[]): Set<number> {
+  const out = new Set<number>();
+  const realIdx = values.map((v, i) => (v != null && !estimated[i] ? i : -1)).filter((i) => i >= 0);
+  if (realIdx.length < 2) return out;
+  const realVals = realIdx.map((i) => values[i] as number);
+  const best = Math.max(...realVals);
+  if (realVals.filter((v) => v === best).length !== 1) return out;
+  out.add(realIdx[realVals.indexOf(best)]);
+  return out;
+}
+
 export function ComparisonView() {
   const [mps, setMps] = useState<CompareMP[] | null>(null);
   const [loadError, setLoadError] = useState(false);
@@ -207,8 +229,9 @@ export function ComparisonView() {
   if (selected.length >= 2) {
     for (const comp of SCORE_COMPONENTS) {
       const vals = selected.map((mp) => mp.dimensionScores?.[comp.key] ?? null);
-      const w = winners(vals, "higher");
-      if (vals.filter((v) => v != null).length >= 2) dimsComparable++;
+      const est = selected.map((mp) => dimEstimated(mp, comp.key));
+      const w = winnersReal(vals, est);
+      if (vals.filter((v, i) => v != null && !est[i]).length >= 2) dimsComparable++;
       w.forEach((i) => dimensionWins[i]++);
     }
   }
@@ -226,7 +249,10 @@ export function ComparisonView() {
   let biggestGap: { label: string; leader: number; delta: number } | null = null;
   if (selected.length >= 2) {
     for (const comp of SCORE_COMPONENTS) {
-      const vals = selected.map((mp) => mp.dimensionScores?.[comp.key] ?? null);
+      const est = selected.map((mp) => dimEstimated(mp, comp.key));
+      const vals = selected.map((mp, i) =>
+        est[i] ? null : (mp.dimensionScores?.[comp.key] ?? null)
+      );
       if (vals.some((v) => v == null)) continue;
       const max = Math.max(...(vals as number[]));
       const min = Math.min(...(vals as number[]));
@@ -347,7 +373,7 @@ export function ComparisonView() {
                 </p>
               )}
               <p className="text-text-muted text-xs">
-                Green highlight marks the better value in each row. Asset totals are shown for context - wealth alone is neither good nor bad.
+                Green highlight marks the better real value in each row. Scores marked * are neutral estimates (no underlying data - e.g. PRS does not track ministers' attendance) and never win a row. Asset totals are shown for context - wealth alone is neither good nor bad.
               </p>
             </CardContent>
           </Card>
@@ -394,7 +420,8 @@ export function ComparisonView() {
                     {/* Dimension scores */}
                     {SCORE_COMPONENTS.map((comp) => {
                       const vals = selected.map((mp) => mp.dimensionScores?.[comp.key] ?? null);
-                      const w = winners(vals, "higher");
+                      const est = selected.map((mp) => dimEstimated(mp, comp.key));
+                      const w = winnersReal(vals, est);
                       return (
                         <tr key={comp.key} className="border-b border-ink/30">
                           <td className="p-3 text-text-muted">
@@ -406,7 +433,13 @@ export function ComparisonView() {
                           {vals.map((v, i) => (
                             <td key={i} className={`p-3 text-center font-mono text-sm ${w.has(i) ? "bg-success/20 font-bold" : ""}`}>
                               {v != null ? (
-                                <span style={{ color: getScoreColor(v) }}>{v.toFixed(1)}</span>
+                                est[i] ? (
+                                  <span className="text-text-muted" title="Estimated: no underlying data">
+                                    {v.toFixed(1)}*
+                                  </span>
+                                ) : (
+                                  <span style={{ color: getScoreColor(v) }}>{v.toFixed(1)}</span>
+                                )
                               ) : (
                                 <span className="text-text-muted">—</span>
                               )}

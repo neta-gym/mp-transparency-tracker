@@ -236,6 +236,19 @@ function buildCompareIndex() {
         house: e.house ?? "lok_sabha",
         photoUrl: e.photo_url ?? null,
         compositeScore: e.composite_score,
+        isMinister: !!pa.is_minister,
+        estimated: {
+          // Scorer falls back to a neutral value when the underlying metric
+          // is missing: attendance 50 (minister) / 45 (no data), and
+          // participation 50 for ministers with no questions/debates (PRS
+          // does not track ministers). Flag them so the UI never lets a
+          // placeholder win a row.
+          attendance: pa.attendance_percentage == null,
+          participation:
+            !!pa.is_minister &&
+            (pa.questions_asked ?? 0) === 0 &&
+            (pa.debates_participated ?? 0) === 0,
+        },
         dimensionScores: {
           mplads_score: e.mplads_score,
           asset_score: e.asset_score,
