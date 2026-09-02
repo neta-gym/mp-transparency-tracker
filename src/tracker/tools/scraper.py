@@ -72,6 +72,11 @@ class AsyncScraper:
                                 resp.request_info, resp.history, status=resp.status
                             )
                 except (aiohttp.ClientError, asyncio.TimeoutError) as e:
+                    # 404 is permanent - the fetch() 404 branch raises
+                    # ClientResponseError, which is a ClientError subclass and
+                    # would otherwise be swallowed here and retried.
+                    if isinstance(e, aiohttp.ClientResponseError) and e.status == 404:
+                        raise
                     last_error = e
                     delay = settings.retry_base_delay * (2**attempt)
                     log.warning("Request error for %s: %s, retrying in %.1fs", url, e, delay)
@@ -96,6 +101,8 @@ class AsyncScraper:
                             return data
                         last_error = aiohttp.ClientResponseError(resp.request_info, resp.history, status=resp.status)
                 except (aiohttp.ClientError, asyncio.TimeoutError) as e:
+                    if isinstance(e, aiohttp.ClientResponseError) and e.status == 404:
+                        raise
                     last_error = e
                     await asyncio.sleep(settings.retry_base_delay * (2**attempt))
 
