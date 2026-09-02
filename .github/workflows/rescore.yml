@@ -71,9 +71,10 @@ jobs:
           cache: pip
 
       - name: Install dependencies
-        run: |
-          pip install -r requirements.txt
-          playwright install chromium
+        # No playwright/chromium: esakshi.mospi.gov.in is unreachable from
+        # GitHub runners (probe: 000), so the browser path can only fail
+        # slowly. Skipping it forces the fast API/HTML fallback everywhere.
+        run: pip install -r requirements.txt
 
       - name: Source connectivity probe
         run: |
@@ -117,7 +118,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/ ':!data/tracker.db' ':!data/tracker.db-shm' ':!data/tracker.db-wal'
+          git add "data/${{ matrix.state }}" data/_meta/rescore_status
           if git diff --cached --quiet; then
             echo "No data changes for ${{ matrix.state }}"
             exit 0
