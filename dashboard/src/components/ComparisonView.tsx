@@ -362,9 +362,9 @@ export function ComparisonView() {
                 <table className="w-full text-sm border-2 border-ink">
                   <thead>
                     <tr className="bg-surface border-b-2 border-ink">
-                      <th className="text-left p-3 font-bold min-w-[140px]">Metric</th>
+                      <th className="text-left p-3 font-bold min-w-[120px]">Metric</th>
                       {selected.map((mp, i) => (
-                        <th key={i} className="text-center p-3 font-bold min-w-[110px]" style={{ color: COLORS[i] }}>
+                        <th key={i} className="text-center p-3 font-bold min-w-[96px]" style={{ color: COLORS[i] }}>
                           <Link
                             href={`/state/${mp.stateSlug}/mp/${mp.mpSlug}`}
                             className="hover:underline"
