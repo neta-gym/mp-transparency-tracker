@@ -134,7 +134,8 @@ export default async function StatePage({ params }: PageProps) {
         </div>
       </div>
 
-      {/* Map (collapsible on smaller screens) */}
+      {/* Map (collapsible on smaller screens) — skipped for boards with no geography (e.g. Nominated RS) */}
+      {stateInfo.geoJsonName ? (
       <details className="group" open>
         <summary className="cursor-pointer border-3 border-ink bg-surface shadow-brutal-sm px-4 py-2 font-bold uppercase text-sm text-ink hover:bg-highlight transition-colors select-none">
           Constituency Map
@@ -147,6 +148,7 @@ export default async function StatePage({ params }: PageProps) {
           <ColorLegend className="mt-4 max-w-sm mx-auto" />
         </div>
       </details>
+      ) : null}
 
       {/* Full-width Leaderboard Table */}
       <Card>
