@@ -1,6 +1,6 @@
 # MP Transparency Leaderboard — Jharkhand
 
-*Generated: 2026-09-02 01:21 UTC | Methodology v3.1 | 20 MPs*
+*Generated: 2026-09-02 01:28 UTC | Methodology v3.1 | 20 MPs*
 
 | Rank | House | MP Name | Constituency | Party | Score | Confidence | Key Finding |
 |------|-------|---------|-------------|-------|-------|------------|-------------|
@@ -13,13 +13,13 @@
 | 7 | LS | Manish Jaiswal | Hazaribagh | Bharatiya Janata Party | 61.0 | 65% | Low fund utilization, High attendance |
 | 8 | LS | Vijay Kumar Hansdak | Rajmahal | Jharkhand Mukti Morcha | 59.4 | 64% | Clean record, Low fund utilization, High attendance |
 | 9 | LS | Kali Charan Munda | Khunti | Indian National Congress | 58.6 | 65% | Clean record, High attendance |
-| 10 | RS | Sarfraz Ahmad | Rajya Sabha (Jharkhand) | Jharkhand Mukti Morcha | 56.6 | 50% | Clean record, Low fund utilization |
-| 11 | RS | Baidyanath Ram | Rajya Sabha (Jharkhand) | Jharkhand Mukti Morcha | 55.5 | 50% | Clean record, Low fund utilization, High attendance |
-| 12 | LS | Chandra Prakash Choudhary | Giridih | AJSU Party | 55.1 | 65% | Low fund utilization, High attendance |
-| 13 | LS | Sanjay Seth | Ranchi | Bharatiya Janata Party | 53.3 | 58% | Mixed transparency record |
-| 14 | LS | Joba Majhi | Singhbhum | Jharkhand Mukti Morcha | 53.1 | 65% | Clean record, Low fund utilization |
-| 15 | LS | Kali Charan Singh | Chatra | Bharatiya Janata Party | 49.3 | 65% | Low fund utilization, High attendance |
-| 16 | RS | Nathwani Parimal | Rajya Sabha (Jharkhand) | Independent & Others | 49.0 | 24% | Clean record |
+| 10 | RS | Nathwani Parimal | Rajya Sabha (Jharkhand) | Independent & Others | 57.1 | 37% | Clean record, Low attendance |
+| 11 | RS | Sarfraz Ahmad | Rajya Sabha (Jharkhand) | Jharkhand Mukti Morcha | 56.6 | 50% | Clean record, Low fund utilization |
+| 12 | RS | Baidyanath Ram | Rajya Sabha (Jharkhand) | Jharkhand Mukti Morcha | 55.5 | 50% | Clean record, Low fund utilization, High attendance |
+| 13 | LS | Chandra Prakash Choudhary | Giridih | AJSU Party | 55.1 | 65% | Low fund utilization, High attendance |
+| 14 | LS | Sanjay Seth | Ranchi | Bharatiya Janata Party | 53.3 | 58% | Mixed transparency record |
+| 15 | LS | Joba Majhi | Singhbhum | Jharkhand Mukti Morcha | 53.1 | 65% | Clean record, Low fund utilization |
+| 16 | LS | Kali Charan Singh | Chatra | Bharatiya Janata Party | 49.3 | 65% | Low fund utilization, High attendance |
 | 17 | LS | Annpurna Devi | Kodarma | Bharatiya Janata Party | 47.5 | 58% | Low fund utilization |
 | 18 | LS | Nalin Soren | Dumka | Jharkhand Mukti Morcha | 46.2 | 65% | Low attendance |
 | 19 | LS | Nishikant Dubey | Godda | Bharatiya Janata Party | 46.2 | 65% | Significant criminal cases, Low fund utilization, High attendance, Legislative initiative |
@@ -38,13 +38,13 @@
 | 7 | Manish Jaiswal | LS | 35 | 55 | 80 | 100 | 80 | 40 | 15 | 40 |
 | 8 | Vijay Kumar Hansdak | LS | 11 | 55 | 100 | 95 | 80 | 40 | 15 | 40 |
 | 9 | Kali Charan Munda | LS | 43 | 50 | 100 | 85 | 30 | 40 | 15 | 40 |
-| 10 | Sarfraz Ahmad | RS | 35 | 50 | 100 | 76 | 40 | 40 | 15 | 40 |
-| 11 | Baidyanath Ram | RS | 35 | 50 | 100 | 95 | 0 | 40 | 15 | 40 |
-| 12 | Chandra Prakash Choudhary | LS | 26 | 50 | 80 | 85 | 70 | 40 | 15 | 40 |
-| 13 | Sanjay Seth | LS | 49 | 55 | 80 | 50 | 50 | 40 | 15 | 40 |
-| 14 | Joba Majhi | LS | 25 | 60 | 100 | 55 | 40 | 40 | 15 | 40 |
-| 15 | Kali Charan Singh | LS | 16 | 50 | 80 | 85 | 30 | 40 | 15 | 40 |
-| 16 | Nathwani Parimal | RS | 40 | 50 | 100 | 45 | 0 | 40 | 15 | 40 |
+| 10 | Nathwani Parimal | RS | 40 | 50 | 100 | 39 | 90 | 40 | 15 | 40 |
+| 11 | Sarfraz Ahmad | RS | 35 | 50 | 100 | 76 | 40 | 40 | 15 | 40 |
+| 12 | Baidyanath Ram | RS | 35 | 50 | 100 | 95 | 0 | 40 | 15 | 40 |
+| 13 | Chandra Prakash Choudhary | LS | 26 | 50 | 80 | 85 | 70 | 40 | 15 | 40 |
+| 14 | Sanjay Seth | LS | 49 | 55 | 80 | 50 | 50 | 40 | 15 | 40 |
+| 15 | Joba Majhi | LS | 25 | 60 | 100 | 55 | 40 | 40 | 15 | 40 |
+| 16 | Kali Charan Singh | LS | 16 | 50 | 80 | 85 | 30 | 40 | 15 | 40 |
 | 17 | Annpurna Devi | LS | 16 | 60 | 80 | 50 | 50 | 40 | 15 | 40 |
 | 18 | Nalin Soren | LS | 41 | 60 | 80 | 15 | 40 | 40 | 15 | 40 |
 | 19 | Nishikant Dubey | LS | 1 | 55 | 20 | 100 | 90 | 40 | 15 | 70 |

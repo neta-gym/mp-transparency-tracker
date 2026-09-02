@@ -45,7 +45,7 @@
 - **Net Worth:** Rs 5.52 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 60% of Lok Sabha MPs
+- **Wealth Percentile:** Wealthier than 59% of Lok Sabha MPs
 
 ---
 

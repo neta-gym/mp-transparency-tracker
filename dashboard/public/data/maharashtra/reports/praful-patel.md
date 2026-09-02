@@ -5,19 +5,19 @@
 **House:** Rajya Sabha (18th Parliament, 2024-present)
 **Age:** 66
 **Report Date:** 2026-09-02
-**Data Confidence:** Low (37%) | **Evidence Grade:** LLM/Estimated (E)
+**Data Confidence:** Medium (50%) | **Evidence Grade:** LLM/Estimated (E)
 
 ---
 
-## Composite Transparency Score: 48.0 / 100
+## Composite Transparency Score: 58.2 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 35.0 | 25% |
 | Asset Growth | 50.0 | 15% |
 | Criminal Record | 100.0 | 15% |
-| Parliament Attendance | 45.0 | 10% |
-| Questions & Debates | 0.0 | 10% |
+| Parliament Attendance | 73.0 | 10% |
+| Questions & Debates | 60.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
 | Public Accessibility | 15.0 | 5% |
 | Legislative Effectiveness | 40.0 | 10% |
@@ -71,17 +71,16 @@
 
 ## Parliament Activity
 
-- **Attendance:** N/A
-- **Questions Asked:** 0
-- **Debates Participated:** 0
+- **Attendance:** 73.0%
+- **Questions Asked:** 4
+- **Debates Participated:** 87
 - **Private Bills:** 0
-- **Is Minister:** No
+- **Is Minister:** Yes
 
 ---
 
 ## Data Validation Flags
 
-- [!] **parliament_activity**: Low confidence in parliament activity data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Maharashtra: 7 relevant findings
@@ -90,11 +89,11 @@
 
 ## Qualitative Assessment
 
-Praful Patel has a below-average transparency score of 48.0/100, indicating significant room for improvement. No criminal cases declared. Low MPLADS fund utilization needs attention. Limited participation in parliamentary proceedings.
+Praful Patel shows moderate transparency with a score of 58.2/100. No criminal cases declared. Low MPLADS fund utilization needs attention. Active in questions and debates.
 
 ---
 
-No criminal cases declared. Declared assets: Rs 4,363,321,060. Low confidence data: Parliament activity. 1 warning(s) noted.
+No criminal cases declared. Declared assets: Rs 4,363,321,060. Parliament attendance: 73.0%. Questions asked: 4. Debates participated: 87.
 
 ---
 
@@ -217,5 +216,5 @@ Time limit: PIO must respond within 30 days of receipt.
 
 ---
 
-*Sources consulted: adrindia.org RS analysis June 2026, eSAKSHI MPLADS portal, Digital Sansad RS member directory*
+*Sources consulted: adrindia.org RS analysis June 2026, eSAKSHI MPLADS portal, PRS MP Track (Rajya Sabha), Digital Sansad RS member directory*
 *Methodology version: 3.0 (8 scoring dimensions)*

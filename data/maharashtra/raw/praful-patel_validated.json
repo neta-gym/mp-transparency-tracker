@@ -14,7 +14,7 @@
     "education": null,
     "profession": null,
     "age": 66,
-    "photo_url": "https://sansad.in/getFile/newmembers/photos/P208.jpg?source=rajyasabha"
+    "photo_url": null
   },
   "findings": {
     "mp": {
@@ -32,7 +32,7 @@
       "education": null,
       "profession": null,
       "age": 66,
-      "photo_url": "https://sansad.in/getFile/newmembers/photos/P208.jpg?source=rajyasabha"
+      "photo_url": null
     },
     "criminal_record": {
       "total_cases": 0,
@@ -48,7 +48,7 @@
           "url": "https://adrindia.org/content/Analysis-of-Criminal-Background-Financial-Education-Gender-and-other-details-of-Sitting-Rajya-Sabha-MPs-June2026",
           "source_name": "adr_rs_analysis_june2026",
           "grade": "B",
-          "fetched_at": "2026-09-02T01:21:32.659690Z",
+          "fetched_at": "2026-09-02T01:28:33.467453Z",
           "notes": "ADR/MyNeta analysis of sitting RS MPs' affidavits (June 2026)"
         }
       ]
@@ -69,7 +69,7 @@
           "url": "https://adrindia.org/content/Analysis-of-Criminal-Background-Financial-Education-Gender-and-other-details-of-Sitting-Rajya-Sabha-MPs-June2026",
           "source_name": "adr_rs_analysis_june2026",
           "grade": "B",
-          "fetched_at": "2026-09-02T01:21:32.659690Z",
+          "fetched_at": "2026-09-02T01:28:33.467453Z",
           "notes": "ADR/MyNeta analysis of sitting RS MPs' affidavits (June 2026)"
         }
       ],
@@ -90,7 +90,7 @@
           "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:21:32.659690Z",
+          "fetched_at": "2026-09-02T01:28:33.467453Z",
           "notes": "RS works: 117 work-level records"
         }
       ],
@@ -2798,14 +2798,22 @@
       "utilization_rate": null
     },
     "parliament_activity": {
-      "attendance_percentage": null,
-      "questions_asked": 0,
-      "debates_participated": 0,
+      "attendance_percentage": 73.0,
+      "questions_asked": 4,
+      "debates_participated": 87,
       "private_bills_introduced": 0,
-      "is_minister": false,
-      "source": "none",
-      "confidence": 0.0,
-      "sources": [],
+      "is_minister": true,
+      "source": "prs_rs",
+      "confidence": 0.9,
+      "sources": [
+        {
+          "url": "https://prsindia.org/mptrack/rajya-sabha/prafulmanoharbhaipatel",
+          "source_name": "prs_website",
+          "grade": "B",
+          "fetched_at": "2026-09-02T01:28:33.467453Z",
+          "notes": "PRS India MP Track - Rajya Sabha"
+        }
+      ],
       "focus_topics": [],
       "notable_questions": [],
       "voting_record": []
@@ -2815,9 +2823,10 @@
     "sources_consulted": [
       "adrindia.org RS analysis June 2026",
       "eSAKSHI MPLADS portal",
+      "PRS MP Track (Rajya Sabha)",
       "Digital Sansad RS member directory"
     ],
-    "collected_at": "2026-09-02T01:21:32.659690Z",
+    "collected_at": "2026-09-02T01:28:33.467453Z",
     "evidence_summary": {},
     "cag_findings": [
       {
@@ -2832,7 +2841,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:21:38.122135Z",
+          "fetched_at": "2026-09-02T01:28:38.942808Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -2848,7 +2857,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:21:38.122146Z",
+          "fetched_at": "2026-09-02T01:28:38.942817Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -2864,7 +2873,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:21:38.122151Z",
+          "fetched_at": "2026-09-02T01:28:38.942821Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -2880,7 +2889,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:21:38.122156Z",
+          "fetched_at": "2026-09-02T01:28:38.942825Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -2896,7 +2905,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:21:38.122163Z",
+          "fetched_at": "2026-09-02T01:28:38.942831Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -2912,7 +2921,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:21:38.122167Z",
+          "fetched_at": "2026-09-02T01:28:38.942835Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -2928,7 +2937,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:21:38.122172Z",
+          "fetched_at": "2026-09-02T01:28:38.942840Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -3032,14 +3041,8 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.37,
+  "overall_confidence": 0.5,
   "flags": [
-    {
-      "field": "parliament_activity",
-      "issue": "Low confidence in parliament activity data",
-      "severity": "warning",
-      "suggestion": ""
-    },
     {
       "field": "committees",
       "issue": "No committee data found — Sansad profile may be unavailable",
@@ -3059,6 +3062,6 @@
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "No criminal cases declared. Declared assets: Rs 4,363,321,060. Low confidence data: Parliament activity. 1 warning(s) noted.",
-  "validated_at": "2026-09-02T01:21:38.122939Z"
+  "cross_reference_notes": "No criminal cases declared. Declared assets: Rs 4,363,321,060. Parliament attendance: 73.0%. Questions asked: 4. Debates participated: 87.",
+  "validated_at": "2026-09-02T01:28:38.943543Z"
 }

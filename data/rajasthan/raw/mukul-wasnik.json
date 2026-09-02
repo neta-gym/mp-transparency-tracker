@@ -14,7 +14,7 @@
     "education": null,
     "profession": null,
     "age": 62,
-    "photo_url": "https://sansad.in/getFile/newmembers/photos/P2549.jpg?source=rajyasabha"
+    "photo_url": null
   },
   "criminal_record": {
     "total_cases": 0,
@@ -30,7 +30,7 @@
         "url": "https://adrindia.org/content/Analysis-of-Criminal-Background-Financial-Education-Gender-and-other-details-of-Sitting-Rajya-Sabha-MPs-June2026",
         "source_name": "adr_rs_analysis_june2026",
         "grade": "B",
-        "fetched_at": "2026-09-02T01:21:32.659690Z",
+        "fetched_at": "2026-09-02T01:28:33.467453Z",
         "notes": "ADR/MyNeta analysis of sitting RS MPs' affidavits (June 2026)"
       }
     ]
@@ -51,7 +51,7 @@
         "url": "https://adrindia.org/content/Analysis-of-Criminal-Background-Financial-Education-Gender-and-other-details-of-Sitting-Rajya-Sabha-MPs-June2026",
         "source_name": "adr_rs_analysis_june2026",
         "grade": "B",
-        "fetched_at": "2026-09-02T01:21:32.659690Z",
+        "fetched_at": "2026-09-02T01:28:33.467453Z",
         "notes": "ADR/MyNeta analysis of sitting RS MPs' affidavits (June 2026)"
       }
     ],
@@ -72,7 +72,7 @@
         "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:21:32.659690Z",
+        "fetched_at": "2026-09-02T01:28:33.467453Z",
         "notes": "RS works: 175 work-level records"
       }
     ],
@@ -4114,14 +4114,22 @@
     "utilization_rate": null
   },
   "parliament_activity": {
-    "attendance_percentage": null,
-    "questions_asked": 0,
-    "debates_participated": 0,
+    "attendance_percentage": 94.0,
+    "questions_asked": 233,
+    "debates_participated": 20,
     "private_bills_introduced": 0,
-    "is_minister": false,
-    "source": "none",
-    "confidence": 0.0,
-    "sources": [],
+    "is_minister": true,
+    "source": "prs_rs",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "url": "https://prsindia.org/mptrack/rajya-sabha/mukul-balkrishna-wasnik",
+        "source_name": "prs_website",
+        "grade": "B",
+        "fetched_at": "2026-09-02T01:28:33.467453Z",
+        "notes": "PRS India MP Track - Rajya Sabha"
+      }
+    ],
     "focus_topics": [],
     "notable_questions": [],
     "voting_record": []
@@ -4131,9 +4139,10 @@
   "sources_consulted": [
     "adrindia.org RS analysis June 2026",
     "eSAKSHI MPLADS portal",
+    "PRS MP Track (Rajya Sabha)",
     "Digital Sansad RS member directory"
   ],
-  "collected_at": "2026-09-02T01:21:32.659690Z",
+  "collected_at": "2026-09-02T01:28:33.467453Z",
   "evidence_summary": {},
   "cag_findings": [
     {
@@ -4148,7 +4157,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:21:39.436320Z",
+        "fetched_at": "2026-09-02T01:28:40.292027Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -4164,7 +4173,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:21:39.436329Z",
+        "fetched_at": "2026-09-02T01:28:40.292042Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -4180,7 +4189,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:21:39.436334Z",
+        "fetched_at": "2026-09-02T01:28:40.292047Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -4196,7 +4205,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:21:39.436338Z",
+        "fetched_at": "2026-09-02T01:28:40.292052Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -4212,7 +4221,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:21:39.436343Z",
+        "fetched_at": "2026-09-02T01:28:40.292058Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -4228,7 +4237,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:21:39.436347Z",
+        "fetched_at": "2026-09-02T01:28:40.292062Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -4244,7 +4253,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:21:39.436352Z",
+        "fetched_at": "2026-09-02T01:28:40.292068Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }

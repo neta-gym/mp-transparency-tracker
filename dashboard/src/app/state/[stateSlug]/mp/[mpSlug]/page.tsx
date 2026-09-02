@@ -191,6 +191,14 @@ export default async function MPDetailPage({ params }: PageProps) {
                 >
                   {mp.party}
                 </span>
+                {mp.house === "rajya_sabha" && (
+                  <span
+                    className="text-sm font-bold px-2.5 py-1 border-2 border-ink uppercase bg-accent text-ink"
+                    style={{ boxShadow: "1px 1px 0 0 #000" }}
+                  >
+                    Rajya Sabha
+                  </span>
+                )}
               </div>
               <p className="text-text-secondary">
                 {mp.constituency}, {stateInfo.displayName}

@@ -5,19 +5,19 @@
 **House:** Rajya Sabha (18th Parliament, 2024-present)
 **Age:** 70
 **Report Date:** 2026-09-02
-**Data Confidence:** Low (24%) | **Evidence Grade:** LLM/Estimated (E)
+**Data Confidence:** Low (37%) | **Evidence Grade:** LLM/Estimated (E)
 
 ---
 
-## Composite Transparency Score: 49.0 / 100
+## Composite Transparency Score: 57.1 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 40.0 | 25% |
 | Asset Growth | 50.0 | 15% |
 | Criminal Record | 100.0 | 15% |
-| Parliament Attendance | 45.0 | 10% |
-| Questions & Debates | 0.0 | 10% |
+| Parliament Attendance | 39.0 | 10% |
+| Questions & Debates | 90.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
 | Public Accessibility | 15.0 | 5% |
 | Legislative Effectiveness | 40.0 | 10% |
@@ -59,18 +59,17 @@
 
 ## Parliament Activity
 
-- **Attendance:** N/A
-- **Questions Asked:** 0
-- **Debates Participated:** 0
+- **Attendance:** 39.0%
+- **Questions Asked:** 1989
+- **Debates Participated:** 21
 - **Private Bills:** 0
-- **Is Minister:** No
+- **Is Minister:** Yes
 
 ---
 
 ## Data Validation Flags
 
 - [!] **mplads**: Low confidence in MPLADS data
-- [!] **parliament_activity**: Low confidence in parliament activity data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Jharkhand: 7 relevant findings
@@ -79,11 +78,11 @@
 
 ## Qualitative Assessment
 
-Nathwani Parimal has a below-average transparency score of 49.0/100, indicating significant room for improvement. No criminal cases declared. Limited participation in parliamentary proceedings. Data confidence is low — scores should be interpreted with caution.
+Nathwani Parimal shows moderate transparency with a score of 57.1/100. No criminal cases declared. Low parliament attendance is notable. Active in questions and debates.
 
 ---
 
-No criminal cases declared. Declared assets: Rs 7,550,561,771. Low confidence data: MPLADS, Parliament activity. 2 warning(s) noted.
+No criminal cases declared. Declared assets: Rs 7,550,561,771. Parliament attendance: 39.0%. Questions asked: 1989. Debates participated: 21. Low confidence data: MPLADS. 1 warning(s) noted.
 
 ---
 
@@ -206,5 +205,5 @@ Time limit: PIO must respond within 30 days of receipt.
 
 ---
 
-*Sources consulted: adrindia.org RS analysis June 2026, Digital Sansad RS member directory*
+*Sources consulted: adrindia.org RS analysis June 2026, PRS MP Track (Rajya Sabha), Digital Sansad RS member directory*
 *Methodology version: 3.0 (8 scoring dimensions)*

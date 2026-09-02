@@ -5,15 +5,15 @@
 **House:** Rajya Sabha (18th Parliament, 2024-present)
 **Age:** 64
 **Report Date:** 2026-09-02
-**Data Confidence:** Low (13%) | **Evidence Grade:** LLM/Estimated (E)
+**Data Confidence:** Low (26%) | **Evidence Grade:** LLM/Estimated (E)
 
 ---
 
-## Composite Transparency Score: 53.5 / 100
+## Composite Transparency Score: 52.5 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 40.0 | 25% |
+| MPLADS Fund Utilization | 35.0 | 25% |
 | Asset Growth | 45.0 | 15% |
 | Criminal Record | 45.0 | 15% |
 | Parliament Attendance | 93.0 | 10% |
@@ -55,6 +55,15 @@
 - **Expended:** N/A
 - **Utilization Rate:** N/A
 
+### Sector Breakdown
+
+| Sector | Works | Amount | Completion |
+|--------|-------|--------|------------|
+| Community | 1 | Rs 0 | 0% |
+| Health | 1 | Rs 0 | 0% |
+| Infrastructure | 3 | Rs 0 | 0% |
+| Other | 1 | Rs 0 | 0% |
+
 ---
 
 ## Parliament Activity
@@ -71,7 +80,6 @@
 
 - [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
 - [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Nominated: 7 relevant findings
@@ -80,11 +88,11 @@
 
 ## Qualitative Assessment
 
-Harsh Vardhan Shringla shows moderate transparency with a score of 53.5/100. Significant criminal cases are a concern. High parliament attendance. Active in questions and debates. Data confidence is low — scores should be interpreted with caution.
+Harsh Vardhan Shringla shows moderate transparency with a score of 52.5/100. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates. Data confidence is low — scores should be interpreted with caution.
 
 ---
 
-No criminal cases declared. Parliament attendance: 93.0%. Questions asked: 38. Debates participated: 65. Low confidence data: Criminal record, Assets, MPLADS. 3 warning(s) noted.
+No criminal cases declared. Parliament attendance: 93.0%. Questions asked: 38. Debates participated: 65. Low confidence data: Criminal record, Assets. 2 warning(s) noted.
 
 ---
 
@@ -207,5 +215,5 @@ Time limit: PIO must respond within 30 days of receipt.
 
 ---
 
-*Sources consulted: PRS MP Track (Rajya Sabha), Digital Sansad RS member directory*
+*Sources consulted: eSAKSHI MPLADS portal, PRS MP Track (Rajya Sabha), Digital Sansad RS member directory*
 *Methodology version: 3.0 (8 scoring dimensions)*

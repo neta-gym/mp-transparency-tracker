@@ -49,10 +49,16 @@ export function LeaderboardTable({
   const [sortBy, setSortBy] = useState<SortField>("composite_score");
   const [sortDir, setSortDir] = useState<"desc" | "asc">("desc");
   const [partyFilter, setPartyFilter] = useState<string[]>([]);
+  const [houseFilter, setHouseFilter] = useState<"all" | "lok_sabha" | "rajya_sabha">("all");
   const [showAll, setShowAll] = useState(false);
 
   const parties = useMemo(
     () => [...new Set(entries.map((e) => e.party))].sort(),
+    [entries]
+  );
+
+  const hasBothHouses = useMemo(
+    () => new Set(entries.map((e) => e.house ?? "lok_sabha")).size > 1,
     [entries]
   );
 
@@ -73,6 +79,9 @@ export function LeaderboardTable({
 
   const sorted = useMemo(() => {
     let result = [...entries];
+    if (houseFilter !== "all") {
+      result = result.filter((e) => (e.house ?? "lok_sabha") === houseFilter);
+    }
     if (partyFilter.length > 0) {
       result = result.filter((e) => partyFilter.includes(e.party));
     }
@@ -84,7 +93,7 @@ export function LeaderboardTable({
         : (aVal as number) - (bVal as number);
     });
     return result;
-  }, [entries, partyFilter, sortBy, sortDir]);
+  }, [entries, houseFilter, partyFilter, sortBy, sortDir]);
 
   const displayed = showAll ? sorted : sorted.slice(0, initialLimit);
   const hasMore = sorted.length > initialLimit && !showAll;
@@ -147,6 +156,31 @@ export function LeaderboardTable({
 
   return (
     <div className="space-y-4">
+      {/* House toggle */}
+      {hasBothHouses && (
+        <div className="flex flex-wrap gap-1" role="group" aria-label="Filter by house">
+          {(
+            [
+              ["all", "All"],
+              ["lok_sabha", "Lok Sabha"],
+              ["rajya_sabha", "Rajya Sabha"],
+            ] as const
+          ).map(([value, label]) => (
+            <button
+              key={value}
+              onClick={() => setHouseFilter(value)}
+              className={`text-xs px-2 py-1 border-2 border-ink font-bold uppercase transition-colors ${
+                houseFilter === value
+                  ? "bg-accent text-ink"
+                  : "bg-surface text-ink hover:bg-highlight"
+              }`}
+            >
+              {label}
+            </button>
+          ))}
+        </div>
+      )}
+
       {/* Party filter pills */}
       {showPartyFilter && parties.length > 1 && (
         <div className="flex flex-wrap gap-1">
@@ -177,7 +211,7 @@ export function LeaderboardTable({
       {/* Results count */}
       <p className="text-sm text-text-muted">
         Showing {displayed.length} of {sorted.length} MPs
-        {partyFilter.length > 0 && ` (filtered from ${entries.length})`}
+        {(partyFilter.length > 0 || houseFilter !== "all") && ` (filtered from ${entries.length})`}
       </p>
 
       {/* Table */}

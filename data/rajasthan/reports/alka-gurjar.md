@@ -4,19 +4,19 @@
 **Party:** Bharatiya Janata Party
 **House:** Rajya Sabha (18th Parliament, 2024-present)
 **Report Date:** 2026-09-02
-**Data Confidence:** Low (13%) | **Evidence Grade:** LLM/Estimated (E)
+**Data Confidence:** Low (26%) | **Evidence Grade:** LLM/Estimated (E)
 
 ---
 
-## Composite Transparency Score: 36.2 / 100
+## Composite Transparency Score: 47.5 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 35.0 | 25% |
 | Asset Growth | 45.0 | 15% |
 | Criminal Record | 45.0 | 15% |
-| Parliament Attendance | 45.0 | 10% |
-| Questions & Debates | 0.0 | 10% |
+| Parliament Attendance | 100.0 | 10% |
+| Questions & Debates | 30.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
 | Public Accessibility | 15.0 | 5% |
 | Legislative Effectiveness | 40.0 | 10% |
@@ -58,9 +58,9 @@
 
 ## Parliament Activity
 
-- **Attendance:** N/A
+- **Attendance:** 100.0%
 - **Questions Asked:** 0
-- **Debates Participated:** 0
+- **Debates Participated:** 13
 - **Private Bills:** 0
 - **Is Minister:** No
 
@@ -70,7 +70,6 @@
 
 - [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
 - [!] **assets**: Low confidence in asset data
-- [!] **parliament_activity**: Low confidence in parliament activity data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Rajasthan: 7 relevant findings
@@ -79,11 +78,11 @@
 
 ## Qualitative Assessment
 
-Alka Gurjar has a below-average transparency score of 36.2/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. Limited participation in parliamentary proceedings. Data confidence is low — scores should be interpreted with caution.
+Alka Gurjar has a below-average transparency score of 47.5/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Data confidence is low — scores should be interpreted with caution.
 
 ---
 
-No criminal cases declared. Low confidence data: Criminal record, Assets, Parliament activity. 3 warning(s) noted.
+No criminal cases declared. Parliament attendance: 100.0%. Debates participated: 13. Low confidence data: Criminal record, Assets. 2 warning(s) noted.
 
 ---
 
@@ -206,5 +205,5 @@ Time limit: PIO must respond within 30 days of receipt.
 
 ---
 
-*Sources consulted: eSAKSHI MPLADS portal, Digital Sansad RS member directory*
+*Sources consulted: eSAKSHI MPLADS portal, PRS MP Track (Rajya Sabha), Digital Sansad RS member directory*
 *Methodology version: 3.0 (8 scoring dimensions)*

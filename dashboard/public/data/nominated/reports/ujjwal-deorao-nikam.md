@@ -5,15 +5,15 @@
 **House:** Rajya Sabha (18th Parliament, 2024-present)
 **Age:** 73
 **Report Date:** 2026-09-02
-**Data Confidence:** Low (0%) | **Evidence Grade:** LLM/Estimated (E)
+**Data Confidence:** Low (13%) | **Evidence Grade:** LLM/Estimated (E)
 
 ---
 
-## Composite Transparency Score: 37.2 / 100
+## Composite Transparency Score: 36.2 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 40.0 | 25% |
+| MPLADS Fund Utilization | 35.0 | 25% |
 | Asset Growth | 45.0 | 15% |
 | Criminal Record | 45.0 | 15% |
 | Parliament Attendance | 45.0 | 10% |
@@ -71,22 +71,20 @@
 
 - [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
 - [!] **assets**: Low confidence in asset data
-- [!] **mplads**: Low confidence in MPLADS data
 - [!] **parliament_activity**: Low confidence in parliament activity data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
-- [!] **sources**: Only 1 source(s) consulted — limited cross-referencing
 - [i] **mplads**: CAG audit context for Nominated: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Ujjwal Deorao Nikam has a below-average transparency score of 37.2/100, indicating significant room for improvement. Significant criminal cases are a concern. Limited participation in parliamentary proceedings. Data confidence is low — scores should be interpreted with caution.
+Ujjwal Deorao Nikam has a below-average transparency score of 36.2/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. Limited participation in parliamentary proceedings. Data confidence is low — scores should be interpreted with caution.
 
 ---
 
-No criminal cases declared. Low confidence data: Criminal record, Assets, MPLADS, Parliament activity. 5 warning(s) noted.
+No criminal cases declared. Low confidence data: Criminal record, Assets, Parliament activity. 3 warning(s) noted.
 
 ---
 
@@ -209,5 +207,5 @@ Time limit: PIO must respond within 30 days of receipt.
 
 ---
 
-*Sources consulted: Digital Sansad RS member directory*
+*Sources consulted: eSAKSHI MPLADS portal, Digital Sansad RS member directory*
 *Methodology version: 3.0 (8 scoring dimensions)*

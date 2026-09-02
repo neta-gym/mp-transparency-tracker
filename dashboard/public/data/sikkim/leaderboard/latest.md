@@ -1,6 +1,6 @@
 # MP Transparency Leaderboard — Sikkim
 
-*Generated: 2026-09-02 01:16 UTC | Methodology v3.1 | 2 MPs*
+*Generated: 2026-09-02 01:28 UTC | Methodology v3.1 | 2 MPs*
 
 | Rank | House | MP Name | Constituency | Party | Score | Confidence | Key Finding |
 |------|-------|---------|-------------|-------|-------|------------|-------------|
