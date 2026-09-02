@@ -19,7 +19,17 @@ interface CompareMP {
   photoUrl: string | null;
   compositeScore: number;
   isMinister?: boolean;
-  estimated?: { attendance?: boolean; participation?: boolean };
+  estimated?: {
+    attendance?: boolean;
+    participation?: boolean;
+    mplads?: boolean;
+    assets?: boolean;
+    criminal?: boolean;
+    committee?: boolean;
+    legislative?: boolean;
+    accessibility?: boolean;
+  };
+  notApplicable?: { mplads?: boolean };
   dimensionScores: Record<string, number | null>;
   metrics: {
     attendancePct: number | null;
@@ -170,10 +180,27 @@ function winners(values: (number | null)[], better: "higher" | "lower" | "none")
   return out;
 }
 
+/** Map a score-component key to its estimated-flag key. */
+const ESTIMATED_KEY: Record<string, keyof NonNullable<CompareMP["estimated"]>> = {
+  mplads_score: "mplads",
+  asset_score: "assets",
+  criminal_score: "criminal",
+  attendance_score: "attendance",
+  participation_score: "participation",
+  committee_score: "committee",
+  accessibility_score: "accessibility",
+  legislative_score: "legislative",
+};
+
 /** Is a dimension score an estimated neutral placeholder (no underlying data)? */
 function dimEstimated(mp: CompareMP, compKey: string): boolean {
-  if (compKey === "attendance_score") return !!mp.estimated?.attendance;
-  if (compKey === "participation_score") return !!mp.estimated?.participation;
+  const k = ESTIMATED_KEY[compKey];
+  return k ? !!mp.estimated?.[k] : false;
+}
+
+/** Does a dimension not apply to this MP at all (e.g. MPLADS for Rajya Sabha)? */
+function dimNotApplicable(mp: CompareMP, compKey: string): boolean {
+  if (compKey === "mplads_score") return !!mp.notApplicable?.mplads;
   return false;
 }
 
@@ -419,7 +446,9 @@ export function ComparisonView() {
 
                     {/* Dimension scores */}
                     {SCORE_COMPONENTS.map((comp) => {
-                      const vals = selected.map((mp) => mp.dimensionScores?.[comp.key] ?? null);
+                      const vals = selected.map((mp) =>
+                        dimNotApplicable(mp, comp.key) ? null : (mp.dimensionScores?.[comp.key] ?? null)
+                      );
                       const est = selected.map((mp) => dimEstimated(mp, comp.key));
                       const w = winnersReal(vals, est);
                       return (
@@ -432,7 +461,11 @@ export function ComparisonView() {
                           </td>
                           {vals.map((v, i) => (
                             <td key={i} className={`p-3 text-center font-mono text-sm ${w.has(i) ? "bg-success/20 font-bold" : ""}`}>
-                              {v != null ? (
+                              {dimNotApplicable(selected[i], comp.key) ? (
+                                <span className="text-text-muted" title="Not applicable for this MP">
+                                  N/A
+                                </span>
+                              ) : v != null ? (
                                 est[i] ? (
                                   <span className="text-text-muted" title="Estimated: no underlying data">
                                     {v.toFixed(1)}*

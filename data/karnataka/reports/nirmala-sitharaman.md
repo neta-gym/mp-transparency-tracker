@@ -9,14 +9,14 @@
 
 ---
 
-## Composite Transparency Score: 46.2 / 100
+## Composite Transparency Score: 53.8 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 35.0 | 25% |
 | Asset Growth | 50.0 | 15% |
 | Criminal Record | 100.0 | 15% |
-| Parliament Attendance | 0.0 | 10% |
+| Parliament Attendance | 50.0 | 10% |
 | Questions & Debates | 50.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
 | Public Accessibility | 15.0 | 5% |
@@ -69,7 +69,7 @@
 
 ## Parliament Activity
 
-- **Attendance:** 0.0%
+- **Attendance:** N/A
 - **Questions Asked:** 0
 - **Debates Participated:** 0
 - **Private Bills:** 0
@@ -87,11 +87,11 @@
 
 ## Qualitative Assessment
 
-Nirmala Sitharaman has a below-average transparency score of 46.2/100, indicating significant room for improvement. No criminal cases declared. Low MPLADS fund utilization needs attention. Low parliament attendance is notable.
+Nirmala Sitharaman shows moderate transparency with a score of 53.8/100. No criminal cases declared. Low MPLADS fund utilization needs attention.
 
 ---
 
-No criminal cases declared. Declared assets: Rs 25,099,396. Parliament attendance: 0.0%.
+No criminal cases declared. Declared assets: Rs 25,099,396.
 
 ---
 

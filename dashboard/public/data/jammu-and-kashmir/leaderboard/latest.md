@@ -1,6 +1,6 @@
 # MP Transparency Leaderboard — Jammu-And-Kashmir
 
-*Generated: 2026-09-02 19:02 UTC | Methodology v3.1 | 9 MPs*
+*Generated: 2026-09-02 19:30 UTC | Methodology v3.1 | 9 MPs*
 
 | Rank | House | MP Name | Constituency | Party | Score | Confidence | Key Finding |
 |------|-------|---------|-------------|-------|-------|------------|-------------|
@@ -12,7 +12,7 @@
 | 6 | LS | Jugal Kishore | Jammu | Bharatiya Janata Party | 58.4 | 52% | Clean record, Low fund utilization, High attendance |
 | 7 | LS | Mian Altaf Ahmad | Anantnag-Rajouri | Jammu and Kashmir National Conference | 51.8 | 60% | Clean record, Low fund utilization |
 | 8 | LS | Jitendra Singh | Udhampur | Bharatiya Janata Party | 51.2 | 39% | Clean record, Low fund utilization |
-| 9 | LS | Abdul Rashid Sheikh | Baramulla | Independent | 32.5 | 61% | Low fund utilization, Low attendance |
+| 9 | LS | Abdul Rashid Sheikh | Baramulla | Independent | 39.2 | 61% | Low fund utilization |
 
 ### Score Breakdown
 
@@ -26,4 +26,4 @@
 | 6 | Jugal Kishore | LS | 11 | 55 | 100 | 95 | 70 | 40 | 15 | 40 |
 | 7 | Mian Altaf Ahmad | LS | 10 | 50 | 100 | 60 | 40 | 40 | 65 | 40 |
 | 8 | Jitendra Singh | LS | 22 | 50 | 100 | 50 | 50 | 40 | 15 | 40 |
-| 9 | Abdul Rashid Sheikh | LS | 11 | 60 | 60 | 0 | 0 | 40 | 65 | 40 |
+| 9 | Abdul Rashid Sheikh | LS | 11 | 60 | 60 | 45 | 0 | 40 | 65 | 40 |

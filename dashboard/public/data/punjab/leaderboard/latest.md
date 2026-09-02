@@ -1,6 +1,6 @@
 # MP Transparency Leaderboard — Punjab
 
-*Generated: 2026-09-02 19:02 UTC | Methodology v3.1 | 20 MPs*
+*Generated: 2026-09-02 19:30 UTC | Methodology v3.1 | 20 MPs*
 
 | Rank | House | MP Name | Constituency | Party | Score | Confidence | Key Finding |
 |------|-------|---------|-------------|-------|-------|------------|-------------|
@@ -23,7 +23,7 @@
 | 17 | LS | Sarabjeet Singh Khalsa | Faridkot | Independent | 50.3 | 52% | Clean record, Low attendance |
 | 18 | RS | Vikramjit Singh Sahney | Rajya Sabha (Punjab) | Bharatiya Janata Party | 48.0 | 37% | Clean record, Low fund utilization |
 | 19 | LS | Raj Kumar Chabbewal | Hoshiarpur | Aam Aadmi Party | 46.6 | 60% | Clean record, Low fund utilization, Low attendance |
-| 20 | LS | Amritpal Singh | Khadoor Sahib | Independent | 24.8 | 67% | Significant criminal cases, Low fund utilization, Low attendance |
+| 20 | LS | Amritpal Singh | Khadoor Sahib | Independent | 24.9 | 67% | Significant criminal cases, Low fund utilization, Low attendance |
 
 ### Score Breakdown
 
@@ -48,4 +48,4 @@
 | 17 | Sarabjeet Singh Khalsa | LS | 47 | 60 | 100 | 35 | 0 | 40 | 15 | 40 |
 | 18 | Vikramjit Singh Sahney | RS | 35 | 50 | 100 | 45 | 0 | 40 | 15 | 40 |
 | 19 | Raj Kumar Chabbewal | LS | 36 | 50 | 100 | 5 | 10 | 40 | 85 | 40 |
-| 20 | Amritpal Singh | LS | 35 | 50 | 0 | 0 | 0 | 40 | 85 | 40 |
+| 20 | Amritpal Singh | LS | 35 | 50 | 0 | 1 | 0 | 40 | 85 | 40 |

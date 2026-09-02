@@ -39,14 +39,14 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 106.72 Crore
-- **Immovable Assets:** Rs 486.33 Crore
-- **Total Assets:** Rs 593.05 Crore
-- **Liabilities:** Rs 207.34 Crore
-- **Net Worth:** Rs 385.71 Crore
+- **Movable Assets:** Rs 41.76 Crore
+- **Immovable Assets:** Rs 38.62 Crore
+- **Total Assets:** Rs 80.37 Crore
+- **Liabilities:** Rs 55.24 Crore
+- **Net Worth:** Rs 25.13 Crore
 - **Previous Total Assets:** Rs 3388920717338.00 Crore
 - **Asset Growth:** -100.0%
-- **Wealth Percentile:** Wealthier than 98% of Lok Sabha MPs
+- **Wealth Percentile:** Wealthier than 90% of Lok Sabha MPs
 
 ---
 
@@ -124,7 +124,7 @@ Dhanorkar Pratibha Suresh shows moderate transparency with a score of 61.8/100. 
 
 ---
 
-No criminal cases declared. Declared assets: Rs 5,930,525,395. MPLADS utilization: 5.3%. Parliament attendance: 80.0%. Questions asked: 19. Debates participated: 6. 1 warning(s) noted.
+No criminal cases declared. Declared assets: Rs 803,722,094. MPLADS utilization: 5.3%. Parliament attendance: 80.0%. Questions asked: 19. Debates participated: 6. 1 warning(s) noted.
 
 ---
 

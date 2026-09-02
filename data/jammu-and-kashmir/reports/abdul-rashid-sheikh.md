@@ -8,14 +8,14 @@
 
 ---
 
-## Composite Transparency Score: 32.5 / 100
+## Composite Transparency Score: 39.2 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 11.0 | 25% |
 | Asset Growth | 60.0 | 15% |
 | Criminal Record | 60.0 | 15% |
-| Parliament Attendance | 0.0 | 10% |
+| Parliament Attendance | 45.0 | 10% |
 | Questions & Debates | 0.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
 | Public Accessibility | 65.0 | 5% |
@@ -65,7 +65,7 @@
 
 ## Parliament Activity
 
-- **Attendance:** 0.0%
+- **Attendance:** 45.0%
 - **Questions Asked:** 0
 - **Debates Participated:** 0
 - **Private Bills:** 0
@@ -121,11 +121,11 @@
 
 ## Qualitative Assessment
 
-Abdul Rashid Sheikh has a below-average transparency score of 32.5/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. Low parliament attendance is notable. Limited participation in parliamentary proceedings.
+Abdul Rashid Sheikh has a below-average transparency score of 39.2/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. Limited participation in parliamentary proceedings.
 
 ---
 
-Has 3 criminal case(s) (1 serious), 3 pending, 0 conviction(s). Declared assets: Rs 15,637,424. MPLADS utilization: 13.8%. Parliament attendance: 0.0%.
+Has 3 criminal case(s) (1 serious), 3 pending, 0 conviction(s). Declared assets: Rs 15,637,424. MPLADS utilization: 13.8%. Parliament attendance: 45.0%.
 
 ---
 

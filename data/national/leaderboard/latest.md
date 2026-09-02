@@ -1,6 +1,6 @@
 # MP Transparency Leaderboard — National
 
-*Generated: 2026-09-02 19:19 UTC | Methodology v3.1 | 786 MPs*
+*Generated: 2026-09-02 19:30 UTC | Methodology v3.1 | 786 MPs*
 
 | Rank | House | MP Name | Constituency | Party | Score | Confidence | Key Finding |
 |------|-------|---------|-------------|-------|-------|------------|-------------|

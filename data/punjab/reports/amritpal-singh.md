@@ -11,14 +11,14 @@
 
 ---
 
-## Composite Transparency Score: 24.8 / 100
+## Composite Transparency Score: 24.9 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 35.0 | 25% |
 | Asset Growth | 50.0 | 15% |
 | Criminal Record | 0.0 | 15% |
-| Parliament Attendance | 0.0 | 10% |
+| Parliament Attendance | 1.0 | 10% |
 | Questions & Debates | 0.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
 | Public Accessibility | 85.0 | 5% |
@@ -77,7 +77,7 @@
 
 ## Parliament Activity
 
-- **Attendance:** 0.0%
+- **Attendance:** 1.0%
 - **Questions Asked:** 0
 - **Debates Participated:** 0
 - **Private Bills:** 0
@@ -134,11 +134,11 @@
 
 ## Qualitative Assessment
 
-Amritpal Singh has a below-average transparency score of 24.8/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. Low parliament attendance is notable. Limited participation in parliamentary proceedings.
+Amritpal Singh has a below-average transparency score of 24.9/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. Low parliament attendance is notable. Limited participation in parliamentary proceedings.
 
 ---
 
-Has 12 criminal case(s) (2 serious), 12 pending, 0 conviction(s). Declared assets: Rs 1,838,440. Parliament attendance: 0.0%.
+Has 12 criminal case(s) (2 serious), 12 pending, 0 conviction(s). Declared assets: Rs 1,838,440. Parliament attendance: 1.0%.
 
 ---
 

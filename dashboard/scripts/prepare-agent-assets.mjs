@@ -226,6 +226,10 @@ function buildCompareIndex() {
       const cr = f.criminal_record ?? {};
       const as = f.assets ?? {};
       const mp = f.mplads ?? {};
+      const cm = f.committees ?? {};
+      const lg = f.legislative ?? {};
+      const sm = f.social_media ?? {};
+      const isRS = (e.house ?? "lok_sabha") === "rajya_sabha";
       mps.push({
         mpName: e.mp_name,
         constituency: e.constituency,
@@ -238,16 +242,33 @@ function buildCompareIndex() {
         compositeScore: e.composite_score,
         isMinister: !!pa.is_minister,
         estimated: {
-          // Scorer falls back to a neutral value when the underlying metric
-          // is missing: attendance 50 (minister) / 45 (no data), and
-          // participation 50 for ministers with no questions/debates (PRS
-          // does not track ministers). Flag them so the UI never lets a
-          // placeholder win a row.
+          // Scorer falls back to a neutral sentinel value when the underlying
+          // metric is missing. Flag every dimension sitting on a sentinel so
+          // the UI renders the muted estimated treatment and never lets a
+          // placeholder win a compare row.
           attendance: pa.attendance_percentage == null,
           participation:
             !!pa.is_minister &&
             (pa.questions_asked ?? 0) === 0 &&
             (pa.debates_participated ?? 0) === 0,
+          mplads: !isRS && mp.entitled == null && mp.released == null,
+          assets: as.total_assets == null,
+          criminal:
+            cr.total_cases == null ||
+            ((cr.total_cases ?? 0) === 0 && (cr.confidence ?? 0) < 0.5),
+          committee:
+            (cm.total_committees ?? 0) === 0 && (cm.confidence ?? 0) < 0.3,
+          legislative:
+            (lg.private_member_bills ?? 0) === 0 &&
+            (lg.zero_hour_mentions ?? 0) === 0 &&
+            (lg.confidence ?? 0) < 0.3,
+          accessibility:
+            (sm.total_platforms ?? 0) === 0 && (sm.confidence ?? 0) < 0.3,
+        },
+        notApplicable: {
+          // MPLADS is a Lok Sabha constituency scheme; Rajya Sabha members
+          // have no MPLADS record, so the dimension is N/A (not "estimated").
+          mplads: isRS,
         },
         dimensionScores: {
           mplads_score: e.mplads_score,

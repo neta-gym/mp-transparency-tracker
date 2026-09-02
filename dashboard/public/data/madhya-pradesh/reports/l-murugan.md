@@ -9,14 +9,14 @@
 
 ---
 
-## Composite Transparency Score: 26.2 / 100
+## Composite Transparency Score: 33.8 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 35.0 | 25% |
 | Asset Growth | 50.0 | 15% |
 | Criminal Record | 0.0 | 15% |
-| Parliament Attendance | 0.0 | 10% |
+| Parliament Attendance | 50.0 | 10% |
 | Questions & Debates | 50.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
 | Public Accessibility | 15.0 | 5% |
@@ -71,7 +71,7 @@
 
 ## Parliament Activity
 
-- **Attendance:** 0.0%
+- **Attendance:** N/A
 - **Questions Asked:** 0
 - **Debates Participated:** 0
 - **Private Bills:** 0
@@ -89,11 +89,11 @@
 
 ## Qualitative Assessment
 
-L. Murugan has a below-average transparency score of 26.2/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. Low parliament attendance is notable.
+L. Murugan has a below-average transparency score of 33.8/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention.
 
 ---
 
-Has 23 criminal case(s) (0 serious), 23 pending, 0 conviction(s). Declared assets: Rs 42,628,983. Parliament attendance: 0.0%.
+Has 23 criminal case(s) (0 serious), 23 pending, 0 conviction(s). Declared assets: Rs 42,628,983.
 
 ---
 

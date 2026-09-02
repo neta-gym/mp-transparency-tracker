@@ -8,13 +8,13 @@
 
 ---
 
-## Composite Transparency Score: 40.2 / 100
+## Composite Transparency Score: 58.2 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 8.3 | 25% |
 | Asset Growth | 55.0 | 15% |
-| Criminal Record | 10.0 | 15% |
+| Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 100.0 | 10% |
 | Questions & Debates | 50.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
@@ -25,19 +25,12 @@
 
 ## Criminal Record
 
-- **Total Cases:** 4
-- **Serious Cases:** 3
-- **Convictions:** 1
-- **Pending Cases:** 3
+- **Total Cases:** 0
+- **Serious Cases:** 0
+- **Convictions:** 0
+- **Pending Cases:** 0
 - **Disposed Cases:** 0
 - **Data Source:** myneta
-
-### Cases Detail
-
-1. 11822004220561/2022, Khergam Police Station Dist Navsari | Section-3 & 5 PDPP Act, Section-135 GP Act, Charge sheet NO.1/2024 date-28/3/2024 (Sections: 143, 147, 148, 149, 323, 341, 427, 504, 506(2), 34, 120B) [pending] **SERIOUS**
-2. 11822004220560/2022, Khergam Police Station Dist Navsari | Section-2 Indian Flag Act 2002, Section-135 GP Act (Sections: 143, 147, 148, 149, 153A, 395, 450, 436, 427, 504, 34, 120B) [pending] **SERIOUS**
-3. 11822004220566/2022, Khergam Police Station Dist Navsari | Section- 3 & 5 PDPP Act, Section-135 GP Act (Sections: 143, 147, 148, 149, 323, 151, 152, 153A, 186, 228, 307, 332, 337, 341, 352, 353, 427, 440) [pending] **SERIOUS**
-4. Section-110 GP Act (Sections: 143, 353, 427, 447, 504, 186) [convicted] 
 
 ---
 
@@ -121,11 +114,11 @@
 
 ## Qualitative Assessment
 
-Hasmukhbhai Somabhai Patel has a below-average transparency score of 40.2/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance.
+Hasmukhbhai Somabhai Patel shows moderate transparency with a score of 58.2/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
 
 ---
 
-Has 4 criminal case(s) (3 serious), 3 pending, 1 conviction(s). Declared assets: Rs 86,470,298. MPLADS utilization: 10.4%. Parliament attendance: 100.0%. Questions asked: 26. Debates participated: 3.
+No criminal cases declared. Declared assets: Rs 86,470,298. MPLADS utilization: 10.4%. Parliament attendance: 100.0%. Questions asked: 26. Debates participated: 3.
 
 ---
 

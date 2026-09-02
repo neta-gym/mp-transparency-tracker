@@ -1,6 +1,6 @@
 # MP Transparency Leaderboard — Maharashtra
 
-*Generated: 2026-09-02 19:02 UTC | Methodology v3.1 | 67 MPs*
+*Generated: 2026-09-02 19:30 UTC | Methodology v3.1 | 67 MPs*
 
 | Rank | House | MP Name | Constituency | Party | Score | Confidence | Key Finding |
 |------|-------|---------|-------------|-------|-------|------------|-------------|
