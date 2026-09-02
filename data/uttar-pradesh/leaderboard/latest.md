@@ -1,6 +1,6 @@
 # MP Transparency Leaderboard — Uttar-Pradesh
 
-*Generated: 2026-09-02 19:02 UTC | Methodology v3.1 | 111 MPs*
+*Generated: 2026-09-02 19:19 UTC | Methodology v3.1 | 111 MPs*
 
 | Rank | House | MP Name | Constituency | Party | Score | Confidence | Key Finding |
 |------|-------|---------|-------------|-------|-------|------------|-------------|
@@ -84,25 +84,25 @@
 | 78 | LS | Chandan Chauhan | Bijnor | Rashtriya Lok Dal | 54.8 | 52% | Low fund utilization, High attendance |
 | 79 | LS | Narendra Modi | Varanasi | Bharatiya Janata Party | 54.8 | 47% | Clean record, Low fund utilization |
 | 80 | LS | Rajnath Singh | Lucknow | Bharatiya Janata Party | 54.1 | 49% | Clean record, Low fund utilization |
-| 81 | LS | Jagdambika Pal | Domariyaganj | Bharatiya Janata Party | 53.5 | 61% | Low fund utilization, High attendance |
-| 82 | LS | Shiv Pal Singh Patel | Pratapgarh | Samajwadi Party | 53.3 | 60% | Clean record, Low fund utilization |
-| 83 | LS | Naresh Chandra Uttam Patel | Fatehpur | Samajwadi Party | 52.9 | 60% | Clean record, Low fund utilization, High attendance |
-| 84 | LS | Dimple Yadav | Mainpuri | Samajwadi Party | 52.7 | 52% | Clean record, Low fund utilization |
-| 85 | LS | Dharmendra Yadav | Azamgarh | Samajwadi Party | 52.6 | 61% | Low fund utilization, High attendance |
-| 86 | LS | Mohibbullah | Rampur | Samajwadi Party | 52.5 | 52% | Low fund utilization, High attendance |
-| 87 | LS | Rajkumar Sangwan | Baghpat | Rashtriya Lok Dal | 51.4 | 52% | Low fund utilization, High attendance |
-| 88 | LS | Zia Ur Rehman | Sambhal | Samajwadi Party | 51.2 | 61% | Significant criminal cases, Low fund utilization, High attendance |
-| 89 | LS | R K Chaudhary | Mohanlalganj | Samajwadi Party | 51.1 | 52% | Low fund utilization, High attendance |
-| 90 | LS | Anupriya Patel | Mirzapur | Apna Dal (Soneylal) | 49.8 | 49% | Low fund utilization |
-| 91 | LS | Jitin Prasada | Pilibhit | Bharatiya Janata Party | 49.7 | 38% | Clean record, Low fund utilization |
-| 92 | LS | Kirti Vardhan Singh | Gonda | Bharatiya Janata Party | 49.6 | 39% | Low fund utilization |
-| 93 | RS | Sangeeta Balwant | Rajya Sabha (Uttar Pradesh) | Bharatiya Janata Party | 49.4 | 26% | Significant criminal cases, Low fund utilization, High attendance |
-| 94 | LS | Hema Malini | Mathura | Bharatiya Janata Party | 49.3 | 52% | Clean record, Low fund utilization |
-| 95 | LS | Ajendra Singh Lodhi | Hamirpur | Samajwadi Party | 48.9 | 51% | Clean record, Low fund utilization |
-| 96 | RS | Sudhanshu Trivedi | Rajya Sabha (Uttar Pradesh) | Bharatiya Janata Party | 48.0 | 37% | Clean record, Low fund utilization |
-| 97 | RS | Tejveer Singh | Rajya Sabha (Uttar Pradesh) | Bharatiya Janata Party | 48.0 | 37% | Clean record, Low fund utilization |
-| 98 | LS | Laxmikant Pappu Nishad | Sant Kabir Nagar | Samajwadi Party | 46.5 | 52% | Low fund utilization, High attendance |
-| 99 | RS | Hardeep Singh Puri | Rajya Sabha (Uttar Pradesh) | Bharatiya Janata Party | 46.2 | 50% | Clean record, Low fund utilization, Low attendance |
+| 81 | RS | Hardeep Singh Puri | Rajya Sabha (Uttar Pradesh) | Bharatiya Janata Party | 53.8 | 50% | Clean record, Low fund utilization |
+| 82 | LS | Jagdambika Pal | Domariyaganj | Bharatiya Janata Party | 53.5 | 61% | Low fund utilization, High attendance |
+| 83 | LS | Shiv Pal Singh Patel | Pratapgarh | Samajwadi Party | 53.3 | 60% | Clean record, Low fund utilization |
+| 84 | LS | Naresh Chandra Uttam Patel | Fatehpur | Samajwadi Party | 52.9 | 60% | Clean record, Low fund utilization, High attendance |
+| 85 | LS | Dimple Yadav | Mainpuri | Samajwadi Party | 52.7 | 52% | Clean record, Low fund utilization |
+| 86 | LS | Dharmendra Yadav | Azamgarh | Samajwadi Party | 52.6 | 61% | Low fund utilization, High attendance |
+| 87 | LS | Mohibbullah | Rampur | Samajwadi Party | 52.5 | 52% | Low fund utilization, High attendance |
+| 88 | LS | Rajkumar Sangwan | Baghpat | Rashtriya Lok Dal | 51.4 | 52% | Low fund utilization, High attendance |
+| 89 | LS | Zia Ur Rehman | Sambhal | Samajwadi Party | 51.2 | 61% | Significant criminal cases, Low fund utilization, High attendance |
+| 90 | LS | R K Chaudhary | Mohanlalganj | Samajwadi Party | 51.1 | 52% | Low fund utilization, High attendance |
+| 91 | LS | Anupriya Patel | Mirzapur | Apna Dal (Soneylal) | 49.8 | 49% | Low fund utilization |
+| 92 | LS | Jitin Prasada | Pilibhit | Bharatiya Janata Party | 49.7 | 38% | Clean record, Low fund utilization |
+| 93 | LS | Kirti Vardhan Singh | Gonda | Bharatiya Janata Party | 49.6 | 39% | Low fund utilization |
+| 94 | RS | Sangeeta Balwant | Rajya Sabha (Uttar Pradesh) | Bharatiya Janata Party | 49.4 | 26% | Significant criminal cases, Low fund utilization, High attendance |
+| 95 | LS | Hema Malini | Mathura | Bharatiya Janata Party | 49.3 | 52% | Clean record, Low fund utilization |
+| 96 | LS | Ajendra Singh Lodhi | Hamirpur | Samajwadi Party | 48.9 | 51% | Clean record, Low fund utilization |
+| 97 | RS | Sudhanshu Trivedi | Rajya Sabha (Uttar Pradesh) | Bharatiya Janata Party | 48.0 | 37% | Clean record, Low fund utilization |
+| 98 | RS | Tejveer Singh | Rajya Sabha (Uttar Pradesh) | Bharatiya Janata Party | 48.0 | 37% | Clean record, Low fund utilization |
+| 99 | LS | Laxmikant Pappu Nishad | Sant Kabir Nagar | Samajwadi Party | 46.5 | 52% | Low fund utilization, High attendance |
 | 100 | LS | Swami Sachidanand Hari Sakshi | Unnao | Bharatiya Janata Party | 45.9 | 52% | Low fund utilization, High attendance |
 | 101 | LS | Daroga Prasad Saroj | Lalganj | Samajwadi Party | 45.6 | 52% | Low fund utilization |
 | 102 | LS | Atul Garg | Ghaziabad | Bharatiya Janata Party | 44.8 | 52% | Low fund utilization, High attendance |
@@ -200,25 +200,25 @@
 | 78 | Chandan Chauhan | LS | 36 | 60 | 70 | 100 | 30 | 40 | 15 | 40 |
 | 79 | Narendra Modi | LS | 28 | 50 | 100 | 50 | 50 | 40 | 65 | 40 |
 | 80 | Rajnath Singh | LS | 24 | 50 | 100 | 50 | 50 | 40 | 65 | 40 |
-| 81 | Jagdambika Pal | LS | 1 | 60 | 55 | 100 | 90 | 40 | 65 | 40 |
-| 82 | Shiv Pal Singh Patel | LS | 18 | 60 | 100 | 70 | 20 | 40 | 45 | 40 |
-| 83 | Naresh Chandra Uttam Patel | LS | 8 | 50 | 100 | 90 | 20 | 40 | 45 | 40 |
-| 84 | Dimple Yadav | LS | 22 | 60 | 100 | 70 | 20 | 40 | 15 | 40 |
-| 85 | Dharmendra Yadav | LS | 19 | 55 | 50 | 95 | 70 | 40 | 65 | 40 |
-| 86 | Mohibbullah | LS | 31 | 50 | 70 | 100 | 30 | 40 | 15 | 40 |
-| 87 | Rajkumar Sangwan | LS | 11 | 50 | 70 | 100 | 60 | 40 | 15 | 40 |
-| 88 | Zia Ur Rehman | LS | 22 | 50 | 40 | 100 | 60 | 40 | 85 | 40 |
-| 89 | R K Chaudhary | LS | 18 | 50 | 80 | 95 | 30 | 40 | 15 | 40 |
-| 90 | Anupriya Patel | LS | 14 | 55 | 80 | 50 | 50 | 40 | 85 | 40 |
-| 91 | Jitin Prasada | LS | 15 | 50 | 100 | 50 | 50 | 40 | 15 | 40 |
-| 92 | Kirti Vardhan Singh | LS | 37 | 60 | 70 | 50 | 50 | 40 | 15 | 40 |
-| 93 | Sangeeta Balwant | RS | 35 | 45 | 45 | 99 | 50 | 40 | 15 | 40 |
-| 94 | Hema Malini | LS | 18 | 60 | 100 | 40 | 40 | 40 | 15 | 40 |
-| 95 | Ajendra Singh Lodhi | LS | 24 | 55 | 100 | 60 | 0 | 40 | 15 | 40 |
-| 96 | Sudhanshu Trivedi | RS | 35 | 50 | 100 | 45 | 0 | 40 | 15 | 40 |
-| 97 | Tejveer Singh | RS | 35 | 50 | 100 | 45 | 0 | 40 | 15 | 40 |
-| 98 | Laxmikant Pappu Nishad | LS | 2 | 55 | 60 | 100 | 40 | 40 | 15 | 40 |
-| 99 | Hardeep Singh Puri | RS | 35 | 50 | 100 | 0 | 50 | 40 | 15 | 40 |
+| 81 | Hardeep Singh Puri | RS | 35 | 50 | 100 | 50 | 50 | 40 | 15 | 40 |
+| 82 | Jagdambika Pal | LS | 1 | 60 | 55 | 100 | 90 | 40 | 65 | 40 |
+| 83 | Shiv Pal Singh Patel | LS | 18 | 60 | 100 | 70 | 20 | 40 | 45 | 40 |
+| 84 | Naresh Chandra Uttam Patel | LS | 8 | 50 | 100 | 90 | 20 | 40 | 45 | 40 |
+| 85 | Dimple Yadav | LS | 22 | 60 | 100 | 70 | 20 | 40 | 15 | 40 |
+| 86 | Dharmendra Yadav | LS | 19 | 55 | 50 | 95 | 70 | 40 | 65 | 40 |
+| 87 | Mohibbullah | LS | 31 | 50 | 70 | 100 | 30 | 40 | 15 | 40 |
+| 88 | Rajkumar Sangwan | LS | 11 | 50 | 70 | 100 | 60 | 40 | 15 | 40 |
+| 89 | Zia Ur Rehman | LS | 22 | 50 | 40 | 100 | 60 | 40 | 85 | 40 |
+| 90 | R K Chaudhary | LS | 18 | 50 | 80 | 95 | 30 | 40 | 15 | 40 |
+| 91 | Anupriya Patel | LS | 14 | 55 | 80 | 50 | 50 | 40 | 85 | 40 |
+| 92 | Jitin Prasada | LS | 15 | 50 | 100 | 50 | 50 | 40 | 15 | 40 |
+| 93 | Kirti Vardhan Singh | LS | 37 | 60 | 70 | 50 | 50 | 40 | 15 | 40 |
+| 94 | Sangeeta Balwant | RS | 35 | 45 | 45 | 99 | 50 | 40 | 15 | 40 |
+| 95 | Hema Malini | LS | 18 | 60 | 100 | 40 | 40 | 40 | 15 | 40 |
+| 96 | Ajendra Singh Lodhi | LS | 24 | 55 | 100 | 60 | 0 | 40 | 15 | 40 |
+| 97 | Sudhanshu Trivedi | RS | 35 | 50 | 100 | 45 | 0 | 40 | 15 | 40 |
+| 98 | Tejveer Singh | RS | 35 | 50 | 100 | 45 | 0 | 40 | 15 | 40 |
+| 99 | Laxmikant Pappu Nishad | LS | 2 | 55 | 60 | 100 | 40 | 40 | 15 | 40 |
 | 100 | Swami Sachidanand Hari Sakshi | LS | 31 | 50 | 60 | 90 | 0 | 40 | 15 | 40 |
 | 101 | Daroga Prasad Saroj | LS | 18 | 50 | 60 | 65 | 60 | 40 | 15 | 40 |
 | 102 | Atul Garg | LS | 16 | 50 | 50 | 95 | 30 | 40 | 15 | 40 |

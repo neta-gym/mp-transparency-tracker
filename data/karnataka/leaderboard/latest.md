@@ -1,6 +1,6 @@
 # MP Transparency Leaderboard — Karnataka
 
-*Generated: 2026-09-02 19:02 UTC | Methodology v3.1 | 41 MPs*
+*Generated: 2026-09-02 19:19 UTC | Methodology v3.1 | 41 MPs*
 
 | Rank | House | MP Name | Constituency | Party | Score | Confidence | Key Finding |
 |------|-------|---------|-------------|-------|-------|------------|-------------|
@@ -24,19 +24,19 @@
 | 18 | LS | G Kumar Naik | Raichur | Indian National Congress | 54.9 | 51% | Clean record, Low fund utilization, High attendance |
 | 19 | LS | Shreyas M Patel | Hassan | Indian National Congress | 54.5 | 61% | Low fund utilization |
 | 20 | LS | M Mallesh Babu | Kolar | Janata Dal (Secular) | 53.8 | 52% | Low fund utilization, High attendance |
-| 21 | LS | Govind Makthappa Karjol | Chitradurga | Bharatiya Janata Party | 53.5 | 51% | Clean record, Low fund utilization |
-| 22 | LS | Jagadish Shettar | Belgaum | Bharatiya Janata Party | 52.9 | 51% | Clean record, Low fund utilization, High attendance |
-| 23 | LS | Shri  Radhakrishna | Gulbarga | Indian National Congress | 52.5 | 65% | Low fund utilization |
-| 24 | RS | G.C. Chandrashekhar | Rajya Sabha (Karnataka) | Indian National Congress | 52.2 | 26% | Significant criminal cases, Low fund utilization, High attendance |
-| 25 | LS | Ramesh Chandappa Jigajinagi | Bijapur | Bharatiya Janata Party | 52.2 | 51% | Clean record, Low fund utilization, High attendance |
-| 26 | LS | Tejasvi Surya | Bangalore South | Bharatiya Janata Party | 51.5 | 61% | Low fund utilization |
-| 27 | LS | Pralhad Joshi | Dharwad | Bharatiya Janata Party | 51.0 | 47% | Clean record, Low fund utilization |
-| 28 | LS | P C Mohan | Bangalore Central | Bharatiya Janata Party | 49.5 | 52% | Low fund utilization, High attendance |
-| 29 | LS | Priyanka Satish Jarkiholi | Chikkodi | Indian National Congress | 49.5 | 60% | Clean record, Low fund utilization |
-| 30 | LS | K Rajashekar Basavaraj Hitnal | Koppal | Indian National Congress | 48.7 | 52% | Low fund utilization, High attendance |
-| 31 | RS | Syed Naseer Hussain | Rajya Sabha (Karnataka) | Indian National Congress | 48.0 | 37% | Clean record, Low fund utilization |
-| 32 | LS | Sagar Eshwar Khandre | Bidar | Indian National Congress | 47.9 | 51% | Clean record, Low fund utilization, High attendance |
-| 33 | RS | Nirmala Sitharaman | Rajya Sabha (Karnataka) | Bharatiya Janata Party | 46.2 | 50% | Clean record, Low fund utilization, Low attendance |
+| 21 | RS | Nirmala Sitharaman | Rajya Sabha (Karnataka) | Bharatiya Janata Party | 53.8 | 50% | Clean record, Low fund utilization |
+| 22 | LS | Govind Makthappa Karjol | Chitradurga | Bharatiya Janata Party | 53.5 | 51% | Clean record, Low fund utilization |
+| 23 | LS | Jagadish Shettar | Belgaum | Bharatiya Janata Party | 52.9 | 51% | Clean record, Low fund utilization, High attendance |
+| 24 | LS | Shri  Radhakrishna | Gulbarga | Indian National Congress | 52.5 | 65% | Low fund utilization |
+| 25 | RS | G.C. Chandrashekhar | Rajya Sabha (Karnataka) | Indian National Congress | 52.2 | 26% | Significant criminal cases, Low fund utilization, High attendance |
+| 26 | LS | Ramesh Chandappa Jigajinagi | Bijapur | Bharatiya Janata Party | 52.2 | 51% | Clean record, Low fund utilization, High attendance |
+| 27 | LS | Tejasvi Surya | Bangalore South | Bharatiya Janata Party | 51.5 | 61% | Low fund utilization |
+| 28 | LS | Pralhad Joshi | Dharwad | Bharatiya Janata Party | 51.0 | 47% | Clean record, Low fund utilization |
+| 29 | LS | P C Mohan | Bangalore Central | Bharatiya Janata Party | 49.5 | 52% | Low fund utilization, High attendance |
+| 30 | LS | Priyanka Satish Jarkiholi | Chikkodi | Indian National Congress | 49.5 | 60% | Clean record, Low fund utilization |
+| 31 | LS | K Rajashekar Basavaraj Hitnal | Koppal | Indian National Congress | 48.7 | 52% | Low fund utilization, High attendance |
+| 32 | RS | Syed Naseer Hussain | Rajya Sabha (Karnataka) | Indian National Congress | 48.0 | 37% | Clean record, Low fund utilization |
+| 33 | LS | Sagar Eshwar Khandre | Bidar | Indian National Congress | 47.9 | 51% | Clean record, Low fund utilization, High attendance |
 | 34 | LS | V Somanna | Tumkur | Bharatiya Janata Party | 45.2 | 39% | Low fund utilization |
 | 35 | LS | H D Kumaraswamy | Mandya | Janata Dal (Secular) | 45.1 | 39% | Low fund utilization |
 | 36 | LS | Radhakrishna | Gulbarga | Indian National Congress | 45.0 | 24% | Significant criminal cases |
@@ -70,19 +70,19 @@
 | 18 | G Kumar Naik | LS | 12 | 55 | 100 | 90 | 40 | 40 | 15 | 40 |
 | 19 | Shreyas M Patel | LS | 24 | 60 | 90 | 70 | 40 | 40 | 45 | 40 |
 | 20 | M Mallesh Babu | LS | 19 | 55 | 80 | 100 | 40 | 40 | 15 | 40 |
-| 21 | Govind Makthappa Karjol | LS | 19 | 50 | 100 | 70 | 50 | 40 | 15 | 40 |
-| 22 | Jagadish Shettar | LS | 2 | 60 | 100 | 85 | 40 | 40 | 15 | 40 |
-| 23 | Shri  Radhakrishna | LS | 35 | 55 | 80 | 70 | 40 | 40 | 15 | 40 |
-| 24 | G.C. Chandrashekhar | RS | 35 | 45 | 45 | 85 | 100 | 40 | 15 | 40 |
-| 25 | Ramesh Chandappa Jigajinagi | LS | 3 | 55 | 100 | 90 | 30 | 40 | 15 | 40 |
-| 26 | Tejasvi Surya | LS | 18 | 50 | 70 | 75 | 70 | 40 | 45 | 40 |
-| 27 | Pralhad Joshi | LS | 9 | 50 | 100 | 50 | 50 | 40 | 65 | 40 |
-| 28 | P C Mohan | LS | 3 | 55 | 80 | 100 | 30 | 40 | 15 | 40 |
-| 29 | Priyanka Satish Jarkiholi | LS | 7 | 55 | 100 | 50 | 30 | 40 | 65 | 40 |
-| 30 | K Rajashekar Basavaraj Hitnal | LS | 32 | 50 | 70 | 80 | 20 | 40 | 15 | 40 |
-| 31 | Syed Naseer Hussain | RS | 35 | 50 | 100 | 45 | 0 | 40 | 15 | 40 |
-| 32 | Sagar Eshwar Khandre | LS | 5 | 55 | 100 | 80 | 0 | 40 | 15 | 40 |
-| 33 | Nirmala Sitharaman | RS | 35 | 50 | 100 | 0 | 50 | 40 | 15 | 40 |
+| 21 | Nirmala Sitharaman | RS | 35 | 50 | 100 | 50 | 50 | 40 | 15 | 40 |
+| 22 | Govind Makthappa Karjol | LS | 19 | 50 | 100 | 70 | 50 | 40 | 15 | 40 |
+| 23 | Jagadish Shettar | LS | 2 | 60 | 100 | 85 | 40 | 40 | 15 | 40 |
+| 24 | Shri  Radhakrishna | LS | 35 | 55 | 80 | 70 | 40 | 40 | 15 | 40 |
+| 25 | G.C. Chandrashekhar | RS | 35 | 45 | 45 | 85 | 100 | 40 | 15 | 40 |
+| 26 | Ramesh Chandappa Jigajinagi | LS | 3 | 55 | 100 | 90 | 30 | 40 | 15 | 40 |
+| 27 | Tejasvi Surya | LS | 18 | 50 | 70 | 75 | 70 | 40 | 45 | 40 |
+| 28 | Pralhad Joshi | LS | 9 | 50 | 100 | 50 | 50 | 40 | 65 | 40 |
+| 29 | P C Mohan | LS | 3 | 55 | 80 | 100 | 30 | 40 | 15 | 40 |
+| 30 | Priyanka Satish Jarkiholi | LS | 7 | 55 | 100 | 50 | 30 | 40 | 65 | 40 |
+| 31 | K Rajashekar Basavaraj Hitnal | LS | 32 | 50 | 70 | 80 | 20 | 40 | 15 | 40 |
+| 32 | Syed Naseer Hussain | RS | 35 | 50 | 100 | 45 | 0 | 40 | 15 | 40 |
+| 33 | Sagar Eshwar Khandre | LS | 5 | 55 | 100 | 80 | 0 | 40 | 15 | 40 |
 | 34 | V Somanna | LS | 12 | 50 | 80 | 50 | 50 | 40 | 15 | 40 |
 | 35 | H D Kumaraswamy | LS | 22 | 50 | 70 | 50 | 50 | 40 | 15 | 40 |
 | 36 | Radhakrishna | LS | 40 | 45 | 45 | 70 | 40 | 40 | 15 | 40 |

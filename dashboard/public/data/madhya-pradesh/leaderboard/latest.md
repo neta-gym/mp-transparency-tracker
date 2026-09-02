@@ -1,6 +1,6 @@
 # MP Transparency Leaderboard — Madhya-Pradesh
 
-*Generated: 2026-09-02 19:02 UTC | Methodology v3.1 | 40 MPs*
+*Generated: 2026-09-02 19:19 UTC | Methodology v3.1 | 40 MPs*
 
 | Rank | House | MP Name | Constituency | Party | Score | Confidence | Key Finding |
 |------|-------|---------|-------------|-------|-------|------------|-------------|
@@ -43,7 +43,7 @@
 | 37 | RS | Sumitra Balmik | Rajya Sabha (Madhya Pradesh) | Bharatiya Janata Party | 48.0 | 37% | Clean record, Low fund utilization |
 | 38 | RS | Tarun Chugh | Rajya Sabha (Madhya Pradesh) | Bharatiya Janata Party | 48.0 | 37% | Clean record, Low fund utilization |
 | 39 | RS | Vivek K. Tankha | Rajya Sabha (Madhya Pradesh) | Indian National Congress | 48.0 | 37% | Clean record, Low fund utilization |
-| 40 | RS | L. Murugan | Rajya Sabha (Madhya Pradesh) | Bharatiya Janata Party | 26.2 | 50% | Significant criminal cases, Low fund utilization, Low attendance |
+| 40 | RS | L. Murugan | Rajya Sabha (Madhya Pradesh) | Bharatiya Janata Party | 33.8 | 50% | Significant criminal cases, Low fund utilization |
 
 ### Score Breakdown
 
@@ -88,4 +88,4 @@
 | 37 | Sumitra Balmik | RS | 35 | 50 | 100 | 45 | 0 | 40 | 15 | 40 |
 | 38 | Tarun Chugh | RS | 35 | 50 | 100 | 45 | 0 | 40 | 15 | 40 |
 | 39 | Vivek K. Tankha | RS | 35 | 50 | 100 | 45 | 0 | 40 | 15 | 40 |
-| 40 | L. Murugan | RS | 35 | 50 | 0 | 0 | 50 | 40 | 15 | 40 |
+| 40 | L. Murugan | RS | 35 | 50 | 0 | 50 | 50 | 40 | 15 | 40 |
