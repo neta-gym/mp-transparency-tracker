@@ -33,13 +33,16 @@ jobs:
     runs-on: ubuntu-latest
     outputs:
       states: ${{ steps.build.outputs.states }}
+      extra_args: ${{ steps.build.outputs.extra_args }}
     steps:
       - uses: actions/checkout@v5
       - name: Build state matrix
         id: build
         run: |
           if [ "${{ github.event_name }}" = "push" ]; then
-            INPUT_STATE=$(cat "$(ls -t trigger/* | head -1)")
+            TRIG="$(ls -t trigger/* | head -1)"
+            INPUT_STATE=$(head -1 "$TRIG" | tr -d '\r')
+            EXTRA_ARGS=$(sed -n '2p' "$TRIG" | tr -d '\r')
           else
             INPUT_STATE="${{ inputs.state }}"
           fi
@@ -47,9 +50,10 @@ jobs:
           if [ "$INPUT_STATE" = "all" ]; then
             STATES='["andhra-pradesh","arunachal-pradesh","assam","bihar","chhattisgarh","delhi","goa","gujarat","haryana","himachal-pradesh","jammu-and-kashmir","jharkhand","karnataka","kerala","madhya-pradesh","maharashtra","manipur","meghalaya","mizoram","nagaland","odisha","punjab","rajasthan","sikkim","tamil-nadu","telangana","tripura","uttar-pradesh","uttarakhand","west-bengal","andaman-and-nicobar-islands","chandigarh","dadra-and-nagar-haveli-and-daman-and-diu","ladakh","lakshadweep","puducherry"]'
           else
-            STATES="[\"$INPUT_STATE\"]"
+            STATES=$(printf '%s' "$INPUT_STATE" | tr -d ' ' | awk -F, '{printf "["; for(i=1;i<=NF;i++){printf "%s\"%s\"", (i>1?",":""), $i}; printf "]"}')
           fi
           echo "states=$STATES" >> "$GITHUB_OUTPUT"
+          echo "extra_args=${EXTRA_ARGS:-}" >> "$GITHUB_OUTPUT"
 
   rescore:
     needs: matrix
@@ -71,9 +75,10 @@ jobs:
           cache: pip
 
       - name: Install dependencies
-        run: |
-          pip install -r requirements.txt
-          playwright install chromium
+        # No playwright/chromium: esakshi.mospi.gov.in is unreachable from
+        # GitHub runners (probe: 000), so the browser path can only fail
+        # slowly. Skipping it forces the fast API/HTML fallback everywhere.
+        run: pip install -r requirements.txt
 
       - name: Source connectivity probe
         run: |
@@ -88,7 +93,7 @@ jobs:
           PYTHONUNBUFFERED: "1"
         run: |
           set +e
-          timeout --signal=TERM --kill-after=30 5700 env PYTHONPATH=src python scripts/run.py --state "${{ matrix.state }}" --update
+          timeout --signal=TERM --kill-after=30 5700 env PYTHONPATH=src python scripts/run.py --state "${{ matrix.state }}" --update ${{ needs.matrix.outputs.extra_args }}
           rc=$?
           echo "run_rc=$rc" >> "$GITHUB_OUTPUT"
           echo "run.py exited rc=$rc (0=finished, 124/143=budget kill)"
@@ -117,13 +122,13 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/ ':!data/tracker.db' ':!data/tracker.db-shm' ':!data/tracker.db-wal'
+          git add "data/${{ matrix.state }}" data/_meta/rescore_status
           if git diff --cached --quiet; then
             echo "No data changes for ${{ matrix.state }}"
             exit 0
           fi
           git commit -m "rescore(${{ matrix.state }}): refresh batch (rc=${{ steps.scrape.outputs.run_rc }})"
-          for i in 1 2 3 4 5; do
+          for i in $(seq 1 12); do
             if git push origin HEAD:rescore-checkpoint; then
               echo "pushed on attempt $i"; exit 0
             fi
