@@ -795,6 +795,14 @@ export default function HomePage() {
 						>
 							Full Methodology
 						</Link>
+						<a
+							href="https://github.com/neta-gym/mp-transparency-tracker/blob/main/docs/findings.md"
+							target="_blank"
+							rel="noopener noreferrer"
+							className="border-2 border-ink bg-surface px-3 py-1.5 text-xs font-black uppercase text-ink shadow-brutal-sm brutal-press hover:-translate-y-0.5 hover:shadow-brutal hover:bg-white"
+						>
+							Press: Findings
+						</a>
 						<Link
 							href="/compare"
 							className="border-2 border-ink bg-accent px-3 py-1.5 text-xs font-black uppercase text-ink shadow-brutal-sm brutal-press hover:-translate-y-0.5 hover:shadow-brutal"

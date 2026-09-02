@@ -6,6 +6,8 @@ The project collects public records for MPs, normalizes them into auditable JSON
 
 Live site: https://neta-gym.github.io/mp-transparency-tracker/
 
+**Press / journalists: [Findings summary (press kit)](docs/findings.md)** - headline numbers, fund-usage leaders and laggards, criminal-case and attendance stats, methodology. Everything quotable with source links.
+
 ![Current national leaderboard](docs/assets/national-leaderboard.png)
 
 ![Top 5 and lowest 5 MPs by current transparency score](docs/assets/top-bottom-mps.png)
