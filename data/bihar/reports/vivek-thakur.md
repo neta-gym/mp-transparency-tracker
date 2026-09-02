@@ -4,16 +4,16 @@
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
 **Report Date:** 2026-09-02
-**Data Confidence:** Low (37%) | **Evidence Grade:** Secondary (D)
+**Data Confidence:** Low (49%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 52.7 / 100
+## Composite Transparency Score: 54.2 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 1.0 | 25% |
-| Asset Growth | 45.0 | 15% |
+| Asset Growth | 55.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 100.0 | 10% |
 | Questions & Debates | 40.0 | 10% |
@@ -36,13 +36,14 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 5.06 Crore
+- **Liabilities:** Rs 1.04 Crore
+- **Net Worth:** Rs 4.01 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 40% of Lok Sabha MPs
 
 ---
 
@@ -93,7 +94,6 @@
 
 ## Data Validation Flags
 
-- [!] **assets**: Low confidence in asset data
 - [!] **mplads**: Extremely low utilization rate — verify data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
@@ -104,11 +104,11 @@
 
 ## Qualitative Assessment
 
-Vivek Thakur shows moderate transparency with a score of 52.7/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
+Vivek Thakur shows moderate transparency with a score of 54.2/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
 
 ---
 
-No criminal cases declared. MPLADS utilization: 1.3%. Parliament attendance: 100.0%. Questions asked: 11. Debates participated: 2. Low confidence data: Assets. 2 warning(s) noted.
+No criminal cases declared. Declared assets: Rs 50,566,297. MPLADS utilization: 1.3%. Parliament attendance: 100.0%. Questions asked: 11. Debates participated: 2. 1 warning(s) noted.
 
 ---
 

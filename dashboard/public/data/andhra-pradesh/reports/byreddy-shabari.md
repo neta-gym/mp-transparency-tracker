@@ -4,16 +4,16 @@
 **Party:** Telugu Desam Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
 **Report Date:** 2026-09-02
-**Data Confidence:** Low (39%) | **Evidence Grade:** Secondary (D)
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 51.0 / 100
+## Composite Transparency Score: 52.5 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 17.4 | 25% |
-| Asset Growth | 45.0 | 15% |
+| Asset Growth | 55.0 | 15% |
 | Criminal Record | 80.0 | 15% |
 | Parliament Attendance | 80.0 | 10% |
 | Questions & Debates | 60.0 | 10% |
@@ -41,13 +41,14 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 14.76 Crore
+- **Liabilities:** Rs 3.20 Crore
+- **Net Worth:** Rs 11.56 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 66% of Lok Sabha MPs
 
 ---
 
@@ -98,7 +99,6 @@
 
 ## Data Validation Flags
 
-- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
@@ -108,11 +108,11 @@
 
 ## Qualitative Assessment
 
-Byreddy Shabari shows moderate transparency with a score of 51.0/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Byreddy Shabari shows moderate transparency with a score of 52.5/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-Has 2 criminal case(s) (0 serious), 2 pending, 0 conviction(s). MPLADS utilization: 21.7%. Parliament attendance: 80.0%. Questions asked: 47. Debates participated: 3. Low confidence data: Assets. 1 warning(s) noted.
+Has 2 criminal case(s) (0 serious), 2 pending, 0 conviction(s). Declared assets: Rs 147,631,050. MPLADS utilization: 21.7%. Parliament attendance: 80.0%. Questions asked: 47. Debates participated: 3.
 
 ---
 

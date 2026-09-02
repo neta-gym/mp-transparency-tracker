@@ -4,16 +4,16 @@
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
 **Report Date:** 2026-09-02
-**Data Confidence:** Low (46%) | **Evidence Grade:** Secondary (D)
+**Data Confidence:** Medium (57%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 33.0 / 100
+## Composite Transparency Score: 34.5 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 7.6 | 25% |
-| Asset Growth | 45.0 | 15% |
+| Asset Growth | 55.0 | 15% |
 | Criminal Record | 30.0 | 15% |
 | Parliament Attendance | 50.0 | 10% |
 | Questions & Debates | 20.0 | 10% |
@@ -46,13 +46,14 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 108.87 Crore
+- **Liabilities:** Rs 29.37 Crore
+- **Net Worth:** Rs 79.50 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 93% of Lok Sabha MPs
 
 ---
 
@@ -115,7 +116,6 @@
 
 ## Data Validation Flags
 
-- [!] **assets**: Low confidence in asset data
 - [!] **mplads**: Extremely low utilization rate — verify data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
@@ -126,11 +126,11 @@
 
 ## Qualitative Assessment
 
-Narayan Tatu Rane has a below-average transparency score of 33.0/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. Limited participation in parliamentary proceedings.
+Narayan Tatu Rane has a below-average transparency score of 34.5/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. Limited participation in parliamentary proceedings.
 
 ---
 
-Has 7 criminal case(s) (0 serious), 7 pending, 0 conviction(s). MPLADS utilization: 9.5%. Parliament attendance: 50.0%. Questions asked: 14. Low confidence data: Assets. 2 warning(s) noted.
+Has 7 criminal case(s) (0 serious), 7 pending, 0 conviction(s). Declared assets: Rs 1,088,739,226. MPLADS utilization: 9.5%. Parliament attendance: 50.0%. Questions asked: 14. 1 warning(s) noted.
 
 ---
 

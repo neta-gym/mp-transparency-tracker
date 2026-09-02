@@ -4,16 +4,16 @@
 **Party:** Indian National Congress
 **House:** Lok Sabha (18th Parliament, 2024-present)
 **Report Date:** 2026-09-02
-**Data Confidence:** Low (39%) | **Evidence Grade:** Secondary (D)
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 53.5 / 100
+## Composite Transparency Score: 55.7 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 22.5 | 25% |
-| Asset Growth | 45.0 | 15% |
+| Asset Growth | 60.0 | 15% |
 | Criminal Record | 90.0 | 15% |
 | Parliament Attendance | 90.0 | 10% |
 | Questions & Debates | 40.0 | 10% |
@@ -40,13 +40,14 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 9.27 Crore
+- **Liabilities:** Rs 10.22 Lakh
+- **Net Worth:** Rs 9.16 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 56% of Lok Sabha MPs
 
 ---
 
@@ -97,7 +98,6 @@
 
 ## Data Validation Flags
 
-- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
@@ -107,11 +107,11 @@
 
 ## Qualitative Assessment
 
-Robert Bruce C shows moderate transparency with a score of 53.5/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance.
+Robert Bruce C shows moderate transparency with a score of 55.7/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance.
 
 ---
 
-Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). MPLADS utilization: 28.1%. Parliament attendance: 90.0%. Questions asked: 12. Debates participated: 4. Low confidence data: Assets. 1 warning(s) noted.
+Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Declared assets: Rs 92,662,888. MPLADS utilization: 28.1%. Parliament attendance: 90.0%. Questions asked: 12. Debates participated: 4.
 
 ---
 

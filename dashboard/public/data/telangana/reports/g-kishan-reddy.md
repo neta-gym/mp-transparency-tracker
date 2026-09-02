@@ -4,16 +4,16 @@
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
 **Report Date:** 2026-09-02
-**Data Confidence:** Low (37%) | **Evidence Grade:** Secondary (D)
+**Data Confidence:** Low (49%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 48.5 / 100
+## Composite Transparency Score: 50.8 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 0.2 | 25% |
-| Asset Growth | 45.0 | 15% |
+| Asset Growth | 60.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 50.0 | 10% |
 | Questions & Debates | 50.0 | 10% |
@@ -36,13 +36,14 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 19.22 Crore
+- **Liabilities:** Rs 1.63 Crore
+- **Net Worth:** Rs 17.59 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 70% of Lok Sabha MPs
 
 ---
 
@@ -105,7 +106,6 @@
 
 ## Data Validation Flags
 
-- [!] **assets**: Low confidence in asset data
 - [!] **mplads**: Extremely low utilization rate — verify data
 - [!] **parliament_activity**: Low confidence in parliament activity data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
@@ -117,11 +117,11 @@
 
 ## Qualitative Assessment
 
-G Kishan Reddy has a below-average transparency score of 48.5/100, indicating significant room for improvement. No criminal cases declared. Low MPLADS fund utilization needs attention.
+G Kishan Reddy shows moderate transparency with a score of 50.8/100. No criminal cases declared. Low MPLADS fund utilization needs attention.
 
 ---
 
-No criminal cases declared. MPLADS utilization: 0.3%. Low confidence data: Assets, Parliament activity. 3 warning(s) noted.
+No criminal cases declared. Declared assets: Rs 192,241,721. MPLADS utilization: 0.3%. Low confidence data: Parliament activity. 2 warning(s) noted.
 
 ---
 

@@ -4,16 +4,16 @@
 **Party:** Samajwadi Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
 **Report Date:** 2026-09-02
-**Data Confidence:** Low (46%) | **Evidence Grade:** Secondary (D)
+**Data Confidence:** Medium (57%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 55.1 / 100
+## Composite Transparency Score: 55.9 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 29.3 | 25% |
-| Asset Growth | 45.0 | 15% |
+| Asset Growth | 50.0 | 15% |
 | Criminal Record | 80.0 | 15% |
 | Parliament Attendance | 95.0 | 10% |
 | Questions & Debates | 20.0 | 10% |
@@ -41,13 +41,14 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 11.26 Lakh
+- **Liabilities:** Rs 0
+- **Net Worth:** Rs 11.26 Lakh
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 1% of Lok Sabha MPs
 
 ---
 
@@ -111,7 +112,6 @@
 
 ## Data Validation Flags
 
-- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
@@ -121,11 +121,11 @@
 
 ## Qualitative Assessment
 
-Priya Saroj shows moderate transparency with a score of 55.1/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance. Limited participation in parliamentary proceedings.
+Priya Saroj shows moderate transparency with a score of 55.9/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance. Limited participation in parliamentary proceedings.
 
 ---
 
-Has 2 criminal case(s) (0 serious), 2 pending, 0 conviction(s). MPLADS utilization: 36.6%. Parliament attendance: 95.0%. Debates participated: 4. Low confidence data: Assets. 1 warning(s) noted.
+Has 2 criminal case(s) (0 serious), 2 pending, 0 conviction(s). Declared assets: Rs 1,125,719. MPLADS utilization: 36.6%. Parliament attendance: 95.0%. Debates participated: 4.
 
 ---
 

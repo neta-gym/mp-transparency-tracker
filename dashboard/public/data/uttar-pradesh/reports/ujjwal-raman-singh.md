@@ -4,16 +4,16 @@
 **Party:** Indian National Congress
 **House:** Lok Sabha (18th Parliament, 2024-present)
 **Report Date:** 2026-09-02
-**Data Confidence:** Low (44%) | **Evidence Grade:** Secondary (D)
+**Data Confidence:** Medium (56%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 63.6 / 100
+## Composite Transparency Score: 65.8 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 27.8 | 25% |
-| Asset Growth | 45.0 | 15% |
+| Asset Growth | 60.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 100.0 | 10% |
 | Questions & Debates | 60.0 | 10% |
@@ -36,13 +36,14 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 26.90 Crore
+- **Liabilities:** Rs 1.20 Crore
+- **Net Worth:** Rs 25.70 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 76% of Lok Sabha MPs
 
 ---
 
@@ -106,7 +107,6 @@
 
 ## Data Validation Flags
 
-- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
@@ -116,11 +116,11 @@
 
 ## Qualitative Assessment
 
-Ujjwal Raman Singh shows moderate transparency with a score of 63.6/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Ujjwal Raman Singh shows moderate transparency with a score of 65.8/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-No criminal cases declared. MPLADS utilization: 34.7%. Parliament attendance: 100.0%. Questions asked: 23. Debates participated: 9. Low confidence data: Assets. 1 warning(s) noted.
+No criminal cases declared. Declared assets: Rs 268,988,675. MPLADS utilization: 34.7%. Parliament attendance: 100.0%. Questions asked: 23. Debates participated: 9.
 
 ---
 

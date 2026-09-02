@@ -4,16 +4,16 @@
 **Party:** Indian National Congress
 **House:** Lok Sabha (18th Parliament, 2024-present)
 **Report Date:** 2026-09-02
-**Data Confidence:** Low (39%) | **Evidence Grade:** Secondary (D)
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 68.8 / 100
+## Composite Transparency Score: 69.5 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 76.3 | 25% |
-| Asset Growth | 45.0 | 15% |
+| Asset Growth | 50.0 | 15% |
 | Criminal Record | 90.0 | 15% |
 | Parliament Attendance | 100.0 | 10% |
 | Questions & Debates | 70.0 | 10% |
@@ -40,13 +40,14 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 2.47 Crore
+- **Liabilities:** Rs 1.24 Crore
+- **Net Worth:** Rs 1.23 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 21% of Lok Sabha MPs
 
 ---
 
@@ -97,7 +98,6 @@
 
 ## Data Validation Flags
 
-- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
@@ -107,11 +107,11 @@
 
 ## Qualitative Assessment
 
-Sukhdeo Bhagat shows moderate transparency with a score of 68.8/100. Minor criminal cases on record. High parliament attendance. Active in questions and debates.
+Sukhdeo Bhagat shows moderate transparency with a score of 69.5/100. Minor criminal cases on record. High parliament attendance. Active in questions and debates.
 
 ---
 
-Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). MPLADS utilization: 76.3%. Parliament attendance: 100.0%. Questions asked: 31. Debates participated: 7. Low confidence data: Assets. 1 warning(s) noted.
+Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Declared assets: Rs 24,688,449. MPLADS utilization: 76.3%. Parliament attendance: 100.0%. Questions asked: 31. Debates participated: 7.
 
 ---
 

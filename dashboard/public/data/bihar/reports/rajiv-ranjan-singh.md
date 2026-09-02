@@ -4,16 +4,16 @@
 **Party:** Janata Dal (United)
 **House:** Lok Sabha (18th Parliament, 2024-present)
 **Report Date:** 2026-09-02
-**Data Confidence:** Low (30%) | **Evidence Grade:** Secondary (D)
+**Data Confidence:** Low (41%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 53.0 / 100
+## Composite Transparency Score: 55.2 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 35.0 | 25% |
-| Asset Growth | 45.0 | 15% |
+| Asset Growth | 60.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 50.0 | 10% |
 | Questions & Debates | 50.0 | 10% |
@@ -36,13 +36,14 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 13.82 Crore
+- **Liabilities:** Rs 29.15 Lakh
+- **Net Worth:** Rs 13.53 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 64% of Lok Sabha MPs
 
 ---
 
@@ -93,7 +94,6 @@
 
 ## Data Validation Flags
 
-- [!] **assets**: Low confidence in asset data
 - [!] **parliament_activity**: Low confidence in parliament activity data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
@@ -104,11 +104,11 @@
 
 ## Qualitative Assessment
 
-Rajiv Ranjan Singh shows moderate transparency with a score of 53.0/100. No criminal cases declared. Low MPLADS fund utilization needs attention.
+Rajiv Ranjan Singh shows moderate transparency with a score of 55.2/100. No criminal cases declared. Low MPLADS fund utilization needs attention.
 
 ---
 
-No criminal cases declared. Low confidence data: Assets, Parliament activity. 2 warning(s) noted.
+No criminal cases declared. Declared assets: Rs 138,228,639. Low confidence data: Parliament activity. 1 warning(s) noted.
 
 ---
 

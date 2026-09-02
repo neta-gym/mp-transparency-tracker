@@ -4,16 +4,16 @@
 **Party:** Lok Jan Shakti Party (Ram Vilas)
 **House:** Lok Sabha (18th Parliament, 2024-present)
 **Report Date:** 2026-09-02
-**Data Confidence:** Low (37%) | **Evidence Grade:** Secondary (D)
+**Data Confidence:** Low (49%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 59.5 / 100
+## Composite Transparency Score: 60.3 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 55.0 | 25% |
-| Asset Growth | 45.0 | 15% |
+| Asset Growth | 50.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 60.0 | 10% |
 | Questions & Debates | 60.0 | 10% |
@@ -36,13 +36,14 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 6.49 Crore
+- **Liabilities:** Rs 3.12 Crore
+- **Net Worth:** Rs 3.37 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 46% of Lok Sabha MPs
 
 ---
 
@@ -93,7 +94,6 @@
 
 ## Data Validation Flags
 
-- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
@@ -103,11 +103,11 @@
 
 ## Qualitative Assessment
 
-Arun Bharti shows moderate transparency with a score of 59.5/100. No criminal cases declared. Active in questions and debates.
+Arun Bharti shows moderate transparency with a score of 60.3/100. No criminal cases declared. Active in questions and debates.
 
 ---
 
-No criminal cases declared. MPLADS utilization: 60.0%. Parliament attendance: 60.0%. Questions asked: 45. Debates participated: 4. Low confidence data: Assets. 1 warning(s) noted.
+No criminal cases declared. Declared assets: Rs 64,870,319. MPLADS utilization: 60.0%. Parliament attendance: 60.0%. Questions asked: 45. Debates participated: 4.
 
 ---
 

@@ -4,16 +4,16 @@
 **Party:** Indian National Congress
 **House:** Lok Sabha (18th Parliament, 2024-present)
 **Report Date:** 2026-09-02
-**Data Confidence:** Low (44%) | **Evidence Grade:** Secondary (D)
+**Data Confidence:** Medium (56%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 57.5 / 100
+## Composite Transparency Score: 59.0 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 2.7 | 25% |
-| Asset Growth | 45.0 | 15% |
+| Asset Growth | 55.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 100.0 | 10% |
 | Questions & Debates | 50.0 | 10% |
@@ -38,11 +38,12 @@
 
 - **Movable Assets:** N/A
 - **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Total Assets:** Rs 14.47 Crore
+- **Liabilities:** Rs 2.25 Crore
+- **Net Worth:** Rs 12.22 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 65% of Lok Sabha MPs
 
 ---
 
@@ -106,7 +107,6 @@
 
 ## Data Validation Flags
 
-- [!] **assets**: Low confidence in asset data
 - [!] **mplads**: Extremely low utilization rate — verify data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
@@ -117,11 +117,11 @@
 
 ## Qualitative Assessment
 
-Prashant Yadaorao Padole shows moderate transparency with a score of 57.5/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
+Prashant Yadaorao Padole shows moderate transparency with a score of 59.0/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
 
 ---
 
-No criminal cases declared. MPLADS utilization: 3.3%. Parliament attendance: 100.0%. Questions asked: 12. Debates participated: 12. Low confidence data: Assets. 2 warning(s) noted.
+No criminal cases declared. Declared assets: Rs 144,668,874. MPLADS utilization: 3.3%. Parliament attendance: 100.0%. Questions asked: 12. Debates participated: 12. 1 warning(s) noted.
 
 ---
 

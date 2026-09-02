@@ -4,16 +4,16 @@
 **Party:** Yuvajana Sramika Rythu Congress Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
 **Report Date:** 2026-09-02
-**Data Confidence:** Low (34%) | **Evidence Grade:** Secondary (D)
+**Data Confidence:** Low (46%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 42.4 / 100
+## Composite Transparency Score: 43.2 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 18.4 | 25% |
-| Asset Growth | 45.0 | 15% |
+| Asset Growth | 50.0 | 15% |
 | Criminal Record | 45.0 | 15% |
 | Parliament Attendance | 45.0 | 10% |
 | Questions & Debates | 60.0 | 10% |
@@ -36,13 +36,14 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 146.85 Crore
+- **Liabilities:** Rs 56.09 Crore
+- **Net Worth:** Rs 90.76 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 95% of Lok Sabha MPs
 
 ---
 
@@ -107,7 +108,6 @@
 ## Data Validation Flags
 
 - [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
@@ -117,11 +117,11 @@
 
 ## Qualitative Assessment
 
-P V Midhun Reddy has a below-average transparency score of 42.4/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. Active in questions and debates.
+P V Midhun Reddy has a below-average transparency score of 43.2/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. Active in questions and debates.
 
 ---
 
-No criminal cases declared. MPLADS utilization: 23.0%. Parliament attendance: 45.0%. Questions asked: 44. Debates participated: 3. Low confidence data: Criminal record, Assets. 2 warning(s) noted.
+No criminal cases declared. Declared assets: Rs 1,468,501,685. MPLADS utilization: 23.0%. Parliament attendance: 45.0%. Questions asked: 44. Debates participated: 3. Low confidence data: Criminal record. 1 warning(s) noted.
 
 ---
 

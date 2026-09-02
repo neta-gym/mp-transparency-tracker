@@ -4,16 +4,16 @@
 **Party:** Samajwadi Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
 **Report Date:** 2026-09-02
-**Data Confidence:** Low (44%) | **Evidence Grade:** Secondary (D)
+**Data Confidence:** Medium (56%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 66.4 / 100
+## Composite Transparency Score: 67.2 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 47.1 | 25% |
-| Asset Growth | 45.0 | 15% |
+| Asset Growth | 50.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 100.0 | 10% |
 | Questions & Debates | 50.0 | 10% |
@@ -36,13 +36,14 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 1.23 Crore
+- **Immovable Assets:** Rs 77.00 Lakh
+- **Total Assets:** Rs 2.00 Crore
+- **Liabilities:** Rs 69.55 Lakh
+- **Net Worth:** Rs 1.30 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 17% of Lok Sabha MPs
 
 ---
 
@@ -106,7 +107,6 @@
 
 ## Data Validation Flags
 
-- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
@@ -116,11 +116,11 @@
 
 ## Qualitative Assessment
 
-Chhotelal shows moderate transparency with a score of 66.4/100. No criminal cases declared. High parliament attendance.
+Chhotelal shows moderate transparency with a score of 67.2/100. No criminal cases declared. High parliament attendance.
 
 ---
 
-No criminal cases declared. MPLADS utilization: 54.8%. Parliament attendance: 100.0%. Questions asked: 6. Debates participated: 7. Low confidence data: Assets. 1 warning(s) noted.
+No criminal cases declared. Declared assets: Rs 19,997,783. MPLADS utilization: 54.8%. Parliament attendance: 100.0%. Questions asked: 6. Debates participated: 7.
 
 ---
 

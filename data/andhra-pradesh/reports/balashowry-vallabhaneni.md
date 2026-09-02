@@ -4,16 +4,16 @@
 **Party:** Janasena Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
 **Report Date:** 2026-09-02
-**Data Confidence:** Low (39%) | **Evidence Grade:** Secondary (D)
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 41.3 / 100
+## Composite Transparency Score: 42.1 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 4.2 | 25% |
-| Asset Growth | 45.0 | 15% |
+| Asset Growth | 50.0 | 15% |
 | Criminal Record | 70.0 | 15% |
 | Parliament Attendance | 40.0 | 10% |
 | Questions & Debates | 70.0 | 10% |
@@ -41,13 +41,14 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 133.72 Crore
+- **Liabilities:** Rs 86.81 Crore
+- **Net Worth:** Rs 46.91 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 94% of Lok Sabha MPs
 
 ---
 
@@ -98,7 +99,6 @@
 
 ## Data Validation Flags
 
-- [!] **assets**: Low confidence in asset data
 - [!] **mplads**: Extremely low utilization rate — verify data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
@@ -109,11 +109,11 @@
 
 ## Qualitative Assessment
 
-Balashowry Vallabhaneni has a below-average transparency score of 41.3/100, indicating significant room for improvement. Minor criminal cases on record. Low MPLADS fund utilization needs attention. Active in questions and debates.
+Balashowry Vallabhaneni has a below-average transparency score of 42.1/100, indicating significant room for improvement. Minor criminal cases on record. Low MPLADS fund utilization needs attention. Active in questions and debates.
 
 ---
 
-Has 2 criminal case(s) (1 serious), 2 pending, 0 conviction(s). MPLADS utilization: 5.3%. Parliament attendance: 40.0%. Questions asked: 43. Debates participated: 9. Low confidence data: Assets. 2 warning(s) noted.
+Has 2 criminal case(s) (1 serious), 2 pending, 0 conviction(s). Declared assets: Rs 1,337,214,564. MPLADS utilization: 5.3%. Parliament attendance: 40.0%. Questions asked: 43. Debates participated: 9. 1 warning(s) noted.
 
 ---
 

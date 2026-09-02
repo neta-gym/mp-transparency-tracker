@@ -224,20 +224,35 @@
     ]
   },
   "assets": {
-    "movable_assets": null,
-    "immovable_assets": null,
-    "total_assets": null,
-    "liabilities": null,
-    "net_worth": null,
+    "movable_assets": 0.0,
+    "immovable_assets": 0.0,
+    "total_assets": 2597479.0,
+    "liabilities": 785694.0,
+    "net_worth": 1811785.0,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
-    "confidence": 0.0,
-    "sources": [],
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=834",
+        "source_name": "myneta",
+        "grade": "B",
+        "fetched_at": "2026-08-22T20:01:52.696626Z",
+        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+      },
+      {
+        "url": "https://www.myneta.info",
+        "source_name": "myneta",
+        "grade": "B",
+        "fetched_at": "2026-09-02T18:55:41.624581Z",
+        "notes": "restore note: 2026-09-02 Actions rescore received a non-data page for MyNeta from runner IPs; retained last-known-good affidavit figures (same 2024 affidavit)."
+      }
+    ],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": null,
+    "wealth_percentile": 2.5,
     "growth_ratio": null
   },
   "mplads": {
@@ -378,7 +393,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T18:41:09.889717Z",
+        "fetched_at": "2026-09-02T18:55:41.625509Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -394,7 +409,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T18:41:09.889729Z",
+        "fetched_at": "2026-09-02T18:55:41.625519Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -410,7 +425,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T18:41:09.889734Z",
+        "fetched_at": "2026-09-02T18:55:41.625524Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -426,7 +441,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T18:41:09.889740Z",
+        "fetched_at": "2026-09-02T18:55:41.625529Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -442,7 +457,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T18:41:09.889748Z",
+        "fetched_at": "2026-09-02T18:55:41.625535Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -458,7 +473,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T18:41:09.889752Z",
+        "fetched_at": "2026-09-02T18:55:41.625540Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -474,7 +489,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T18:41:09.889757Z",
+        "fetched_at": "2026-09-02T18:55:41.625545Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }

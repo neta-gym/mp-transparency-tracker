@@ -4,16 +4,16 @@
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
 **Report Date:** 2026-09-02
-**Data Confidence:** Low (44%) | **Evidence Grade:** Secondary (D)
+**Data Confidence:** Medium (56%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 57.9 / 100
+## Composite Transparency Score: 60.1 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 29.4 | 25% |
-| Asset Growth | 45.0 | 15% |
+| Asset Growth | 60.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 80.0 | 10% |
 | Questions & Debates | 30.0 | 10% |
@@ -38,11 +38,12 @@
 
 - **Movable Assets:** N/A
 - **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Total Assets:** Rs 4.13 Crore
+- **Liabilities:** Rs 35.03 Lakh
+- **Net Worth:** Rs 3.78 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 33% of Lok Sabha MPs
 
 ---
 
@@ -106,7 +107,6 @@
 
 ## Data Validation Flags
 
-- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
@@ -116,11 +116,11 @@
 
 ## Qualitative Assessment
 
-Chintamani Maharaj shows moderate transparency with a score of 57.9/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
+Chintamani Maharaj shows moderate transparency with a score of 60.1/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
 
 ---
 
-No criminal cases declared. MPLADS utilization: 36.7%. Parliament attendance: 80.0%. Questions asked: 24. Low confidence data: Assets. 1 warning(s) noted.
+No criminal cases declared. Declared assets: Rs 41,298,468. MPLADS utilization: 36.7%. Parliament attendance: 80.0%. Questions asked: 24.
 
 ---
 

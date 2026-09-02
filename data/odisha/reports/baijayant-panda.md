@@ -4,16 +4,16 @@
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
 **Report Date:** 2026-09-02
-**Data Confidence:** Low (39%) | **Evidence Grade:** Secondary (D)
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 35.9 / 100
+## Composite Transparency Score: 38.2 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 5.9 | 25% |
-| Asset Growth | 45.0 | 15% |
+| Asset Growth | 60.0 | 15% |
 | Criminal Record | 20.0 | 15% |
 | Parliament Attendance | 75.0 | 10% |
 | Questions & Debates | 60.0 | 10% |
@@ -47,13 +47,14 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 148.09 Crore
+- **Liabilities:** Rs 98.51 Lakh
+- **Net Worth:** Rs 147.10 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 95% of Lok Sabha MPs
 
 ---
 
@@ -104,7 +105,6 @@
 
 ## Data Validation Flags
 
-- [!] **assets**: Low confidence in asset data
 - [!] **mplads**: Extremely low utilization rate — verify data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
@@ -115,11 +115,11 @@
 
 ## Qualitative Assessment
 
-Baijayant Panda has a below-average transparency score of 35.9/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. Active in questions and debates.
+Baijayant Panda has a below-average transparency score of 38.2/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. Active in questions and debates.
 
 ---
 
-Has 8 criminal case(s) (0 serious), 8 pending, 0 conviction(s). MPLADS utilization: 7.3%. Parliament attendance: 75.0%. Questions asked: 39. Debates participated: 2. Low confidence data: Assets. 2 warning(s) noted.
+Has 8 criminal case(s) (0 serious), 8 pending, 0 conviction(s). Declared assets: Rs 1,480,878,708. MPLADS utilization: 7.3%. Parliament attendance: 75.0%. Questions asked: 39. Debates participated: 2. 1 warning(s) noted.
 
 ---
 

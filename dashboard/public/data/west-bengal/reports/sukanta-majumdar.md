@@ -4,16 +4,16 @@
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
 **Report Date:** 2026-09-02
-**Data Confidence:** Low (31%) | **Evidence Grade:** Secondary (D)
+**Data Confidence:** Low (43%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 27.4 / 100
+## Composite Transparency Score: 29.6 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 6.8 | 25% |
-| Asset Growth | 45.0 | 15% |
+| Asset Growth | 60.0 | 15% |
 | Criminal Record | 0.0 | 15% |
 | Parliament Attendance | 50.0 | 10% |
 | Questions & Debates | 50.0 | 10% |
@@ -55,13 +55,14 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 1.25 Crore
+- **Liabilities:** Rs 11.25 Lakh
+- **Net Worth:** Rs 1.14 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 11% of Lok Sabha MPs
 
 ---
 
@@ -112,7 +113,6 @@
 
 ## Data Validation Flags
 
-- [!] **assets**: Low confidence in asset data
 - [!] **mplads**: Extremely low utilization rate — verify data
 - [!] **parliament_activity**: Low confidence in parliament activity data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
@@ -124,11 +124,11 @@
 
 ## Qualitative Assessment
 
-Sukanta Majumdar has a below-average transparency score of 27.4/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention.
+Sukanta Majumdar has a below-average transparency score of 29.6/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention.
 
 ---
 
-Has 16 criminal case(s) (4 serious), 16 pending, 0 conviction(s). MPLADS utilization: 8.5%. Low confidence data: Assets, Parliament activity. 3 warning(s) noted.
+Has 16 criminal case(s) (4 serious), 16 pending, 0 conviction(s). Declared assets: Rs 12,476,825. MPLADS utilization: 8.5%. Low confidence data: Parliament activity. 2 warning(s) noted.
 
 ---
 

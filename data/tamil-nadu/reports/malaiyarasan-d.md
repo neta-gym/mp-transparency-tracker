@@ -4,16 +4,16 @@
 **Party:** Dravida Munnetra Kazhagam
 **House:** Lok Sabha (18th Parliament, 2024-present)
 **Report Date:** 2026-09-02
-**Data Confidence:** Low (46%) | **Evidence Grade:** Secondary (D)
+**Data Confidence:** Medium (57%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 61.1 / 100
+## Composite Transparency Score: 61.8 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 65.3 | 25% |
-| Asset Growth | 45.0 | 15% |
+| Asset Growth | 50.0 | 15% |
 | Criminal Record | 60.0 | 15% |
 | Parliament Attendance | 100.0 | 10% |
 | Questions & Debates | 50.0 | 10% |
@@ -43,13 +43,14 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 87.17 Lakh
+- **Liabilities:** Rs 0
+- **Net Worth:** Rs 87.17 Lakh
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 7% of Lok Sabha MPs
 
 ---
 
@@ -112,7 +113,6 @@
 
 ## Data Validation Flags
 
-- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
@@ -122,11 +122,11 @@
 
 ## Qualitative Assessment
 
-Malaiyarasan D shows moderate transparency with a score of 61.1/100. Significant criminal cases are a concern. High parliament attendance.
+Malaiyarasan D shows moderate transparency with a score of 61.8/100. Significant criminal cases are a concern. High parliament attendance.
 
 ---
 
-Has 4 criminal case(s) (0 serious), 4 pending, 0 conviction(s). MPLADS utilization: 66.8%. Parliament attendance: 100.0%. Questions asked: 26. Debates participated: 3. Low confidence data: Assets. 1 warning(s) noted.
+Has 4 criminal case(s) (0 serious), 4 pending, 0 conviction(s). Declared assets: Rs 8,716,980. MPLADS utilization: 66.8%. Parliament attendance: 100.0%. Questions asked: 26. Debates participated: 3.
 
 ---
 

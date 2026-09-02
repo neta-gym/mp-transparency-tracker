@@ -4,16 +4,16 @@
 **Party:** Shiv Sena
 **House:** Lok Sabha (18th Parliament, 2024-present)
 **Report Date:** 2026-09-02
-**Data Confidence:** Low (44%) | **Evidence Grade:** Secondary (D)
+**Data Confidence:** Medium (56%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 60.2 / 100
+## Composite Transparency Score: 61.0 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 35.0 | 25% |
-| Asset Growth | 45.0 | 15% |
+| Asset Growth | 50.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 35.0 | 10% |
 | Questions & Debates | 80.0 | 10% |
@@ -38,11 +38,12 @@
 
 - **Movable Assets:** N/A
 - **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Total Assets:** Rs 14.92 Crore
+- **Liabilities:** Rs 6.63 Crore
+- **Net Worth:** Rs 8.29 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 66% of Lok Sabha MPs
 
 ---
 
@@ -114,7 +115,6 @@
 
 ## Data Validation Flags
 
-- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
@@ -124,11 +124,11 @@
 
 ## Qualitative Assessment
 
-Shrikant Eknath Shinde shows moderate transparency with a score of 60.2/100. No criminal cases declared. Low MPLADS fund utilization needs attention. Low parliament attendance is notable. Active in questions and debates.
+Shrikant Eknath Shinde shows moderate transparency with a score of 61.0/100. No criminal cases declared. Low MPLADS fund utilization needs attention. Low parliament attendance is notable. Active in questions and debates.
 
 ---
 
-No criminal cases declared. Parliament attendance: 35.0%. Questions asked: 75. Debates participated: 8. Low confidence data: Assets. 1 warning(s) noted.
+No criminal cases declared. Declared assets: Rs 149,208,812. Parliament attendance: 35.0%. Questions asked: 75. Debates participated: 8.
 
 ---
 

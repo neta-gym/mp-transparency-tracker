@@ -4,16 +4,16 @@
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
 **Report Date:** 2026-09-02
-**Data Confidence:** Low (31%) | **Evidence Grade:** Secondary (D)
+**Data Confidence:** Low (43%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 39.7 / 100
+## Composite Transparency Score: 41.2 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 18.7 | 25% |
-| Asset Growth | 45.0 | 15% |
+| Asset Growth | 55.0 | 15% |
 | Criminal Record | 50.0 | 15% |
 | Parliament Attendance | 50.0 | 10% |
 | Questions & Debates | 50.0 | 10% |
@@ -49,13 +49,14 @@ Court Culminated into Spl C.No.124/2014 | Sec 45 (1) of PMLA Act read with secti
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 13.89 Crore
+- **Liabilities:** Rs 4.06 Crore
+- **Net Worth:** Rs 9.83 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 64% of Lok Sabha MPs
 
 ---
 
@@ -106,7 +107,6 @@ Court Culminated into Spl C.No.124/2014 | Sec 45 (1) of PMLA Act read with secti
 
 ## Data Validation Flags
 
-- [!] **assets**: Low confidence in asset data
 - [!] **parliament_activity**: Low confidence in parliament activity data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
@@ -117,11 +117,11 @@ Court Culminated into Spl C.No.124/2014 | Sec 45 (1) of PMLA Act read with secti
 
 ## Qualitative Assessment
 
-Shobha Karandlaje has a below-average transparency score of 39.7/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention.
+Shobha Karandlaje has a below-average transparency score of 41.2/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention.
 
 ---
 
-Has 5 criminal case(s) (0 serious), 5 pending, 0 conviction(s). MPLADS utilization: 23.4%. Low confidence data: Assets, Parliament activity. 2 warning(s) noted.
+Has 5 criminal case(s) (0 serious), 5 pending, 0 conviction(s). Declared assets: Rs 138,866,909. MPLADS utilization: 23.4%. Low confidence data: Parliament activity. 1 warning(s) noted.
 
 ---
 

@@ -4,16 +4,16 @@
 **Party:** Dravida Munnetra Kazhagam
 **House:** Lok Sabha (18th Parliament, 2024-present)
 **Report Date:** 2026-09-02
-**Data Confidence:** Low (46%) | **Evidence Grade:** Secondary (D)
+**Data Confidence:** Medium (57%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 47.0 / 100
+## Composite Transparency Score: 47.8 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 13.9 | 25% |
-| Asset Growth | 45.0 | 15% |
+| Asset Growth | 50.0 | 15% |
 | Criminal Record | 50.0 | 15% |
 | Parliament Attendance | 75.0 | 10% |
 | Questions & Debates | 60.0 | 10% |
@@ -45,13 +45,14 @@ Dated 16-05-2020 | Section- 3(1)(U),SC/ST Prevention of Atrocities Amendment Act
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 17.08 Crore
+- **Liabilities:** Rs 0
+- **Net Worth:** Rs 17.08 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 68% of Lok Sabha MPs
 
 ---
 
@@ -115,7 +116,6 @@ Dated 16-05-2020 | Section- 3(1)(U),SC/ST Prevention of Atrocities Amendment Act
 
 ## Data Validation Flags
 
-- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
@@ -125,11 +125,11 @@ Dated 16-05-2020 | Section- 3(1)(U),SC/ST Prevention of Atrocities Amendment Act
 
 ## Qualitative Assessment
 
-Dayanidhi Maran has a below-average transparency score of 47.0/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. Active in questions and debates.
+Dayanidhi Maran has a below-average transparency score of 47.8/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. Active in questions and debates.
 
 ---
 
-Has 4 criminal case(s) (1 serious), 4 pending, 0 conviction(s). MPLADS utilization: 17.4%. Parliament attendance: 75.0%. Questions asked: 30. Debates participated: 2. Low confidence data: Assets. 1 warning(s) noted.
+Has 4 criminal case(s) (1 serious), 4 pending, 0 conviction(s). Declared assets: Rs 170,770,037. MPLADS utilization: 17.4%. Parliament attendance: 75.0%. Questions asked: 30. Debates participated: 2.
 
 ---
 

@@ -4,16 +4,16 @@
 **Party:** Indian National Congress
 **House:** Lok Sabha (18th Parliament, 2024-present)
 **Report Date:** 2026-09-02
-**Data Confidence:** Low (46%) | **Evidence Grade:** Secondary (D)
+**Data Confidence:** Medium (57%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 46.1 / 100
+## Composite Transparency Score: 46.8 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 11.7 | 25% |
-| Asset Growth | 45.0 | 15% |
+| Asset Growth | 50.0 | 15% |
 | Criminal Record | 90.0 | 15% |
 | Parliament Attendance | 45.0 | 10% |
 | Questions & Debates | 20.0 | 10% |
@@ -40,13 +40,14 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 342.87 Crore
+- **Liabilities:** Rs 0
+- **Net Worth:** Rs 342.87 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 98% of Lok Sabha MPs
 
 ---
 
@@ -110,7 +111,6 @@
 
 ## Data Validation Flags
 
-- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
@@ -120,11 +120,11 @@
 
 ## Qualitative Assessment
 
-Shahu Shahaji Chhatrapati has a below-average transparency score of 46.1/100, indicating significant room for improvement. Minor criminal cases on record. Low MPLADS fund utilization needs attention. Limited participation in parliamentary proceedings.
+Shahu Shahaji Chhatrapati has a below-average transparency score of 46.8/100, indicating significant room for improvement. Minor criminal cases on record. Low MPLADS fund utilization needs attention. Limited participation in parliamentary proceedings.
 
 ---
 
-Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). MPLADS utilization: 14.6%. Parliament attendance: 45.0%. Debates participated: 2. Low confidence data: Assets. 1 warning(s) noted.
+Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Declared assets: Rs 3,428,668,000. MPLADS utilization: 14.6%. Parliament attendance: 45.0%. Debates participated: 2.
 
 ---
 

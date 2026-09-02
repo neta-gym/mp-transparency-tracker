@@ -4,16 +4,16 @@
 **Party:** Jammu and Kashmir National Conference
 **House:** Lok Sabha (18th Parliament, 2024-present)
 **Report Date:** 2026-09-02
-**Data Confidence:** Low (44%) | **Evidence Grade:** Secondary (D)
+**Data Confidence:** Medium (56%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 51.1 / 100
+## Composite Transparency Score: 51.8 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 10.3 | 25% |
-| Asset Growth | 45.0 | 15% |
+| Asset Growth | 50.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 60.0 | 10% |
 | Questions & Debates | 40.0 | 10% |
@@ -36,13 +36,14 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 20.93 Crore
+- **Liabilities:** Rs 0
+- **Net Worth:** Rs 20.93 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 73% of Lok Sabha MPs
 
 ---
 
@@ -105,7 +106,6 @@
 
 ## Data Validation Flags
 
-- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
@@ -115,11 +115,11 @@
 
 ## Qualitative Assessment
 
-Mian Altaf Ahmad shows moderate transparency with a score of 51.1/100. No criminal cases declared. Low MPLADS fund utilization needs attention.
+Mian Altaf Ahmad shows moderate transparency with a score of 51.8/100. No criminal cases declared. Low MPLADS fund utilization needs attention.
 
 ---
 
-No criminal cases declared. MPLADS utilization: 12.9%. Parliament attendance: 60.0%. Questions asked: 4. Debates participated: 6. Low confidence data: Assets. 1 warning(s) noted.
+No criminal cases declared. Declared assets: Rs 209,330,000. MPLADS utilization: 12.9%. Parliament attendance: 60.0%. Questions asked: 4. Debates participated: 6.
 
 ---
 

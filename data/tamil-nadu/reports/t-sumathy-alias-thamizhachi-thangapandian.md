@@ -4,16 +4,16 @@
 **Party:** Dravida Munnetra Kazhagam
 **House:** Lok Sabha (18th Parliament, 2024-present)
 **Report Date:** 2026-09-02
-**Data Confidence:** Low (44%) | **Evidence Grade:** Secondary (D)
+**Data Confidence:** Medium (56%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 56.8 / 100
+## Composite Transparency Score: 58.3 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 13.0 | 25% |
-| Asset Growth | 45.0 | 15% |
+| Asset Growth | 55.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 55.0 | 10% |
 | Questions & Debates | 80.0 | 10% |
@@ -36,13 +36,14 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 14.87 Crore
+- **Liabilities:** Rs 1.72 Crore
+- **Net Worth:** Rs 13.15 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 66% of Lok Sabha MPs
 
 ---
 
@@ -114,7 +115,6 @@
 
 ## Data Validation Flags
 
-- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
@@ -124,11 +124,11 @@
 
 ## Qualitative Assessment
 
-T Sumathy Alias Thamizhachi Thangapandian shows moderate transparency with a score of 56.8/100. No criminal cases declared. Low MPLADS fund utilization needs attention. Active in questions and debates.
+T Sumathy Alias Thamizhachi Thangapandian shows moderate transparency with a score of 58.3/100. No criminal cases declared. Low MPLADS fund utilization needs attention. Active in questions and debates.
 
 ---
 
-No criminal cases declared. MPLADS utilization: 16.2%. Parliament attendance: 55.0%. Questions asked: 45. Debates participated: 26. Low confidence data: Assets. 1 warning(s) noted.
+No criminal cases declared. Declared assets: Rs 148,658,298. MPLADS utilization: 16.2%. Parliament attendance: 55.0%. Questions asked: 45. Debates participated: 26.
 
 ---
 

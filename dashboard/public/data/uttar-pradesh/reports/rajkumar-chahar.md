@@ -4,16 +4,16 @@
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
 **Report Date:** 2026-09-02
-**Data Confidence:** Low (39%) | **Evidence Grade:** Secondary (D)
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 60.2 / 100
+## Composite Transparency Score: 62.4 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 62.2 | 25% |
-| Asset Growth | 45.0 | 15% |
+| Asset Growth | 60.0 | 15% |
 | Criminal Record | 80.0 | 15% |
 | Parliament Attendance | 95.0 | 10% |
 | Questions & Debates | 50.0 | 10% |
@@ -41,13 +41,14 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 3.42 Crore
+- **Liabilities:** Rs 19.64 Lakh
+- **Net Worth:** Rs 3.22 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 29% of Lok Sabha MPs
 
 ---
 
@@ -106,7 +107,6 @@
 
 ## Data Validation Flags
 
-- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
@@ -116,11 +116,11 @@
 
 ## Qualitative Assessment
 
-Rajkumar Chahar shows moderate transparency with a score of 60.2/100. Minor criminal cases on record. High parliament attendance.
+Rajkumar Chahar shows moderate transparency with a score of 62.4/100. Minor criminal cases on record. High parliament attendance.
 
 ---
 
-Has 2 criminal case(s) (0 serious), 2 pending, 0 conviction(s). MPLADS utilization: 64.8%. Parliament attendance: 95.0%. Questions asked: 12. Debates participated: 5. Low confidence data: Assets. 1 warning(s) noted.
+Has 2 criminal case(s) (0 serious), 2 pending, 0 conviction(s). Declared assets: Rs 34,176,612. MPLADS utilization: 64.8%. Parliament attendance: 95.0%. Questions asked: 12. Debates participated: 5.
 
 ---
 

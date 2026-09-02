@@ -4,16 +4,16 @@
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
 **Report Date:** 2026-09-02
-**Data Confidence:** Low (30%) | **Evidence Grade:** Secondary (D)
+**Data Confidence:** Low (41%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 48.4 / 100
+## Composite Transparency Score: 49.1 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 11.9 | 25% |
-| Asset Growth | 45.0 | 15% |
+| Asset Growth | 50.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 50.0 | 10% |
 | Questions & Debates | 50.0 | 10% |
@@ -36,13 +36,14 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 7.95 Crore
+- **Liabilities:** Rs 0
+- **Net Worth:** Rs 7.95 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 52% of Lok Sabha MPs
 
 ---
 
@@ -93,7 +94,6 @@
 
 ## Data Validation Flags
 
-- [!] **assets**: Low confidence in asset data
 - [!] **parliament_activity**: Low confidence in parliament activity data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
@@ -104,11 +104,11 @@
 
 ## Qualitative Assessment
 
-Mansukh Mandaviya has a below-average transparency score of 48.4/100, indicating significant room for improvement. No criminal cases declared. Low MPLADS fund utilization needs attention.
+Mansukh Mandaviya has a below-average transparency score of 49.1/100, indicating significant room for improvement. No criminal cases declared. Low MPLADS fund utilization needs attention.
 
 ---
 
-No criminal cases declared. MPLADS utilization: 14.9%. Low confidence data: Assets, Parliament activity. 2 warning(s) noted.
+No criminal cases declared. Declared assets: Rs 79,504,705. MPLADS utilization: 14.9%. Low confidence data: Parliament activity. 1 warning(s) noted.
 
 ---
 

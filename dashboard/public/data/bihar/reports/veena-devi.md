@@ -4,16 +4,16 @@
 **Party:** Lok Jan Shakti Party (Ram Vilas)
 **House:** Lok Sabha (18th Parliament, 2024-present)
 **Report Date:** 2026-09-02
-**Data Confidence:** Low (39%) | **Evidence Grade:** Secondary (D)
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 56.9 / 100
+## Composite Transparency Score: 57.7 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 60.9 | 25% |
-| Asset Growth | 45.0 | 15% |
+| Asset Growth | 50.0 | 15% |
 | Criminal Record | 70.0 | 15% |
 | Parliament Attendance | 95.0 | 10% |
 | Questions & Debates | 30.0 | 10% |
@@ -42,13 +42,14 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 46.72 Crore
+- **Liabilities:** Rs 16.48 Crore
+- **Net Worth:** Rs 30.24 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 84% of Lok Sabha MPs
 
 ---
 
@@ -99,7 +100,6 @@
 
 ## Data Validation Flags
 
-- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
@@ -109,11 +109,11 @@
 
 ## Qualitative Assessment
 
-Veena Devi shows moderate transparency with a score of 56.9/100. Minor criminal cases on record. High parliament attendance.
+Veena Devi shows moderate transparency with a score of 57.7/100. Minor criminal cases on record. High parliament attendance.
 
 ---
 
-Has 3 criminal case(s) (0 serious), 3 pending, 0 conviction(s). MPLADS utilization: 63.9%. Parliament attendance: 95.0%. Questions asked: 1. Debates participated: 1. Low confidence data: Assets. 1 warning(s) noted.
+Has 3 criminal case(s) (0 serious), 3 pending, 0 conviction(s). Declared assets: Rs 467,170,049. MPLADS utilization: 63.9%. Parliament attendance: 95.0%. Questions asked: 1. Debates participated: 1.
 
 ---
 

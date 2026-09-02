@@ -4,16 +4,16 @@
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
 **Report Date:** 2026-09-02
-**Data Confidence:** Low (44%) | **Evidence Grade:** Secondary (D)
+**Data Confidence:** Medium (56%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 52.3 / 100
+## Composite Transparency Score: 53.1 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 2.8 | 25% |
-| Asset Growth | 45.0 | 15% |
+| Asset Growth | 50.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 85.0 | 10% |
 | Questions & Debates | 30.0 | 10% |
@@ -36,13 +36,14 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 4.56 Crore
+- **Liabilities:** Rs 0
+- **Net Worth:** Rs 4.56 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 36% of Lok Sabha MPs
 
 ---
 
@@ -105,7 +106,6 @@
 
 ## Data Validation Flags
 
-- [!] **assets**: Low confidence in asset data
 - [!] **mplads**: Extremely low utilization rate — verify data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
@@ -116,11 +116,11 @@
 
 ## Qualitative Assessment
 
-Rabindra Narayan Behera shows moderate transparency with a score of 52.3/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
+Rabindra Narayan Behera shows moderate transparency with a score of 53.1/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
 
 ---
 
-No criminal cases declared. MPLADS utilization: 3.5%. Parliament attendance: 85.0%. Questions asked: 3. Debates participated: 3. Low confidence data: Assets. 2 warning(s) noted.
+No criminal cases declared. Declared assets: Rs 45,567,092. MPLADS utilization: 3.5%. Parliament attendance: 85.0%. Questions asked: 3. Debates participated: 3. 1 warning(s) noted.
 
 ---
 

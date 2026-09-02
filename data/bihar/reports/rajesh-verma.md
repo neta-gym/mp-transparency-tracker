@@ -4,16 +4,16 @@
 **Party:** Lok Jan Shakti Party (Ram Vilas)
 **House:** Lok Sabha (18th Parliament, 2024-present)
 **Report Date:** 2026-09-02
-**Data Confidence:** Low (39%) | **Evidence Grade:** Secondary (D)
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 40.0 / 100
+## Composite Transparency Score: 40.7 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 39.8 | 25% |
-| Asset Growth | 45.0 | 15% |
+| Asset Growth | 50.0 | 15% |
 | Criminal Record | 0.0 | 15% |
 | Parliament Attendance | 70.0 | 10% |
 | Questions & Debates | 80.0 | 10% |
@@ -51,13 +51,14 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 5.39 Crore
+- **Liabilities:** Rs 4.07 Crore
+- **Net Worth:** Rs 1.31 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 42% of Lok Sabha MPs
 
 ---
 
@@ -108,7 +109,6 @@
 
 ## Data Validation Flags
 
-- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
@@ -118,11 +118,11 @@
 
 ## Qualitative Assessment
 
-Rajesh Verma has a below-average transparency score of 40.0/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. Active in questions and debates.
+Rajesh Verma has a below-average transparency score of 40.7/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. Active in questions and debates.
 
 ---
 
-Has 12 criminal case(s) (0 serious), 12 pending, 0 conviction(s). MPLADS utilization: 49.8%. Parliament attendance: 70.0%. Questions asked: 52. Debates participated: 9. Low confidence data: Assets. 1 warning(s) noted.
+Has 12 criminal case(s) (0 serious), 12 pending, 0 conviction(s). Declared assets: Rs 53,894,412. MPLADS utilization: 49.8%. Parliament attendance: 70.0%. Questions asked: 52. Debates participated: 9.
 
 ---
 

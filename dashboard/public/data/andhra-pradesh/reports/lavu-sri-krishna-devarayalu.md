@@ -4,16 +4,16 @@
 **Party:** Telugu Desam Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
 **Report Date:** 2026-09-02
-**Data Confidence:** Low (44%) | **Evidence Grade:** Secondary (D)
+**Data Confidence:** Medium (56%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 55.7 / 100
+## Composite Transparency Score: 57.2 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 1.1 | 25% |
-| Asset Growth | 45.0 | 15% |
+| Asset Growth | 55.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 90.0 | 10% |
 | Questions & Debates | 70.0 | 10% |
@@ -36,13 +36,14 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 6.59 Crore
+- **Immovable Assets:** Rs 50.07 Crore
+- **Total Assets:** Rs 56.65 Crore
+- **Liabilities:** Rs 6.81 Crore
+- **Net Worth:** Rs 49.85 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 87% of Lok Sabha MPs
 
 ---
 
@@ -104,7 +105,6 @@
 
 ## Data Validation Flags
 
-- [!] **assets**: Low confidence in asset data
 - [!] **mplads**: Extremely low utilization rate — verify data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
@@ -115,11 +115,11 @@
 
 ## Qualitative Assessment
 
-Lavu Sri Krishna Devarayalu shows moderate transparency with a score of 55.7/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Lavu Sri Krishna Devarayalu shows moderate transparency with a score of 57.2/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-No criminal cases declared. MPLADS utilization: 1.4%. Parliament attendance: 90.0%. Questions asked: 37. Debates participated: 9. Low confidence data: Assets. 2 warning(s) noted.
+No criminal cases declared. Declared assets: Rs 566,548,466. MPLADS utilization: 1.4%. Parliament attendance: 90.0%. Questions asked: 37. Debates participated: 9. 1 warning(s) noted.
 
 ---
 

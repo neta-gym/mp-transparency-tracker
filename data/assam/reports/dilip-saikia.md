@@ -4,16 +4,16 @@
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
 **Report Date:** 2026-09-02
-**Data Confidence:** Low (37%) | **Evidence Grade:** Secondary (D)
+**Data Confidence:** Low (49%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 59.5 / 100
+## Composite Transparency Score: 61.0 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 10.1 | 25% |
-| Asset Growth | 45.0 | 15% |
+| Asset Growth | 55.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 100.0 | 10% |
 | Questions & Debates | 90.0 | 10% |
@@ -36,13 +36,14 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 2.64 Crore
+- **Liabilities:** Rs 37.30 Lakh
+- **Net Worth:** Rs 2.27 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 23% of Lok Sabha MPs
 
 ---
 
@@ -93,7 +94,6 @@
 
 ## Data Validation Flags
 
-- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
@@ -103,11 +103,11 @@
 
 ## Qualitative Assessment
 
-Dilip Saikia shows moderate transparency with a score of 59.5/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Dilip Saikia shows moderate transparency with a score of 61.0/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-No criminal cases declared. MPLADS utilization: 12.7%. Parliament attendance: 100.0%. Questions asked: 63. Debates participated: 19. Low confidence data: Assets. 1 warning(s) noted.
+No criminal cases declared. Declared assets: Rs 26,442,931. MPLADS utilization: 12.7%. Parliament attendance: 100.0%. Questions asked: 63. Debates participated: 19.
 
 ---
 

@@ -4,16 +4,16 @@
 **Party:** Rashtriya Janata Dal
 **House:** Lok Sabha (18th Parliament, 2024-present)
 **Report Date:** 2026-09-02
-**Data Confidence:** Low (27%) | **Evidence Grade:** Secondary (D)
+**Data Confidence:** Low (39%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 38.5 / 100
+## Composite Transparency Score: 40.0 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 35.0 | 25% |
-| Asset Growth | 45.0 | 15% |
+| Asset Growth | 55.0 | 15% |
 | Criminal Record | 45.0 | 15% |
 | Parliament Attendance | 60.0 | 10% |
 | Questions & Debates | 0.0 | 10% |
@@ -36,13 +36,14 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 10.26 Crore
+- **Liabilities:** Rs 1.15 Crore
+- **Net Worth:** Rs 9.12 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 59% of Lok Sabha MPs
 
 ---
 
@@ -94,7 +95,6 @@
 ## Data Validation Flags
 
 - [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
@@ -104,11 +104,11 @@
 
 ## Qualitative Assessment
 
-Misha Bharti has a below-average transparency score of 38.5/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. Limited participation in parliamentary proceedings. Data confidence is low — scores should be interpreted with caution.
+Misha Bharti has a below-average transparency score of 40.0/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. Limited participation in parliamentary proceedings.
 
 ---
 
-No criminal cases declared. Parliament attendance: 60.0%. Low confidence data: Criminal record, Assets. 2 warning(s) noted.
+No criminal cases declared. Declared assets: Rs 102,619,562. Parliament attendance: 60.0%. Low confidence data: Criminal record. 1 warning(s) noted.
 
 ---
 

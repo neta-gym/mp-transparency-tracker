@@ -4,16 +4,16 @@
 **Party:** Samajwadi Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
 **Report Date:** 2026-09-02
-**Data Confidence:** Low (46%) | **Evidence Grade:** Secondary (D)
+**Data Confidence:** Medium (57%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 37.3 / 100
+## Composite Transparency Score: 38.8 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 17.7 | 25% |
-| Asset Growth | 45.0 | 15% |
+| Asset Growth | 55.0 | 15% |
 | Criminal Record | 0.0 | 15% |
 | Parliament Attendance | 85.0 | 10% |
 | Questions & Debates | 40.0 | 10% |
@@ -64,13 +64,14 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 20.01 Crore
+- **Liabilities:** Rs 2.83 Crore
+- **Net Worth:** Rs 17.19 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 72% of Lok Sabha MPs
 
 ---
 
@@ -134,7 +135,6 @@
 
 ## Data Validation Flags
 
-- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
@@ -144,11 +144,11 @@
 
 ## Qualitative Assessment
 
-Babu Singh Kushwaha has a below-average transparency score of 37.3/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance.
+Babu Singh Kushwaha has a below-average transparency score of 38.8/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance.
 
 ---
 
-Has 25 criminal case(s) (18 serious), 25 pending, 0 conviction(s). MPLADS utilization: 22.2%. Parliament attendance: 85.0%. Questions asked: 9. Debates participated: 3. Low confidence data: Assets. 1 warning(s) noted.
+Has 25 criminal case(s) (18 serious), 25 pending, 0 conviction(s). Declared assets: Rs 200,149,000. MPLADS utilization: 22.2%. Parliament attendance: 85.0%. Questions asked: 9. Debates participated: 3.
 
 ---
 

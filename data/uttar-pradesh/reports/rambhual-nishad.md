@@ -4,16 +4,16 @@
 **Party:** Samajwadi Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
 **Report Date:** 2026-09-02
-**Data Confidence:** Low (39%) | **Evidence Grade:** Secondary (D)
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 37.8 / 100
+## Composite Transparency Score: 40.1 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 41.6 | 25% |
-| Asset Growth | 45.0 | 15% |
+| Asset Growth | 60.0 | 15% |
 | Criminal Record | 0.0 | 15% |
 | Parliament Attendance | 80.0 | 10% |
 | Questions & Debates | 40.0 | 10% |
@@ -47,13 +47,14 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 3.74 Crore
+- **Liabilities:** Rs 3.63 Lakh
+- **Net Worth:** Rs 3.70 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 31% of Lok Sabha MPs
 
 ---
 
@@ -104,7 +105,6 @@
 
 ## Data Validation Flags
 
-- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
@@ -114,11 +114,11 @@
 
 ## Qualitative Assessment
 
-Rambhual Nishad has a below-average transparency score of 37.8/100, indicating significant room for improvement. Significant criminal cases are a concern. High parliament attendance.
+Rambhual Nishad has a below-average transparency score of 40.1/100, indicating significant room for improvement. Significant criminal cases are a concern. High parliament attendance.
 
 ---
 
-Has 8 criminal case(s) (2 serious), 8 pending, 0 conviction(s). MPLADS utilization: 51.1%. Parliament attendance: 80.0%. Questions asked: 9. Debates participated: 1. Low confidence data: Assets. 1 warning(s) noted.
+Has 8 criminal case(s) (2 serious), 8 pending, 0 conviction(s). Declared assets: Rs 37,405,832. MPLADS utilization: 51.1%. Parliament attendance: 80.0%. Questions asked: 9. Debates participated: 1.
 
 ---
 

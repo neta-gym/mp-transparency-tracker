@@ -4,16 +4,16 @@
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
 **Report Date:** 2026-09-02
-**Data Confidence:** Low (39%) | **Evidence Grade:** Secondary (D)
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 41.2 / 100
+## Composite Transparency Score: 43.4 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 3.3 | 25% |
-| Asset Growth | 45.0 | 15% |
+| Asset Growth | 60.0 | 15% |
 | Criminal Record | 20.0 | 15% |
 | Parliament Attendance | 100.0 | 10% |
 | Questions & Debates | 80.0 | 10% |
@@ -46,13 +46,14 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 1.36 Crore
+- **Liabilities:** Rs 2.34 Lakh
+- **Net Worth:** Rs 1.34 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 12% of Lok Sabha MPs
 
 ---
 
@@ -103,7 +104,6 @@
 
 ## Data Validation Flags
 
-- [!] **assets**: Low confidence in asset data
 - [!] **mplads**: Extremely low utilization rate — verify data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
@@ -114,11 +114,11 @@
 
 ## Qualitative Assessment
 
-Khagen Murmu has a below-average transparency score of 41.2/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Khagen Murmu has a below-average transparency score of 43.4/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-Has 7 criminal case(s) (1 serious), 7 pending, 0 conviction(s). MPLADS utilization: 4.1%. Parliament attendance: 100.0%. Questions asked: 59. Debates participated: 12. Low confidence data: Assets. 2 warning(s) noted.
+Has 7 criminal case(s) (1 serious), 7 pending, 0 conviction(s). Declared assets: Rs 13,590,846. MPLADS utilization: 4.1%. Parliament attendance: 100.0%. Questions asked: 59. Debates participated: 12. 1 warning(s) noted.
 
 ---
 

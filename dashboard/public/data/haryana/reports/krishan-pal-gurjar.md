@@ -4,16 +4,16 @@
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
 **Report Date:** 2026-09-02
-**Data Confidence:** Low (30%) | **Evidence Grade:** Secondary (D)
+**Data Confidence:** Low (41%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 47.4 / 100
+## Composite Transparency Score: 49.7 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 7.1 | 25% |
-| Asset Growth | 45.0 | 15% |
+| Asset Growth | 60.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 50.0 | 10% |
 | Questions & Debates | 50.0 | 10% |
@@ -36,13 +36,14 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 62.58 Crore
+- **Liabilities:** Rs 3.98 Crore
+- **Net Worth:** Rs 58.60 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 88% of Lok Sabha MPs
 
 ---
 
@@ -93,7 +94,6 @@
 
 ## Data Validation Flags
 
-- [!] **assets**: Low confidence in asset data
 - [!] **mplads**: Extremely low utilization rate — verify data
 - [!] **parliament_activity**: Low confidence in parliament activity data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
@@ -105,11 +105,11 @@
 
 ## Qualitative Assessment
 
-Krishan Pal Gurjar has a below-average transparency score of 47.4/100, indicating significant room for improvement. No criminal cases declared. Low MPLADS fund utilization needs attention.
+Krishan Pal Gurjar has a below-average transparency score of 49.7/100, indicating significant room for improvement. No criminal cases declared. Low MPLADS fund utilization needs attention.
 
 ---
 
-No criminal cases declared. MPLADS utilization: 8.9%. Low confidence data: Assets, Parliament activity. 3 warning(s) noted.
+No criminal cases declared. Declared assets: Rs 625,815,843. MPLADS utilization: 8.9%. Low confidence data: Parliament activity. 2 warning(s) noted.
 
 ---
 

@@ -4,16 +4,16 @@
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
 **Report Date:** 2026-09-02
-**Data Confidence:** Low (46%) | **Evidence Grade:** Secondary (D)
+**Data Confidence:** Medium (57%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 34.5 / 100
+## Composite Transparency Score: 36.8 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 28.8 | 25% |
-| Asset Growth | 45.0 | 15% |
+| Asset Growth | 60.0 | 15% |
 | Criminal Record | 0.0 | 15% |
 | Parliament Attendance | 45.0 | 10% |
 | Questions & Debates | 50.0 | 10% |
@@ -48,13 +48,14 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 1241.48 Crore
+- **Liabilities:** Rs 7.37 Crore
+- **Net Worth:** Rs 1234.11 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 99% of Lok Sabha MPs
 
 ---
 
@@ -118,7 +119,6 @@
 
 ## Data Validation Flags
 
-- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
@@ -128,11 +128,11 @@
 
 ## Qualitative Assessment
 
-Naveen Jindal has a below-average transparency score of 34.5/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention.
+Naveen Jindal has a below-average transparency score of 36.8/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention.
 
 ---
 
-Has 9 criminal case(s) (4 serious), 9 pending, 0 conviction(s). MPLADS utilization: 36.0%. Parliament attendance: 45.0%. Questions asked: 15. Debates participated: 3. Low confidence data: Assets. 1 warning(s) noted.
+Has 9 criminal case(s) (4 serious), 9 pending, 0 conviction(s). Declared assets: Rs 12,414,768,000. MPLADS utilization: 36.0%. Parliament attendance: 45.0%. Questions asked: 15. Debates participated: 3.
 
 ---
 

@@ -4,16 +4,16 @@
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
 **Report Date:** 2026-09-02
-**Data Confidence:** Low (46%) | **Evidence Grade:** Secondary (D)
+**Data Confidence:** Medium (57%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 57.7 / 100
+## Composite Transparency Score: 59.2 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 58.7 | 25% |
-| Asset Growth | 45.0 | 15% |
+| Asset Growth | 55.0 | 15% |
 | Criminal Record | 70.0 | 15% |
 | Parliament Attendance | 100.0 | 10% |
 | Questions & Debates | 20.0 | 10% |
@@ -41,13 +41,14 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 88.89 Lakh
+- **Immovable Assets:** Rs 3.99 Crore
+- **Total Assets:** Rs 4.88 Crore
+- **Liabilities:** Rs 70.44 Lakh
+- **Net Worth:** Rs 4.17 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 38% of Lok Sabha MPs
 
 ---
 
@@ -109,7 +110,6 @@
 
 ## Data Validation Flags
 
-- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
@@ -119,11 +119,11 @@
 
 ## Qualitative Assessment
 
-Chhatrapal Singh Gangwar shows moderate transparency with a score of 57.7/100. Minor criminal cases on record. High parliament attendance. Limited participation in parliamentary proceedings.
+Chhatrapal Singh Gangwar shows moderate transparency with a score of 59.2/100. Minor criminal cases on record. High parliament attendance. Limited participation in parliamentary proceedings.
 
 ---
 
-Has 2 criminal case(s) (1 serious), 2 pending, 0 conviction(s). MPLADS utilization: 62.4%. Parliament attendance: 100.0%. Debates participated: 1. Low confidence data: Assets. 1 warning(s) noted.
+Has 2 criminal case(s) (1 serious), 2 pending, 0 conviction(s). Declared assets: Rs 48,788,862. MPLADS utilization: 62.4%. Parliament attendance: 100.0%. Debates participated: 1.
 
 ---
 

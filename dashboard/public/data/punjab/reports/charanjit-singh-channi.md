@@ -4,16 +4,16 @@
 **Party:** Indian National Congress
 **House:** Lok Sabha (18th Parliament, 2024-present)
 **Report Date:** 2026-09-02
-**Data Confidence:** Low (44%) | **Evidence Grade:** Secondary (D)
+**Data Confidence:** Medium (56%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 48.4 / 100
+## Composite Transparency Score: 50.6 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 13.1 | 25% |
-| Asset Growth | 45.0 | 15% |
+| Asset Growth | 60.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 25.0 | 10% |
 | Questions & Debates | 60.0 | 10% |
@@ -36,13 +36,14 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 10.21 Crore
+- **Liabilities:** Rs 41.40 Lakh
+- **Net Worth:** Rs 9.80 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 58% of Lok Sabha MPs
 
 ---
 
@@ -105,7 +106,6 @@
 
 ## Data Validation Flags
 
-- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
@@ -115,11 +115,11 @@
 
 ## Qualitative Assessment
 
-Charanjit Singh Channi has a below-average transparency score of 48.4/100, indicating significant room for improvement. No criminal cases declared. Low MPLADS fund utilization needs attention. Low parliament attendance is notable. Active in questions and debates.
+Charanjit Singh Channi shows moderate transparency with a score of 50.6/100. No criminal cases declared. Low MPLADS fund utilization needs attention. Low parliament attendance is notable. Active in questions and debates.
 
 ---
 
-No criminal cases declared. MPLADS utilization: 16.3%. Parliament attendance: 25.0%. Questions asked: 35. Debates participated: 1. Low confidence data: Assets. 1 warning(s) noted.
+No criminal cases declared. Declared assets: Rs 102,119,804. MPLADS utilization: 16.3%. Parliament attendance: 25.0%. Questions asked: 35. Debates participated: 1.
 
 ---
 

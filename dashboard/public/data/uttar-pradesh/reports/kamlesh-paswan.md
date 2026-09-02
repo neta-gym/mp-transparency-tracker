@@ -4,16 +4,16 @@
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
 **Report Date:** 2026-09-02
-**Data Confidence:** Low (39%) | **Evidence Grade:** Secondary (D)
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 27.8 / 100
+## Composite Transparency Score: 30.1 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 1.7 | 25% |
-| Asset Growth | 45.0 | 15% |
+| Asset Growth | 60.0 | 15% |
 | Criminal Record | 0.0 | 15% |
 | Parliament Attendance | 50.0 | 10% |
 | Questions & Debates | 50.0 | 10% |
@@ -50,11 +50,12 @@
 
 - **Movable Assets:** N/A
 - **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Total Assets:** Rs 36.18 Crore
+- **Liabilities:** Rs 3.53 Crore
+- **Net Worth:** Rs 32.65 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 80% of Lok Sabha MPs
 
 ---
 
@@ -116,7 +117,6 @@
 
 ## Data Validation Flags
 
-- [!] **assets**: Low confidence in asset data
 - [!] **mplads**: Extremely low utilization rate — verify data
 - [!] **parliament_activity**: Low confidence in parliament activity data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
@@ -128,11 +128,11 @@
 
 ## Qualitative Assessment
 
-Kamlesh Paswan has a below-average transparency score of 27.8/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention.
+Kamlesh Paswan has a below-average transparency score of 30.1/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention.
 
 ---
 
-Has 9 criminal case(s) (4 serious), 7 pending, 2 conviction(s). MPLADS utilization: 2.2%. Low confidence data: Assets, Parliament activity. 3 warning(s) noted.
+Has 9 criminal case(s) (4 serious), 7 pending, 2 conviction(s). Declared assets: Rs 361,830,259. MPLADS utilization: 2.2%. Low confidence data: Parliament activity. 2 warning(s) noted.
 
 ---
 

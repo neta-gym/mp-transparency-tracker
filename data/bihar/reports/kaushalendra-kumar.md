@@ -4,16 +4,16 @@
 **Party:** Janata Dal (United)
 **House:** Lok Sabha (18th Parliament, 2024-present)
 **Report Date:** 2026-09-02
-**Data Confidence:** Low (27%) | **Evidence Grade:** Secondary (D)
+**Data Confidence:** Low (39%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 48.4 / 100
+## Composite Transparency Score: 49.9 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 19.5 | 25% |
-| Asset Growth | 45.0 | 15% |
+| Asset Growth | 55.0 | 15% |
 | Criminal Record | 45.0 | 15% |
 | Parliament Attendance | 100.0 | 10% |
 | Questions & Debates | 70.0 | 10% |
@@ -36,13 +36,14 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 4.25 Crore
+- **Liabilities:** Rs 73.47 Lakh
+- **Net Worth:** Rs 3.51 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 34% of Lok Sabha MPs
 
 ---
 
@@ -94,7 +95,6 @@
 ## Data Validation Flags
 
 - [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
@@ -104,11 +104,11 @@
 
 ## Qualitative Assessment
 
-Kaushalendra Kumar has a below-average transparency score of 48.4/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates. Data confidence is low — scores should be interpreted with caution.
+Kaushalendra Kumar has a below-average transparency score of 49.9/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-No criminal cases declared. MPLADS utilization: 24.4%. Parliament attendance: 100.0%. Questions asked: 41. Debates participated: 10. Low confidence data: Criminal record, Assets. 2 warning(s) noted.
+No criminal cases declared. Declared assets: Rs 42,453,773. MPLADS utilization: 24.4%. Parliament attendance: 100.0%. Questions asked: 41. Debates participated: 10. Low confidence data: Criminal record. 1 warning(s) noted.
 
 ---
 

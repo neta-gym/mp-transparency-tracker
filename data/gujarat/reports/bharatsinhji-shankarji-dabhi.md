@@ -4,16 +4,16 @@
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
 **Report Date:** 2026-09-02
-**Data Confidence:** Low (37%) | **Evidence Grade:** Secondary (D)
+**Data Confidence:** Low (49%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 58.6 / 100
+## Composite Transparency Score: 60.8 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 30.4 | 25% |
-| Asset Growth | 45.0 | 15% |
+| Asset Growth | 60.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 100.0 | 10% |
 | Questions & Debates | 40.0 | 10% |
@@ -36,13 +36,14 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 6.84 Crore
+- **Liabilities:** Rs 29.58 Lakh
+- **Net Worth:** Rs 6.55 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 47% of Lok Sabha MPs
 
 ---
 
@@ -93,7 +94,6 @@
 
 ## Data Validation Flags
 
-- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
@@ -103,11 +103,11 @@
 
 ## Qualitative Assessment
 
-Bharatsinhji Shankarji Dabhi shows moderate transparency with a score of 58.6/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
+Bharatsinhji Shankarji Dabhi shows moderate transparency with a score of 60.8/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
 
 ---
 
-No criminal cases declared. MPLADS utilization: 38.0%. Parliament attendance: 100.0%. Questions asked: 8. Debates participated: 3. Low confidence data: Assets. 1 warning(s) noted.
+No criminal cases declared. Declared assets: Rs 68,430,049. MPLADS utilization: 38.0%. Parliament attendance: 100.0%. Questions asked: 8. Debates participated: 3.
 
 ---
 

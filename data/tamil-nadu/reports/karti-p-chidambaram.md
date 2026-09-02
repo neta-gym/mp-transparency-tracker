@@ -4,16 +4,16 @@
 **Party:** Indian National Congress
 **House:** Lok Sabha (18th Parliament, 2024-present)
 **Report Date:** 2026-09-02
-**Data Confidence:** Low (46%) | **Evidence Grade:** Secondary (D)
+**Data Confidence:** Medium (57%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 41.9 / 100
+## Composite Transparency Score: 43.4 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 48.2 | 25% |
-| Asset Growth | 45.0 | 15% |
+| Asset Growth | 55.0 | 15% |
 | Criminal Record | 0.0 | 15% |
 | Parliament Attendance | 75.0 | 10% |
 | Questions & Debates | 50.0 | 10% |
@@ -55,13 +55,14 @@ Sub-Inspector of Police Station, Tiruppathur, Sivagangai Dt. (Sections: 143, 188
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 96.27 Crore
+- **Liabilities:** Rs 23.49 Crore
+- **Net Worth:** Rs 72.79 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 92% of Lok Sabha MPs
 
 ---
 
@@ -124,7 +125,6 @@ Sub-Inspector of Police Station, Tiruppathur, Sivagangai Dt. (Sections: 143, 188
 
 ## Data Validation Flags
 
-- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
@@ -134,11 +134,11 @@ Sub-Inspector of Police Station, Tiruppathur, Sivagangai Dt. (Sections: 143, 188
 
 ## Qualitative Assessment
 
-Karti P Chidambaram has a below-average transparency score of 41.9/100, indicating significant room for improvement. Significant criminal cases are a concern.
+Karti P Chidambaram has a below-average transparency score of 43.4/100, indicating significant room for improvement. Significant criminal cases are a concern.
 
 ---
 
-Has 11 criminal case(s) (4 serious), 11 pending, 0 conviction(s). MPLADS utilization: 55.5%. Parliament attendance: 75.0%. Questions asked: 16. Debates participated: 4. Low confidence data: Assets. 1 warning(s) noted.
+Has 11 criminal case(s) (4 serious), 11 pending, 0 conviction(s). Declared assets: Rs 962,744,048. MPLADS utilization: 55.5%. Parliament attendance: 75.0%. Questions asked: 16. Debates participated: 4.
 
 ---
 

@@ -4,16 +4,16 @@
 **Party:** Communist Party of India (Marxist)
 **House:** Lok Sabha (18th Parliament, 2024-present)
 **Report Date:** 2026-09-02
-**Data Confidence:** Low (46%) | **Evidence Grade:** Secondary (D)
+**Data Confidence:** Medium (57%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 49.3 / 100
+## Composite Transparency Score: 50.0 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 15.2 | 25% |
-| Asset Growth | 45.0 | 15% |
+| Asset Growth | 50.0 | 15% |
 | Criminal Record | 70.0 | 15% |
 | Parliament Attendance | 55.0 | 10% |
 | Questions & Debates | 70.0 | 10% |
@@ -44,11 +44,12 @@
 
 - **Movable Assets:** N/A
 - **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Total Assets:** Rs 2.05 Crore
+- **Liabilities:** Rs 0
+- **Net Worth:** Rs 2.05 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 18% of Lok Sabha MPs
 
 ---
 
@@ -112,7 +113,6 @@
 
 ## Data Validation Flags
 
-- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
@@ -122,11 +122,11 @@
 
 ## Qualitative Assessment
 
-S Venkatesan has a below-average transparency score of 49.3/100, indicating significant room for improvement. Minor criminal cases on record. Low MPLADS fund utilization needs attention. Active in questions and debates.
+S Venkatesan shows moderate transparency with a score of 50.0/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. Active in questions and debates.
 
 ---
 
-Has 3 criminal case(s) (0 serious), 3 pending, 0 conviction(s). MPLADS utilization: 19.0%. Parliament attendance: 55.0%. Questions asked: 44. Debates participated: 5. Low confidence data: Assets. 1 warning(s) noted.
+Has 3 criminal case(s) (0 serious), 3 pending, 0 conviction(s). Declared assets: Rs 20,536,639. MPLADS utilization: 19.0%. Parliament attendance: 55.0%. Questions asked: 44. Debates participated: 5.
 
 ---
 

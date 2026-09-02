@@ -1,6 +1,6 @@
 # MP Transparency Leaderboard — Uttarakhand
 
-*Generated: 2026-09-02 18:41 UTC | Methodology v3.1 | 8 MPs*
+*Generated: 2026-09-02 18:55 UTC | Methodology v3.1 | 8 MPs*
 
 | Rank | House | MP Name | Constituency | Party | Score | Confidence | Key Finding |
 |------|-------|---------|-------------|-------|-------|------------|-------------|
@@ -10,8 +10,8 @@
 | 4 | LS | Ajay Bhatt | Nainital-Udhamsingh Nagar | Bharatiya Janata Party | 64.5 | 65% | Clean record, Low fund utilization, High attendance |
 | 5 | LS | Ajay Tamta | Almora | Bharatiya Janata Party | 55.8 | 56% | Clean record, Low fund utilization |
 | 6 | LS | Anil Baluni | Garhwal | Bharatiya Janata Party | 55.1 | 65% | Clean record, Low fund utilization, High attendance |
-| 7 | LS | Trivendra Singh Rawat | Hardwar | Bharatiya Janata Party | 52.1 | 42% | Clean record, Low fund utilization, High attendance |
-| 8 | LS | Mala Rajya Laxmi Shah | Tehri Garhwal | Bharatiya Janata Party | 43.6 | 34% | Significant criminal cases, Low fund utilization, High attendance |
+| 7 | LS | Trivendra Singh Rawat | Hardwar | Bharatiya Janata Party | 53.6 | 51% | Clean record, Low fund utilization, High attendance |
+| 8 | LS | Mala Rajya Laxmi Shah | Tehri Garhwal | Bharatiya Janata Party | 45.9 | 43% | Significant criminal cases, Low fund utilization, High attendance |
 
 ### Score Breakdown
 
@@ -23,5 +23,5 @@
 | 4 | Ajay Bhatt | LS | 19 | 85 | 100 | 85 | 50 | 40 | 85 | 40 |
 | 5 | Ajay Tamta | LS | 1 | 85 | 100 | 50 | 50 | 40 | 85 | 40 |
 | 6 | Anil Baluni | LS | 1 | 50 | 100 | 95 | 30 | 40 | 85 | 40 |
-| 7 | Trivendra Singh Rawat | LS | 2 | 45 | 100 | 95 | 40 | 40 | 15 | 40 |
-| 8 | Mala Rajya Laxmi Shah | LS | 23 | 45 | 45 | 90 | 30 | 40 | 15 | 40 |
+| 7 | Trivendra Singh Rawat | LS | 2 | 55 | 100 | 95 | 40 | 40 | 15 | 40 |
+| 8 | Mala Rajya Laxmi Shah | LS | 23 | 60 | 45 | 90 | 30 | 40 | 15 | 40 |

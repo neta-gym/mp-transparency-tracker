@@ -4,16 +4,16 @@
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
 **Report Date:** 2026-09-02
-**Data Confidence:** Low (39%) | **Evidence Grade:** Secondary (D)
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 55.3 / 100
+## Composite Transparency Score: 56.8 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 48.8 | 25% |
-| Asset Growth | 45.0 | 15% |
+| Asset Growth | 55.0 | 15% |
 | Criminal Record | 80.0 | 15% |
 | Parliament Attendance | 50.0 | 10% |
 | Questions & Debates | 50.0 | 10% |
@@ -41,14 +41,14 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 2.42 Crore
+- **Liabilities:** Rs 32.44 Lakh
+- **Net Worth:** Rs 2.09 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 89% of Lok Sabha MPs
+- **Wealth Percentile:** Wealthier than 93% of Lok Sabha MPs
 
 ---
 
@@ -112,7 +112,6 @@
 
 ## Data Validation Flags
 
-- [!] **assets**: Low confidence in asset data
 - [!] **parliament_activity**: Low confidence in parliament activity data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
@@ -123,11 +122,11 @@
 
 ## Qualitative Assessment
 
-Sanjay Seth shows moderate transparency with a score of 55.3/100. Minor criminal cases on record.
+Sanjay Seth shows moderate transparency with a score of 56.8/100. Minor criminal cases on record.
 
 ---
 
-Has 2 criminal case(s) (0 serious), 2 pending, 0 conviction(s). MPLADS utilization: 55.9%. Low confidence data: Assets, Parliament activity. 2 warning(s) noted.
+Has 2 criminal case(s) (0 serious), 2 pending, 0 conviction(s). Declared assets: Rs 24,152,085. MPLADS utilization: 55.9%. Low confidence data: Parliament activity. 1 warning(s) noted.
 
 ---
 

@@ -4,16 +4,16 @@
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
 **Report Date:** 2026-09-02
-**Data Confidence:** Low (39%) | **Evidence Grade:** Secondary (D)
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 43.9 / 100
+## Composite Transparency Score: 46.2 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 17.1 | 25% |
-| Asset Growth | 45.0 | 15% |
+| Asset Growth | 60.0 | 15% |
 | Criminal Record | 60.0 | 15% |
 | Parliament Attendance | 50.0 | 10% |
 | Questions & Debates | 50.0 | 10% |
@@ -42,13 +42,14 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 14.32 Crore
+- **Liabilities:** Rs 90.00 Lakh
+- **Net Worth:** Rs 13.42 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 65% of Lok Sabha MPs
 
 ---
 
@@ -111,7 +112,6 @@
 
 ## Data Validation Flags
 
-- [!] **assets**: Low confidence in asset data
 - [!] **parliament_activity**: Low confidence in parliament activity data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
@@ -122,11 +122,11 @@
 
 ## Qualitative Assessment
 
-Giriraj Singh has a below-average transparency score of 43.9/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention.
+Giriraj Singh has a below-average transparency score of 46.2/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention.
 
 ---
 
-Has 3 criminal case(s) (1 serious), 3 pending, 0 conviction(s). MPLADS utilization: 21.4%. Low confidence data: Assets, Parliament activity. 2 warning(s) noted.
+Has 3 criminal case(s) (1 serious), 3 pending, 0 conviction(s). Declared assets: Rs 143,169,297. MPLADS utilization: 21.4%. Low confidence data: Parliament activity. 1 warning(s) noted.
 
 ---
 

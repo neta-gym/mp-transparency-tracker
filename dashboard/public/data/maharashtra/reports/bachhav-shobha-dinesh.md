@@ -4,16 +4,16 @@
 **Party:** Indian National Congress
 **House:** Lok Sabha (18th Parliament, 2024-present)
 **Report Date:** 2026-09-02
-**Data Confidence:** Low (46%) | **Evidence Grade:** Secondary (D)
+**Data Confidence:** Medium (57%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 53.9 / 100
+## Composite Transparency Score: 56.2 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 4.5 | 25% |
-| Asset Growth | 45.0 | 15% |
+| Asset Growth | 60.0 | 15% |
 | Criminal Record | 70.0 | 15% |
 | Parliament Attendance | 100.0 | 10% |
 | Questions & Debates | 70.0 | 10% |
@@ -41,13 +41,14 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 30.50 Crore
+- **Liabilities:** Rs 2.12 Crore
+- **Net Worth:** Rs 28.39 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 78% of Lok Sabha MPs
 
 ---
 
@@ -111,7 +112,6 @@
 
 ## Data Validation Flags
 
-- [!] **assets**: Low confidence in asset data
 - [!] **mplads**: Extremely low utilization rate — verify data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
@@ -122,11 +122,11 @@
 
 ## Qualitative Assessment
 
-Bachhav Shobha Dinesh shows moderate transparency with a score of 53.9/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Bachhav Shobha Dinesh shows moderate transparency with a score of 56.2/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-Has 2 criminal case(s) (1 serious), 2 pending, 0 conviction(s). MPLADS utilization: 5.6%. Parliament attendance: 100.0%. Questions asked: 30. Debates participated: 6. Low confidence data: Assets. 2 warning(s) noted.
+Has 2 criminal case(s) (1 serious), 2 pending, 0 conviction(s). Declared assets: Rs 305,035,058. MPLADS utilization: 5.6%. Parliament attendance: 100.0%. Questions asked: 30. Debates participated: 6. 1 warning(s) noted.
 
 ---
 

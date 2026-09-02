@@ -4,16 +4,16 @@
 **Party:** Indian National Congress
 **House:** Lok Sabha (18th Parliament, 2024-present)
 **Report Date:** 2026-09-02
-**Data Confidence:** Low (46%) | **Evidence Grade:** Secondary (D)
+**Data Confidence:** Medium (57%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 44.7 / 100
+## Composite Transparency Score: 46.9 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 14.5 | 25% |
-| Asset Growth | 45.0 | 15% |
+| Asset Growth | 60.0 | 15% |
 | Criminal Record | 30.0 | 15% |
 | Parliament Attendance | 85.0 | 10% |
 | Questions & Debates | 70.0 | 10% |
@@ -50,13 +50,14 @@ Kottarakkara | Section 38/52 of KP Act. (Sections: 143, 147, 149, 188, 283) [pen
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 1.53 Crore
+- **Liabilities:** Rs 8.81 Lakh
+- **Net Worth:** Rs 1.44 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 13% of Lok Sabha MPs
 
 ---
 
@@ -119,7 +120,6 @@ Kottarakkara | Section 38/52 of KP Act. (Sections: 143, 147, 149, 188, 283) [pen
 
 ## Data Validation Flags
 
-- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
@@ -129,11 +129,11 @@ Kottarakkara | Section 38/52 of KP Act. (Sections: 143, 147, 149, 188, 283) [pen
 
 ## Qualitative Assessment
 
-Kodikunnil Suresh has a below-average transparency score of 44.7/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Kodikunnil Suresh has a below-average transparency score of 46.9/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-Has 6 criminal case(s) (1 serious), 6 pending, 0 conviction(s). MPLADS utilization: 18.2%. Parliament attendance: 85.0%. Questions asked: 44. Debates participated: 14. Low confidence data: Assets. 1 warning(s) noted.
+Has 6 criminal case(s) (1 serious), 6 pending, 0 conviction(s). Declared assets: Rs 15,312,324. MPLADS utilization: 18.2%. Parliament attendance: 85.0%. Questions asked: 44. Debates participated: 14.
 
 ---
 

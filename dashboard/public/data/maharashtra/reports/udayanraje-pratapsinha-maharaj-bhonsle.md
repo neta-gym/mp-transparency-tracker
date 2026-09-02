@@ -4,16 +4,16 @@
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
 **Report Date:** 2026-09-02
-**Data Confidence:** Low (39%) | **Evidence Grade:** Secondary (D)
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 28.8 / 100
+## Composite Transparency Score: 31.0 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 5.1 | 25% |
-| Asset Growth | 45.0 | 15% |
+| Asset Growth | 60.0 | 15% |
 | Criminal Record | 30.0 | 15% |
 | Parliament Attendance | 55.0 | 10% |
 | Questions & Debates | 0.0 | 10% |
@@ -43,13 +43,14 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 20.56 Crore
+- **Immovable Assets:** Rs 202.57 Crore
+- **Total Assets:** Rs 223.12 Crore
+- **Liabilities:** Rs 2.45 Crore
+- **Net Worth:** Rs 220.68 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 96% of Lok Sabha MPs
 
 ---
 
@@ -100,7 +101,6 @@
 
 ## Data Validation Flags
 
-- [!] **assets**: Low confidence in asset data
 - [!] **mplads**: Extremely low utilization rate — verify data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
@@ -111,11 +111,11 @@
 
 ## Qualitative Assessment
 
-Udayanraje Pratapsinha Maharaj Bhonsle has a below-average transparency score of 28.8/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. Limited participation in parliamentary proceedings.
+Udayanraje Pratapsinha Maharaj Bhonsle has a below-average transparency score of 31.0/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. Limited participation in parliamentary proceedings.
 
 ---
 
-Has 4 criminal case(s) (3 serious), 4 pending, 0 conviction(s). MPLADS utilization: 6.3%. Parliament attendance: 55.0%. Low confidence data: Assets. 2 warning(s) noted.
+Has 4 criminal case(s) (3 serious), 4 pending, 0 conviction(s). Declared assets: Rs 2,231,233,939. MPLADS utilization: 6.3%. Parliament attendance: 55.0%. 1 warning(s) noted.
 
 ---
 

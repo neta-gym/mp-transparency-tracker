@@ -98,18 +98,33 @@
     "assets": {
       "movable_assets": null,
       "immovable_assets": null,
-      "total_assets": null,
-      "liabilities": null,
-      "net_worth": null,
+      "total_assets": 604056590.0,
+      "liabilities": 6060187.0,
+      "net_worth": 597996403.0,
       "previous_total_assets": null,
       "asset_year": null,
       "previous_asset_year": null,
       "source": "myneta",
-      "confidence": 0.0,
-      "sources": [],
+      "confidence": 0.8,
+      "sources": [
+        {
+          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=566",
+          "source_name": "myneta",
+          "grade": "B",
+          "fetched_at": "2026-08-22T20:01:52.356129Z",
+          "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+        },
+        {
+          "url": "https://www.myneta.info",
+          "source_name": "myneta",
+          "grade": "B",
+          "fetched_at": "2026-09-02T18:55:41.346834Z",
+          "notes": "restore note: 2026-09-02 Actions rescore received a non-data page for MyNeta from runner IPs; retained last-known-good affidavit figures (same 2024 affidavit)."
+        }
+      ],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": null,
+      "wealth_percentile": 87.0,
       "growth_ratio": null
     },
     "mplads": {
@@ -250,7 +265,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T18:41:09.559579Z",
+          "fetched_at": "2026-09-02T18:55:41.347783Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -266,7 +281,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T18:41:09.559591Z",
+          "fetched_at": "2026-09-02T18:55:41.347794Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -282,7 +297,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T18:41:09.559596Z",
+          "fetched_at": "2026-09-02T18:55:41.347799Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -298,7 +313,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T18:41:09.559602Z",
+          "fetched_at": "2026-09-02T18:55:41.347804Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -314,7 +329,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T18:41:09.559609Z",
+          "fetched_at": "2026-09-02T18:55:41.347812Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -330,7 +345,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T18:41:09.559615Z",
+          "fetched_at": "2026-09-02T18:55:41.347817Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -346,7 +361,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T18:41:09.559620Z",
+          "fetched_at": "2026-09-02T18:55:41.347823Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -526,14 +541,8 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.46,
+  "overall_confidence": 0.57,
   "flags": [
-    {
-      "field": "assets",
-      "issue": "Low confidence in asset data",
-      "severity": "warning",
-      "suggestion": ""
-    },
     {
       "field": "committees",
       "issue": "No committee data found — Sansad profile may be unavailable",
@@ -559,6 +568,6 @@
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "Has 2 criminal case(s) (1 serious), 2 pending, 0 conviction(s). MPLADS utilization: 22.9%. Parliament attendance: 90.0%. Questions asked: 36. Debates participated: 11. Low confidence data: Assets. 1 warning(s) noted.",
-  "validated_at": "2026-09-02T18:41:09.560387Z"
+  "cross_reference_notes": "Has 2 criminal case(s) (1 serious), 2 pending, 0 conviction(s). Declared assets: Rs 604,056,590. MPLADS utilization: 22.9%. Parliament attendance: 90.0%. Questions asked: 36. Debates participated: 11.",
+  "validated_at": "2026-09-02T18:55:41.348571Z"
 }

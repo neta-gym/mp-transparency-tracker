@@ -4,16 +4,16 @@
 **Party:** Nationalist Congress Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
 **Report Date:** 2026-09-02
-**Data Confidence:** Low (37%) | **Evidence Grade:** Secondary (D)
+**Data Confidence:** Low (49%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 54.4 / 100
+## Composite Transparency Score: 56.7 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 27.2 | 25% |
-| Asset Growth | 45.0 | 15% |
+| Asset Growth | 60.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 70.0 | 10% |
 | Questions & Debates | 50.0 | 10% |
@@ -36,13 +36,14 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 14.58 Crore
+- **Liabilities:** Rs 1.15 Lakh
+- **Net Worth:** Rs 14.57 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 66% of Lok Sabha MPs
 
 ---
 
@@ -93,7 +94,6 @@
 
 ## Data Validation Flags
 
-- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
@@ -103,11 +103,11 @@
 
 ## Qualitative Assessment
 
-Tatkare Sunil Dattatrey shows moderate transparency with a score of 54.4/100. No criminal cases declared. Low MPLADS fund utilization needs attention.
+Tatkare Sunil Dattatrey shows moderate transparency with a score of 56.7/100. No criminal cases declared. Low MPLADS fund utilization needs attention.
 
 ---
 
-No criminal cases declared. MPLADS utilization: 33.9%. Parliament attendance: 70.0%. Questions asked: 25. Debates participated: 3. Low confidence data: Assets. 1 warning(s) noted.
+No criminal cases declared. Declared assets: Rs 145,768,773. MPLADS utilization: 33.9%. Parliament attendance: 70.0%. Questions asked: 25. Debates participated: 3.
 
 ---
 

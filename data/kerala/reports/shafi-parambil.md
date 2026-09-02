@@ -4,16 +4,16 @@
 **Party:** Indian National Congress
 **House:** Lok Sabha (18th Parliament, 2024-present)
 **Report Date:** 2026-09-02
-**Data Confidence:** Low (39%) | **Evidence Grade:** Secondary (D)
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 31.5 / 100
+## Composite Transparency Score: 33.0 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 5.0 | 25% |
-| Asset Growth | 45.0 | 15% |
+| Asset Growth | 55.0 | 15% |
 | Criminal Record | 0.0 | 15% |
 | Parliament Attendance | 60.0 | 10% |
 | Questions & Debates | 70.0 | 10% |
@@ -91,13 +91,14 @@ Cantonment | Sec.117(e) 77B , 39, 121 KP ACT KEDO 2020 4(2)(a), 4(2)(e)  4 (2)(j
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 99.35 Lakh
+- **Liabilities:** Rs 15.00 Lakh
+- **Net Worth:** Rs 84.35 Lakh
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 8% of Lok Sabha MPs
 
 ---
 
@@ -156,7 +157,6 @@ Cantonment | Sec.117(e) 77B , 39, 121 KP ACT KEDO 2020 4(2)(a), 4(2)(e)  4 (2)(j
 
 ## Data Validation Flags
 
-- [!] **assets**: Low confidence in asset data
 - [!] **mplads**: Extremely low utilization rate — verify data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
@@ -167,11 +167,11 @@ Cantonment | Sec.117(e) 77B , 39, 121 KP ACT KEDO 2020 4(2)(a), 4(2)(e)  4 (2)(j
 
 ## Qualitative Assessment
 
-Shafi Parambil has a below-average transparency score of 31.5/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. Active in questions and debates.
+Shafi Parambil has a below-average transparency score of 33.0/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. Active in questions and debates.
 
 ---
 
-Has 47 criminal case(s) (2 serious), 39 pending, 8 conviction(s). MPLADS utilization: 6.2%. Parliament attendance: 60.0%. Questions asked: 46. Debates participated: 5. Low confidence data: Assets. 2 warning(s) noted.
+Has 47 criminal case(s) (2 serious), 39 pending, 8 conviction(s). Declared assets: Rs 9,934,524. MPLADS utilization: 6.2%. Parliament attendance: 60.0%. Questions asked: 46. Debates participated: 5. 1 warning(s) noted.
 
 ---
 

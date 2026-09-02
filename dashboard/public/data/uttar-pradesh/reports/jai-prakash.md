@@ -4,16 +4,16 @@
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
 **Report Date:** 2026-09-02
-**Data Confidence:** Low (37%) | **Evidence Grade:** Secondary (D)
+**Data Confidence:** Low (49%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 59.6 / 100
+## Composite Transparency Score: 61.1 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 49.1 | 25% |
-| Asset Growth | 45.0 | 15% |
+| Asset Growth | 55.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 75.0 | 10% |
 | Questions & Debates | 50.0 | 10% |
@@ -38,11 +38,12 @@
 
 - **Movable Assets:** N/A
 - **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Total Assets:** Rs 30.40 Crore
+- **Liabilities:** Rs 5.25 Crore
+- **Net Worth:** Rs 25.15 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 78% of Lok Sabha MPs
 
 ---
 
@@ -93,7 +94,6 @@
 
 ## Data Validation Flags
 
-- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
@@ -103,11 +103,11 @@
 
 ## Qualitative Assessment
 
-Jai Prakash shows moderate transparency with a score of 59.6/100. No criminal cases declared.
+Jai Prakash shows moderate transparency with a score of 61.1/100. No criminal cases declared.
 
 ---
 
-No criminal cases declared. MPLADS utilization: 56.1%. Parliament attendance: 75.0%. Questions asked: 19. Debates participated: 3. Low confidence data: Assets. 1 warning(s) noted.
+No criminal cases declared. Declared assets: Rs 303,974,608. MPLADS utilization: 56.1%. Parliament attendance: 75.0%. Questions asked: 19. Debates participated: 3.
 
 ---
 

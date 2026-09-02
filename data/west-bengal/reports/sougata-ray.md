@@ -4,16 +4,16 @@
 **Party:** All India Trinamool Congress
 **House:** Lok Sabha (18th Parliament, 2024-present)
 **Report Date:** 2026-09-02
-**Data Confidence:** Low (39%) | **Evidence Grade:** Secondary (D)
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 54.0 / 100
+## Composite Transparency Score: 54.8 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 7.6 | 25% |
-| Asset Growth | 45.0 | 15% |
+| Asset Growth | 50.0 | 15% |
 | Criminal Record | 80.0 | 15% |
 | Parliament Attendance | 100.0 | 10% |
 | Questions & Debates | 80.0 | 10% |
@@ -40,13 +40,14 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 5.12 Crore
+- **Liabilities:** Rs 0
+- **Net Worth:** Rs 5.12 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 40% of Lok Sabha MPs
 
 ---
 
@@ -97,7 +98,6 @@
 
 ## Data Validation Flags
 
-- [!] **assets**: Low confidence in asset data
 - [!] **mplads**: Extremely low utilization rate — verify data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
@@ -108,11 +108,11 @@
 
 ## Qualitative Assessment
 
-Sougata Ray shows moderate transparency with a score of 54.0/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Sougata Ray shows moderate transparency with a score of 54.8/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-Has 1 criminal case(s) (1 serious), 1 pending, 0 conviction(s). MPLADS utilization: 9.5%. Parliament attendance: 100.0%. Questions asked: 48. Debates participated: 20. Low confidence data: Assets. 2 warning(s) noted.
+Has 1 criminal case(s) (1 serious), 1 pending, 0 conviction(s). Declared assets: Rs 51,230,026. MPLADS utilization: 9.5%. Parliament attendance: 100.0%. Questions asked: 48. Debates participated: 20. 1 warning(s) noted.
 
 ---
 

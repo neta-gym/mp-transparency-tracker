@@ -4,16 +4,16 @@
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
 **Report Date:** 2026-09-02
-**Data Confidence:** Low (20%) | **Evidence Grade:** Secondary (D)
+**Data Confidence:** Low (31%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 47.0 / 100
+## Composite Transparency Score: 49.2 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 60.0 | 25% |
-| Asset Growth | 45.0 | 15% |
+| Asset Growth | 60.0 | 15% |
 | Criminal Record | 45.0 | 15% |
 | Parliament Attendance | 50.0 | 10% |
 | Questions & Debates | 50.0 | 10% |
@@ -36,13 +36,14 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 41.90 Crore
+- **Liabilities:** Rs 3.82 Crore
+- **Net Worth:** Rs 38.08 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 82% of Lok Sabha MPs
 
 ---
 
@@ -94,7 +95,6 @@
 ## Data Validation Flags
 
 - [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
 - [!] **parliament_activity**: Low confidence in parliament activity data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
@@ -105,11 +105,11 @@
 
 ## Qualitative Assessment
 
-Pankaj Choudhary has a below-average transparency score of 47.0/100, indicating significant room for improvement. Significant criminal cases are a concern. Data confidence is low — scores should be interpreted with caution.
+Pankaj Choudhary has a below-average transparency score of 49.2/100, indicating significant room for improvement. Significant criminal cases are a concern.
 
 ---
 
-No criminal cases declared. MPLADS utilization: 63.3%. Low confidence data: Criminal record, Assets, Parliament activity. 3 warning(s) noted.
+No criminal cases declared. Declared assets: Rs 419,010,509. MPLADS utilization: 63.3%. Low confidence data: Criminal record, Parliament activity. 2 warning(s) noted.
 
 ---
 

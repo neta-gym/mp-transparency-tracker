@@ -4,16 +4,16 @@
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
 **Report Date:** 2026-09-02
-**Data Confidence:** Low (44%) | **Evidence Grade:** Secondary (D)
+**Data Confidence:** Medium (56%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 55.9 / 100
+## Composite Transparency Score: 58.1 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 3.2 | 25% |
-| Asset Growth | 45.0 | 15% |
+| Asset Growth | 60.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 75.0 | 10% |
 | Questions & Debates | 80.0 | 10% |
@@ -36,13 +36,14 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 1.94 Crore
+- **Liabilities:** Rs 56,196
+- **Net Worth:** Rs 1.93 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 16% of Lok Sabha MPs
 
 ---
 
@@ -105,7 +106,6 @@
 
 ## Data Validation Flags
 
-- [!] **assets**: Low confidence in asset data
 - [!] **mplads**: Extremely low utilization rate — verify data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
@@ -116,11 +116,11 @@
 
 ## Qualitative Assessment
 
-Jayanta Kumar Roy shows moderate transparency with a score of 55.9/100. No criminal cases declared. Low MPLADS fund utilization needs attention. Active in questions and debates.
+Jayanta Kumar Roy shows moderate transparency with a score of 58.1/100. No criminal cases declared. Low MPLADS fund utilization needs attention. Active in questions and debates.
 
 ---
 
-No criminal cases declared. MPLADS utilization: 4.0%. Parliament attendance: 75.0%. Questions asked: 53. Debates participated: 5. Low confidence data: Assets. 2 warning(s) noted.
+No criminal cases declared. Declared assets: Rs 19,356,558. MPLADS utilization: 4.0%. Parliament attendance: 75.0%. Questions asked: 53. Debates participated: 5. 1 warning(s) noted.
 
 ---
 

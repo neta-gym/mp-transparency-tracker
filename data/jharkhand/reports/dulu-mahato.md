@@ -4,16 +4,16 @@
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
 **Report Date:** 2026-09-02
-**Data Confidence:** Low (34%) | **Evidence Grade:** Secondary (D)
+**Data Confidence:** Low (46%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 50.9 / 100
+## Composite Transparency Score: 50.2 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 22.1 | 25% |
-| Asset Growth | 45.0 | 15% |
+| Asset Growth | 40.0 | 15% |
 | Criminal Record | 45.0 | 15% |
 | Parliament Attendance | 90.0 | 10% |
 | Questions & Debates | 70.0 | 10% |
@@ -36,13 +36,14 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 7.01 Crore
+- **Liabilities:** Rs 17.23 Crore
+- **Net Worth:** Rs -102,163,334
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 48% of Lok Sabha MPs
 
 ---
 
@@ -107,7 +108,6 @@
 ## Data Validation Flags
 
 - [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
-- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
@@ -117,11 +117,11 @@
 
 ## Qualitative Assessment
 
-Dulu Mahato shows moderate transparency with a score of 50.9/100. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Dulu Mahato shows moderate transparency with a score of 50.2/100. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-No criminal cases declared. MPLADS utilization: 27.6%. Parliament attendance: 90.0%. Questions asked: 34. Debates participated: 10. Low confidence data: Criminal record, Assets. 2 warning(s) noted.
+No criminal cases declared. Declared assets: Rs 70,120,183. MPLADS utilization: 27.6%. Parliament attendance: 90.0%. Questions asked: 34. Debates participated: 10. Low confidence data: Criminal record. 1 warning(s) noted.
 
 ---
 

@@ -4,16 +4,16 @@
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
 **Report Date:** 2026-09-02
-**Data Confidence:** Low (39%) | **Evidence Grade:** Secondary (D)
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 47.8 / 100
+## Composite Transparency Score: 49.3 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 13.9 | 25% |
-| Asset Growth | 45.0 | 15% |
+| Asset Growth | 55.0 | 15% |
 | Criminal Record | 60.0 | 15% |
 | Parliament Attendance | 90.0 | 10% |
 | Questions & Debates | 60.0 | 10% |
@@ -45,11 +45,12 @@
 
 - **Movable Assets:** N/A
 - **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Total Assets:** Rs 8.86 Crore
+- **Liabilities:** Rs 1.30 Crore
+- **Net Worth:** Rs 7.56 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 55% of Lok Sabha MPs
 
 ---
 
@@ -100,7 +101,6 @@
 
 ## Data Validation Flags
 
-- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
@@ -110,11 +110,11 @@
 
 ## Qualitative Assessment
 
-Alok Sharma has a below-average transparency score of 47.8/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Alok Sharma has a below-average transparency score of 49.3/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-Has 4 criminal case(s) (0 serious), 4 pending, 0 conviction(s). MPLADS utilization: 17.4%. Parliament attendance: 90.0%. Questions asked: 27. Debates participated: 7. Low confidence data: Assets. 1 warning(s) noted.
+Has 4 criminal case(s) (0 serious), 4 pending, 0 conviction(s). Declared assets: Rs 88,625,237. MPLADS utilization: 17.4%. Parliament attendance: 90.0%. Questions asked: 27. Debates participated: 7.
 
 ---
 

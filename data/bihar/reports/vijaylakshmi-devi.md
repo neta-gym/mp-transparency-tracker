@@ -4,16 +4,16 @@
 **Party:** Janata Dal (United)
 **House:** Lok Sabha (18th Parliament, 2024-present)
 **Report Date:** 2026-09-02
-**Data Confidence:** Low (44%) | **Evidence Grade:** Secondary (D)
+**Data Confidence:** Medium (56%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 65.7 / 100
+## Composite Transparency Score: 67.9 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 58.3 | 25% |
-| Asset Growth | 45.0 | 15% |
+| Asset Growth | 60.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 100.0 | 10% |
 | Questions & Debates | 20.0 | 10% |
@@ -36,13 +36,14 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** N/A
-- **Immovable Assets:** N/A
-- **Total Assets:** N/A
-- **Liabilities:** N/A
-- **Net Worth:** N/A
+- **Movable Assets:** Rs 0
+- **Immovable Assets:** Rs 0
+- **Total Assets:** Rs 4.41 Crore
+- **Liabilities:** Rs 3.60 Lakh
+- **Net Worth:** Rs 4.38 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
+- **Wealth Percentile:** Wealthier than 36% of Lok Sabha MPs
 
 ---
 
@@ -106,7 +107,6 @@
 
 ## Data Validation Flags
 
-- [!] **assets**: Low confidence in asset data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
@@ -116,11 +116,11 @@
 
 ## Qualitative Assessment
 
-Vijaylakshmi Devi shows moderate transparency with a score of 65.7/100. No criminal cases declared. High parliament attendance. Limited participation in parliamentary proceedings.
+Vijaylakshmi Devi shows moderate transparency with a score of 67.9/100. No criminal cases declared. High parliament attendance. Limited participation in parliamentary proceedings.
 
 ---
 
-No criminal cases declared. MPLADS utilization: 62.2%. Parliament attendance: 100.0%. Questions asked: 10. Low confidence data: Assets. 1 warning(s) noted.
+No criminal cases declared. Declared assets: Rs 44,130,032. MPLADS utilization: 62.2%. Parliament attendance: 100.0%. Questions asked: 10.
 
 ---
 
