@@ -32,6 +32,14 @@ MP Transparency Tracker turns that fragmented public information into:
 
 The motive is not to declare a final moral judgment on any MP. The motive is to make public records easier to inspect, compare, verify, and improve.
 
+## Neta Gym Voice (voice agent)
+
+Ask any MP's record by voice, in Hindi or English - attendance, fund
+spending, criminal cases, assets, transparency score. A voice layer over
+this dataset built on the AssemblyAI Voice Agent API; answers are computed
+deterministically from the same public-record JSON the dashboard uses.
+Setup and demo script: [voice/README.md](voice/README.md).
+
 ## Current national snapshot
 
 Generated from `data/national/leaderboard/latest.json`.

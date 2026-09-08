@@ -1,0 +1,81 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Neta Gym Voice</title>
+<style>
+  :root { color-scheme: light; }
+  * { box-sizing: border-box; }
+  body { margin: 0; font-family: system-ui, -apple-system, sans-serif; background: #faf7f2; color: #1a1a1a; }
+  main { max-width: 640px; margin: 0 auto; padding: 48px 20px 80px; }
+  h1 { font-size: 28px; margin: 0 0 4px; }
+  .sub { color: #666; margin: 0 0 24px; }
+  .row { display: flex; gap: 8px; }
+  input { flex: 1; padding: 14px 16px; font-size: 16px; border: 2px solid #e0d8cc; border-radius: 12px; }
+  input:focus { outline: none; border-color: #d4692a; }
+  button { padding: 14px 20px; font-size: 16px; font-weight: 600; border: 0; border-radius: 12px; background: #d4692a; color: #fff; cursor: pointer; }
+  button:disabled { opacity: .5; }
+  #answer { margin-top: 24px; padding: 20px; background: #fff; border: 1px solid #ece4d8; border-radius: 12px; display: none; line-height: 1.5; }
+  .chips { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 20px; }
+  .chip { font-size: 13px; padding: 8px 12px; border-radius: 999px; background: #fff; border: 1px solid #e0d8cc; cursor: pointer; }
+  .talk-link { margin-top: 28px; display: inline-block; color: #d4692a; font-weight: 600; }
+  .foot { margin-top: 40px; font-size: 13px; color: #888; }
+</style>
+</head>
+<body>
+<main>
+  <h1>Neta Gym Voice</h1>
+  <p class="sub">Ask any Indian MP's record - attendance, funds, cases, assets, report card. Hindi ya English.</p>
+  <div class="row">
+    <input id="q" placeholder="Rahul Gandhi ki haziri kaisi hai?" autofocus>
+    <button id="go">Ask</button>
+  </div>
+  <div id="answer"></div>
+  <div class="chips" id="chips"></div>
+  <a class="talk-link" href="/talk">Talk instead &rarr;</a>
+  <p class="foot">Answers come from public records across all 786 MPs, via the
+  <a href="https://neta-gym.github.io/mp-transparency-tracker/">MP Transparency Tracker</a>.
+  Voice by AssemblyAI.</p>
+</main>
+<script>
+const EXAMPLES = [
+  "What is Rahul Gandhi's attendance?",
+  "How much MPLADS money did the Wayanad MP spend?",
+  "criminal cases against the Saran MP",
+  "Compare Rajiv Pratap Rudy vs Mohammad Jawed",
+  "best MPs in Bihar",
+  "net worth of Priyanka Gandhi"
+];
+const chips = document.getElementById('chips');
+for (const e of EXAMPLES) {
+  const c = document.createElement('button');
+  c.className = 'chip'; c.textContent = e;
+  c.onclick = () => { document.getElementById('q').value = e; ask(); };
+  chips.appendChild(c);
+}
+async function ask() {
+  const q = document.getElementById('q').value.trim();
+  if (!q) return;
+  const box = document.getElementById('answer');
+  const btn = document.getElementById('go');
+  btn.disabled = true;
+  box.style.display = 'block';
+  box.textContent = 'Thinking...';
+  try {
+    const res = await fetch('/api/ask', {
+      method: 'POST', headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ question: q })
+    });
+    const data = await res.json();
+    box.textContent = data.answer || 'No answer.';
+  } catch (e) {
+    box.textContent = 'Something went wrong. Try again.';
+  }
+  btn.disabled = false;
+}
+document.getElementById('go').onclick = ask;
+document.getElementById('q').addEventListener('keydown', (e) => { if (e.key === 'Enter') ask(); });
+</script>
+</body>
+</html>
