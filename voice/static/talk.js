@@ -149,6 +149,13 @@ const blobUrl = (code) =>
   URL.createObjectURL(new Blob([code], { type: 'application/javascript' }))
 
 let ws, captureCtx, playbackCtx, playback, mic, callStart, timer
+// Audio is gated until the greeting finishes: the API swallows a turn that
+// starts mid-greeting (barge-in wedges the session), so nothing goes up the
+// wire before the first reply.done.
+let greetingDone = false
+// Mic health: peak PCM level seen and whether any user transcript arrived,
+// so a silent track (in-app browsers that block capture) gets a visible hint.
+let micPeak = 0, heardUser = false, micHintShown = false, micWatchdog = null
 
 // --- microphones ---
 // Labels stay empty until mic permission is granted, so this runs again after
@@ -181,7 +188,7 @@ navigator.mediaDevices?.addEventListener?.('devicechange', listMics)
 $('btn').onclick = () => (ws?.readyState <= 1 ? stop() : start())
 $('log-toggle').onclick = () => {
   const hidden = document.body.classList.toggle('no-side')
-  $('log-toggle').textContent = hidden ? 'Show' : 'Hide'
+  $('log-toggle').textContent = hidden ? 'Debug' : 'Hide'
 }
 
 // --- side pane tabs ---
@@ -224,7 +231,7 @@ async function addWorklet(ctx, code, name) {
 async function start() {
   $('btn').disabled = true
   $('mic').disabled = true
-  setStatus('connecting')
+  setStatus('connecting', 'connecting')
 
   try {
     // The API key never reaches the page; this token expires in 60 seconds.
@@ -266,7 +273,13 @@ async function start() {
 
     // The API takes base64 inside JSON, not binary frames.
     capture.port.onmessage = ({ data }) => {
-      if (!ready || ws.readyState !== 1) return
+      // Peak of this chunk, for the silent-mic watchdog.
+      const s16 = new Int16Array(data)
+      for (let i = 0; i < s16.length; i += 4) {
+        const v = Math.abs(s16[i])
+        if (v > micPeak) micPeak = v
+      }
+      if (!ready || !greetingDone || ws.readyState !== 1) return
       const bytes = new Uint8Array(data)
       let binary = ''
       for (let i = 0; i < bytes.length; i += 0x8000) {
@@ -300,12 +313,12 @@ async function start() {
         case 'input.speech.started':
           // Barge-in: empty the ring buffer so the agent stops mid-word.
           playback?.port.postMessage('stop')
-          setStatus('listening')
+          setStatus('listening', 'listening - ask your question')
           logEvent('down', msg.type)
           break
 
         case 'reply.started':
-          setStatus('speaking')
+          setStatus('speaking', AGENT.name + ' is speaking')
           logEvent('down', msg.type)
           break
 
@@ -319,13 +332,25 @@ async function start() {
         }
 
         case 'reply.done':
-          setStatus('listening')
+          setStatus('listening', 'listening - ask your question')
           if (msg.status === 'interrupted') playback?.port.postMessage('stop')
+          if (!greetingDone) {
+            greetingDone = true
+            // Ten seconds after the greeting with neither a transcript nor any
+            // real mic level means capture is blocked (in-app browsers do this).
+            micWatchdog = setTimeout(() => {
+              if (!heardUser && micPeak < 500 && !micHintShown) {
+                micHintShown = true
+                addLine('tool', "I can't hear you. If you opened this inside WhatsApp or another app, open this page in Safari or Chrome instead and start the call again.")
+              }
+            }, 10000)
+          }
           logEvent('down', msg.type, msg.status)
           break
 
         // text is the full transcript so far, so it replaces.
         case 'transcript.user.delta':
+          heardUser = true
           partial('you', msg.text)
           logEvent('down', msg.type, msg.text)
           break
@@ -404,6 +429,11 @@ function stop() {
 
 function reset() {
   clearInterval(timer)
+  clearTimeout(micWatchdog)
+  greetingDone = false
+  micPeak = 0
+  heardUser = false
+  micHintShown = false
   clearPartials()
   open.forEach((run) => paint(run, true))
   open.clear()
@@ -462,7 +492,7 @@ function transcriptLine(who, text, cls) {
   line.className = 'line ' + who + (cls ? ' ' + cls : '')
   const label = document.createElement('span')
   label.className = 'who'
-  label.textContent = who === 'agent' ? AGENT.name : who
+  label.textContent = who === 'agent' ? AGENT.name : who === 'you' ? 'You' : who
   const body = document.createElement('span')
   body.className = 'said'
   body.textContent = text
