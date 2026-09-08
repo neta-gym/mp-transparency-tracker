@@ -68,8 +68,10 @@ def _strip_fillers(text: str) -> str:
               "has", "have", "his", "her", "their", "a", "an", "kya", "hai",
               "ka", "ki", "ke", "ko", "mere", "hamare", "batao", "bataiye",
               "compare", "versus", "vs", "better", "against", "my", "in", "on",
+              "vote", "votes", "voted", "voting",
               "kaisa", "kaisi", "kitna", "kitni", "kitne", "dikhao", "please"):
         t = re.sub(rf"\b{re.escape(w)}\b", " ", t)
+    t = re.sub(r"(\w+)['\u2019]s\b", r"\1", t)  # possessives: "Rudy's" -> "Rudy"
     t = re.sub(r"\s+", " ", t).strip()
     return t.strip(" ?.!,")
 

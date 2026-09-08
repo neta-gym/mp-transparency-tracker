@@ -47,3 +47,14 @@ def test_assets_and_criminal():
 def test_unknown_gibberish():
     p = parse("flibberty gibbet")
     assert p.intent == "unknown"
+
+
+def test_possessive_name():
+    p = parse("What is Rudy's attendance?")
+    assert p.intent == "attendance"
+    assert p.targets == ["rudy"]
+
+
+def test_vote_phrasing_extracts_name():
+    p = parse("How did Rajeev Chandrasekhar vote?")
+    assert p.targets == ["rajeev chandrasekhar"]
