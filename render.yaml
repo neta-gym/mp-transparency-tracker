@@ -1,0 +1,12 @@
+services:
+  - type: web
+    name: netagym-voice
+    runtime: python
+    plan: free
+    buildCommand: pip install fastapi "uvicorn[standard]" aiohttp pydantic
+    startCommand: PYTHONPATH=. uvicorn voice.server:app --host 0.0.0.0 --port $PORT
+    envVars:
+      - key: ASSEMBLYAI_API_KEY
+        sync: false
+      - key: AGENT_ID
+        sync: false
