@@ -26,7 +26,7 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install -e ".[dev]"
+          pip install -e ".[dev,api]"
 
       - name: Lint
         run: ruff check src/ tests/
