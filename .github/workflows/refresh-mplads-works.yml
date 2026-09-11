@@ -11,6 +11,7 @@ on:
 
 permissions:
   contents: write
+  issues: write
 
 concurrency:
   group: refresh-mplads-works
@@ -46,3 +47,15 @@ jobs:
           fi
           git commit -m "chore(data): MPLADS works refresh $(date -u +%Y-%m-%d)"
           git push
+
+      - name: Open an issue when the refresh fails
+        if: failure()
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+        run: |
+          TITLE="MPLADS works refresh failing - eSAKSHI unreachable from Actions runners"
+          BODY=$(printf 'The scheduled MPLADS works refresh failed: %s\n\nmplads.mospi.gov.in (eSAKSHI) refuses GitHub Actions runner IPs, so the Mon/Thu refresh cannot complete from Actions. Fund figures stay last-known-good until a refresh runs from a non-Actions network (the backfill script works from other datacenter IPs - verified Sep 11, 2026).' "$RUN_URL")
+          if ! gh issue list --state open --search "$TITLE" --json number --jq length | grep -q '^[1-9]'; then
+            gh issue create --title "$TITLE" --body "$BODY"
+          fi

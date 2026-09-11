@@ -622,7 +622,7 @@ class Leaderboard(BaseModel):
 
     state: str
     generated_at: datetime = Field(default_factory=lambda: datetime.now(timezone.utc))
-    methodology_version: str = "3.1"
+    methodology_version: str = "3.2"
     total_mps: int = 0
     entries: list[LeaderboardEntry] = Field(default_factory=list)
 
@@ -631,7 +631,7 @@ class NationalLeaderboard(BaseModel):
     """Aggregated national leaderboard across all states."""
 
     generated_at: datetime = Field(default_factory=lambda: datetime.now(timezone.utc))
-    methodology_version: str = "3.1"
+    methodology_version: str = "3.2"
     total_mps: int = 0
     states_included: list[str] = Field(default_factory=list)
     top_n: int = 50
