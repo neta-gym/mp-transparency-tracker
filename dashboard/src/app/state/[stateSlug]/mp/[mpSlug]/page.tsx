@@ -178,7 +178,7 @@ export default async function MPDetailPage({ params }: PageProps) {
             {/* Info */}
             <div className="flex-1">
               <div className="flex items-center gap-3 mb-1">
-                <h1 className="text-3xl font-bold uppercase text-ink">
+                <h1 className="text-2xl md:text-3xl font-bold uppercase text-ink">
                   {mp.name}
                 </h1>
                 <span

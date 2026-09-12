@@ -9,6 +9,7 @@ export interface SearchResult {
   mpSlug: string;
   compositeScore: number;
   house: string;
+  photoUrl?: string | null;
   dimensionScores?: Record<string, number>;
 }
 

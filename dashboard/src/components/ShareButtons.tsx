@@ -12,23 +12,33 @@ interface ShareButtonsProps {
 }
 
 export function ShareButtons({ mpName, party, constituency, score, url }: ShareButtonsProps) {
-  const [copied, setCopied] = useState(false);
+  const [copiedLink, setCopiedLink] = useState(false);
+  const [copiedSummary, setCopiedSummary] = useState(false);
 
-  const text = `${mpName} (${party}, ${constituency}) scores ${score}/100 on public transparency records - MPLADS funds, attendance, criminal cases, assets. Every one of India's 540 MPs has a public report card:`;
-  const xIntent = `https://x.com/intent/post?text=${encodeURIComponent(text)}&url=${encodeURIComponent(url)}`;
+  const summary = `${mpName} (${party}, ${constituency}) scores ${score}/100 on public transparency records - MPLADS funds, attendance, criminal cases, assets. See the full report card:`;
+  const xIntent = `https://x.com/intent/post?text=${encodeURIComponent(summary)}&url=${encodeURIComponent(url)}`;
+  const waIntent = `https://wa.me/?text=${encodeURIComponent(`${summary} ${url}`)}`;
 
-  const copyLink = async () => {
+  const copy = async (text: string, mark: (v: boolean) => void) => {
     try {
-      await navigator.clipboard.writeText(url);
-      setCopied(true);
-      setTimeout(() => setCopied(false), 2000);
+      await navigator.clipboard.writeText(text);
+      mark(true);
+      setTimeout(() => mark(false), 2000);
     } catch {
       // Clipboard blocked (permissions policy); leave the button state unchanged.
     }
   };
 
   return (
-    <div className="no-print flex gap-2">
+    <div className="no-print flex flex-wrap gap-2">
+      <a
+        href={waIntent}
+        target="_blank"
+        rel="noopener noreferrer"
+        className="border-3 border-ink bg-success text-white shadow-brutal-sm brutal-press hover:brightness-90 px-3 py-1.5 font-bold uppercase text-sm"
+      >
+        WhatsApp
+      </a>
       <a
         href={xIntent}
         target="_blank"
@@ -38,10 +48,16 @@ export function ShareButtons({ mpName, party, constituency, score, url }: ShareB
         Share on X
       </a>
       <button
-        onClick={copyLink}
+        onClick={() => copy(`${summary} ${url}`, setCopiedSummary)}
         className="border-3 border-ink bg-surface shadow-brutal-sm brutal-press hover:bg-highlight px-3 py-1.5 font-bold uppercase text-ink text-sm"
       >
-        {copied ? "Copied!" : "Copy link"}
+        {copiedSummary ? "Copied!" : "Copy summary"}
+      </button>
+      <button
+        onClick={() => copy(url, setCopiedLink)}
+        className="border-3 border-ink bg-surface shadow-brutal-sm brutal-press hover:bg-highlight px-3 py-1.5 font-bold uppercase text-ink text-sm"
+      >
+        {copiedLink ? "Copied!" : "Copy link"}
       </button>
     </div>
   );

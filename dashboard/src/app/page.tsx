@@ -170,7 +170,6 @@ export default function HomePage() {
 	const mpsWithLowAttendance = stats.mpsWithLowAttendance;
 
 	const poorOrCritical = stats.distribution.poor + stats.distribution.critical;
-	const poorPct = Math.round((poorOrCritical / stats.totalMPs) * 100);
 	const avgAttendance = Math.round(stats.dimensions.attendance);
 	const avgParticipation = Math.round(stats.dimensions.participation);
 
@@ -183,72 +182,47 @@ export default function HomePage() {
 
 	return (
 		<div className="space-y-8">
-			{/* ════════════════════ HERO ════════════════════ */}
-			<section className="relative overflow-hidden border-3 border-ink bg-surface p-6 shadow-brutal md:p-8">
+			{/* ════════════════════ HERO: one job — find your MP ════════════════════ */}
+			<section className="relative overflow-hidden border-3 border-ink bg-surface p-6 shadow-brutal md:p-10">
 				<div className="absolute -right-12 -top-12 h-48 w-48 rounded-full bg-danger/20 blur-3xl" />
 				<div className="absolute left-1/3 top-1/2 h-32 w-32 rounded-full bg-warning/15 blur-3xl" />
 
-				<div className="relative z-10">
-					<div className="flex flex-col items-start justify-between gap-6 md:flex-row md:items-center">
-						<div className="max-w-2xl">
-							<div className="mb-3 inline-flex items-center gap-2 border-2 border-danger bg-danger/10 px-2 py-1 text-[10px] font-black uppercase tracking-[0.15em] text-danger shadow-brutal-sm">
-								<span className="animate-pulse">●</span> Investigative Dashboard — {stats.totalMPs} MPs Scored
-							</div>
-							<h1 className="mt-2 text-3xl font-black uppercase tracking-tight text-ink md:text-4xl lg:text-5xl">
-								Your MP Took Your Vote.
-								<span className="block bg-gradient-to-r from-danger via-warning to-danger bg-clip-text text-transparent">
-									Here&apos;s What They Did With It.
-								</span>
-							</h1>
-							<p className="mt-3 max-w-lg text-sm text-text-secondary md:text-base leading-relaxed">
-								You voted for them. You trusted them. Now see what they actually delivered.{" "}
-								<strong className="text-danger">{stats.totalMPs - (stats.distribution.good + stats.distribution.excellent)} out of {stats.totalMPs} MPs scored below 60.</strong>{" "}
-								The average is just {formatScore(stats.avgScore)} — barely passing for elected representatives.
-							</p>
+				<div className="relative z-10 mx-auto max-w-2xl text-center">
+					<div className="mb-4 inline-flex items-center gap-2 border-2 border-danger bg-danger/10 px-2 py-1 text-[10px] font-black uppercase tracking-[0.15em] text-danger shadow-brutal-sm">
+						<span className="animate-pulse">●</span> {stats.totalMPs} MPs Scored
+					</div>
+					<h1 className="text-3xl font-black uppercase tracking-tight text-ink md:text-5xl">
+						What did your MP&nbsp;do
+						<span className="block bg-gradient-to-r from-danger via-warning to-danger bg-clip-text text-transparent">
+							with your vote?
+						</span>
+					</h1>
+					<p className="mx-auto mt-3 max-w-md text-sm text-text-secondary md:text-base leading-relaxed">
+						Every MP scored on public records — funds, attendance, criminal cases, assets.{" "}
+						<strong className="text-danger">
+							{stats.totalMPs - (stats.distribution.good + stats.distribution.excellent)} of {stats.totalMPs} scored below 60.
+						</strong>
+					</p>
 
-						<div className="mt-5 flex flex-wrap items-center gap-3">
-							<Link
-								href="/national"
-								className="border-3 border-ink bg-danger px-4 py-2 text-sm font-black uppercase tracking-wider text-white shadow-brutal-sm brutal-press transition-all hover:-translate-y-0.5 hover:shadow-brutal hover:bg-danger/90"
-							>
-								📊 See The Full Picture
-							</Link>
-							<Link
-								href="/compare"
-								className="border-3 border-ink bg-surface px-4 py-2 text-sm font-black uppercase tracking-wider text-ink shadow-brutal-sm brutal-press transition-all hover:-translate-y-0.5 hover:shadow-brutal hover:bg-highlight"
-							>
-								⚡ Compare Any Two MPs
-							</Link>
-						</div>
+					{/* The single decision on this screen */}
+					<div className="mt-6 text-left">
+						<SearchBar
+							allEntries={allEntries}
+							variant="hero"
+							placeholder="Your MP or constituency…"
+						/>
+					</div>
+					<p className="mt-2 text-xs text-text-muted">
+						Type where you live — Wayanad, Varanasi, South Delhi — and get their report card.
+					</p>
 
-						{/* Constituency lookup: "I am from this district" */}
-						<div className="mt-5 max-w-md">
-							<label className="mb-1 block text-[10px] font-black uppercase tracking-[0.15em] text-text-muted">
-								Find your MP — search your district, constituency or MP name
-							</label>
-							<SearchBar allEntries={allEntries} />
-						</div>
-						</div>
-
-						<div className="flex flex-wrap gap-3">
-							<div className="flex flex-col items-center whitespace-nowrap border-3 border-ink bg-surface px-4 py-3 shadow-brutal-sm">
-								<span className="text-2xl font-mono font-black text-danger">{poorPct}%</span>
-								<span className="text-[10px] font-bold uppercase tracking-wide text-text-muted">Failing MPs</span>
-							</div>
-							<div className="flex flex-col items-center whitespace-nowrap border-3 border-ink bg-surface px-4 py-3 shadow-brutal-sm">
-								<span
-									className="text-2xl font-mono font-black"
-									style={{ color: getScoreColor(stats.avgScore) }}
-								>
-									{formatScore(stats.avgScore)}
-								</span>
-								<span className="text-[10px] font-bold uppercase tracking-wide text-text-muted">Avg Score</span>
-							</div>
-							<div className="flex flex-col items-center whitespace-nowrap border-3 border-ink bg-surface px-4 py-3 shadow-brutal-sm">
-								<span className="text-2xl font-mono font-black text-danger">{stats.distribution.excellent}</span>
-								<span className="text-[10px] font-bold uppercase tracking-wide text-text-muted">Excellent MPs</span>
-							</div>
-						</div>
+					<div className="mt-5 flex flex-wrap items-center justify-center gap-x-6 gap-y-2 text-sm font-bold uppercase tracking-wide">
+						<Link href="/national" className="text-primary underline decoration-2 underline-offset-4 hover:text-danger">
+							National leaderboard
+						</Link>
+						<Link href="/compare" className="text-primary underline decoration-2 underline-offset-4 hover:text-danger">
+							Compare two MPs
+						</Link>
 					</div>
 				</div>
 			</section>

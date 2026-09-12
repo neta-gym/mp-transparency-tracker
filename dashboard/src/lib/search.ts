@@ -28,6 +28,7 @@ export function getAllMPEntries(): SearchResult[] {
         mpSlug: entryToSlug(entry),
         compositeScore: entry.composite_score,
         house: entry.house,
+        photoUrl: entry.photo_url ?? null,
         dimensionScores: {
           mplads_score: entry.mplads_score,
           asset_score: entry.asset_score,
