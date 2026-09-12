@@ -6,7 +6,7 @@
 **Age:** 51
 **Education:** Graduate
 **Profession:** Salary and allowances received as Lok Sabha
-**Report Date:** 2026-09-02
+**Report Date:** 2026-09-12
 **Data Confidence:** Low (49%) | **Evidence Grade:** Third-party (C)
 
 ---
@@ -165,7 +165,7 @@ No criminal cases declared. Declared assets: Rs 12,381,663. MPLADS utilization: 
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 02/09/2026
+Date: 11/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,

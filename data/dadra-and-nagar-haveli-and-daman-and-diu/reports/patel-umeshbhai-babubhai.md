@@ -3,7 +3,7 @@
 **Constituency:** Daman and Diu, Dadra And Nagar Haveli And Daman And Diu
 **Party:** Independent
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-09-02
+**Report Date:** 2026-09-12
 **Data Confidence:** Medium (57%) | **Evidence Grade:** Secondary (D)
 
 ---
@@ -160,7 +160,7 @@ Has 14 criminal case(s) (0 serious), 14 pending, 0 conviction(s). Declared asset
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 02/09/2026
+Date: 11/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,

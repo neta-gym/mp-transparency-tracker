@@ -4,7 +4,7 @@
 **Party:** Biju Janata Dal
 **House:** Rajya Sabha (18th Parliament, 2024-present)
 **Age:** 40
-**Report Date:** 2026-09-02
+**Report Date:** 2026-09-12
 **Data Confidence:** Low (37%) | **Evidence Grade:** LLM/Estimated (E)
 
 ---
@@ -120,7 +120,7 @@ No criminal cases declared. Declared assets: Rs 12,375,280. Low confidence data:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 02/09/2026
+Date: 11/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,

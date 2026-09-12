@@ -3,7 +3,7 @@
 **Constituency:** Gopalganj, Bihar
 **Party:** Janata Dal (United)
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-09-02
+**Report Date:** 2026-09-12
 **Data Confidence:** Low (49%) | **Evidence Grade:** Secondary (D)
 
 ---
@@ -155,7 +155,7 @@ No criminal cases declared. Declared assets: Rs 26,713,230. MPLADS utilization: 
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 02/09/2026
+Date: 11/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,

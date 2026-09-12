@@ -4,7 +4,7 @@
 **Party:** Rashtriya Lok Morcha
 **House:** Rajya Sabha (18th Parliament, 2024-present)
 **Age:** 66
-**Report Date:** 2026-09-02
+**Report Date:** 2026-09-12
 **Data Confidence:** Low (25%) | **Evidence Grade:** LLM/Estimated (E)
 
 ---
@@ -117,7 +117,7 @@ Has 7 criminal case(s) (1 serious), 7 pending, 0 conviction(s). Low confidence d
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 02/09/2026
+Date: 11/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,

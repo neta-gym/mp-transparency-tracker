@@ -4,7 +4,7 @@
 **Party:** Independent & Others
 **House:** Rajya Sabha (18th Parliament, 2024-present)
 **Age:** 73
-**Report Date:** 2026-09-02
+**Report Date:** 2026-09-12
 **Data Confidence:** Medium (50%) | **Evidence Grade:** LLM/Estimated (E)
 
 ---
@@ -116,7 +116,7 @@ No criminal cases declared. Declared assets: Rs 6,086,076,970. Parliament attend
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 02/09/2026
+Date: 11/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,

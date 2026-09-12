@@ -44,26 +44,26 @@ Setup and demo script: [voice/README.md](voice/README.md).
 
 Generated from `data/national/leaderboard/latest.json`.
 
-- MPs scored: 540
-- States/UTs covered: 36 / 36
-- Average national score: 53.4 / 100
-- Highest current score: 71.6 / 100
-- Snapshot timestamp: 2026-08-22T20:01:56Z
+- MPs scored: 786
+- States/UTs covered: 36 / 36 (+ nominated members)
+- Average national score: 57.5 / 100
+- Highest current score: 80.5 / 100
+- Snapshot timestamp: 2026-09-12T00:52:13Z
 
 Top 10 in the current national ranking:
 
 | Rank | MP | Party | State | Constituency | Score |
 |---:|---|---|---|---|---:|
-| 1 | Arun Kumar Sagar | Bharatiya Janata Party | Uttar Pradesh | Shahjahanpur | 71.6 |
-| 2 | Sukhdeo Bhagat | Indian National Congress | Jharkhand | Lohardaga | 69.5 |
-| 3 | Tapir Gao | Bharatiya Janata Party | Arunachal Pradesh | Arunachal East | 68.1 |
-| 4 | Mohammad Jawed | Indian National Congress | Bihar | Kishanganj | 67.9 |
-| 5 | Rajiv Pratap Rudy | Bharatiya Janata Party | Bihar | Saran | 67.8 |
-| 6 | Rajesh Mishra | Bharatiya Janata Party | Madhya Pradesh | Sidhi | 67.7 |
-| 7 | Rani Srikumar | Dravida Munnetra Kazhagam | Tamil Nadu | Tenkasi | 67.6 |
-| 8 | Alok Kumar Suman | Janata Dal (United) | Bihar | Gopalganj | 67.5 |
-| 9 | Janardan Mishra | Bharatiya Janata Party | Madhya Pradesh | Rewa | 67.4 |
-| 10 | C N Annadurai | Dravida Munnetra Kazhagam | Tamil Nadu | Tiruvannamalai | 67.4 |
+| 1 | S Supongmeren Jamir | Indian National Congress | Nagaland | Nagaland | 80.5 |
+| 2 | Arun Kumar Sagar | Bharatiya Janata Party | Uttar Pradesh | Shahjahanpur | 80.1 |
+| 3 | Indra Hang Subba | Sikkim Krantikari Morcha | Sikkim | Sikkim | 78.1 |
+| 4 | Mohammad Jawed | Indian National Congress | Bihar | Kishanganj | 77.0 |
+| 5 | Tapir Gao | Bharatiya Janata Party | Arunachal Pradesh | Arunachal East | 76.1 |
+| 6 | Saleng A Sangma | Indian National Congress | Meghalaya | Tura | 75.9 |
+| 7 | Sukhdeo Bhagat | Indian National Congress | Jharkhand | Lohardaga | 74.7 |
+| 8 | Vishnu Dayal Ram | Bharatiya Janata Party | Jharkhand | Palamu | 73.9 |
+| 9 | Rajiv Pratap Rudy | Bharatiya Janata Party | Bihar | Saran | 73.2 |
+| 10 | Ramprit Mandal | Janata Dal (United) | Bihar | Jhanjharpur | 73.1 |
 
 The scores are intentionally conservative. A high score means “stronger than peers on available measurable indicators,” not “perfect transparency.” Missing or weakly evidenced public data keeps scores lower — a zero-case criminal record only scores fully when the source confidence backs it.
 
