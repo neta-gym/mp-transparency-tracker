@@ -17,6 +17,10 @@
 
   "voice": { "voice_id": "anna" },
 
+  // Steer STT toward English + Hindi. Per AssemblyAI docs the agent otherwise
+  // auto-detects among 18 languages; pinning en+hi sharpens Hindi accuracy.
+  "input": { "language_codes": ["en", "hi"] },
+
   "tools": [
     {
       "name": "ask_mp_record",

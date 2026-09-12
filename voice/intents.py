@@ -61,6 +61,8 @@ def detect_language(text: str) -> str:
 
 def _strip_fillers(text: str) -> str:
     t = text.lower()
+    t = re.sub(r"(\w+)['\u2019]s", r"\1", t)  # possessives: "Rudy's" -> "Rudy"
+    t = re.sub(r"[?.!,;:\"'\u2019]+", " ", t)  # punctuation breaks token edges
     for kw_group in (k for _, kws in _TOPIC_KEYWORDS for k in kws):
         t = t.replace(kw_group, " ")
     for w in ("what", "whats", "what's", "is", "the", "of", "mp", "mp's", "mps",
@@ -69,9 +71,16 @@ def _strip_fillers(text: str) -> str:
               "ka", "ki", "ke", "ko", "mere", "hamare", "batao", "bataiye",
               "compare", "versus", "vs", "better", "against", "my", "in", "on",
               "vote", "votes", "voted", "voting",
-              "kaisa", "kaisi", "kitna", "kitni", "kitne", "dikhao", "please"):
-        t = re.sub(rf"\b{re.escape(w)}\b", " ", t)
-    t = re.sub(r"(\w+)['\u2019]s\b", r"\1", t)  # possessives: "Rudy's" -> "Rudy"
+              "kaisa", "kaisi", "kitna", "kitni", "kitne", "dikhao", "please",
+              # Devanagari function words (spoken Hindi transcribes to script)
+              "क्या", "है", "हैं", "हो", "का", "की", "के", "को", "ने", "में",
+              "पर", "से", "और", "मेरे", "मेरी", "मेरा", "हमारे", "बताओ",
+              "बताइए", "बताईए", "दिखाओ", "कैसा", "कैसी", "कैसे", "कितना",
+              "कितनी", "कितने", "सांसद", "सदस्य", "एमपी", "किया", "करता",
+              "करती", "था", "थी", "थे"):
+        # token boundaries, not \b: Devanagari vowel signs are combining
+        # marks (non-\w), so \b breaks mid-word on Hindi text
+        t = re.sub(rf"(?<!\S){re.escape(w)}(?!\S)", " ", t)
     t = re.sub(r"\s+", " ", t).strip()
     return t.strip(" ?.!,")
 

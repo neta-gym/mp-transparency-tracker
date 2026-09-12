@@ -58,3 +58,16 @@ def test_possessive_name():
 def test_vote_phrasing_extracts_name():
     p = parse("How did Rajeev Chandrasekhar vote?")
     assert p.targets == ["rajeev chandrasekhar"]
+
+
+def test_devanagari_name_extraction():
+    p = parse("राहुल गांधी की हाजिरी कैसी है?")
+    assert p.intent == "attendance"
+    assert p.language == "hi"
+    assert p.targets == ["राहुल गांधी"]
+
+
+def test_devanagari_funds_constituency():
+    p = parse("वायनाड के सांसद ने कितना पैसा खर्च किया?")
+    assert p.intent == "funds"
+    assert p.targets == ["वायनाड"]

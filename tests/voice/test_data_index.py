@@ -49,3 +49,13 @@ def test_skips_validated_duplicates(data_dir):
     from voice.data_index import MPDataIndex
     idx = MPDataIndex(data_dir)
     assert idx.stats()["mps_indexed"] == 4
+
+
+def test_find_devanagari_name(index):
+    rec = index.find("आशा वर्मा")
+    assert rec is not None and rec.slug == "asha-verma"
+
+
+def test_find_devanagari_constituency(index):
+    rec = index.find("सीतापुर")
+    assert rec is not None and rec.slug == "bhuvan-singh"

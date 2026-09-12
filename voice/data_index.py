@@ -14,6 +14,8 @@ import unicodedata
 from dataclasses import dataclass, field
 from pathlib import Path
 
+from voice.transliterate import DEVANAGARI_RE, to_latin
+
 REPO_ROOT = Path(__file__).resolve().parent.parent
 DATA_DIR = REPO_ROOT / "data"
 
@@ -149,6 +151,10 @@ class MPDataIndex:
 
     def find(self, query: str) -> MPRecord | None:
         """Best-effort MP match by name, alias, or constituency."""
+        # Hindi speech arrives in Devanagari; the index is Latin-script, and
+        # _norm drops non-ASCII, so transliterate before normalizing.
+        if DEVANAGARI_RE.search(query):
+            query = to_latin(query)
         n = _norm(query)
         if not n:
             return None
