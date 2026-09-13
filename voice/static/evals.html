@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>NetaGym Voice - Reliability report</title>
+<style>
+  body { font-family: system-ui, sans-serif; max-width: 720px; margin: 2rem auto; padding: 0 1rem; color: #1a1a1a; }
+  h1 { font-size: 1.4rem; } h2 { font-size: 1.05rem; margin-top: 1.6rem; }
+  table { border-collapse: collapse; width: 100%; margin: 1rem 0; }
+  td, th { border: 1px solid #ddd; padding: 6px 10px; text-align: left; font-size: .95rem; }
+  .muted { color: #666; font-size: .9rem; }
+  code { background: #f4f4f4; padding: 1px 5px; border-radius: 4px; }
+</style>
+</head>
+<body>
+<h1>Reliability report - NetaGym Voice</h1>
+<p class="muted">A fixed gold set of questions runs against this live deployment.
+Three behaviors are scored: numeric accuracy against the public-record data,
+honest refusal on out-of-data questions, and Hindi-language handling.
+Recomputed at most every 15 minutes. Raw JSON: <code>/api/evals/report</code>.</p>
+<div id="report">Loading…</div>
+<h2>Failures</h2>
+<ul id="failures"></ul>
+<script>
+fetch('/api/evals/report').then(r => r.json()).then(rep => {
+  const rows = Object.entries(rep.by_kind).map(([k, v]) =>
+    `<tr><td>${k}</td><td>${v.passed}</td><td>${v.total}</td><td>${Math.round(100*v.passed/v.total)}%</td></tr>`).join('');
+  document.getElementById('report').innerHTML =
+    `<table><tr><th>Behavior</th><th>Passed</th><th>Total</th><th>Rate</th></tr>${rows}
+     <tr><td><b>overall</b></td><td><b>${rep.passed}</b></td><td><b>${rep.total}</b></td><td><b>${Math.round(100*rep.pass_rate)}%</b></td></tr></table>
+     <p class="muted">${rep.total} checks in ${rep.duration_s}s against the live service.</p>`;
+  const f = document.getElementById('failures');
+  f.innerHTML = rep.failures.length
+    ? rep.failures.map(x => `<li>[${x.kind}] ${x.question} - ${x.why}</li>`).join('')
+    : '<li>None - all checks passing.</li>';
+});
+</script>
+</body>
+</html>
