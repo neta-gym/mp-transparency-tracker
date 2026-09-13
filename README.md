@@ -12,6 +12,24 @@ Live site: https://neta-gym.github.io/mp-transparency-tracker/
 
 ![Top 5 and lowest 5 MPs by current transparency score](docs/assets/top-bottom-mps.png)
 
+## Multi-App AI Agent Hackathon - NetaGym Watch (September 13, 2026)
+
+**Demo video (2 min): [netagym_watch_demo.mp4](netagym_watch_demo.mp4)**
+
+**Project overview.** NetaGym Watch is a multi-app agent on top of this dataset. Ask any of the 786 MPs' records by voice or text, in Hindi or English; watch specific MPs and get a digest or an alert when the public record moves. Live service: https://netagym-voice.onrender.com (text UI at `/`, voice call UI at `/talk`, reliability report at `/evals`).
+
+**External apps used.**
+
+- AssemblyAI - speech-to-text for the voice pipeline (`/talk`).
+- Telegram - bot delivery for watches, alerts, and digest (`voice/telegram_bot.py`); email delivery (`assistant-sk@mail.instinct.com`) as the second channel.
+- Render - hosts the voice/watch API (free tier; ~30s cold start).
+- GitHub Pages - the public dashboard every answer links back to.
+
+**Setup instructions.** Python 3.11+, `pip install -r requirements.txt`, then `uvicorn voice.server:app --port 8080`. Set `TELEGRAM_BOT_TOKEN` and `TELEGRAM_WEBHOOK_SECRET` for the Telegram leg; see `.env.example`. Tests: `pytest tests/voice -q`.
+
+**How reliability is tested.** A fixed gold set of 13 questions (`evals/gold.json`, regenerated from data by `evals/build_gold.py`) scores three behaviors against the live pipeline: numeric accuracy (6), Hindi handling (3), and honest refusal on out-of-data questions (4). The live deployment re-runs the set every 15 minutes and publishes the result at https://netagym-voice.onrender.com/evals - currently 13/13. No LLM sits in the answer path: answers are computed deterministically from the dataset, so a missing record produces a refusal, not a guess.
+
+---
 ## What this project is trying to do
 
 Public information about MPs is scattered across Parliament portals, affidavit sites, MPLADS data, PRS-style activity records, and other public datasets. A voter should not need to manually reconcile all of those sources to answer simple questions like:
