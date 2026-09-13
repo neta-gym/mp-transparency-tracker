@@ -170,13 +170,17 @@ async def watch_check(request: Request) -> JSONResponse:
     save_snapshots(new_snaps)
     client = TelegramClient()
     sent = 0
+    alerts = []
     for change in changes:
         body = (f"Record update: {change.name}\n" + "\n".join(change.lines()) +
                 f"\nSource: {SITE}/mp/{change.slug}/")
         for chat_id in store.watchers_of(change.slug):
             if await client.send_message(chat_id, body):
                 sent += 1
-    return JSONResponse({"ok": True, "changes": len(changes), "alerts_sent": sent})
+            alerts.append({"watcher": chat_id, "mp": change.name,
+                           "slug": change.slug, "body": body})
+    return JSONResponse({"ok": True, "changes": len(changes),
+                         "alerts_sent": sent, "alerts": alerts})
 
 
 @app.get("/api/digest", response_class=PlainTextResponse)
