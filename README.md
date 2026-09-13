@@ -30,6 +30,16 @@ Live site: https://neta-gym.github.io/mp-transparency-tracker/
 **How reliability is tested.** A fixed gold set of 13 questions (`evals/gold.json`, regenerated from data by `evals/build_gold.py`) scores three behaviors against the live pipeline: numeric accuracy (6), Hindi handling (3), and honest refusal on out-of-data questions (4). The live deployment re-runs the set every 15 minutes and publishes the result at https://netagym-voice.onrender.com/evals - currently 13/13. No LLM sits in the answer path: answers are computed deterministically from the dataset, so a missing record produces a refusal, not a guess.
 
 ---
+---
+
+## Agents for Humans Hackathon (AWS) - the Strands agent (September 13-14, 2026)
+
+`strands_app/` is a new agent layer built with the [Strands Agents SDK](https://strandsagents.com): a Strands agent routes natural-language questions (Hindi or English) to ten deterministic tools over this dataset - attendance, MPLADS funds, criminal cases, assets, questions asked, report cards, comparisons, state leaderboards, plus MP watches and digests. The model decides which tool to call; it never decides what the numbers are. Every figure comes from the public record with its audit link, and an unknown name produces an honest "no record" instead of a guess.
+
+Run it: `pip install -r strands_app/requirements.txt`, then `PYTHONPATH=. python -m strands_app.agent "your question"`. Model provider via env: `STRANDS_PROVIDER=bedrock` (default, Amazon Nova Micro) or `STRANDS_PROVIDER=ollama` / `litellm` for free local runs. Tool tests: `PYTHONPATH=.:src pytest tests/strands_app -q`.
+
+Disclosure for the hackathon's new-work rule: the dataset, scoring pipeline, dashboard, and the `voice/` service predate the hackathon (built September 8-13 for the MP Transparency Tracker). The Strands agent layer in `strands_app/`, its tools, and its tests were built during the hackathon window and are the submitted work.
+
 ## What this project is trying to do
 
 Public information about MPs is scattered across Parliament portals, affidavit sites, MPLADS data, PRS-style activity records, and other public datasets. A voter should not need to manually reconcile all of those sources to answer simple questions like:
