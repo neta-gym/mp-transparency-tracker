@@ -40,6 +40,22 @@ this dataset built on the AssemblyAI Voice Agent API; answers are computed
 deterministically from the same public-record JSON the dashboard uses.
 Setup and demo script: [voice/README.md](voice/README.md).
 
+### NetaGym Watch: alerts, digests, and reliability evals
+
+The same deterministic answer engine also runs as a Telegram agent
+(built for the Multi-App AI Agent Hackathon). It connects three external
+apps - AssemblyAI (voice), Telegram (alerts and chat), and this public
+dashboard (audit links) - plus an email digest path. Ask questions in
+Hindi or English, `/watch` any MP to get an alert when their public
+record changes, and `/digest` for a daily brief on your watched MPs.
+
+Reliability is measured, not asserted: a gold question set
+([evals/gold.json](evals/gold.json), generated from the data by
+[evals/build_gold.py](evals/build_gold.py)) runs against the live answer
+pipeline and publishes a report at `/evals` on the voice service
+(accuracy, Hindi handling, and honest refusal rates). Regenerate the
+gold set with `python evals/build_gold.py` after any data refresh.
+
 ## Current national snapshot
 
 Generated from `data/national/leaderboard/latest.json`.
