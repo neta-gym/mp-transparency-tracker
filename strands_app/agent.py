@@ -49,8 +49,14 @@ def make_model():
         )
     if provider == "litellm":
         from strands.models.litellm import LiteLLMModel
+        kwargs = {}
+        if os.environ.get("STRANDS_MAX_TOKENS"):
+            kwargs["params"] = {"max_tokens": int(os.environ["STRANDS_MAX_TOKENS"])}
+        if os.environ.get("STRANDS_STREAM", "").lower() in ("0", "false", "no"):
+            kwargs["stream"] = False
         return LiteLLMModel(
             model_id=os.environ.get("STRANDS_MODEL_ID", "ollama/llama3.2:3b"),
+            **kwargs,
         )
     from strands.models.bedrock import BedrockModel
     return BedrockModel(
