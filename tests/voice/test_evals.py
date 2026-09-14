@@ -1,6 +1,5 @@
 """Eval harness: gold set runs in-process against the app."""
 
-import json
 
 from voice.eval_harness import load_gold, markdown_report, run_evals
 

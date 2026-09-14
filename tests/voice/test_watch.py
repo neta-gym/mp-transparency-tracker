@@ -1,9 +1,7 @@
 """Watch store + change detection over the fixture index."""
 
-import json
 
-from voice.watch import (WatchStore, detect_changes, fingerprint,
-                         load_snapshots, save_snapshots)
+from voice.watch import WatchStore, detect_changes, fingerprint, load_snapshots, save_snapshots
 
 
 def test_watch_unwatch_roundtrip(tmp_path):

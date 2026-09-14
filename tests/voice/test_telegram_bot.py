@@ -1,9 +1,9 @@
 """Telegram update handler - pure, no network."""
 
+import pytest
+
 from voice.telegram_bot import handle_update, verify_secret
 from voice.watch import WatchStore
-
-import pytest
 
 
 @pytest.fixture()
