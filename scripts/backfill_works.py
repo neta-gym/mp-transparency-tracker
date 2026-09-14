@@ -139,7 +139,7 @@ async def main() -> int:
     ap = argparse.ArgumentParser()
     ap.add_argument("--state", help="only this state slug")
     ap.add_argument("--limit", type=int, default=None, help="max MPs per state")
-    ap.add_argument("--delay", type=float, default=0.25, help="seconds between requests")
+    ap.add_argument("--delay", type=float, default=0.5, help="seconds between requests")
     ap.add_argument("--dry-run", action="store_true")
     ap.add_argument("--force", action="store_true", help="redo MPs already backfilled")
     args = ap.parse_args()

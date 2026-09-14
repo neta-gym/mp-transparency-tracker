@@ -13,6 +13,7 @@ regenerated without waiting on a full re-crawl of every source.
 
 import asyncio
 import glob
+import json
 import os
 import sys
 
@@ -26,6 +27,57 @@ from tracker.utils.exporters import LeaderboardExporter
 from tracker.utils.logger import console, get_logger
 
 log = get_logger(__name__)
+
+def _preserve_works_backfill(state_dir: str, mp_slug: str) -> dict | None:
+    """Read the existing <slug>_validated.json and return the work-level
+    MPLADS backfill fields (works list, works_count, esakshi backfill source
+    notes) so a rescore can re-apply them after rewriting the file."""
+    path = os.path.join(state_dir, "raw", f"{mp_slug}_validated.json")
+    if not os.path.exists(path):
+        return None
+    try:
+        with open(path) as f:
+            doc = json.load(f)
+    except Exception:
+        return None
+    mplads = doc.get("findings", {}).get("mplads", {})
+    keep = {}
+    if mplads.get("works"):
+        keep["works"] = mplads["works"]
+    if mplads.get("works_count") is not None:
+        keep["works_count"] = mplads["works_count"]
+    notes = [
+        s for s in mplads.get("sources", [])
+        if "Work-level backfill" in str(s.get("notes", ""))
+    ]
+    if notes:
+        keep["backfill_sources"] = notes
+    return keep or None
+
+
+def _reapply_works_backfill(state_dir: str, mp_slug: str, keep: dict) -> None:
+    """Patch the just-rewritten <slug>_validated.json with preserved
+    work-level backfill fields (mirrors scripts/backfill_works.py)."""
+    path = os.path.join(state_dir, "raw", f"{mp_slug}_validated.json")
+    with open(path) as f:
+        doc = json.load(f)
+    mplads = doc.setdefault("findings", {}).setdefault("mplads", {})
+    if "works" in keep:
+        mplads["works"] = keep["works"]
+    if "works_count" in keep:
+        mplads["works_count"] = keep["works_count"]
+    if keep.get("backfill_sources"):
+        sources = mplads.setdefault("sources", [])
+        existing = {str(s.get("notes", "")) for s in sources}
+        for s in keep["backfill_sources"]:
+            if str(s.get("notes", "")) not in existing:
+                sources.append(s)
+    with open(path, "w") as f:
+        json.dump(doc, f, indent=1, ensure_ascii=False)
+        f.write("\n")
+
+
+
 
 
 async def rescore_all() -> None:
@@ -57,11 +109,15 @@ async def rescore_all() -> None:
                     continue
 
                 mp = findings.mp
+                state_dir = os.path.dirname(raw_dir)
+                keep = _preserve_works_backfill(state_dir, mp.slug)
                 try:
                     validated = await manager.validator.validate(findings)
                     score = await manager.assessor.assess(validated)
                     await manager.developer.compile_report(validated, score, settings.data_dir)
                     manager._save_json_artifacts(mp, findings, validated, score)
+                    if keep:
+                        _reapply_works_backfill(state_dir, mp.slug, keep)
                     scores.append(score)
                 except Exception as e:
                     log.error("Rescore failed for %s (%s): %s", mp.name, state_slug, e)
