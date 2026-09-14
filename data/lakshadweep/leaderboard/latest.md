@@ -1,6 +1,6 @@
 # MP Transparency Leaderboard — Lakshadweep
 
-*Generated: 2026-09-12 00:52 UTC | Methodology v3.2 | 1 MPs*
+*Generated: 2026-09-14 10:29 UTC | Methodology v3.2 | 1 MPs*
 
 | Rank | House | MP Name | Constituency | Party | Score | Confidence | Key Finding |
 |------|-------|---------|-------------|-------|-------|------------|-------------|

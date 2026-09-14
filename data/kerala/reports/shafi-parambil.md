@@ -3,7 +3,7 @@
 **Constituency:** Vadakara, Kerala
 **Party:** Indian National Congress
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-09-12
+**Report Date:** 2026-09-14
 **Data Confidence:** Medium (50%) | **Evidence Grade:** Secondary (D)
 
 ---
@@ -211,7 +211,7 @@ Has 47 criminal case(s) (2 serious), 39 pending, 8 conviction(s). Declared asset
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 11/09/2026
+Date: 14/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,

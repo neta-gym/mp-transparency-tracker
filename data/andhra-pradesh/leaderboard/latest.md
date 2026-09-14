@@ -1,6 +1,6 @@
 # MP Transparency Leaderboard — Andhra-Pradesh
 
-*Generated: 2026-09-12 00:52 UTC | Methodology v3.2 | 36 MPs*
+*Generated: 2026-09-14 10:29 UTC | Methodology v3.2 | 36 MPs*
 
 | Rank | House | MP Name | Constituency | Party | Score | Confidence | Key Finding |
 |------|-------|---------|-------------|-------|-------|------------|-------------|

@@ -6,7 +6,7 @@
 **Age:** 61
 **Education:** Graduate
 **Profession:** Business
-**Report Date:** 2026-09-12
+**Report Date:** 2026-09-14
 **Data Confidence:** Medium (57%) | **Evidence Grade:** Third-party (C)
 
 ---
@@ -178,7 +178,7 @@ Has 2 criminal case(s) (0 serious), 2 pending, 0 conviction(s). Declared assets:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 11/09/2026
+Date: 14/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,

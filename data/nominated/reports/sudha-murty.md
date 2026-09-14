@@ -4,7 +4,7 @@
 **Party:** Nominated
 **House:** Rajya Sabha (18th Parliament, 2024-present)
 **Age:** 76
-**Report Date:** 2026-09-12
+**Report Date:** 2026-09-14
 **Data Confidence:** Low (0%) | **Evidence Grade:** LLM/Estimated (E)
 
 ---
@@ -111,7 +111,7 @@ No criminal cases declared. Low confidence data: Criminal record, Assets, MPLADS
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 11/09/2026
+Date: 14/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,

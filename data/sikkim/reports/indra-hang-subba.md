@@ -6,7 +6,7 @@
 **Age:** 35
 **Education:** Doctorate
 **Profession:** Politician
-**Report Date:** 2026-09-12
+**Report Date:** 2026-09-14
 **Data Confidence:** Medium (56%) | **Evidence Grade:** Third-party (C)
 
 ---
@@ -163,7 +163,7 @@ No criminal cases declared. Declared assets: Rs 14,845,772. MPLADS utilization: 
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 11/09/2026
+Date: 14/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,

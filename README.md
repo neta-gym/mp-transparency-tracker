@@ -92,7 +92,7 @@ Generated from `data/national/leaderboard/latest.json`.
 - States/UTs covered: 36 / 36 (+ nominated members)
 - Average national score: 57.5 / 100
 - Highest current score: 80.5 / 100
-- Snapshot timestamp: 2026-09-12T00:52:13Z
+- Snapshot timestamp: 2026-09-14T10:30:22Z
 
 Top 10 in the current national ranking:
 
