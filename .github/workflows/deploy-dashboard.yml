@@ -22,7 +22,8 @@ permissions:
   id-token: write
 
 jobs:
-  # Gate deploys on the Python pipeline being green — a broken build or
+  # Gate deploys on the Python pipeline being green - a broken build or
+    # (retriggered after the ruff lint fix in 3e0af5d2)
   # failing score code should never reach the live dashboard.
   checks:
     runs-on: ubuntu-latest
