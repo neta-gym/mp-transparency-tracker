@@ -6,7 +6,7 @@
 **Age:** 60
 **Education:** Graduate Professional
 **Profession:** Printing Press (Director)
-**Report Date:** 2026-09-14
+**Report Date:** 2026-09-18
 **Data Confidence:** Low (49%) | **Evidence Grade:** Third-party (C)
 
 ---
@@ -172,7 +172,7 @@ No criminal cases declared. Declared assets: Rs 40,824,015. MPLADS utilization: 
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 14/09/2026
+Date: 18/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,

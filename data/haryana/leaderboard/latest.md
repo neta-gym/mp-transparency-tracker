@@ -1,6 +1,6 @@
 # MP Transparency Leaderboard — Haryana
 
-*Generated: 2026-09-14 10:29 UTC | Methodology v3.2 | 15 MPs*
+*Generated: 2026-09-18 06:38 UTC | Methodology v3.2 | 15 MPs*
 
 | Rank | House | MP Name | Constituency | Party | Score | Confidence | Key Finding |
 |------|-------|---------|-------------|-------|-------|------------|-------------|

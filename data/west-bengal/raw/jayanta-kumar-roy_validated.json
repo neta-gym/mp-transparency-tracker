@@ -1,537 +1,982 @@
 {
+ "mp": {
+  "name": "Jayanta Kumar Roy",
+  "constituency": "Jalpaiguri",
+  "state": "west bengal",
+  "party": "Bharatiya Janata Party",
+  "myneta_candidate_id": null,
+  "slug": "jayanta-kumar-roy",
+  "house": "lok_sabha",
+  "sansad_member_id": 5045,
+  "profile_url": null,
+  "canonical_name": null,
+  "name_aliases": [],
+  "education": null,
+  "profession": null,
+  "age": null,
+  "photo_url": "/mp-photos/5045.jpg"
+ },
+ "findings": {
   "mp": {
-    "name": "Jayanta Kumar Roy",
-    "constituency": "Jalpaiguri",
-    "state": "west bengal",
-    "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": null,
-    "slug": "jayanta-kumar-roy",
-    "house": "lok_sabha",
-    "sansad_member_id": 5045,
-    "profile_url": null,
-    "canonical_name": null,
-    "name_aliases": [],
-    "education": null,
-    "profession": null,
-    "age": null,
-    "photo_url": "/mp-photos/5045.jpg"
+   "name": "Jayanta Kumar Roy",
+   "constituency": "Jalpaiguri",
+   "state": "west bengal",
+   "party": "Bharatiya Janata Party",
+   "myneta_candidate_id": null,
+   "slug": "jayanta-kumar-roy",
+   "house": "lok_sabha",
+   "sansad_member_id": 5045,
+   "profile_url": null,
+   "canonical_name": null,
+   "name_aliases": [],
+   "education": null,
+   "profession": null,
+   "age": null,
+   "photo_url": "/mp-photos/5045.jpg"
   },
-  "findings": {
-    "mp": {
-      "name": "Jayanta Kumar Roy",
-      "constituency": "Jalpaiguri",
-      "state": "west bengal",
-      "party": "Bharatiya Janata Party",
-      "myneta_candidate_id": null,
-      "slug": "jayanta-kumar-roy",
-      "house": "lok_sabha",
-      "sansad_member_id": 5045,
-      "profile_url": null,
-      "canonical_name": null,
-      "name_aliases": [],
-      "education": null,
-      "profession": null,
-      "age": null,
-      "photo_url": "/mp-photos/5045.jpg"
-    },
-    "criminal_record": {
-      "total_cases": 0,
-      "serious_cases": 0,
-      "convictions": 0,
-      "pending_cases": 0,
-      "disposed_cases": 0,
-      "cases": [],
-      "source": "myneta",
-      "confidence": 0.7,
-      "sources": [
-        {
-          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=970",
-          "source_name": "myneta",
-          "grade": "B",
-          "fetched_at": "2026-09-02T15:37:31.897139Z",
-          "notes": "MyNeta candidate affidavit data"
-        }
-      ]
-    },
-    "assets": {
-      "movable_assets": 0.0,
-      "immovable_assets": 0.0,
-      "total_assets": 19356558.0,
-      "liabilities": 56196.0,
-      "net_worth": 19300362.0,
-      "previous_total_assets": null,
-      "asset_year": null,
-      "previous_asset_year": null,
-      "source": "myneta",
-      "confidence": 0.8,
-      "sources": [
-        {
-          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=970",
-          "source_name": "myneta",
-          "grade": "B",
-          "fetched_at": "2026-08-22T20:01:55.771019Z",
-          "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-        },
-        {
-          "url": "https://www.myneta.info",
-          "source_name": "myneta",
-          "grade": "B",
-          "fetched_at": "2026-09-02T18:55:43.793885Z",
-          "notes": "restore note: 2026-09-02 Actions rescore received a non-data page for MyNeta from runner IPs; retained last-known-good affidavit figures (same 2024 affidavit)."
-        }
-      ],
-      "annual_income": null,
-      "election_expenditure": null,
-      "wealth_percentile": 16.5,
-      "growth_ratio": null
-    },
-    "mplads": {
-      "entitled": 14.7,
-      "released": 14.7,
-      "sanctioned": 1.01,
-      "expended": 0.59,
-      "source": "esakshi",
-      "confidence": 0.9,
-      "sources": [
-        {
-          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
-          "source_name": "esakshi",
-          "grade": "A",
-          "fetched_at": "2026-05-23T17:51:45.896739Z",
-          "notes": "Official eSAKSHI REST API — Works: 26 recommended, 5 sanctioned, 0 completed"
-        },
-        {
-          "url": "https://mplads.mospi.gov.in",
-          "source_name": "esakshi",
-          "grade": "A",
-          "fetched_at": "2026-09-02T15:11:18.536410Z",
-          "notes": "restore note: 2026-09-02 rescore could not reach eSAKSHI from Actions runners; retained last-known-good MPLADS figures. eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
-        },
-        {
-          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
-          "source_name": "data.gov.in",
-          "grade": "B",
-          "fetched_at": "2026-09-02T15:07:10.788662Z",
-          "notes": "restore note: 2026-09-02 rescore could not reach eSAKSHI from Actions runners; retained last-known-good MPLADS figures. MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
-        },
-        {
-          "url": "https://dataful.in/datasets/18540/",
-          "source_name": "mplads_csv",
-          "grade": "E",
-          "fetched_at": "2026-09-02T15:07:10.786957Z",
-          "notes": "restore note: 2026-09-02 rescore could not reach eSAKSHI from Actions runners; retained last-known-good MPLADS figures. MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
-        }
-      ],
-      "works": [],
-      "works_count": 26,
-      "esakshi_coverage_start": "2023-04-01",
-      "period_data": [],
-      "cumulative_entitled": null,
-      "cumulative_released": null,
-      "cumulative_expended": null,
-      "includes_covid_suspension": false,
-      "data_period_note": "",
-      "utilization_rate": 4.013605442176871
-    },
-    "parliament_activity": {
-      "attendance_percentage": 75.0,
-      "questions_asked": 53,
-      "debates_participated": 5,
-      "private_bills_introduced": 0,
-      "is_minister": false,
-      "source": "prs",
-      "confidence": 0.8,
-      "sources": [
-        {
-          "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
-          "source_name": "prs_github_csv",
-          "grade": "C",
-          "fetched_at": "2026-09-02T15:07:10.786202Z",
-          "notes": "PRS India GitHub CSV - 18th Lok Sabha"
-        }
-      ],
-      "focus_topics": [],
-      "notable_questions": [],
-      "voting_record": []
-    },
-    "news_allegations": [
-      {
-        "headline": "Jalpaiguri MP seeks Centre’s intervention to operationalise super-speciality facilities at North Bengal Medical College - The Statesman",
-        "source": "The Statesman",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOUHBVdV9qRm5TUWw2RHhUeEhsaG1WTjd1LXlYYTFjYUcxVGxsQjRqcUliTE1lYXprRnhBNmFFdzl2elVXS0lLUm1VWU1EVmlmLXVrVzU5OWtVck0zc2wwX0pLeXJ4Z1gwcE16U1NGRnRidWl6Q1BSWWwtZ3M4LXA2bGFId0hwQUYtajRmWXVlNXhZaWQzZ3hTR29ISDFCMG5XTVNRelZYX2E3UEpWaEZYVVZJbFRSTXlkSWFhSkYxTnVxYlZrc21jd2VmRXZFQmhKeC1fSnFva3d0NThDZDJiOEx1c2pkRndHTW92akNyUi1QS0xOVUhoV04xNm9LRXNFcEpzRDloUG5OZ9IBjwJBVV95cUxQek5XSEZONWVtOVlnc1hTRWJQMU5TZ1ZfTXJvS0xkZjZWU05ZZnRDZy03V2NEOTJ3Umo3VlRiQUNvcnFqWWFyMi14T3NQV1RlX3ZUOUhRcTYzRGZVS3FQdmFyVkhsa0x2WHdWZUx0Y0VmbzF6TEVFVHlCTmVPQXdWSGlrTC1xemR1MjFkOWRTQzJFNGYwaGtsZ3drbVlhaklGSHQ0UWZBUEZKbFpZN3kwRi10TUlwZ0xEeG5hbXlJRDJPODF0WmFGVmJNWkFnOERYd1p0aDBHUkVmblhaY1V2aHp1OWR6TjNDSDFEMnZBZ0hWcGJjOE1LVnlwZ3JHWVVPZ1ZfTFZ6dnVyOG5obTVz?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "Brought Leaf Factories To Announce Lifting Tea Leaf Procurement Ban Soon: Jalpaiguri MP - ETV Bharat",
-        "source": "ETV Bharat",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVmpQVFdjMEd3VFFwY3dZWFRtNllmZDhjMEl3eGpMdk51SjRrQndfUWNGdlBXMHFyXzlFclFoRHlzSFhyb3I5ZXhJb3V3dVpBOE5JMHNqOVQ5UlZrbURFdGlGSnc2cmVCaThFRXlQbFg5cXdsWFRkUC0yWUlsNlBKSW04Z3dQUC1QVEUxaGlheTJPYXZkVkVKOXJPbVZaOExOMnZfc3JwQXRiSS1aalM2TVV0T1XSAboBQVVfeXFMTXJDa2VwbmpSTXZmX0g1LWM1X0ozYmRmczNMRDYxSHNyYU0wQWpSUTFiZ3l1dGtqRVZxOW5pWlV5THdBTVJQMWpObksyM2hzdkFBUlpPRkNuZ2JyVlBmRjI4RDVTbDV4U1I3UFoteGR6X1hQTWNGcnQ2a21rWWZqdFNXUEVaMWp2YnRadWJ0ckZoWnItVWM5a0lzQ0RiUE1acnFPajlzMlB1dkVmNTR3VGhiLXk1QW5fb3ZB?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "Jalpaiguri MP Jayanta Kumar Roy reviews progress of NJP railway station redevelopment project - siliguritimes.com",
-        "source": "siliguritimes.com",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPb1FFMzBKYWpoYnVLNHF4Vjd3ZkpSZm5ZblpWb1N2R1dabXN5a0RLbl9heE1YVlRENUdGSmVRZGVHNTlJU3E2cFRrS2REWEVvZ0JqSXhBVjBweGRxOEtpOWpUTVZKdDNTY0Z6dnhnQ1BmcGdJWjFsUGtZakJ1MTB4a0w1ZFpDRUE2ell1VTJILWtRczl6WmVpajY1NzVMb29fdnZaR3FobnBYbDFpYTZEVGFsbUU4WHgxY29mcw?oc=5",
-        "sentiment": "positive"
-      },
-      {
-        "headline": "New Jalpaiguri set to emerge as major railway hub, says MP - MillenniumPost",
-        "source": "MillenniumPost",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbXJjSjdId0w4Yk02OHMwd3h3cUw2b0JodUxzelJkdURKM0hCSEotQ2ZWUjVOc1c3Qm1uZE05UnVGSUtyek9PSWppZmpoZVBOWm9zbkFKbllRbDN1M2JNQVVGcTNWLVdSLUIyVWxNd0ZTWEhYVXBXWkpBU0pFVC1WanhpRE0xNXZlMnVyNWRFSzZwOWRMOGl1RW8yNXRPd2tLV1ZV0gGoAUFVX3lxTE1uUHlKckczVVNMb3Y3UmNKLWpzQ1ZINTNDR0RDQW5YTFd4Z2NnNFg3UlNTNmxfVTlaV2ljd2J6R2I0SHNscjNBQmRwOUNQQzlkWlFLcXJjdEs2eFhHMXkteVBkSF9QeDhVZldGWG1Sd1Eyc0lGQ1FUbzZTM0c3SUFidVpkUmVsVDBnSkJhY3l6bktPQ0E0MDZpNF9VZ1ZlWnctOHIwcEdMSg?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "ETV Bharat Impact | Bengal Bought Leaf Factories Resume Accepting Green Tea Leaves Without MRL Reports - ETV Bharat",
-        "source": "ETV Bharat",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQQkM5cWZ2Tk1sVU9YZWZ0UWhxVlRBNmRUUGFfWDBDWEt6MG1qUjQwU3piN0d4QnM1bVZhQVNYQVZzSHhWbjlraU8yRjJvdW5JVGphTVU1dUdPYjlqS21UT2pBQmd1REpXMVpyeDY1UmRRX041RFFVd1NsNWpveEgzcjhFSWQ4d010YlVaVE9UQ2ZXUDhvOWI2ejB3OE5BS3U2Zk9NOE85MHpvZktQMkdEV0oxRmJOeWlVV2JYWWpYLUlxa183VXM4VVZ2MlMyNjRuZEVYVFctUGowa0FtVFlvUFNaNUXSAeoBQVVfeXFMTmVKb0VuSHNjUy04ZmpGQjBpbW5QUE9uVWZjWWc0Q3B5ZkhoZnAxTVNPWjd5Z21XdG9ET3AzTGE1eF9Pa1hZd1FQYmd1RWZMbERHcUo5VDZ6VTBGV1F6WWdyWEo0OXJIWC1OYVNobE50VFl2T3FETDV5M0tYS1FlSU9Vdy1QX0h6MnAxWFhSZnl4N3REakFrWjhlUDVNOFVCTkgxLW1idjhpWElzS2FzOXhtMmoxR3lDMWxNNTU3ZWhWVzlMenhTVjRHaEp4N2x4Z1pZcVdaU3duOUp1ZEpLOXFpaXNkYWZWdVZR?oc=5",
-        "sentiment": "neutral"
-      }
-    ],
-    "raw_notes": "",
-    "sources_consulted": [
-      "prs",
-      "social_media",
-      "news",
-      "cag"
-    ],
-    "collected_at": "2026-09-02T15:11:18.537000Z",
-    "evidence_summary": {
-      "parliament": "C",
-      "committees": "E",
-      "legislative": "E",
-      "accessibility": "D"
-    },
-    "cag_findings": [
-      {
-        "report_title": "Performance Audit of MPLADS",
-        "report_number": "31 of 2010",
-        "year": 2010,
-        "finding": "Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states",
-        "category": "idle_funds",
-        "state": "national",
-        "severity": "high",
-        "source": {
-          "url": "https://cag.gov.in/en/audit-report/details/2341",
-          "source_name": "cag",
-          "grade": "A",
-          "fetched_at": "2026-09-14T10:29:41.979110Z",
-          "notes": "CAG Report No. 31 of 2010"
-        }
-      },
-      {
-        "report_title": "Performance Audit of MPLADS",
-        "report_number": "31 of 2010",
-        "year": 2010,
-        "finding": "Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents",
-        "category": "bogus_ucs",
-        "state": "national",
-        "severity": "high",
-        "source": {
-          "url": "https://cag.gov.in/en/audit-report/details/2341",
-          "source_name": "cag",
-          "grade": "A",
-          "fetched_at": "2026-09-14T10:29:41.979120Z",
-          "notes": "CAG Report No. 31 of 2010"
-        }
-      },
-      {
-        "report_title": "Performance Audit of MPLADS",
-        "report_number": "31 of 2010",
-        "year": 2010,
-        "finding": "Incomplete works: 18% of sampled works were abandoned or incomplete",
-        "category": "incomplete_works",
-        "state": "national",
-        "severity": "medium",
-        "source": {
-          "url": "https://cag.gov.in/en/audit-report/details/2341",
-          "source_name": "cag",
-          "grade": "A",
-          "fetched_at": "2026-09-14T10:29:41.979125Z",
-          "notes": "CAG Report No. 31 of 2010"
-        }
-      },
-      {
-        "report_title": "Follow-up Audit of MPLADS",
-        "report_number": "9 of 2013",
-        "year": 2013,
-        "finding": "Persistent idle funds: District authorities retained Rs 2,100 crore in unspent balances",
-        "category": "idle_funds",
-        "state": "national",
-        "severity": "high",
-        "source": {
-          "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
-          "source_name": "cag",
-          "grade": "A",
-          "fetched_at": "2026-09-14T10:29:41.979130Z",
-          "notes": "CAG Report No. 9 of 2013"
-        }
-      },
-      {
-        "report_title": "Performance Audit of MPLADS (2012-17)",
-        "report_number": "CAG Performance Report 2017",
-        "year": 2017,
-        "finding": "Only 53% of recommended works completed within the audit period",
-        "category": "incomplete_works",
-        "state": "national",
-        "severity": "medium",
-        "source": {
-          "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
-          "source_name": "cag",
-          "grade": "A",
-          "fetched_at": "2026-09-14T10:29:41.979137Z",
-          "notes": "CAG Report No. CAG Performance Report 2017"
-        }
-      },
-      {
-        "report_title": "Performance Audit of MPLADS (2012-17)",
-        "report_number": "CAG Performance Report 2017",
-        "year": 2017,
-        "finding": "Rs 293 crore expended on inadmissible works not covered under MPLADS guidelines",
-        "category": "irregular_works",
-        "state": "national",
-        "severity": "high",
-        "source": {
-          "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
-          "source_name": "cag",
-          "grade": "A",
-          "fetched_at": "2026-09-14T10:29:41.979142Z",
-          "notes": "CAG Report No. CAG Performance Report 2017"
-        }
-      },
-      {
-        "report_title": "Performance Audit of MPLADS (2012-17)",
-        "report_number": "CAG Performance Report 2017",
-        "year": 2017,
-        "finding": "Asset registers not maintained by district authorities in 40% of sampled districts",
-        "category": "poor_records",
-        "state": "national",
-        "severity": "medium",
-        "source": {
-          "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
-          "source_name": "cag",
-          "grade": "A",
-          "fetched_at": "2026-09-14T10:29:41.979147Z",
-          "notes": "CAG Report No. CAG Performance Report 2017"
-        }
-      }
-    ],
-    "compensation": {
-      "salary_per_month": 100000.0,
-      "constituency_allowance_per_month": 70000.0,
-      "office_expense_allowance_per_month": 60000.0,
-      "sumptuary_allowance_per_month": 15000.0,
-      "total_monthly": 245000.0,
-      "total_annual": 2940000.0,
-      "effective_from": "2018-04-01",
-      "source_notification": "Members of Parliament (Amendment) Act, 2018; The Salary, Allowances and Pension of Members of Parliament Act, 1954 (as amended). Gazette of India, Extraordinary, Part II, Section 1.",
-      "notes": "In addition to cash compensation, MPs receive non-cash perks including: free AC First Class rail travel, 34 annual air journeys, furnished office space, medical facilities at government hospitals, and housing or HRA (Rs 2,00,000/month if no government accommodation). Post-retirement pension: Rs 29,000/month (base) + Rs 1,500 per additional year served."
-    },
-    "sagy": [],
-    "committees": {
-      "memberships": [],
-      "total_committees": 0,
-      "leadership_roles": 0,
-      "confidence": 0.0,
-      "sources": []
-    },
-    "social_media": {
-      "profiles": [
-        {
-          "platform": "twitter",
-          "handle": "http://www.twitter.com/Jayanta Roy JPU",
-          "url": "https://x.com/http://www.twitter.com/Jayanta Roy JPU",
-          "followers": null,
-          "verified": false,
-          "active": true
-        },
-        {
-          "platform": "facebook",
-          "handle": "http://www.facebook.com/jkumroy",
-          "url": "https://facebook.com/http://www.facebook.com/jkumroy",
-          "followers": null,
-          "verified": false,
-          "active": true
-        }
-      ],
-      "total_platforms": 2,
-      "total_followers": 0,
-      "confidence": 0.7,
-      "sources": [
-        {
-          "url": "",
-          "source_name": "social_media_lookup",
-          "grade": "D",
-          "fetched_at": "2026-09-02T15:07:38.222351Z",
-          "notes": "Social media handle lookup"
-        }
-      ]
-    },
-    "news_sentiment": {
-      "total_articles": 10,
-      "positive": 1,
-      "negative": 0,
-      "neutral": 9,
-      "top_headlines": [
-        {
-          "headline": "Jalpaiguri MP seeks Centre’s intervention to operationalise super-speciality facilities at North Bengal Medical College - The Statesman",
-          "source": "The Statesman",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOUHBVdV9qRm5TUWw2RHhUeEhsaG1WTjd1LXlYYTFjYUcxVGxsQjRqcUliTE1lYXprRnhBNmFFdzl2elVXS0lLUm1VWU1EVmlmLXVrVzU5OWtVck0zc2wwX0pLeXJ4Z1gwcE16U1NGRnRidWl6Q1BSWWwtZ3M4LXA2bGFId0hwQUYtajRmWXVlNXhZaWQzZ3hTR29ISDFCMG5XTVNRelZYX2E3UEpWaEZYVVZJbFRSTXlkSWFhSkYxTnVxYlZrc21jd2VmRXZFQmhKeC1fSnFva3d0NThDZDJiOEx1c2pkRndHTW92akNyUi1QS0xOVUhoV04xNm9LRXNFcEpzRDloUG5OZ9IBjwJBVV95cUxQek5XSEZONWVtOVlnc1hTRWJQMU5TZ1ZfTXJvS0xkZjZWU05ZZnRDZy03V2NEOTJ3Umo3VlRiQUNvcnFqWWFyMi14T3NQV1RlX3ZUOUhRcTYzRGZVS3FQdmFyVkhsa0x2WHdWZUx0Y0VmbzF6TEVFVHlCTmVPQXdWSGlrTC1xemR1MjFkOWRTQzJFNGYwaGtsZ3drbVlhaklGSHQ0UWZBUEZKbFpZN3kwRi10TUlwZ0xEeG5hbXlJRDJPODF0WmFGVmJNWkFnOERYd1p0aDBHUkVmblhaY1V2aHp1OWR6TjNDSDFEMnZBZ0hWcGJjOE1LVnlwZ3JHWVVPZ1ZfTFZ6dnVyOG5obTVz?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "Brought Leaf Factories To Announce Lifting Tea Leaf Procurement Ban Soon: Jalpaiguri MP - ETV Bharat",
-          "source": "ETV Bharat",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVmpQVFdjMEd3VFFwY3dZWFRtNllmZDhjMEl3eGpMdk51SjRrQndfUWNGdlBXMHFyXzlFclFoRHlzSFhyb3I5ZXhJb3V3dVpBOE5JMHNqOVQ5UlZrbURFdGlGSnc2cmVCaThFRXlQbFg5cXdsWFRkUC0yWUlsNlBKSW04Z3dQUC1QVEUxaGlheTJPYXZkVkVKOXJPbVZaOExOMnZfc3JwQXRiSS1aalM2TVV0T1XSAboBQVVfeXFMTXJDa2VwbmpSTXZmX0g1LWM1X0ozYmRmczNMRDYxSHNyYU0wQWpSUTFiZ3l1dGtqRVZxOW5pWlV5THdBTVJQMWpObksyM2hzdkFBUlpPRkNuZ2JyVlBmRjI4RDVTbDV4U1I3UFoteGR6X1hQTWNGcnQ2a21rWWZqdFNXUEVaMWp2YnRadWJ0ckZoWnItVWM5a0lzQ0RiUE1acnFPajlzMlB1dkVmNTR3VGhiLXk1QW5fb3ZB?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "Jalpaiguri MP Jayanta Kumar Roy reviews progress of NJP railway station redevelopment project - siliguritimes.com",
-          "source": "siliguritimes.com",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPb1FFMzBKYWpoYnVLNHF4Vjd3ZkpSZm5ZblpWb1N2R1dabXN5a0RLbl9heE1YVlRENUdGSmVRZGVHNTlJU3E2cFRrS2REWEVvZ0JqSXhBVjBweGRxOEtpOWpUTVZKdDNTY0Z6dnhnQ1BmcGdJWjFsUGtZakJ1MTB4a0w1ZFpDRUE2ell1VTJILWtRczl6WmVpajY1NzVMb29fdnZaR3FobnBYbDFpYTZEVGFsbUU4WHgxY29mcw?oc=5",
-          "sentiment": "positive"
-        },
-        {
-          "headline": "New Jalpaiguri set to emerge as major railway hub, says MP - MillenniumPost",
-          "source": "MillenniumPost",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbXJjSjdId0w4Yk02OHMwd3h3cUw2b0JodUxzelJkdURKM0hCSEotQ2ZWUjVOc1c3Qm1uZE05UnVGSUtyek9PSWppZmpoZVBOWm9zbkFKbllRbDN1M2JNQVVGcTNWLVdSLUIyVWxNd0ZTWEhYVXBXWkpBU0pFVC1WanhpRE0xNXZlMnVyNWRFSzZwOWRMOGl1RW8yNXRPd2tLV1ZV0gGoAUFVX3lxTE1uUHlKckczVVNMb3Y3UmNKLWpzQ1ZINTNDR0RDQW5YTFd4Z2NnNFg3UlNTNmxfVTlaV2ljd2J6R2I0SHNscjNBQmRwOUNQQzlkWlFLcXJjdEs2eFhHMXkteVBkSF9QeDhVZldGWG1Sd1Eyc0lGQ1FUbzZTM0c3SUFidVpkUmVsVDBnSkJhY3l6bktPQ0E0MDZpNF9VZ1ZlWnctOHIwcEdMSg?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "ETV Bharat Impact | Bengal Bought Leaf Factories Resume Accepting Green Tea Leaves Without MRL Reports - ETV Bharat",
-          "source": "ETV Bharat",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQQkM5cWZ2Tk1sVU9YZWZ0UWhxVlRBNmRUUGFfWDBDWEt6MG1qUjQwU3piN0d4QnM1bVZhQVNYQVZzSHhWbjlraU8yRjJvdW5JVGphTVU1dUdPYjlqS21UT2pBQmd1REpXMVpyeDY1UmRRX041RFFVd1NsNWpveEgzcjhFSWQ4d010YlVaVE9UQ2ZXUDhvOWI2ejB3OE5BS3U2Zk9NOE85MHpvZktQMkdEV0oxRmJOeWlVV2JYWWpYLUlxa183VXM4VVZ2MlMyNjRuZEVYVFctUGowa0FtVFlvUFNaNUXSAeoBQVVfeXFMTmVKb0VuSHNjUy04ZmpGQjBpbW5QUE9uVWZjWWc0Q3B5ZkhoZnAxTVNPWjd5Z21XdG9ET3AzTGE1eF9Pa1hZd1FQYmd1RWZMbERHcUo5VDZ6VTBGV1F6WWdyWEo0OXJIWC1OYVNobE50VFl2T3FETDV5M0tYS1FlSU9Vdy1QX0h6MnAxWFhSZnl4N3REakFrWjhlUDVNOFVCTkgxLW1idjhpWElzS2FzOXhtMmoxR3lDMWxNNTU3ZWhWVzlMenhTVjRHaEp4N2x4Z1pZcVdaU3duOUp1ZEpLOXFpaXNkYWZWdVZR?oc=5",
-          "sentiment": "neutral"
-        }
-      ],
-      "sentiment_summary": "Mixed/neutral coverage (10 articles)",
-      "confidence": 0.5
-    },
-    "legislative": {
-      "bills_introduced": 0,
-      "bills_passed": 0,
-      "private_member_bills": 0,
-      "zero_hour_mentions": 0,
-      "special_mentions": 0,
-      "confidence": 0.0,
-      "sources": []
-    },
-    "constituency_context": {
-      "population": null,
-      "literacy_rate": null,
-      "urban_percentage": null,
-      "district": ""
-    },
-    "voting_analysis": {
-      "total_votes": 0,
-      "votes_with_party": 0,
-      "votes_against_party": 0,
-      "abstentions": 0,
-      "absences": 0,
-      "party_loyalty_pct": null,
-      "cross_party_votes": [],
-      "key_bills_missed": [],
-      "confidence": 0.0
-    },
-    "question_quality": {
-      "total_questions": 53,
-      "starred_questions": 15,
-      "unstarred_questions": 38,
-      "short_notice_questions": 0,
-      "unique_topics": 0,
-      "constituency_relevant": 0,
-      "follow_up_rate": 0.0,
-      "quality_score": 100.0,
-      "confidence": 0.6
-    },
-    "conflict_of_interest": {
-      "mp_businesses": [],
-      "committee_sectors": [],
-      "question_sectors": [],
-      "overlaps": [],
-      "severity": "none",
-      "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
-      "confidence": 0.0
-    },
-    "attendance_pattern": {
-      "overall_pct": 75.0,
-      "session_breakdown": {},
-      "consecutive_absences": 0,
-      "attended_key_debates": true,
-      "zero_hour_presence": null,
-      "pattern_label": "Moderate",
-      "confidence": 0.7
-    },
-    "mgnrega": {
-      "employment_days_generated": null,
-      "total_expenditure": null,
-      "works_completed": null,
-      "works_in_progress": null,
-      "avg_wage_per_day": null,
-      "financial_year": "",
-      "confidence": 0.0,
-      "sources": []
-    },
-    "pm_kisan": {
-      "total_beneficiaries": null,
-      "amount_disbursed": null,
-      "installment_number": null,
-      "financial_year": "",
-      "confidence": 0.0,
-      "sources": []
+  "criminal_record": {
+   "total_cases": 0,
+   "serious_cases": 0,
+   "convictions": 0,
+   "pending_cases": 0,
+   "disposed_cases": 0,
+   "cases": [],
+   "source": "myneta",
+   "confidence": 0.7,
+   "sources": [
+    {
+     "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=970",
+     "source_name": "myneta",
+     "grade": "B",
+     "fetched_at": "2026-09-02T15:37:31.897139Z",
+     "notes": "MyNeta candidate affidavit data"
     }
+   ]
   },
-  "overall_confidence": 0.56,
-  "flags": [
+  "assets": {
+   "movable_assets": 0.0,
+   "immovable_assets": 0.0,
+   "total_assets": 19356558.0,
+   "liabilities": 56196.0,
+   "net_worth": 19300362.0,
+   "previous_total_assets": null,
+   "asset_year": null,
+   "previous_asset_year": null,
+   "source": "myneta",
+   "confidence": 0.8,
+   "sources": [
     {
-      "field": "mplads",
-      "issue": "Extremely low utilization rate — verify data",
-      "severity": "warning",
-      "suggestion": ""
+     "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=970",
+     "source_name": "myneta",
+     "grade": "B",
+     "fetched_at": "2026-08-22T20:01:55.771019Z",
+     "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
     },
     {
-      "field": "committees",
-      "issue": "No committee data found — Sansad profile may be unavailable",
-      "severity": "info",
-      "suggestion": ""
-    },
-    {
-      "field": "legislative",
-      "issue": "Low confidence in legislative effectiveness data",
-      "severity": "info",
-      "suggestion": ""
-    },
-    {
-      "field": "evidence_quality",
-      "issue": "Majority of data sources (3/4) are Grade D or E",
-      "severity": "info",
-      "suggestion": ""
-    },
-    {
-      "field": "mplads",
-      "issue": "CAG audit context for West Bengal: 7 relevant findings",
-      "severity": "info",
-      "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
+     "url": "https://www.myneta.info",
+     "source_name": "myneta",
+     "grade": "B",
+     "fetched_at": "2026-09-02T18:55:43.793885Z",
+     "notes": "restore note: 2026-09-02 Actions rescore received a non-data page for MyNeta from runner IPs; retained last-known-good affidavit figures (same 2024 affidavit)."
     }
+   ],
+   "annual_income": null,
+   "election_expenditure": null,
+   "wealth_percentile": 16.5,
+   "growth_ratio": null
+  },
+  "mplads": {
+   "entitled": 14.7,
+   "released": 14.7,
+   "sanctioned": 1.01,
+   "expended": 0.59,
+   "source": "esakshi",
+   "confidence": 0.9,
+   "sources": [
+    {
+     "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+     "source_name": "esakshi",
+     "grade": "A",
+     "fetched_at": "2026-05-23T17:51:45.896739Z",
+     "notes": "Official eSAKSHI REST API — Works: 26 recommended, 5 sanctioned, 0 completed"
+    },
+    {
+     "url": "https://mplads.mospi.gov.in",
+     "source_name": "esakshi",
+     "grade": "A",
+     "fetched_at": "2026-09-02T15:11:18.536410Z",
+     "notes": "restore note: 2026-09-02 rescore could not reach eSAKSHI from Actions runners; retained last-known-good MPLADS figures. eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+    },
+    {
+     "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+     "source_name": "data.gov.in",
+     "grade": "B",
+     "fetched_at": "2026-09-02T15:07:10.788662Z",
+     "notes": "restore note: 2026-09-02 rescore could not reach eSAKSHI from Actions runners; retained last-known-good MPLADS figures. MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+    },
+    {
+     "url": "https://dataful.in/datasets/18540/",
+     "source_name": "mplads_csv",
+     "grade": "E",
+     "fetched_at": "2026-09-02T15:07:10.786957Z",
+     "notes": "restore note: 2026-09-02 rescore could not reach eSAKSHI from Actions runners; retained last-known-good MPLADS figures. MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
+    },
+    {
+     "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+     "source_name": "esakshi",
+     "grade": "A",
+     "fetched_at": "2026-09-18T04:51:18.804536Z",
+     "notes": "Work-level backfill: 19 works (recommended/sanctioned/completed lifecycle)"
+    }
+   ],
+   "works": [
+    {
+     "work_id": "271710",
+     "description": "Construction of paver block road with drain from opposite of Assam More Pratik Automobile to the house of Tapas Sarkar, under Arabinda G.P, Jalpaiguri Sadar Block, Jalpaiguri",
+     "sector": "infrastructure",
+     "recommended_amount": 1825036.0,
+     "sanctioned_amount": 1825036.0,
+     "expended_amount": null,
+     "status": "sanctioned",
+     "district": "Jalpaiguri(Sc)",
+     "completion_date": null,
+     "source": {
+      "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+      "source_name": "esakshi",
+      "grade": "A",
+      "fetched_at": "2026-09-18T04:51:18.803340Z",
+      "notes": "Official eSAKSHI REST API - work-level reports"
+     },
+     "recommendation_date": "28-Feb-2026",
+     "sanction_date": "09-Jul-2026",
+     "executing_agency": "JALPAIGURI(DISTRICT MAGISTRATE JALPAIGURI_IDA)",
+     "average_rating": null,
+     "letter_no": "LN/MP244/2025-2026/106"
+    },
+    {
+     "work_id": "255786",
+     "description": "installation of solar highmast light at Dabgram 2 GP under Rajganj Panchayet Samiti",
+     "sector": "infrastructure",
+     "recommended_amount": 883125.0,
+     "sanctioned_amount": 883125.0,
+     "expended_amount": null,
+     "status": "sanctioned",
+     "district": "Jalpaiguri(Sc)",
+     "completion_date": null,
+     "source": {
+      "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+      "source_name": "esakshi",
+      "grade": "A",
+      "fetched_at": "2026-09-18T04:51:18.803340Z",
+      "notes": "Official eSAKSHI REST API - work-level reports"
+     },
+     "recommendation_date": "28-Dec-2025",
+     "sanction_date": "07-Jul-2026",
+     "executing_agency": "JALPAIGURI(DISTRICT MAGISTRATE JALPAIGURI_IDA)",
+     "average_rating": null,
+     "letter_no": "LN/MP244/2025-2026/102"
+    },
+    {
+     "work_id": "255785",
+     "description": "Installation of solar submersible for drinking water at kukurjan GP under Rajganj Panchayet samiti",
+     "sector": "infrastructure",
+     "recommended_amount": 940562.0,
+     "sanctioned_amount": 940562.0,
+     "expended_amount": null,
+     "status": "sanctioned",
+     "district": "Jalpaiguri(Sc)",
+     "completion_date": null,
+     "source": {
+      "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+      "source_name": "esakshi",
+      "grade": "A",
+      "fetched_at": "2026-09-18T04:51:18.803340Z",
+      "notes": "Official eSAKSHI REST API - work-level reports"
+     },
+     "recommendation_date": "28-Dec-2025",
+     "sanction_date": "07-Jul-2026",
+     "executing_agency": "JALPAIGURI(DISTRICT MAGISTRATE JALPAIGURI_IDA)",
+     "average_rating": null,
+     "letter_no": "LN/MP244/2025-2026/101"
+    },
+    {
+     "work_id": "255783",
+     "description": "Installation of solar submersible for drinking water at Boalmari Nandanpur GP under Sadar Panchayet Samiti Jalpaiguri",
+     "sector": "infrastructure",
+     "recommended_amount": 1885124.0,
+     "sanctioned_amount": 1885124.0,
+     "expended_amount": null,
+     "status": "sanctioned",
+     "district": "Jalpaiguri(Sc)",
+     "completion_date": null,
+     "source": {
+      "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+      "source_name": "esakshi",
+      "grade": "A",
+      "fetched_at": "2026-09-18T04:51:18.803340Z",
+      "notes": "Official eSAKSHI REST API - work-level reports"
+     },
+     "recommendation_date": "28-Dec-2025",
+     "sanction_date": "24-Jun-2026",
+     "executing_agency": "JALPAIGURI(DISTRICT MAGISTRATE JALPAIGURI_IDA)",
+     "average_rating": null,
+     "letter_no": "LN/MP244/2025-2026/99"
+    },
+    {
+     "work_id": "307965",
+     "description": "supply and installation of stand alone solar PV high mast light 10.5 M height at Nagar Berubari GP under Sadar PS Jalpaiguri",
+     "sector": "infrastructure",
+     "recommended_amount": 2060625.0,
+     "sanctioned_amount": 2060625.0,
+     "expended_amount": null,
+     "status": "recommended",
+     "district": "Jalpaiguri(Sc)",
+     "completion_date": null,
+     "source": {
+      "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+      "source_name": "esakshi",
+      "grade": "A",
+      "fetched_at": "2026-09-18T04:51:18.803340Z",
+      "notes": "Official eSAKSHI REST API - work-level reports"
+     },
+     "recommendation_date": "25-Aug-2026",
+     "sanction_date": null,
+     "executing_agency": "JALPAIGURI(DISTRICT MAGISTRATE JALPAIGURI_IDA)",
+     "average_rating": null,
+     "letter_no": "LN/MP244/2026-2027/107"
+    },
+    {
+     "work_id": "221073",
+     "description": "installation of solar street light at gadheyarkuthi GP under dhupguri PS jalpaiguri",
+     "sector": "infrastructure",
+     "recommended_amount": 135856.0,
+     "sanctioned_amount": 135856.0,
+     "expended_amount": null,
+     "status": "sanctioned",
+     "district": "Jalpaiguri(Sc)",
+     "completion_date": null,
+     "source": {
+      "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+      "source_name": "esakshi",
+      "grade": "A",
+      "fetched_at": "2026-09-18T04:51:18.803340Z",
+      "notes": "Official eSAKSHI REST API - work-level reports"
+     },
+     "recommendation_date": "22-Jul-2025",
+     "sanction_date": "07-Jul-2026",
+     "executing_agency": "JALPAIGURI(DISTRICT MAGISTRATE JALPAIGURI_IDA)",
+     "average_rating": null,
+     "letter_no": "LN/MP244/2025-2026/90"
+    },
+    {
+     "work_id": "221072",
+     "description": "installation of solar submersible for drinking water at gadheyarkuti gp under dhupguri, jalpaiguri",
+     "sector": "infrastructure",
+     "recommended_amount": 1881124.0,
+     "sanctioned_amount": 1881124.0,
+     "expended_amount": null,
+     "status": "sanctioned",
+     "district": "Jalpaiguri(Sc)",
+     "completion_date": null,
+     "source": {
+      "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+      "source_name": "esakshi",
+      "grade": "A",
+      "fetched_at": "2026-09-18T04:51:18.803340Z",
+      "notes": "Official eSAKSHI REST API - work-level reports"
+     },
+     "recommendation_date": "22-Jul-2025",
+     "sanction_date": "07-Jul-2026",
+     "executing_agency": "JALPAIGURI(DISTRICT MAGISTRATE JALPAIGURI_IDA)",
+     "average_rating": null,
+     "letter_no": "LN/MP244/2025-2026/90"
+    },
+    {
+     "work_id": "193062",
+     "description": "solar street lights 62 nos. at Bahadur GP under Sadar Panchayat Samiti",
+     "sector": "infrastructure",
+     "recommended_amount": 2105768.0,
+     "sanctioned_amount": 2105768.0,
+     "expended_amount": 2105763.0,
+     "status": "completed",
+     "district": "Jalpaiguri(Sc)",
+     "completion_date": "15-Sep-2026",
+     "source": {
+      "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+      "source_name": "esakshi",
+      "grade": "A",
+      "fetched_at": "2026-09-18T04:51:18.803340Z",
+      "notes": "Official eSAKSHI REST API - work-level reports"
+     },
+     "recommendation_date": "21-Apr-2025",
+     "sanction_date": "18-Jun-2026",
+     "executing_agency": "JALPAIGURI(DISTRICT MAGISTRATE JALPAIGURI_IDA)",
+     "average_rating": null,
+     "letter_no": "LN/MP244/2025-2026/86"
+    },
+    {
+     "work_id": "193061",
+     "description": "solar street lights 60 nos. at Dabgram-2 GP under Rajganj Panchayat samiti",
+     "sector": "infrastructure",
+     "recommended_amount": 2037840.0,
+     "sanctioned_amount": 2037840.0,
+     "expended_amount": 2037835.0,
+     "status": "completed",
+     "district": "Jalpaiguri(Sc)",
+     "completion_date": "14-Sep-2026",
+     "source": {
+      "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+      "source_name": "esakshi",
+      "grade": "A",
+      "fetched_at": "2026-09-18T04:51:18.803340Z",
+      "notes": "Official eSAKSHI REST API - work-level reports"
+     },
+     "recommendation_date": "21-Apr-2025",
+     "sanction_date": "18-Jun-2026",
+     "executing_agency": "JALPAIGURI(DISTRICT MAGISTRATE JALPAIGURI_IDA)",
+     "average_rating": null,
+     "letter_no": "LN/MP244/2025-2026/85"
+    },
+    {
+     "work_id": "193057",
+     "description": "solar highmast lights 4 nos. at Boalmari Nandanpur GP under Sadar Panchayat Samiti",
+     "sector": "infrastructure",
+     "recommended_amount": 1430888.0,
+     "sanctioned_amount": 1430888.0,
+     "expended_amount": null,
+     "status": "sanctioned",
+     "district": "Jalpaiguri(Sc)",
+     "completion_date": null,
+     "source": {
+      "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+      "source_name": "esakshi",
+      "grade": "A",
+      "fetched_at": "2026-09-18T04:51:18.803340Z",
+      "notes": "Official eSAKSHI REST API - work-level reports"
+     },
+     "recommendation_date": "21-Apr-2025",
+     "sanction_date": "10-Jul-2025",
+     "executing_agency": "JALPAIGURI(DISTRICT MAGISTRATE JALPAIGURI_IDA)",
+     "average_rating": null,
+     "letter_no": "LN/MP244/2025-2026/84"
+    },
+    {
+     "work_id": "193056",
+     "description": "solar street light 17 nos. at Boalmari nandanpur GP under sadar Panchayat Samiti",
+     "sector": "infrastructure",
+     "recommended_amount": 577388.0,
+     "sanctioned_amount": 577388.0,
+     "expended_amount": null,
+     "status": "sanctioned",
+     "district": "Jalpaiguri(Sc)",
+     "completion_date": null,
+     "source": {
+      "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+      "source_name": "esakshi",
+      "grade": "A",
+      "fetched_at": "2026-09-18T04:51:18.803340Z",
+      "notes": "Official eSAKSHI REST API - work-level reports"
+     },
+     "recommendation_date": "21-Apr-2025",
+     "sanction_date": "10-Jul-2025",
+     "executing_agency": "JALPAIGURI(DISTRICT MAGISTRATE JALPAIGURI_IDA)",
+     "average_rating": null,
+     "letter_no": "LN/MP244/2025-2026/84"
+    },
+    {
+     "work_id": "193050",
+     "description": "solar lights 62 nos. at Berubari GP under Sadar Panchayat Samiti",
+     "sector": "infrastructure",
+     "recommended_amount": 2105768.0,
+     "sanctioned_amount": 2105768.0,
+     "expended_amount": null,
+     "status": "sanctioned",
+     "district": "Jalpaiguri(Sc)",
+     "completion_date": null,
+     "source": {
+      "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+      "source_name": "esakshi",
+      "grade": "A",
+      "fetched_at": "2026-09-18T04:51:18.803340Z",
+      "notes": "Official eSAKSHI REST API - work-level reports"
+     },
+     "recommendation_date": "21-Apr-2025",
+     "sanction_date": "10-Jul-2025",
+     "executing_agency": "JALPAIGURI(DISTRICT MAGISTRATE JALPAIGURI_IDA)",
+     "average_rating": null,
+     "letter_no": "LN/MP244/2025-2026/83"
+    },
+    {
+     "work_id": "227783",
+     "description": "150 Nos. (MS) Steel Desk and Benches at Netaji Vidyapith High School (H.S) at Toralpara, Dhapganj, Kharia, Jalpaiguri",
+     "sector": "education",
+     "recommended_amount": 985424.0,
+     "sanctioned_amount": 985424.0,
+     "expended_amount": null,
+     "status": "sanctioned",
+     "district": "Jalpaiguri(Sc)",
+     "completion_date": null,
+     "source": {
+      "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+      "source_name": "esakshi",
+      "grade": "A",
+      "fetched_at": "2026-09-18T04:51:18.803340Z",
+      "notes": "Official eSAKSHI REST API - work-level reports"
+     },
+     "recommendation_date": "20-Aug-2025",
+     "sanction_date": "13-Jul-2026",
+     "executing_agency": "JALPAIGURI(DISTRICT MAGISTRATE JALPAIGURI_IDA)",
+     "average_rating": null,
+     "letter_no": "LN/MP244/2025-2026/95"
+    },
+    {
+     "work_id": "227781",
+     "description": "construction of paver block compound over the ground and primary access point at Budha Bharati School, at Haiderpara, Ward No. 40,Siliguri in the District of Jalpaiguri",
+     "sector": "education",
+     "recommended_amount": 1106535.0,
+     "sanctioned_amount": 1106535.0,
+     "expended_amount": null,
+     "status": "sanctioned",
+     "district": "Jalpaiguri(Sc)",
+     "completion_date": null,
+     "source": {
+      "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+      "source_name": "esakshi",
+      "grade": "A",
+      "fetched_at": "2026-09-18T04:51:18.803340Z",
+      "notes": "Official eSAKSHI REST API - work-level reports"
+     },
+     "recommendation_date": "20-Aug-2025",
+     "sanction_date": "23-Jul-2026",
+     "executing_agency": "JALPAIGURI(DISTRICT MAGISTRATE JALPAIGURI_IDA)",
+     "average_rating": null,
+     "letter_no": "LN/MP244/2025-2026/94"
+    },
+    {
+     "work_id": "209004",
+     "description": "construction of paver block road with guard wall from lt. mohadev pal house to naru saha house via ajay dey house to subodh basak house, vivekananda para, ward no 24, jalpaiguri municipality",
+     "sector": "infrastructure",
+     "recommended_amount": 3173020.0,
+     "sanctioned_amount": 3173020.0,
+     "expended_amount": 3173020.0,
+     "status": "completed",
+     "district": "Jalpaiguri(Sc)",
+     "completion_date": "23-Jul-2026",
+     "source": {
+      "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+      "source_name": "esakshi",
+      "grade": "A",
+      "fetched_at": "2026-09-18T04:51:18.803340Z",
+      "notes": "Official eSAKSHI REST API - work-level reports"
+     },
+     "recommendation_date": "16-Jun-2025",
+     "sanction_date": "24-Nov-2025",
+     "executing_agency": "JALPAIGURI(DISTRICT MAGISTRATE JALPAIGURI_IDA)",
+     "average_rating": null,
+     "letter_no": "LN/MP244/2025-2026/88"
+    },
+    {
+     "work_id": "209003",
+     "description": "construction of paver block road with gaurd wall from Ashnivally to Deshbandhu para primary RR School, ward no 24 jalpaiguri municipality",
+     "sector": "education",
+     "recommended_amount": 2690539.0,
+     "sanctioned_amount": 2690539.0,
+     "expended_amount": 2690539.0,
+     "status": "completed",
+     "district": "Jalpaiguri(Sc)",
+     "completion_date": "23-Jul-2026",
+     "source": {
+      "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+      "source_name": "esakshi",
+      "grade": "A",
+      "fetched_at": "2026-09-18T04:51:18.803340Z",
+      "notes": "Official eSAKSHI REST API - work-level reports"
+     },
+     "recommendation_date": "16-Jun-2025",
+     "sanction_date": "24-Nov-2025",
+     "executing_agency": "JALPAIGURI(DISTRICT MAGISTRATE JALPAIGURI_IDA)",
+     "average_rating": null,
+     "letter_no": "LN/MP244/2025-2026/88"
+    },
+    {
+     "work_id": "257049",
+     "description": "Installation of solar submersible for drinking water at Bahadur GP under Sadar Panchayet samiti, Jalpaiguri",
+     "sector": "infrastructure",
+     "recommended_amount": 1881124.0,
+     "sanctioned_amount": 1881124.0,
+     "expended_amount": null,
+     "status": "sanctioned",
+     "district": "Jalpaiguri(Sc)",
+     "completion_date": null,
+     "source": {
+      "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+      "source_name": "esakshi",
+      "grade": "A",
+      "fetched_at": "2026-09-18T04:51:18.803340Z",
+      "notes": "Official eSAKSHI REST API - work-level reports"
+     },
+     "recommendation_date": "04-Jan-2026",
+     "sanction_date": "30-Jun-2026",
+     "executing_agency": "JALPAIGURI(DISTRICT MAGISTRATE JALPAIGURI_IDA)",
+     "average_rating": null,
+     "letter_no": "LN/MP244/2025-2026/105"
+    },
+    {
+     "work_id": "257048",
+     "description": "Installation of solar street lights at Dabgram 1 GP under Rajganj Panchayet Samiti, Jalpaiguri",
+     "sector": "infrastructure",
+     "recommended_amount": 2075586.0,
+     "sanctioned_amount": 2075586.0,
+     "expended_amount": 2075579.0,
+     "status": "completed",
+     "district": "Jalpaiguri(Sc)",
+     "completion_date": "14-Sep-2026",
+     "source": {
+      "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+      "source_name": "esakshi",
+      "grade": "A",
+      "fetched_at": "2026-09-18T04:51:18.803340Z",
+      "notes": "Official eSAKSHI REST API - work-level reports"
+     },
+     "recommendation_date": "04-Jan-2026",
+     "sanction_date": "24-Jun-2026",
+     "executing_agency": "JALPAIGURI(DISTRICT MAGISTRATE JALPAIGURI_IDA)",
+     "average_rating": null,
+     "letter_no": "LN/MP244/2025-2026/104"
+    },
+    {
+     "work_id": "257047",
+     "description": "Installation of solar submersible for drinking water at nagar berubari GP under sadar panchayet samiti, Jalpaiguri",
+     "sector": "infrastructure",
+     "recommended_amount": 2821686.0,
+     "sanctioned_amount": 2821686.0,
+     "expended_amount": null,
+     "status": "sanctioned",
+     "district": "Jalpaiguri(Sc)",
+     "completion_date": null,
+     "source": {
+      "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+      "source_name": "esakshi",
+      "grade": "A",
+      "fetched_at": "2026-09-18T04:51:18.803340Z",
+      "notes": "Official eSAKSHI REST API - work-level reports"
+     },
+     "recommendation_date": "04-Jan-2026",
+     "sanction_date": "24-Jun-2026",
+     "executing_agency": "JALPAIGURI(DISTRICT MAGISTRATE JALPAIGURI_IDA)",
+     "average_rating": null,
+     "letter_no": "LN/MP244/2025-2026/103"
+    }
+   ],
+   "works_count": 19,
+   "esakshi_coverage_start": "2023-04-01",
+   "period_data": [],
+   "cumulative_entitled": null,
+   "cumulative_released": null,
+   "cumulative_expended": null,
+   "includes_covid_suspension": false,
+   "data_period_note": "",
+   "utilization_rate": 4.013605442176871
+  },
+  "parliament_activity": {
+   "attendance_percentage": 75.0,
+   "questions_asked": 53,
+   "debates_participated": 5,
+   "private_bills_introduced": 0,
+   "is_minister": false,
+   "source": "prs",
+   "confidence": 0.8,
+   "sources": [
+    {
+     "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
+     "source_name": "prs_github_csv",
+     "grade": "C",
+     "fetched_at": "2026-09-02T15:07:10.786202Z",
+     "notes": "PRS India GitHub CSV - 18th Lok Sabha"
+    }
+   ],
+   "focus_topics": [],
+   "notable_questions": [],
+   "voting_record": []
+  },
+  "news_allegations": [
+   {
+    "headline": "Jalpaiguri MP seeks Centre’s intervention to operationalise super-speciality facilities at North Bengal Medical College - The Statesman",
+    "source": "The Statesman",
+    "severity": "low",
+    "verified": false,
+    "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOUHBVdV9qRm5TUWw2RHhUeEhsaG1WTjd1LXlYYTFjYUcxVGxsQjRqcUliTE1lYXprRnhBNmFFdzl2elVXS0lLUm1VWU1EVmlmLXVrVzU5OWtVck0zc2wwX0pLeXJ4Z1gwcE16U1NGRnRidWl6Q1BSWWwtZ3M4LXA2bGFId0hwQUYtajRmWXVlNXhZaWQzZ3hTR29ISDFCMG5XTVNRelZYX2E3UEpWaEZYVVZJbFRSTXlkSWFhSkYxTnVxYlZrc21jd2VmRXZFQmhKeC1fSnFva3d0NThDZDJiOEx1c2pkRndHTW92akNyUi1QS0xOVUhoV04xNm9LRXNFcEpzRDloUG5OZ9IBjwJBVV95cUxQek5XSEZONWVtOVlnc1hTRWJQMU5TZ1ZfTXJvS0xkZjZWU05ZZnRDZy03V2NEOTJ3Umo3VlRiQUNvcnFqWWFyMi14T3NQV1RlX3ZUOUhRcTYzRGZVS3FQdmFyVkhsa0x2WHdWZUx0Y0VmbzF6TEVFVHlCTmVPQXdWSGlrTC1xemR1MjFkOWRTQzJFNGYwaGtsZ3drbVlhaklGSHQ0UWZBUEZKbFpZN3kwRi10TUlwZ0xEeG5hbXlJRDJPODF0WmFGVmJNWkFnOERYd1p0aDBHUkVmblhaY1V2aHp1OWR6TjNDSDFEMnZBZ0hWcGJjOE1LVnlwZ3JHWVVPZ1ZfTFZ6dnVyOG5obTVz?oc=5",
+    "sentiment": "neutral"
+   },
+   {
+    "headline": "Brought Leaf Factories To Announce Lifting Tea Leaf Procurement Ban Soon: Jalpaiguri MP - ETV Bharat",
+    "source": "ETV Bharat",
+    "severity": "low",
+    "verified": false,
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVmpQVFdjMEd3VFFwY3dZWFRtNllmZDhjMEl3eGpMdk51SjRrQndfUWNGdlBXMHFyXzlFclFoRHlzSFhyb3I5ZXhJb3V3dVpBOE5JMHNqOVQ5UlZrbURFdGlGSnc2cmVCaThFRXlQbFg5cXdsWFRkUC0yWUlsNlBKSW04Z3dQUC1QVEUxaGlheTJPYXZkVkVKOXJPbVZaOExOMnZfc3JwQXRiSS1aalM2TVV0T1XSAboBQVVfeXFMTXJDa2VwbmpSTXZmX0g1LWM1X0ozYmRmczNMRDYxSHNyYU0wQWpSUTFiZ3l1dGtqRVZxOW5pWlV5THdBTVJQMWpObksyM2hzdkFBUlpPRkNuZ2JyVlBmRjI4RDVTbDV4U1I3UFoteGR6X1hQTWNGcnQ2a21rWWZqdFNXUEVaMWp2YnRadWJ0ckZoWnItVWM5a0lzQ0RiUE1acnFPajlzMlB1dkVmNTR3VGhiLXk1QW5fb3ZB?oc=5",
+    "sentiment": "neutral"
+   },
+   {
+    "headline": "Jalpaiguri MP Jayanta Kumar Roy reviews progress of NJP railway station redevelopment project - siliguritimes.com",
+    "source": "siliguritimes.com",
+    "severity": "low",
+    "verified": false,
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPb1FFMzBKYWpoYnVLNHF4Vjd3ZkpSZm5ZblpWb1N2R1dabXN5a0RLbl9heE1YVlRENUdGSmVRZGVHNTlJU3E2cFRrS2REWEVvZ0JqSXhBVjBweGRxOEtpOWpUTVZKdDNTY0Z6dnhnQ1BmcGdJWjFsUGtZakJ1MTB4a0w1ZFpDRUE2ell1VTJILWtRczl6WmVpajY1NzVMb29fdnZaR3FobnBYbDFpYTZEVGFsbUU4WHgxY29mcw?oc=5",
+    "sentiment": "positive"
+   },
+   {
+    "headline": "New Jalpaiguri set to emerge as major railway hub, says MP - MillenniumPost",
+    "source": "MillenniumPost",
+    "severity": "low",
+    "verified": false,
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbXJjSjdId0w4Yk02OHMwd3h3cUw2b0JodUxzelJkdURKM0hCSEotQ2ZWUjVOc1c3Qm1uZE05UnVGSUtyek9PSWppZmpoZVBOWm9zbkFKbllRbDN1M2JNQVVGcTNWLVdSLUIyVWxNd0ZTWEhYVXBXWkpBU0pFVC1WanhpRE0xNXZlMnVyNWRFSzZwOWRMOGl1RW8yNXRPd2tLV1ZV0gGoAUFVX3lxTE1uUHlKckczVVNMb3Y3UmNKLWpzQ1ZINTNDR0RDQW5YTFd4Z2NnNFg3UlNTNmxfVTlaV2ljd2J6R2I0SHNscjNBQmRwOUNQQzlkWlFLcXJjdEs2eFhHMXkteVBkSF9QeDhVZldGWG1Sd1Eyc0lGQ1FUbzZTM0c3SUFidVpkUmVsVDBnSkJhY3l6bktPQ0E0MDZpNF9VZ1ZlWnctOHIwcEdMSg?oc=5",
+    "sentiment": "neutral"
+   },
+   {
+    "headline": "ETV Bharat Impact | Bengal Bought Leaf Factories Resume Accepting Green Tea Leaves Without MRL Reports - ETV Bharat",
+    "source": "ETV Bharat",
+    "severity": "low",
+    "verified": false,
+    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQQkM5cWZ2Tk1sVU9YZWZ0UWhxVlRBNmRUUGFfWDBDWEt6MG1qUjQwU3piN0d4QnM1bVZhQVNYQVZzSHhWbjlraU8yRjJvdW5JVGphTVU1dUdPYjlqS21UT2pBQmd1REpXMVpyeDY1UmRRX041RFFVd1NsNWpveEgzcjhFSWQ4d010YlVaVE9UQ2ZXUDhvOWI2ejB3OE5BS3U2Zk9NOE85MHpvZktQMkdEV0oxRmJOeWlVV2JYWWpYLUlxa183VXM4VVZ2MlMyNjRuZEVYVFctUGowa0FtVFlvUFNaNUXSAeoBQVVfeXFMTmVKb0VuSHNjUy04ZmpGQjBpbW5QUE9uVWZjWWc0Q3B5ZkhoZnAxTVNPWjd5Z21XdG9ET3AzTGE1eF9Pa1hZd1FQYmd1RWZMbERHcUo5VDZ6VTBGV1F6WWdyWEo0OXJIWC1OYVNobE50VFl2T3FETDV5M0tYS1FlSU9Vdy1QX0h6MnAxWFhSZnl4N3REakFrWjhlUDVNOFVCTkgxLW1idjhpWElzS2FzOXhtMmoxR3lDMWxNNTU3ZWhWVzlMenhTVjRHaEp4N2x4Z1pZcVdaU3duOUp1ZEpLOXFpaXNkYWZWdVZR?oc=5",
+    "sentiment": "neutral"
+   }
   ],
-  "cross_reference_notes": "No criminal cases declared. Declared assets: Rs 19,356,558. MPLADS utilization: 4.0%. Parliament attendance: 75.0%. Questions asked: 53. Debates participated: 5. 1 warning(s) noted.",
-  "validated_at": "2026-09-14T10:29:41.979910Z"
+  "raw_notes": "",
+  "sources_consulted": [
+   "prs",
+   "social_media",
+   "news",
+   "cag"
+  ],
+  "collected_at": "2026-09-02T15:11:18.537000Z",
+  "evidence_summary": {
+   "parliament": "C",
+   "committees": "E",
+   "legislative": "E",
+   "accessibility": "D"
+  },
+  "cag_findings": [
+   {
+    "report_title": "Performance Audit of MPLADS",
+    "report_number": "31 of 2010",
+    "year": 2010,
+    "finding": "Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states",
+    "category": "idle_funds",
+    "state": "national",
+    "severity": "high",
+    "source": {
+     "url": "https://cag.gov.in/en/audit-report/details/2341",
+     "source_name": "cag",
+     "grade": "A",
+     "fetched_at": "2026-09-18T06:38:49.813620Z",
+     "notes": "CAG Report No. 31 of 2010"
+    }
+   },
+   {
+    "report_title": "Performance Audit of MPLADS",
+    "report_number": "31 of 2010",
+    "year": 2010,
+    "finding": "Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents",
+    "category": "bogus_ucs",
+    "state": "national",
+    "severity": "high",
+    "source": {
+     "url": "https://cag.gov.in/en/audit-report/details/2341",
+     "source_name": "cag",
+     "grade": "A",
+     "fetched_at": "2026-09-18T06:38:49.813650Z",
+     "notes": "CAG Report No. 31 of 2010"
+    }
+   },
+   {
+    "report_title": "Performance Audit of MPLADS",
+    "report_number": "31 of 2010",
+    "year": 2010,
+    "finding": "Incomplete works: 18% of sampled works were abandoned or incomplete",
+    "category": "incomplete_works",
+    "state": "national",
+    "severity": "medium",
+    "source": {
+     "url": "https://cag.gov.in/en/audit-report/details/2341",
+     "source_name": "cag",
+     "grade": "A",
+     "fetched_at": "2026-09-18T06:38:49.813659Z",
+     "notes": "CAG Report No. 31 of 2010"
+    }
+   },
+   {
+    "report_title": "Follow-up Audit of MPLADS",
+    "report_number": "9 of 2013",
+    "year": 2013,
+    "finding": "Persistent idle funds: District authorities retained Rs 2,100 crore in unspent balances",
+    "category": "idle_funds",
+    "state": "national",
+    "severity": "high",
+    "source": {
+     "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
+     "source_name": "cag",
+     "grade": "A",
+     "fetched_at": "2026-09-18T06:38:49.813665Z",
+     "notes": "CAG Report No. 9 of 2013"
+    }
+   },
+   {
+    "report_title": "Performance Audit of MPLADS (2012-17)",
+    "report_number": "CAG Performance Report 2017",
+    "year": 2017,
+    "finding": "Only 53% of recommended works completed within the audit period",
+    "category": "incomplete_works",
+    "state": "national",
+    "severity": "medium",
+    "source": {
+     "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+     "source_name": "cag",
+     "grade": "A",
+     "fetched_at": "2026-09-18T06:38:49.813672Z",
+     "notes": "CAG Report No. CAG Performance Report 2017"
+    }
+   },
+   {
+    "report_title": "Performance Audit of MPLADS (2012-17)",
+    "report_number": "CAG Performance Report 2017",
+    "year": 2017,
+    "finding": "Rs 293 crore expended on inadmissible works not covered under MPLADS guidelines",
+    "category": "irregular_works",
+    "state": "national",
+    "severity": "high",
+    "source": {
+     "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+     "source_name": "cag",
+     "grade": "A",
+     "fetched_at": "2026-09-18T06:38:49.813677Z",
+     "notes": "CAG Report No. CAG Performance Report 2017"
+    }
+   },
+   {
+    "report_title": "Performance Audit of MPLADS (2012-17)",
+    "report_number": "CAG Performance Report 2017",
+    "year": 2017,
+    "finding": "Asset registers not maintained by district authorities in 40% of sampled districts",
+    "category": "poor_records",
+    "state": "national",
+    "severity": "medium",
+    "source": {
+     "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+     "source_name": "cag",
+     "grade": "A",
+     "fetched_at": "2026-09-18T06:38:49.813701Z",
+     "notes": "CAG Report No. CAG Performance Report 2017"
+    }
+   }
+  ],
+  "compensation": {
+   "salary_per_month": 100000.0,
+   "constituency_allowance_per_month": 70000.0,
+   "office_expense_allowance_per_month": 60000.0,
+   "sumptuary_allowance_per_month": 15000.0,
+   "total_monthly": 245000.0,
+   "total_annual": 2940000.0,
+   "effective_from": "2018-04-01",
+   "source_notification": "Members of Parliament (Amendment) Act, 2018; The Salary, Allowances and Pension of Members of Parliament Act, 1954 (as amended). Gazette of India, Extraordinary, Part II, Section 1.",
+   "notes": "In addition to cash compensation, MPs receive non-cash perks including: free AC First Class rail travel, 34 annual air journeys, furnished office space, medical facilities at government hospitals, and housing or HRA (Rs 2,00,000/month if no government accommodation). Post-retirement pension: Rs 29,000/month (base) + Rs 1,500 per additional year served."
+  },
+  "sagy": [],
+  "committees": {
+   "memberships": [],
+   "total_committees": 0,
+   "leadership_roles": 0,
+   "confidence": 0.0,
+   "sources": []
+  },
+  "social_media": {
+   "profiles": [
+    {
+     "platform": "twitter",
+     "handle": "http://www.twitter.com/Jayanta Roy JPU",
+     "url": "https://x.com/http://www.twitter.com/Jayanta Roy JPU",
+     "followers": null,
+     "verified": false,
+     "active": true
+    },
+    {
+     "platform": "facebook",
+     "handle": "http://www.facebook.com/jkumroy",
+     "url": "https://facebook.com/http://www.facebook.com/jkumroy",
+     "followers": null,
+     "verified": false,
+     "active": true
+    }
+   ],
+   "total_platforms": 2,
+   "total_followers": 0,
+   "confidence": 0.7,
+   "sources": [
+    {
+     "url": "",
+     "source_name": "social_media_lookup",
+     "grade": "D",
+     "fetched_at": "2026-09-02T15:07:38.222351Z",
+     "notes": "Social media handle lookup"
+    }
+   ]
+  },
+  "news_sentiment": {
+   "total_articles": 10,
+   "positive": 1,
+   "negative": 0,
+   "neutral": 9,
+   "top_headlines": [
+    {
+     "headline": "Jalpaiguri MP seeks Centre’s intervention to operationalise super-speciality facilities at North Bengal Medical College - The Statesman",
+     "source": "The Statesman",
+     "severity": "low",
+     "verified": false,
+     "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOUHBVdV9qRm5TUWw2RHhUeEhsaG1WTjd1LXlYYTFjYUcxVGxsQjRqcUliTE1lYXprRnhBNmFFdzl2elVXS0lLUm1VWU1EVmlmLXVrVzU5OWtVck0zc2wwX0pLeXJ4Z1gwcE16U1NGRnRidWl6Q1BSWWwtZ3M4LXA2bGFId0hwQUYtajRmWXVlNXhZaWQzZ3hTR29ISDFCMG5XTVNRelZYX2E3UEpWaEZYVVZJbFRSTXlkSWFhSkYxTnVxYlZrc21jd2VmRXZFQmhKeC1fSnFva3d0NThDZDJiOEx1c2pkRndHTW92akNyUi1QS0xOVUhoV04xNm9LRXNFcEpzRDloUG5OZ9IBjwJBVV95cUxQek5XSEZONWVtOVlnc1hTRWJQMU5TZ1ZfTXJvS0xkZjZWU05ZZnRDZy03V2NEOTJ3Umo3VlRiQUNvcnFqWWFyMi14T3NQV1RlX3ZUOUhRcTYzRGZVS3FQdmFyVkhsa0x2WHdWZUx0Y0VmbzF6TEVFVHlCTmVPQXdWSGlrTC1xemR1MjFkOWRTQzJFNGYwaGtsZ3drbVlhaklGSHQ0UWZBUEZKbFpZN3kwRi10TUlwZ0xEeG5hbXlJRDJPODF0WmFGVmJNWkFnOERYd1p0aDBHUkVmblhaY1V2aHp1OWR6TjNDSDFEMnZBZ0hWcGJjOE1LVnlwZ3JHWVVPZ1ZfTFZ6dnVyOG5obTVz?oc=5",
+     "sentiment": "neutral"
+    },
+    {
+     "headline": "Brought Leaf Factories To Announce Lifting Tea Leaf Procurement Ban Soon: Jalpaiguri MP - ETV Bharat",
+     "source": "ETV Bharat",
+     "severity": "low",
+     "verified": false,
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVmpQVFdjMEd3VFFwY3dZWFRtNllmZDhjMEl3eGpMdk51SjRrQndfUWNGdlBXMHFyXzlFclFoRHlzSFhyb3I5ZXhJb3V3dVpBOE5JMHNqOVQ5UlZrbURFdGlGSnc2cmVCaThFRXlQbFg5cXdsWFRkUC0yWUlsNlBKSW04Z3dQUC1QVEUxaGlheTJPYXZkVkVKOXJPbVZaOExOMnZfc3JwQXRiSS1aalM2TVV0T1XSAboBQVVfeXFMTXJDa2VwbmpSTXZmX0g1LWM1X0ozYmRmczNMRDYxSHNyYU0wQWpSUTFiZ3l1dGtqRVZxOW5pWlV5THdBTVJQMWpObksyM2hzdkFBUlpPRkNuZ2JyVlBmRjI4RDVTbDV4U1I3UFoteGR6X1hQTWNGcnQ2a21rWWZqdFNXUEVaMWp2YnRadWJ0ckZoWnItVWM5a0lzQ0RiUE1acnFPajlzMlB1dkVmNTR3VGhiLXk1QW5fb3ZB?oc=5",
+     "sentiment": "neutral"
+    },
+    {
+     "headline": "Jalpaiguri MP Jayanta Kumar Roy reviews progress of NJP railway station redevelopment project - siliguritimes.com",
+     "source": "siliguritimes.com",
+     "severity": "low",
+     "verified": false,
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPb1FFMzBKYWpoYnVLNHF4Vjd3ZkpSZm5ZblpWb1N2R1dabXN5a0RLbl9heE1YVlRENUdGSmVRZGVHNTlJU3E2cFRrS2REWEVvZ0JqSXhBVjBweGRxOEtpOWpUTVZKdDNTY0Z6dnhnQ1BmcGdJWjFsUGtZakJ1MTB4a0w1ZFpDRUE2ell1VTJILWtRczl6WmVpajY1NzVMb29fdnZaR3FobnBYbDFpYTZEVGFsbUU4WHgxY29mcw?oc=5",
+     "sentiment": "positive"
+    },
+    {
+     "headline": "New Jalpaiguri set to emerge as major railway hub, says MP - MillenniumPost",
+     "source": "MillenniumPost",
+     "severity": "low",
+     "verified": false,
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbXJjSjdId0w4Yk02OHMwd3h3cUw2b0JodUxzelJkdURKM0hCSEotQ2ZWUjVOc1c3Qm1uZE05UnVGSUtyek9PSWppZmpoZVBOWm9zbkFKbllRbDN1M2JNQVVGcTNWLVdSLUIyVWxNd0ZTWEhYVXBXWkpBU0pFVC1WanhpRE0xNXZlMnVyNWRFSzZwOWRMOGl1RW8yNXRPd2tLV1ZV0gGoAUFVX3lxTE1uUHlKckczVVNMb3Y3UmNKLWpzQ1ZINTNDR0RDQW5YTFd4Z2NnNFg3UlNTNmxfVTlaV2ljd2J6R2I0SHNscjNBQmRwOUNQQzlkWlFLcXJjdEs2eFhHMXkteVBkSF9QeDhVZldGWG1Sd1Eyc0lGQ1FUbzZTM0c3SUFidVpkUmVsVDBnSkJhY3l6bktPQ0E0MDZpNF9VZ1ZlWnctOHIwcEdMSg?oc=5",
+     "sentiment": "neutral"
+    },
+    {
+     "headline": "ETV Bharat Impact | Bengal Bought Leaf Factories Resume Accepting Green Tea Leaves Without MRL Reports - ETV Bharat",
+     "source": "ETV Bharat",
+     "severity": "low",
+     "verified": false,
+     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQQkM5cWZ2Tk1sVU9YZWZ0UWhxVlRBNmRUUGFfWDBDWEt6MG1qUjQwU3piN0d4QnM1bVZhQVNYQVZzSHhWbjlraU8yRjJvdW5JVGphTVU1dUdPYjlqS21UT2pBQmd1REpXMVpyeDY1UmRRX041RFFVd1NsNWpveEgzcjhFSWQ4d010YlVaVE9UQ2ZXUDhvOWI2ejB3OE5BS3U2Zk9NOE85MHpvZktQMkdEV0oxRmJOeWlVV2JYWWpYLUlxa183VXM4VVZ2MlMyNjRuZEVYVFctUGowa0FtVFlvUFNaNUXSAeoBQVVfeXFMTmVKb0VuSHNjUy04ZmpGQjBpbW5QUE9uVWZjWWc0Q3B5ZkhoZnAxTVNPWjd5Z21XdG9ET3AzTGE1eF9Pa1hZd1FQYmd1RWZMbERHcUo5VDZ6VTBGV1F6WWdyWEo0OXJIWC1OYVNobE50VFl2T3FETDV5M0tYS1FlSU9Vdy1QX0h6MnAxWFhSZnl4N3REakFrWjhlUDVNOFVCTkgxLW1idjhpWElzS2FzOXhtMmoxR3lDMWxNNTU3ZWhWVzlMenhTVjRHaEp4N2x4Z1pZcVdaU3duOUp1ZEpLOXFpaXNkYWZWdVZR?oc=5",
+     "sentiment": "neutral"
+    }
+   ],
+   "sentiment_summary": "Mixed/neutral coverage (10 articles)",
+   "confidence": 0.5
+  },
+  "legislative": {
+   "bills_introduced": 0,
+   "bills_passed": 0,
+   "private_member_bills": 0,
+   "zero_hour_mentions": 0,
+   "special_mentions": 0,
+   "confidence": 0.0,
+   "sources": []
+  },
+  "constituency_context": {
+   "population": null,
+   "literacy_rate": null,
+   "urban_percentage": null,
+   "district": ""
+  },
+  "voting_analysis": {
+   "total_votes": 0,
+   "votes_with_party": 0,
+   "votes_against_party": 0,
+   "abstentions": 0,
+   "absences": 0,
+   "party_loyalty_pct": null,
+   "cross_party_votes": [],
+   "key_bills_missed": [],
+   "confidence": 0.0
+  },
+  "question_quality": {
+   "total_questions": 53,
+   "starred_questions": 15,
+   "unstarred_questions": 38,
+   "short_notice_questions": 0,
+   "unique_topics": 0,
+   "constituency_relevant": 0,
+   "follow_up_rate": 0.0,
+   "quality_score": 100.0,
+   "confidence": 0.6
+  },
+  "conflict_of_interest": {
+   "mp_businesses": [],
+   "committee_sectors": [],
+   "question_sectors": [],
+   "overlaps": [],
+   "severity": "none",
+   "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
+   "confidence": 0.0
+  },
+  "attendance_pattern": {
+   "overall_pct": 75.0,
+   "session_breakdown": {},
+   "consecutive_absences": 0,
+   "attended_key_debates": true,
+   "zero_hour_presence": null,
+   "pattern_label": "Moderate",
+   "confidence": 0.7
+  },
+  "mgnrega": {
+   "employment_days_generated": null,
+   "total_expenditure": null,
+   "works_completed": null,
+   "works_in_progress": null,
+   "avg_wage_per_day": null,
+   "financial_year": "",
+   "confidence": 0.0,
+   "sources": []
+  },
+  "pm_kisan": {
+   "total_beneficiaries": null,
+   "amount_disbursed": null,
+   "installment_number": null,
+   "financial_year": "",
+   "confidence": 0.0,
+   "sources": []
+  }
+ },
+ "overall_confidence": 0.56,
+ "flags": [
+  {
+   "field": "mplads",
+   "issue": "Extremely low utilization rate — verify data",
+   "severity": "warning",
+   "suggestion": ""
+  },
+  {
+   "field": "committees",
+   "issue": "No committee data found — Sansad profile may be unavailable",
+   "severity": "info",
+   "suggestion": ""
+  },
+  {
+   "field": "legislative",
+   "issue": "Low confidence in legislative effectiveness data",
+   "severity": "info",
+   "suggestion": ""
+  },
+  {
+   "field": "evidence_quality",
+   "issue": "Majority of data sources (3/4) are Grade D or E",
+   "severity": "info",
+   "suggestion": ""
+  },
+  {
+   "field": "mplads",
+   "issue": "CAG audit context for West Bengal: 7 relevant findings",
+   "severity": "info",
+   "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
+  }
+ ],
+ "cross_reference_notes": "No criminal cases declared. Declared assets: Rs 19,356,558. MPLADS utilization: 4.0%. Parliament attendance: 75.0%. Questions asked: 53. Debates participated: 5. 1 warning(s) noted.",
+ "validated_at": "2026-09-18T06:38:49.814704Z"
 }

@@ -1,6 +1,6 @@
 # MP Transparency Leaderboard — Karnataka
 
-*Generated: 2026-09-14 10:29 UTC | Methodology v3.2 | 41 MPs*
+*Generated: 2026-09-18 06:38 UTC | Methodology v3.2 | 41 MPs*
 
 | Rank | House | MP Name | Constituency | Party | Score | Confidence | Key Finding |
 |------|-------|---------|-------------|-------|-------|------------|-------------|
