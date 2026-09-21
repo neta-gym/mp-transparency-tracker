@@ -1,6 +1,6 @@
 # MP Transparency Leaderboard — Dadra-And-Nagar-Haveli-And-Daman-And-Diu
 
-*Generated: 2026-09-18 06:38 UTC | Methodology v3.2 | 2 MPs*
+*Generated: 2026-09-21 10:40 UTC | Methodology v3.2 | 2 MPs*
 
 | Rank | House | MP Name | Constituency | Party | Score | Confidence | Key Finding |
 |------|-------|---------|-------------|-------|-------|------------|-------------|

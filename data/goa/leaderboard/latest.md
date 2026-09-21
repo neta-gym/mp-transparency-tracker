@@ -1,6 +1,6 @@
 # MP Transparency Leaderboard — Goa
 
-*Generated: 2026-09-18 06:38 UTC | Methodology v3.2 | 3 MPs*
+*Generated: 2026-09-21 10:40 UTC | Methodology v3.2 | 3 MPs*
 
 | Rank | House | MP Name | Constituency | Party | Score | Confidence | Key Finding |
 |------|-------|---------|-------------|-------|-------|------------|-------------|

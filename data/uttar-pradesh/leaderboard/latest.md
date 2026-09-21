@@ -1,6 +1,6 @@
 # MP Transparency Leaderboard — Uttar-Pradesh
 
-*Generated: 2026-09-18 06:38 UTC | Methodology v3.2 | 111 MPs*
+*Generated: 2026-09-21 10:40 UTC | Methodology v3.2 | 111 MPs*
 
 | Rank | House | MP Name | Constituency | Party | Score | Confidence | Key Finding |
 |------|-------|---------|-------------|-------|-------|------------|-------------|

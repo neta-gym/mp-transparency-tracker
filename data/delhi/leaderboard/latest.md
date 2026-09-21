@@ -1,6 +1,6 @@
 # MP Transparency Leaderboard — Delhi
 
-*Generated: 2026-09-18 06:38 UTC | Methodology v3.2 | 10 MPs*
+*Generated: 2026-09-21 10:40 UTC | Methodology v3.2 | 10 MPs*
 
 | Rank | House | MP Name | Constituency | Party | Score | Confidence | Key Finding |
 |------|-------|---------|-------------|-------|-------|------------|-------------|

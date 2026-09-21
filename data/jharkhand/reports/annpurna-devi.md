@@ -6,7 +6,7 @@
 **Age:** 55
 **Education:** Post Graduate
 **Profession:** Politics, Social Worker, State Education Minister Indian Govt
-**Report Date:** 2026-09-18
+**Report Date:** 2026-09-21
 **Data Confidence:** Medium (50%) | **Evidence Grade:** Third-party (C)
 
 ---
@@ -169,7 +169,7 @@ Has 2 criminal case(s) (0 serious), 1 pending, 1 conviction(s). Declared assets:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 18/09/2026
+Date: 21/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
