@@ -1,6 +1,6 @@
 # MP Transparency Leaderboard — Gujarat
 
-*Generated: 2026-09-21 10:40 UTC | Methodology v3.2 | 37 MPs*
+*Generated: 2026-09-28 14:45 UTC | Methodology v3.2 | 37 MPs*
 
 | Rank | House | MP Name | Constituency | Party | Score | Confidence | Key Finding |
 |------|-------|---------|-------------|-------|-------|------------|-------------|

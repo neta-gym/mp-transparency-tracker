@@ -4,7 +4,7 @@
 **Party:** Bharat Rashtra Samithi
 **House:** Rajya Sabha (18th Parliament, 2024-present)
 **Age:** 64
-**Report Date:** 2026-09-21
+**Report Date:** 2026-09-28
 **Data Confidence:** Medium (50%) | **Evidence Grade:** LLM/Estimated (E)
 
 ---
@@ -119,7 +119,7 @@ Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Declared assets:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/09/2026
+Date: 28/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,

@@ -4,7 +4,7 @@
 **Party:** Dravida Munnetra Kazhagam
 **House:** Rajya Sabha (18th Parliament, 2024-present)
 **Age:** 58
-**Report Date:** 2026-09-21
+**Report Date:** 2026-09-28
 **Data Confidence:** Medium (50%) | **Evidence Grade:** LLM/Estimated (E)
 
 ---
@@ -107,7 +107,7 @@ No criminal cases declared. Declared assets: Rs 82,620,796. Parliament attendanc
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/09/2026
+Date: 28/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,

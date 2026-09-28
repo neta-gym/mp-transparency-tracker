@@ -3,7 +3,7 @@
 **Constituency:** Firozabad, Uttar Pradesh
 **Party:** Samajwadi Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-09-21
+**Report Date:** 2026-09-28
 **Data Confidence:** Medium (50%) | **Evidence Grade:** Secondary (D)
 
 ---
@@ -147,7 +147,7 @@ No criminal cases declared. Declared assets: Rs 91,161,885. MPLADS utilization: 
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/09/2026
+Date: 28/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,

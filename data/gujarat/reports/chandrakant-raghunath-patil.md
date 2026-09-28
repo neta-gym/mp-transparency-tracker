@@ -3,7 +3,7 @@
 **Constituency:** Navsari, Gujarat
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-09-21
+**Report Date:** 2026-09-28
 **Data Confidence:** Low (43%) | **Evidence Grade:** Secondary (D)
 
 ---
@@ -148,7 +148,7 @@ No criminal cases declared. Declared assets: Rs 394,930,044. MPLADS utilization:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/09/2026
+Date: 28/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,

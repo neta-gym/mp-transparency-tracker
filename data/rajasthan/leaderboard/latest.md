@@ -1,6 +1,6 @@
 # MP Transparency Leaderboard — Rajasthan
 
-*Generated: 2026-09-21 10:40 UTC | Methodology v3.2 | 35 MPs*
+*Generated: 2026-09-28 14:45 UTC | Methodology v3.2 | 35 MPs*
 
 | Rank | House | MP Name | Constituency | Party | Score | Confidence | Key Finding |
 |------|-------|---------|-------------|-------|-------|------------|-------------|

@@ -4,7 +4,7 @@
 **Party:** Independent & Others
 **House:** Rajya Sabha (18th Parliament, 2024-present)
 **Age:** 41
-**Report Date:** 2026-09-21
+**Report Date:** 2026-09-28
 **Data Confidence:** Medium (50%) | **Evidence Grade:** LLM/Estimated (E)
 
 ---
@@ -117,7 +117,7 @@ Has 3 criminal case(s) (0 serious), 0 pending, 3 conviction(s). Declared assets:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 21/09/2026
+Date: 28/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,

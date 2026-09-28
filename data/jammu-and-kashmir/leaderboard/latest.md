@@ -1,6 +1,6 @@
 # MP Transparency Leaderboard — Jammu-And-Kashmir
 
-*Generated: 2026-09-21 10:40 UTC | Methodology v3.2 | 9 MPs*
+*Generated: 2026-09-28 14:45 UTC | Methodology v3.2 | 9 MPs*
 
 | Rank | House | MP Name | Constituency | Party | Score | Confidence | Key Finding |
 |------|-------|---------|-------------|-------|-------|------------|-------------|
